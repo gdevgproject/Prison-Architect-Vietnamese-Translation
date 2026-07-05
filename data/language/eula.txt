@@ -1,0 +1,138 @@
+END USER LICENSE AGREEMENT 
+
+Last updated 2016-11-08
+
+# IMPORTANT, PLEASE READ CAREFULLY
+
+BẰNG CÁCH THÁO BỎ LỚP MÀNG BỌC CO GIÃN VÀ/HOẶC TEM NIÊM PHONG VỎ ĐĨA HOẶC TẢI XUỐNG, CÀI ĐẶT, HAY SỬ DỤNG TRÒ CHƠI NÀY, BẠN ĐỒNG Ý CHỊU SỰ RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SAU ĐÂY:
+
+Thỏa thuận cấp phép người dùng cuối (“EULA”) này là một thỏa thuận pháp lý giữa bạn (sau đây gọi là “bạn”, hoặc “Người dùng cuối”) và Paradox Interactive AB (“Paradox”) đối với sản phẩm phần mềm đi kèm với EULA này, tất cả các phần mềm liên quan (như công cụ chỉnh sửa) và tất cả nội dung trong trò chơi, bất kỳ bản cập nhật hoặc nội dung bổ sung nào (như bản vá, nội dung tải xuống (“DLC”) và bản mở rộng), hướng dẫn sử dụng và các tài liệu khác dưới bất kỳ phương tiện nào liên quan đến phần mềm, bao gồm cả mã chữ và số duy nhất dùng để tải xuống sản phẩm phần mềm có thể được cung cấp cho bạn cùng với sản phẩm phần mềm hoặc gửi cho bạn qua phương thức điện tử (tất cả được gọi chung là “Trò chơi”). Nếu bạn không đồng ý với các điều khoản của EULA này, vui lòng không cài đặt hoặc sử dụng Trò chơi, thay vào đó hãy liên hệ với nhà bán lẻ của bạn để biết chính sách hoàn trả.
+
+Trò chơi này được cấp phép, không phải bán cho bạn, và chỉ được sử dụng theo các điều khoản và điều kiện của EULA này. Tất cả các quyền không được cấp rõ ràng trong đây đều được Paradox bảo lưu.
+
+Bạn đồng ý rằng việc bạn sử dụng Trò chơi là sự xác nhận rằng bạn đã đọc EULA này, hiểu nó và đồng ý bị ràng buộc bởi các điều khoản và điều kiện của thỏa thuận, bao gồm các quy định tại Mục 5 về thu thập thông tin, và rằng bạn tuyên bố và đảm bảo rằng bạn là người trưởng thành và đang tự mình chấp nhận EULA này hoặc thay mặt cho con cái hoặc người được giám hộ của bạn, tùy từng trường hợp. Nếu bạn chưa đạt độ tuổi thành niên, bạn phải xin phép dưới hình thức mà pháp luật yêu cầu từ cha mẹ hoặc người đại diện hợp pháp khác của bạn.
+
+# This      EULA    incorporates   by        reference        Paradox’s        Privacy            Policy (https://www.paradoxplaza.com/privacy) and      Paradox’s        Mod    Policy
+
+(https://www.paradoxplaza.com/mod-policy-en). Bằng cách chấp nhận EULA này, bạn đồng thời chấp nhận các điều khoản của Chính sách Quyền riêng tư và Chính sách Mod.
+
+Use      of         this      Game may     require            you      to         create a          Paradox          Account (www  https://accounts.paradoxplaza.com/profile/new) in order to play it. Nếu vậy, bạn sẽ được yêu cầu tạo một tài khoản khi bắt đầu hoặc chơi Trò chơi. Việc tạo tài khoản Paradox sẽ yêu cầu bạn chấp nhận Điều khoản Sử dụng của chúng tôi (https://www.paradoxplaza.com/termsuse) và Quy tắc Ứng xử (https://www.paradoxplaza.com/rules\_conduct).
+
+Việc sử dụng Trò chơi này có thể yêu cầu bạn tải xuống và sử dụng một nền tảng của bên thứ ba riêng biệt (như Steam hoặc GOG Galaxy) theo các điều khoản và điều kiện được áp dụng bởi chủ sở hữu nền tảng của bên thứ ba đó. Các điều khoản và điều kiện đó có thể hạn chế hoặc không hạn chế bất kỳ quyền nào được cấp cho bạn liên quan đến Trò chơi theo EULA này.
+
+1\. Cấp phép.
+
+TRÒ CHƠI NÀY ĐƯỢC CẤP PHÉP CHO BẠN, KHÔNG PHẢI BÁN. Quyền sở hữu đối với Trò chơi và tất cả các quyền sở hữu trí tuệ trong và đối với Trò chơi luôn thuộc về Paradox và, khi áp dụng, thuộc về các bên cấp phép của Paradox.
+
+Tuân thủ theo sự chấp hành các điều khoản và điều kiện của Thỏa thuận từ phía bạn, Paradox theo đây cấp cho bạn quyền và giấy phép không độc quyền, không thể chuyển nhượng, giới hạn, có thể thu hồi hoàn toàn để cài đặt, truy cập và sử dụng (và cho phép các thành viên trong gia đình hoặc hộ gia đình của bạn sử dụng) Trò chơi trên máy tính cá nhân của bạn, hoàn toàn chỉ cho các mục đích phi thương mại. Bạn có thể cài đặt Trò chơi trên các máy tính khác nhau, nhưng chỉ có thể chạy Trò chơi trên một máy tính tại một thời điểm. 
+
+# 2. Sử dụng được phép
+
+Ngoài việc cài đặt và chơi Trò chơi trên máy tính cá nhân của bạn, bạn cũng có thể, theo các điều khoản của EULA này:
+
+i)  Tạo và chia sẻ công khai các video được gọi là “Video Let’s Play” có chứa hình ảnh và âm thanh của Trò chơi thông qua các kênh truyền thông xã hội như Twitch.tv và Youtube.com, cho dù có kiếm tiền hay không. Nhạc nền chỉ có thể được chia sẻ công khai trong khuôn khổ của một Video Let’s Play. Đối với bất kỳ Video Let's Play nào, thông báo bản quyền sau đây phải được hiển thị rõ ràng:
+
+“Game © Paradox Interactive AB www.paradoxplaza.com.” Nếu sử dụng nhạc nền từ Trò chơi, nghệ sĩ và/hoặc nhà soạn nhạc của mỗi bản nhạc nền cũng phải được ghi nguồn. Phạm vi của sự cho phép này có thể thay đổi tùy từng thời điểm và có thể bị thu hồi theo quyết định riêng của Paradox. Một số bản nhạc nền cũng có thể được miễn trừ khỏi hình thức sử dụng được phép này. Để xem quy định đầy đủ về Video Let’s Play, vui lòng tham khảo https://www.paradoxplaza.com/lets-play-policy; ii)  Chỉ vì mục đích giải trí cá nhân của bạn và của người khác, bạn có thể tạo, phân phối và công bố các bản sửa đổi do người dùng tạo, thường được gọi là “user mods” cho Trò chơi. Bạn không được phân phối Trò chơi cùng với user mod và không được phép để người dùng khác truy cập vào bất kỳ nội dung Trò chơi trả phí nào (chẳng hạn như DLC hoặc bản mở rộng) mà người dùng cuối đó không có quyền truy cập. Hơn nữa, các user mod đó không được vi phạm bất kỳ quyền nào của bên thứ ba, chẳng hạn như quyền sở hữu trí tuệ hoặc bất kỳ quyền riêng tư hay quyền nhân thân nào. Không được phép tính phí đối với người dùng cuối khác hoặc nhận tiền quyên góp cho các user mod. Phạm vi của sự cho phép này có thể thay đổi tùy từng thời điểm và có thể bị thu hồi theo quyết định riêng của Paradox. Để xem quy định đầy đủ về user mod, vui lòng tham khảo https://www.paradoxplaza.com/mod-policy-en; and
+
+iii)  Tạo các bản sao của Trò chơi khi cần thiết cho mục đích sao lưu và lưu trữ.
+
+# 3. Sử dụng bị cấm
+
+Trừ khi được quy định khác trong EULA này, bạn không được
+
+ i)  Xóa bỏ hoặc thay đổi bất kỳ thông báo bản quyền hoặc nhãn hiệu nào trên bất kỳ và tất cả các bản sao của
+
+Trò chơi; ii)  Sao chép, cho thuê, cho mượn, cho thuê lại, cấp phép phụ hoặc phân phối Trò chơi trái với những gì có thể được cho phép theo luật hiện hành;
+
+iii) Xóa bỏ, vô hiệu hóa hoặc lách bất kỳ biện pháp bảo vệ an ninh nào như quản lý quyền kỹ thuật số, thông báo độc quyền hoặc nhãn hiệu có trên hoặc bên trong Trò chơi; 
+
+iv) Sửa đổi, tùy biến, dịch, thiết kế ngược, trích xuất mã nguồn, tháo rời, biên dịch ngược hoặc tạo các tác phẩm phái sinh của Trò chơi, trái với những gì có thể được cho phép theo luật hiện hành;
+
+v) Sử dụng, phát triển, phân phối hoặc bán phần mềm gian lận (cheats), phần mềm tự động hóa (bots), phần mềm can thiệp (hacks) hoặc bất kỳ phần mềm trái phép nào của bên thứ ba được thiết kế để sửa đổi Trò chơi; 
+
+vi) Khai thác Trò chơi hoặc bất kỳ phần nào của nó cho bất kỳ mục đích thương mại nào, bao gồm nhưng không giới hạn: (a) sử dụng tại quán cà phê internet, trung tâm chơi game trên máy tính hoặc bất kỳ địa điểm kinh doanh nào khác và/hoặc (b) thực hiện các dịch vụ trong trò chơi để đổi lấy khoản thanh toán bên ngoài Trò chơi, ví dụ: cày cấp thuê; or
+
+vii) Hoặc sử dụng Trò chơi theo cách không tuân thủ tất cả các luật hiện hành.
+
+# 4. Nội dung do người dùng tạo
+
+Một số Trò chơi của Paradox cho phép bạn tạo và chia sẻ với người dùng khác các nội dung do chính bạn tạo ra (“Nội dung do người dùng tạo” hoặc “UGC”). Bạn theo đây cấp cho Paradox và các chi nhánh của công ty một quyền không độc quyền, không thể hủy bỏ, miễn tiền bản quyền, có thể cấp phép phụ, vĩnh viễn để sử dụng, sao chép, sửa đổi, tạo tác phẩm phái sinh từ, phân phối, truyền tải, phát sóng và các hình thức truyền thông khác, hiển thị công khai và biểu diễn công khai UGC của bạn, cùng các tác phẩm phái sinh từ UGC của bạn, liên quan đến việc vận hành và quảng bá Trò chơi. 
+
+Paradox không có nghĩa vụ phải sử dụng, phân phối hoặc tiếp tục phân phối UGC, và bạn hiểu rằng Paradox có thể hạn chế, hoặc gỡ bỏ UGC của bạn vì bất kỳ lý do gì.
+
+Bạn tuyên bố và đảm bảo rằng UGC, và việc bạn cấp quyền đối với UGC đó, không vi phạm bất kỳ hợp đồng, luật pháp hoặc quy định hiện hành nào, và UGC là tác phẩm gốc của bạn, không vi phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba nào hay bất kỳ quyền nào khác. 
+
+Paradox đặc biệt từ chối mọi trách nhiệm pháp lý liên quan đến Nội dung do người dùng tạo.
+
+Bất kỳ ai tin rằng tác phẩm gốc của họ đã bị sao chép dưới dạng UGC thông qua một trong những Trò chơi của chúng tôi theo cách cấu thành hành vi vi phạm bản quyền có thể thông báo cho chúng tôi bằng cách gửi email tới support@paradoxplaza.com.
+
+# 5. Thu thập thông tin
+
+Paradox có thể thu thập thông tin từ bạn khi bạn sử dụng Trò chơi. Các thông tin đó bao gồm SteamID, cấu hình máy tính, hành vi và tiến trình chơi game, loại trình duyệt, loại nền tảng và cách sử dụng phần mềm của bạn. Thông tin này được thu thập định kỳ để tạo điều kiện cung cấp các bản cập nhật phần mềm, hỗ trợ sản phẩm và các dịch vụ khác liên quan đến Trò chơi. 
+
+Paradox có thể sử dụng bất kỳ thông tin nào được thu thập để cải thiện các sản phẩm của mình, quản trị Trò chơi, phân tích xu hướng hoặc để cung cấp dịch vụ cho bạn. Ngoài ra, Paradox có thể sử dụng thông tin này cho mục đích nghiên cứu, phát triển, quản trị, hỗ trợ và tiếp thị các sản phẩm và dịch vụ của Paradox.  Để biết thêm thông tin, vui lòng tham khảo Chính sách Quyền riêng tư của Paradox tại https://www.paradoxplaza.com/privacy.
+
+# 6. Dịch vụ hỗ trợ
+
+Đôi khi, theo quyết định riêng của Paradox, Paradox có thể cung cấp cho bạn các dịch vụ hỗ trợ kỹ thuật và quản lý cộng đồng liên quan đến Trò chơi (“Dịch vụ hỗ trợ”).  Paradox có quyền thay đổi, đình chỉ và chấm dứt Dịch vụ hỗ trợ bất kỳ lúc nào và vì bất kỳ lý do gì.  Bạn có thể liên hệ với Paradox để nhận Dịch vụ hỗ trợ qua support@paradoxplaza.com hoặc www.paradoxplaza.com/support. 
+
+# 7. Các bản vá, Cập nhật và Thay đổi
+
+Bạn thừa nhận và chấp nhận rằng tùy từng thời điểm, Paradox có thể vá hoặc cập nhật Trò chơi nhằm mục đích giải quyết các lỗi phần mềm hoặc các vấn đề khác, cân bằng lại Trò chơi hoặc thêm và/hoặc loại bỏ các tính năng trong Trò chơi.
+
+# 8. Chấm dứt
+
+Giấy phép này có hiệu lực cho đến khi bị chấm dứt.  
+
+Bạn có thể chấm dứt thỏa thuận này bất kỳ lúc nào bằng cách tiêu hủy Trò chơi cùng tất cả các bản sao, dù là toàn bộ hay một phần, và gỡ bỏ tất cả các bộ phận cấu thành của nó.
+
+Không ảnh hưởng đến bất kỳ quyền nào khác, Paradox có thể chấm dứt EULA này nếu bạn không tuân thủ các điều khoản và điều kiện của EULA này. Khi đó, bạn phải ngừng hoàn toàn việc sử dụng Trò chơi và tiêu hủy tất cả các bản sao, bản sửa đổi, tài liệu in hoặc tài liệu viết, và các phần được tích hợp dưới bất kỳ hình thức nào, đồng thời gỡ bỏ tất cả các bộ phận cấu thành của Trò chơi đã được tải xuống thiết bị của bạn.
+
+# 9. Bảo hành giới hạn
+
+Bảo hành giới hạn này là phần bổ sung và không làm ảnh hưởng đến các quyền theo luật định của bạn vốn không thể bị loại trừ hoặc giới hạn dưới bất kỳ hình thức nào theo luật hiện hành.
+
+Paradox đảm bảo rằng Trò chơi sẽ cung cấp các tính năng và chức năng được mô tả chung trong thông số kỹ thuật sản phẩm trên [www.paradoxplaza.com] [] tại thời điểm bạn mua và trong tài liệu sản phẩm. 
+
+PARADOX KHÔNG ĐẢM BẢO RẰNG TRÒ CHƠI HOẶC KHẢ NĂNG BẠN SỬ DỤNG TRÒ CHƠI SẼ
+
+KHÔNG BỊ GIÁN ĐOẠN HOẶC KHÔNG BỊ LỖI. TRONG PHẠM VI LUẬT PHÁP HIỆN HÀNH CHO PHÉP, CHÚNG TÔI TỪ CHỐI MỌI BẢO ĐẢM NGỤ Ý VỀ KHẢ NĂNG THƯƠNG MẠI HOẶC SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ.
+
+# 10. Giới hạn trách nhiệm pháp lý
+
+Trong phạm vi tối đa mà luật pháp hiện hành cho phép, trong bất kỳ trường hợp nào Paradox, các chi nhánh hoặc bên nhận cấp phép của Paradox, sẽ không chịu trách nhiệm đối với bất kỳ thiệt hại đặc biệt, ngẫu nhiên, gián tiếp hoặc mang tính hậu quả nào (bao gồm, nhưng không giới hạn, các thiệt hại do mất lợi nhuận kinh doanh, gián đoạn kinh doanh, mất thông tin kinh doanh hoặc bất kỳ tổn thất tài chính nào khác) phát sinh từ việc sử dụng hoặc không thể sử dụng Trò chơi hoặc lỗi do Trò chơi gây ra, bao gồm nhưng không giới hạn ở việc làm tổn hại đến tính bảo mật của thiết bị mà bạn đang chạy Trò chơi, hệ điều hành hoặc các tệp tin, hoặc việc cung cấp hay không cung cấp Dịch vụ hỗ trợ, ngay cả khi Paradox đã được thông báo về khả năng xảy ra các thiệt hại đó. 
+
+Không có điều khoản nào trong EULA này giới hạn trách nhiệm của chúng tôi đối với bạn trong trường hợp tử vong hoặc thương tích cá nhân do sơ suất nghiêm trọng, gian lận hoặc cố ý trình bày sai lệch từ phía chúng tôi.
+
+# 11. Luật điều chỉnh
+
+Bạn đồng ý rằng EULA này sẽ được coi là đã được lập và thực thi tại Thụy Điển và bất kỳ tranh chấp nào phát sinh theo EULA này sẽ được giải quyết theo luật pháp của Thụy Điển, loại trừ các nguyên tắc xung đột pháp luật và Công ước về Hợp đồng Mua bán Hàng hóa Quốc tế.
+
+# 12. Giải quyết tranh chấp
+
+Hầu hết các mối quan ngại liên quan đến EULA này hoặc Trò chơi (“Tranh chấp”) đều có thể được giải quyết bằng cách liên hệ với Paradox tại www.paradoxplaza.com/support. Do đó, bạn đồng ý trước tiên sẽ cố gắng đàm phán không chính thức bất kỳ Tranh chấp nào với Paradox trong ít nhất ba mươi (30) ngày trước khi khởi xướng bất kỳ thủ tục tố tụng nào tại tòa án. Nếu Tranh chấp không được giải quyết bằng đàm phán không chính thức, bạn đồng ý, trong phạm vi được pháp luật hiện hành cho phép, chịu sự xét xử theo thẩm quyền đối nhân và chủ thể độc quyền của các tòa án đặt tại Stockholm, Thụy Điển, để giải quyết bất kỳ khiếu nại nào như vậy, và theo đây từ bỏ bất kỳ quyền nào được tham gia vào bất kỳ loại vụ kiện nào được khởi xướng và/hoặc duy trì dưới dạng một vụ kiện tập thể hoặc mang bản chất tương tự như một vụ kiện tập thể.
+
+# 13. Cập nhật các điều khoản này
+
+Chúng tôi có thể sửa đổi EULA này tùy từng thời điểm bằng cách đăng một thông báo rõ ràng trên trang web của chúng tôi.. Việc bạn tiếp tục sử dụng Trò chơi sau khi các thay đổi được đăng tải đồng nghĩa với việc bạn đồng ý bị ràng buộc về mặt pháp lý bởi EULA đã được cập nhật và sửa đổi.
+
+# 14. Tính hiệu lực từng phần
+
+Nếu vì bất kỳ lý do gì, một tòa án có thẩm quyền xét xử phán quyết rằng bất kỳ điều khoản nào, hoặc một phần của điều khoản đó, của EULA này là không thể thực thi, thì phần còn lại của EULA này sẽ tiếp tục có hiệu lực thi hành đầy đủ.  
+
+# 15. Liên hệ với chúng tôi
+
+Nếu bạn có câu hỏi liên quan đến EULA này, hoặc muốn gửi phản hồi cho chúng tôi về nó, vui lòng liên hệ với chúng tôi tại www.paradoxplaza.com/support.
+
+EULA NÀY CHỈ ĐƯỢC ÁP DỤNG TRONG PHẠM VI ĐƯỢC PHÁP LUẬT CHO PHÉP, ĐẶC BIỆT LÀ LUẬT BẢO VỆ NGƯỜI TIÊU DÙNG.
+
+# Paradox Interactive AB
+
+Västgötagatan 5
+
+118 27 Stockholm
+
+SWEDEN
+
+[www.paradoxplaza.com]: http://www.paradoxplaza.com/
+[]: http://www.paradoxplaza.com/
