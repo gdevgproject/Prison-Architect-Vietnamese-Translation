@@ -1,57 +1,60 @@
-# Prison Architect Vietnamese Translation Mod (Full Game Language Pack)
+# Prison Architect Vietnamese Translation
 
-[![Prison Architect Vietnamese Mod](https://img.shields.io/badge/Prison_Architect-Vietnamese-brightgreen.svg)](https://github.com/gdevgproject/Prison-Architect-Vietnamese-Translation)
-[![Game Version](https://img.shields.io/badge/Game_Version-The_Sunset_Update_(Default)-blue.svg)](https://store.steampowered.com/app/233450/Prison_Architect/)
+🇺🇸 **English** | [🇻🇳 **Tiếng Việt**](README.vi.md)
+
+[![Game Version](https://img.shields.io/badge/Game_Version-The_Sunset_Update-blue.svg)](https://store.steampowered.com/app/233450/Prison_Architect/)
 [![Translation Progress](https://img.shields.io/badge/Translation-100%25_Complete-success.svg)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Bản dịch tiếng Việt hoàn chỉnh **100% Full Game** dành cho tựa game mô phỏng quản lý nhà tù nổi tiếng **Prison Architect 2D** (Phiên bản Steam chính thức mới nhất). Dự án dịch thuật trọn vẹn toàn bộ nội dung cốt lõi của game, tất cả các bản mở rộng (DLCs) và các chế độ chơi.
-
----
-
-## 📌 Khớp phiên bản & Trạng thái Game (Steam)
-
-Bản dịch này được phát triển, tối ưu và kiểm thử trực tiếp trên phiên bản chính thức cuối cùng của game:
-* **Nền tảng hỗ trợ:** Steam (Windows/macOS)
-* **Nhánh hoạt động (Branch):** **Default / Public Branch** (Bản chính thức mặc định)
-* **Phiên bản cập nhật:** **The Sunset Update** (Phát hành ngày **16 tháng 5, 2023**)
-* **Đặc tính an toàn lâu dài:** Game đã kết thúc chu kỳ phát triển chính thức (**End of Development**), nghĩa là Paradox sẽ không cập nhật thêm nội dung hay thay đổi chuỗi ngôn ngữ nữa. Do đó bản dịch này sẽ **ổn định mãi mãi**, không sợ bị lỗi thời hay lỗi game khi cập nhật về sau.
+A complete **100% Vietnamese translation mod** for the popular prison management simulation game **Prison Architect 2D** on Steam. This localization project translates all core game elements, campaigns, and all DLC content.
 
 ---
 
-## 🚀 Các tính năng nổi bật (SEO Optimized)
-* **Dịch thuật 100% Full Game**:
-  * Chế độ chiến dịch cốt truyện (**Campaign Story Mode**).
-  * Hướng dẫn thiết bị cảm ứng thông tin (**Tablets Instructions**).
-  * Lịch sử phát triển và cập nhật game (**Changelogs**).
-  * **Toàn bộ 100% DLCs mở rộng**: *Island Bound, Going Green, Perfect Storm, Gangs, Undead, Future Tech Pack, Jungle Pack*, v.v.
-* **Bảo vệ biến số hệ thống**: Toàn bộ chuỗi ngôn ngữ được quét qua script QA tự động nhằm bảo vệ 100% các biến hệ thống dạng `*X`, `*Y`, `*Z`, `*Xh`, `*Ym`... Đảm bảo không bao giờ xảy ra tình trạng crash game khi chơi.
-* **Font chữ Việt hóa đồng bộ**: Vẽ mới và thay thế bộ font Latinh bằng font chữ sans-serif mượt mà, hỗ trợ đầy đủ 2402 ký tự giúp giao diện game sạch đẹp, sắc nét, không bị răng cưa hay lỗi đứt nét dấu tiếng Việt.
-* **Đóng gói tối giản**: Dễ dàng cài đặt chỉ bằng cách giải nén và sao chép.
+## 📌 Game Version & Compatibility
+
+* **Platform:** Steam (Windows & macOS)
+* **Branch:** **Default / Public Branch** (The latest official branch)
+* **Last Update:** **The Sunset Update** (Released on **May 16, 2023**)
+* **Compatibility Status:** **Stable Forever** (As the game has officially ended active development, this translation pack is immune to future game updates breaking the mod).
 
 ---
 
-## 🛠️ Hướng dẫn cài đặt (Chỉ 1 Bước)
+## 🚀 Key Features
 
-1. Tải bản mod về máy (Nút **Code** -> **Download ZIP** trên trang GitHub này).
-2. Giải nén và sao chép thư mục **`VietnameseTranslation`** dán trực tiếp vào đường dẫn mod của game:
+* **100% Complete Localization**:
+  * Core Story Campaign Mode
+  * Tablet Instructions
+  * System Changelogs
+  * **All Official Expansion Packs (DLCs)**: *Island Bound, Going Green, Perfect Storm, Gangs, Undead, Future Tech Pack, Jungle Pack*, etc.
+* **Variable & Crash Protection**: All translated strings are strictly verified by a custom QA script to keep system variables (`*X`, `*Y`, `*Z`, etc.) 100% correct, avoiding in-game crashes.
+* **Custom Bitmap Font**: Uses a rebuilt font to support all accented Vietnamese characters cleanly, eliminating clipping and rendering artifacts.
+* **Minimalist Package**: Easy installation with simple copy-pasting.
+
+---
+
+## 🛠️ Installation Instructions
+
+1. Download this mod (Click **Code** -> **Download ZIP** on this page).
+2. Extract the archive and copy the folder **`VietnameseTranslation`** into the game's local mod folder:
    ```text
    %localappdata%\Introversion\Prison Architect\mods\
    ```
-   *(Mẹo nhanh: Nhấn tổ hợp phím `Windows + R`, dán đường dẫn `%localappdata%\Introversion\Prison Architect\mods\` vào rồi bấm Enter, thư mục chứa mod của game sẽ tự động hiện ra).*
-3. Khởi động game **Prison Architect**, vào **Extras** -> **Mods**, tích chọn **Vietnamese Language Pack** của tác giả **Vu Duc Minh**, nhấn **Apply**.
-4. Vào **Settings** -> **Language** và chọn **Tieng Viet** để trải nghiệm game bằng tiếng Việt hoàn chỉnh!
+   *(Quick Tip: Press `Windows + R`, paste `%localappdata%\Introversion\Prison Architect\mods\` and hit Enter to open the directory).*
+3. Run **Prison Architect**, navigate to **Extras** -> **Mods**, tick the checkbox next to **Vietnamese Language Pack** (by author **Vu Duc Minh**), and click **Apply**.
+4. Go to **Settings** -> **Language** and select **Tieng Viet** to enjoy the game!
 
 ---
 
-## ⚠️ Lưu ý quan trọng về hiển thị (Lỗi Engine Game)
-Do một lỗi kết xuất cố hữu trong Engine của game Prison Architect đối với các ngôn ngữ đặc thù (như tiếng Việt), ký tự **`à`** (dấu huyền) và **`á`** (dấu sắc) có thể bị hiển thị hoán đổi (ngược) dấu cho nhau ở một số văn bản hiển thị trên giao diện (ví dụ: *nhà* hiển thị dấu sắc, *thoát* hiển thị dấu huyền). Các nguyên âm khác như `è/é`, `ò/ó`, `ù/ú` vẫn hiển thị đúng hoàn toàn.
-
-Đây là giới hạn kết xuất của engine game gốc đối với font bitmap và không phải lỗi dịch thuật hay lỗi file font.
+## ⚠️ Important Note (Engine Rendering Issue)
+Due to a legacy bitmap rendering issue in the original Prison Architect game engine, characters **`à`** (grave accent) and **`á`** (acute accent) might appear swapped in some UI text (e.g. *nhà* rendered with acute accent, *thoát* rendered with grave accent). Other accents (`è/é`, `ò/ó`, `ù/ú`) render perfectly. This is a game engine rendering bug and not a translation or font asset error.
 
 ---
 
-## 🤝 Thông tin tác giả & Đóng góp
-* **Tác giả chính:** Vu Duc Minh
-* **Cộng đồng đóng góp:** AI & Community
-* **Phiên bản:** 1.0 (Cập nhật ngày 06/07/2026)
-* **Bảng mã:** UTF-8 BOM chuẩn game.
+## 🤝 Authors & Credits
+* **Lead Author:** Vu Duc Minh
+* **Contributors:** AI & Community
+* **Version:** 1.0 (Updated on 06/07/2026)
+* **Encoding:** UTF-8 with BOM
+
+## 🏷️ Keywords
+Prison Architect Vietnamese, Prison Architect Việt hóa, Prison Architect Translation, Prison Architect Steam, The Sunset Update, Localization, Vietnamese Language Pack.
