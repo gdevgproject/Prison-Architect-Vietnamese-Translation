@@ -1,4 +1,4 @@
-interfacecontrol_mainmenu               Menu chính
+﻿interfacecontrol_mainmenu               Menu chính
 interfacecontrol_mainmenu_tooltip       Bật/tắt menu chính (Tạo mới/Tải/Lưu game v.v.)
 
 object_firemen_hosehelp                 Nhấp và giữ để di chuyển. Nhấp và giữ vào ngọn lửa để tự hướng vòi rồng.
