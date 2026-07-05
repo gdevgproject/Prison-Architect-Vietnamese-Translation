@@ -1,0 +1,1500 @@
+# June27th Update
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_viewchangelog									Nhật ký thay đổi đầy đủ
+codex_legal											Pháp lý
+codex_privacy										Quyền riêng tư
+codex_terms-of-use									Điều khoản sử dụng
+codex_eula											Thỏa thuận cấp phép người dùng cuối
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+													
+interfacemode_wallsanddoors                         Tường & Cửa
+interfacemode_flooring								Lát sàn
+tunnelsearch_underway								ĐANG TÌM KIẾM ĐƯỜNG HẦM
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_wallsanddoors					Các loại tường và cửa khác nhau
+buildtoolbar_popup_flooring							Các kiểu sàn khác nhau
+buildtoolbar_popup_spawn							Mở Menu Tạo vật thể.
+buildtoolbar_tunnelsearch							Tìm kiếm đường hầm
+
+buildtoolbar_tooltip_tunnelsearch					Nghi ngờ có âm mưu vượt ngục? Hãy ra lệnh cho lính canh kiểm tra phía sau tất cả bồn cầu.		
+
+buildtoolbar_GuardResponse							Phản ứng của lính canh	
+buildtoolbar_tooltip_GuardResponse					Khi kích hoạt, bạn có thể nhấp chuột trái vào bản đồ để gọi lính canh gần đó đến một vị trí. Nhấp càng nhiều sẽ gọi càng nhiều lính canh. Nhấp chuột phải để dừng.
+
+
+# =============================================================================
+# New Materials
+# =============================================================================
+
+
+material_NewTiledWall							Tường ốp gạch
+material_NewBarredWall							Tường có song sắt
+material_NewBBlockWall							Tường trắng
+material_NewHedgeWall							Hàng rào cây bụi
+material_NewIronFloor							Sàn sắt
+material_NewCargoFloor							Sàn kho hàng
+material_NewCheckeredFloor						Sàn ca-rô
+material_Snow									Tuyết
+
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+double_click_select_desc							Nhấp đúp chuột trái để theo dõi *E này
+
+quickbuild_intermediatecell							Phòng giam cải tiến
+quickbuild_holdingcell								Phòng tập trung
+quickbuild_medical									Y tế
+quickbuild_shop										Cửa hàng
+quickbuild_shower									Phòng tắm vòi sen
+quickbuild_staffroom								Phòng nhân viên
+quickbuild_workshop									Xưởng lao động
+
+# =============================================================================
+# Main Menu
+# =============================================================================
+
+mm_updatenotes_Date								27 tháng 6 năm 2019
+mm_updatenotes_Header							Bản cập nhật The Clink
+mm_updatenotes_01								Đã thêm x4 loại gạch lát sàn mới và x4 loại tường mới.
+mm_updatenotes_02								Cải thiện hiệu suất, giúp giảm thời gian tải.
+mm_updatenotes_03								Tăng số lượng quản đốc có thể thuê, dành cho các nhà tù lớn hơn nơi quản đốc cũng giảng dạy các chương trình.
+mm_updatenotes_04								Các vật thể hiện tại đã có đầy đủ các góc xoay, với các hình ảnh sprite mới được thêm vào cho các hướng còn thiếu.
+mm_updatenotes_05								Nút 'Phản ứng của lính canh' mới giúp ra lệnh cho lính canh hiện có ở gần đến một vị trí, thay vì người chơi phải thuê thêm lính canh để xử lý các vụ lộn xộn. 
+mm_updatenotes_06								Nút 'Tìm kiếm đường hầm' mới ra lệnh cho lính canh chỉ khám xét tất cả bồn cầu để tìm các đường hầm vượt ngục ẩn.  
+mm_updatenotes_07								Thêm các Phòng nhanh vào menu Xây nhanh, giúp xây dựng phòng nhanh chóng và dễ dàng hơn.
+mm_updatenotes_08								Việc theo dõi tù nhân và nhân viên trở nên dễ dàng hơn nhiều bằng cách nhấp đúp vào họ.
+mm_updatenotes_09								Tính năng di chuyển và tái định vị vật thể đã xuất hiện! Chọn và nhấp đúp vào một vật thể.
+mm_updatenotes_10								Chúng tôi hy vọng bạn sẽ thích trải nghiệm những cải tiến mới này!
+
+# =============================================================================
+# =============================================================================
+
+
+############################### SLAMMER UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_newmud									Bùn
+material_mud									Bùn
+material_yutaniwall								Tường (Yutani)
+material_solacofloor							Sàn Solaco 
+material_gratefloor								Sàn lưới sắt
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+
+object_snowyconifertree							Cây (Cây thông tuyết)
+object_palmtree									Cây (Cây cọ)
+object_plant									Cây cảnh
+object_bush										Bụi cây
+object_streetlamp								Đèn đường
+object_floodlight								Đèn (Đèn pha)
+object_bleachers								Khán đài bậc cấp
+object_smallbench								Ghế dài (Nhỏ)
+object_smalltable								Bàn (Nhỏ)
+object_showerpillar								Trụ sen tắm
+object_doorMat									Thảm chùi chân
+object_GuardPavilion							Chòi lính canh
+object_GuardPavilionCorner						Chòi lính canh (Góc)
+object_OfficeChair								Ghế (Văn phòng)
+object_visitorDoor								Cửa khách đến thăm
+object_ironingBoardShort						Bàn là (Nhỏ)
+object_fencegatestaff							Cổng hàng rào (Nhân viên)
+object_fencegatestandard						Cổng hàng rào (Tiêu chuẩn)
+object_fencegatevisitor							Cổng hàng rào (Khách đến thăm)
+object_walllight								Đèn tường
+object_securedoor								Cửa an ninh
+object_secretdoor								Cửa bí mật
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_newmud					Là bùn, và nó miễn phí!
+buildtoolbar_popup_mat_yutaniwall				Xây tường với diện mạo công nghệ cao trên nền móng để tạo ra các khu vực hoặc phòng mới. Rất hợp với sàn Kho hàng hoặc sàn Solaco.
+buildtoolbar_popup_mat_newbblockwall			Xây tường bằng gạch xỉ trên nền móng để tạo ra các khu vực hoặc phòng mới.
+buildtoolbar_popup_mat_newbarredwall			Xây các đoạn tường có song sắt trên nền móng để tạo ra các khu vực hoặc phòng mới.
+buildtoolbar_popup_mat_newtiledwall				Xây tường ốp gạch trên nền móng để tạo ra các khu vực hoặc phòng mới.
+buildtoolbar_popup_mat_newhedgewall				Hàng rào cây bụi cao nhưng yếu. Mang tính thẩm mỹ nhiều hơn là một lựa chọn an ninh nghiêm túc.
+buildtoolbar_popup_mat_solacofloor				Mang lại diện mạo công nghệ cao cho sàn nhà tù của chúng ta. Rất hợp với tường Yutani.
+buildtoolbar_popup_mat_gratefloor				Mang lại diện mạo công nghệ cao cho sàn nhà tù của chúng ta.
+buildtoolbar_popup_mat_newcargofloor			Mang lại diện mạo tùy biến đặc trưng cho sàn nhà tù của chúng ta.
+buildtoolbar_popup_mat_newironfloor				Mang lại diện mạo tùy biến đặc trưng cho nhà tù của chúng ta.
+buildtoolbar_popup_mat_newcheckeredfloor		Những thứ này có lẽ sẽ trông rất tuyệt trong Nhà bếp hoặc Nhà ăn của bạn.
+buildtoolbar_popup_mat_snow						Giống như nước, chỉ là lạnh hơn và đẹp hơn.
+buildtoolbar_popup_obj_snowyconifertree			Sẽ trông thích hợp nhất trên vùng đất phủ đầy tuyết.
+buildtoolbar_popup_obj_palmtree					Thường mọc trên vùng đất khô cằn, nhưng giờ bạn có thể quyết định trồng chúng ở bất cứ nơi nào bạn muốn.
+buildtoolbar_popup_obj_bush						Giúp trang trí thêm một chút cho các khu vực ngoài trời.
+buildtoolbar_popup_obj_streetlamp				Để thắp sáng các con đường và lối đi.
+buildtoolbar_popup_obj_floodlight				Đèn ngoài trời dáng cao có thể bao phủ các khu vực lớn như Sân sinh hoạt hoặc Phân khu lâm nghiệp.
+buildtoolbar_popup_obj_bleachers				Khán đài sân trại giam cổ điển để các nhóm tù nhân ngồi và suy tính bước đi tiếp theo của họ.
+buildtoolbar_popup_obj_smallbench				Dùng để ngồi.
+buildtoolbar_popup_obj_smalltable				Dùng để ăn uống.
+buildtoolbar_popup_obj_showerpillar				Để đặt ở giữa phòng tắm vòi sen, rồi gắn Đầu vòi sen vào mỗi bên.
+buildtoolbar_popup_obj_doorMat					Một tấm thảm chùi chân bằng cao su giá rẻ có thể trông rất hợp khi đặt trước các lối ra vào.
+buildtoolbar_popup_obj_guardPavilion			Đặt ở Sân sinh hoạt và các khu vực mở để Lính canh và Lính canh vũ trang trông chừng tù nhân của bạn.\n	Phân bổ lính canh thông qua menu Phân bổ.\n -Tăng mức độ Áp chế trong khu vực đó.\n -Lính canh được che chắn khỏi thời tiết.
+buildtoolbar_popup_obj_guardPavilionCorner		Đặt ở các góc Sân sinh hoạt và các khu vực mở để Lính canh và Lính canh vũ trang trông chừng tù nhân của bạn.\n	Phân bổ lính canh thông qua menu Phân bổ.\n -Tăng mức độ Áp chế trong khu vực đó.\n -Lính canh được che chắn khỏi thời tiết.
+buildtoolbar_popup_obj_officeChair				Ghế để nhân viên ngồi làm việc ở vị trí trung tâm tại Bàn văn phòng.
+
+buildtoolbar_popup_obj_visitorDoor				Cửa cho phép khách đến thăm nhà tù đi qua mà không cần lính canh mở cửa. Lính canh và nhân viên cũng có thể sử dụng cửa này, nhưng tù nhân thì không.
+buildtoolbar_popup_obj_ironingBoardShort		Bàn là quần áo dáng ngắn hơn.
+buildtoolbar_popup_obj_fencegatestaff			Cổng rất hợp với Hàng rào, và hoạt động giống như một chiếc cửa.
+buildtoolbar_popup_obj_fencegatestandard		Cổng rất hợp với Hàng rào, và hoạt động giống như một chiếc cửa.
+buildtoolbar_popup_obj_fencegatevisitor			Cổng rất hợp với Hàng rào, và hoạt động giống như một chiếc cửa.
+buildtoolbar_popup_obj_walllight				Đèn kiểu boong-ke để gắn trên tường.
+buildtoolbar_popup_obj_securedoor				Cửa được thiết kế cho Phòng biệt giam có khe đưa thức ăn. Lính canh phát cơm có thể đưa khay qua cửa mà không cần phải vào phòng giam.
+
+
+interfacedeployment_guards                      Phân bổ lính canh
+buildtoolbar_deployment_Guards			Phân bổ lính canh vào các phân khu trong nhà tù của bạn.	
+interfacedeployment_Dogs			Phân bổ quản khuyển
+buildtoolbar_deployment_Dogs			Phân bổ quản khuyển vào các phân khu trong nhà tù của bạn.
+interfacedeployment_ArmedGuards			Phân bổ lính canh vũ trang
+buildtoolbar_deployment_ArmedGuards		Phân bổ lính canh vũ trang vào các phân khu trong nhà tù của bạn.
+interfacedeployment_patrols                     Phân bổ lính canh
+buildtoolbar_deployment_Patrols			Phân bổ lính canh vào các tuyến tuần tra trong nhà tù của bạn.
+interfacedeployment_dogpatrols                  Phân bổ quản khuyển
+buildtoolbar_deployment_DogPatrols		Phân bổ quản khuyển vào các tuyến tuần tra trong nhà tù của bạn.
+interfacedeployment_armedpatrols                Phân bổ lính canh vũ trang
+buildtoolbar_deployment_ArmedPatrols		Phân bổ lính canh vũ trang vào các tuyến tuần tra trong nhà tù của bạn.
+
+buildtoolbar_popup_help_Guards_1        Công cụ Lính canh cho phép bạn đồn trú lính canh trong các khu vực. Một lính canh được đồn trú sẽ di chuyển ngẫu nhiên quanh khu vực được chỉ định của họ và thực hiện bất kỳ nhiệm vụ lính canh nào trong khu vực đó, chẳng hạn như mở cửa.\n\n
+buildtoolbar_popup_help_Guards_2        ~Nhấp chuột trái để tăng số lượng quản khuyển phân bổ vào một khu vực. Nhấp chuột phải để gỡ bỏ một lính canh.\n\n
+buildtoolbar_popup_help_Guards_3        ^Mẹo
+buildtoolbar_popup_help_Guards_4        - Nếu bạn đã mở khóa Quản lý chi tiết, bạn sẽ có quyền truy cập vào Lịch trình phân bổ. Điều này cho phép bạn tạo thời biểu khi nào lính canh được chỉ định cho các khu vực nhất định. Ví dụ: nếu bạn chỉ muốn lính canh được phân bổ vào Nhà ăn trong thời gian của chế độ Ăn uống, bạn có thể nhấp vào từng ô của Lịch trình khớp với chế độ Ăn uống của bạn, sau đó di chuyển thanh trượt thời gian vào ô đó và nhấp vào Nhà ăn của bạn để chỉ định lính canh.
+buildtoolbar_popup_help_Guards_5        - Bạn có tối đa 9 ô thời gian khác nhau để Lập lịch trình, cộng với chế độ Luôn hoạt động mặc định, cho phép bạn tạo ra các quy trình phân bổ phức tạp phù hợp với nhu cầu nhà tù của mình. 
+buildtoolbar_popup_help_Guards_6        - Nếu bạn không chọn ô thời gian một cách thủ công khi chỉ định quản khuyển, Lịch trình sẽ sử dụng thời gian hiện tại; hãy đảm bảo bạn đã chọn đúng thời gian khi thay đổi Phân bổ của mình!
+
+buildtoolbar_popup_help_Dogs_1        Công cụ Quản khuyển cho phép bạn đồn trú quản khuyển trong các khu vực. Một lính canh được đồn trú sẽ di chuyển ngẫu nhiên quanh khu vực được chỉ định của họ và thực hiện bất kỳ nhiệm vụ lính canh nào trong khu vực đó, chẳng hạn như mở cửa.\n\n
+buildtoolbar_popup_help_Dogs_2        ~Nhấp chuột trái để tăng số lượng quản khuyển phân bổ vào một khu vực. Nhấp chuột phải để gỡ bỏ một quản khuyển.\n\n
+buildtoolbar_popup_help_Dogs_3        ^Mẹo
+buildtoolbar_popup_help_Dogs_4        - Nếu bạn đã mở khóa Quản lý chi tiết, bạn sẽ có quyền truy cập vào Lịch trình phân bổ. Điều này cho phép bạn tạo thời biểu khi nào quản khuyển được chỉ định cho các khu vực nhất định. Ví dụ: nếu bạn chỉ muốn quản khuyển được phân bổ vào Nhà ăn trong thời gian của chế độ Ăn uống, bạn có thể nhấp vào từng ô của Lịch trình khớp với chế độ Ăn uống của bạn, sau đó di chuyển thanh trượt thời gian vào ô đó và nhấp vào Nhà ăn của bạn để chỉ định quản khuyển.
+buildtoolbar_popup_help_Dogs_5        - Bạn có tối đa 9 ô thời gian khác nhau để Lập lịch trình, cộng với chế độ Luôn hoạt động mặc định, cho phép bạn tạo ra các quy trình phân bổ phức tạp phù hợp với nhu cầu nhà tù của mình. 
+buildtoolbar_popup_help_Dogs_6        - Nếu bạn không chọn ô thời gian một cách thủ công khi chỉ định quản khuyển, Lịch trình sẽ sử dụng thời gian hiện tại; hãy đảm bảo bạn đã chọn đúng thời gian khi thay đổi Phân bổ của mình!
+
+buildtoolbar_popup_help_ArmedGuards_1        Công cụ Lính canh vũ trang cho phép bạn đồn trú lính canh vũ trang trong các khu vực. Một lính canh được đồn trú sẽ di chuyển ngẫu nhiên quanh khu vực được chỉ định của họ và thực hiện bất kỳ nhiệm vụ lính canh nào trong khu vực đó, chẳng hạn như mở cửa.\n\n
+buildtoolbar_popup_help_ArmedGuards_2        ~Nhấp chuột trái để tăng số lượng lính canh phân bổ vào một khu vực. Nhấp chuột phải để gỡ bỏ một lính canh.\n\n
+buildtoolbar_popup_help_ArmedGuards_3        ^Mẹo
+buildtoolbar_popup_help_ArmedGuards_4        - Nếu bạn đã mở khóa Quản lý chi tiết, bạn sẽ có quyền truy cập vào Lịch trình phân bổ. Điều này cho phép bạn tạo thời biểu khi nào lính canh vũ trang được chỉ định cho các khu vực nhất định. Ví dụ: nếu bạn chỉ muốn lính canh vũ trang được phân bổ vào Nhà ăn trong thời gian của chế độ Ăn uống, bạn có thể nhấp vào từng ô của Lịch trình khớp với chế độ Ăn uống của bạn, sau đó di chuyển thanh trượt thời gian vào ô đó và nhấp vào Nhà ăn của bạn để chỉ định lính canh vũ trang.
+buildtoolbar_popup_help_ArmedGuards_5        - Bạn có tối đa 9 ô thời gian khác nhau để Lập lịch trình, cộng với chế độ Luôn hoạt động mặc định, cho phép bạn tạo ra các quy trình phân bổ phức tạp phù hợp với nhu cầu nhà tù của mình. 
+buildtoolbar_popup_help_ArmedGuards_6        - Nếu bạn không chọn ô thời gian một cách thủ công khi chỉ định lính canh vũ trang, Lịch trình sẽ sử dụng thời gian hiện tại; hãy đảm bảo bạn đã chọn đúng thời gian khi thay đổi Phân bổ của mình!
+
+buildtoolbar_popup_help_Orderly_1		Hộ lý được đào tạo đặc biệt để phục vụ riêng cho các tù nhân tâm thần hình sự. \n
+buildtoolbar_popup_help_Orderly_2		Họ sở hữu các đặc điểm tương tự như lính canh và bác sĩ, nhưng họ không gây ra hiệu ứng áp chế lên tù nhân (như lính canh thông thường). \n\n
+buildtoolbar_popup_help_Orderly_3		Thuê hộ lý để chăm sóc các tù nhân tâm thần hình sự của bạn. Hộ lý sẽ:
+buildtoolbar_popup_help_Orderly_4		-Hỗ trợ tiếp nhận tù nhân tâm thần hình sự.
+buildtoolbar_popup_help_Orderly_5		-Áp giải tù nhân tâm thần hình sự đến các buổi Tư vấn Tâm thần (Chương trình).
+buildtoolbar_popup_help_Orderly_6		-Chữa trị cho các tù nhân tâm thần hình sự bị thương.
+buildtoolbar_popup_help_Orderly_7		-Tiêm thuốc an thần cho các tù nhân tâm thần hình sự trở nên bạo lực.
+buildtoolbar_popup_help_Orderly_8		-Mặc áo bó điên cho các tù nhân tâm thần hình sự điên loạn vào ban đêm.
+
+buildtoolbar_popup_help_Psychiatrist_1		Bác sĩ tâm thần cung cấp cho các tù nhân tâm thần hình sự các buổi tư vấn một-đối-một thường xuyên.\n\n
+buildtoolbar_popup_help_Psychiatrist_2		Mỗi bác sĩ cần một Phòng bác sĩ tâm thần đặc biệt.
+buildtoolbar_popup_help_Psychiatrist_3		Các buổi Tư vấn Tâm thần (Chương trình) có thể được thiết lập để các bác sĩ tâm thần điều trị cho tù nhân tâm thần hình sự.
+buildtoolbar_popup_help_Psychiatrist_4		Phòng bác sĩ tâm thần cũng có thể được nâng cấp bằng các vật phẩm mới nhằm cải thiện hiệu quả điều trị của bác sĩ.
+
+interfacedeployment_PrioritizeArea			Ưu tiên khu vực (*X)
+buildtoolbar_deployment_PrioritizeGuard		Sử dụng tùy chọn này để ưu tiên lính canh được chỉ định bao quát các phân khu cụ thể quanh nhà tù của bạn. Nếu bạn thiếu nhân viên, lính canh sẽ cố gắng bao quát các khu vực ưu tiên của bạn trước. Có hai mức ưu tiên: "Cao" (>>) và "Rất cao" (>>>).
+
+interfacedeployment_BluePatrol				Tuần tra Xanh dương
+buildtoolbar_deployment_BluePatrol			Các tuyến tuần tra được tô màu cho phép bạn xếp chồng và chỉ định lính canh riêng biệt cho chúng. Nhấp và kéo để tạo tuyến tuần tra Xanh dương. Nhấp chuột phải và kéo để xóa tuyến tuần tra Xanh dương. Sử dụng các nút Chỉ định lính canh để thêm lính canh vào tuyến tuần tra.
+
+interfacedeployment_MagentaPatrol			Tuần tra Đỏ cánh sen
+buildtoolbar_deployment_MagentaPatrol			Các tuyến tuần tra được tô màu cho phép bạn xếp chồng và chỉ định lính canh riêng biệt cho chúng. Nhấp và kéo để tạo tuyến tuần tra Đỏ cánh sen. Nhấp chuột phải và kéo để xóa tuyến tuần tra Đỏ cánh sen. Sử dụng các nút Chỉ định lính canh để thêm lính canh vào tuyến tuần tra.
+
+interfacedeployment_PrioritizePatrol			Ưu tiên tuần tra
+buildtoolbar_deployment_PrioritizePatrol		Sử dụng tùy chọn này để ưu tiên lính canh được chỉ định bao quát các tuyến tuần tra cụ thể quanh nhà tù của bạn. Nếu bạn thiếu nhân viên, lính canh sẽ cố gắng bao quát các khu vực ưu tiên của bạn trước. Có hai mức ưu tiên: "Cao" (>>) và "Rất cao" (>>>).
+
+buildtoolbar_popup_filter_title                 Danh sách bộ lọc
+buiildtoolbar_popup_filter_toggle               Nhấp vào nút để bật/tắt
+buildtoolbar_popup_filter_default               Mặc định
+buildtoolbar_popup_filter_az                    A-Z
+buildtoolbar_popup_filter_owned                 Đã sở hữu
+buildtoolbar_popup_filter_costhighlow           Giá (Cao-Thấp)
+buildtoolbar_popup_filter_costlowhigh           Giá (Thấp-Cao)
+buildtoolbar_popup_filter_indooroutdoor         Trong nhà-Ngoài trời
+buildtoolbar_popup_filter_outdoorindoor         Ngoài trời-Trong nhà
+buildtoolbar_popup_filter_quantity              Số lượng sở hữu
+buildtoolbar_popup_filter_byroom                Theo Phòng
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+double_click_move_item							NHẤP ĐÚP: Di chuyển vật thể
+
+double_click_add_door							Nhấp đúp chuột trái để thêm cửa.
+
+codex_option_bureaucracyresearched				Đề án quản lý đã nghiên cứu xong
+codex_tooltip_bureaucracyresearched				Bắt đầu một trò chơi mới với toàn bộ cây Đề án quản lý đã được nghiên cứu đầy đủ.
+
+codex_option_jungle						Mảnh đất rừng rậm
+codex_tooltip_jungle						Tạo một mảnh đất khởi đầu trông như một khu rừng rậm rạp.
+
+codex_option_snowy						Mảnh đất phủ tuyết
+codex_tooltip_snowy						Tạo một mảnh đất khởi đầu phủ đầy tuyết.
+
+codex_option_default						Mặc định
+codex_option_plotType						Loại mảnh đất
+codex_tooltip_plotType						Điều này sẽ cho phép bạn tạo một mảnh đất khởi đầu cụ thể. Mặc định sẽ có đất và cỏ, Rừng rậm giống như một khu rừng rậm rạp, Phủ tuyết sẽ được bao phủ bởi tuyết, Sa mạc sẽ là một sa mạc cát, Mặt trăng tương tự như bề mặt mặt trăng, Đảo sẽ được bao quanh bởi nước và sẽ sử dụng bến tàu thay vì đường bộ, và Đảo kết nối sẽ được bao quanh bởi nước với một cây cầu kết nối vào đường bộ.
+
+# =============================================================================
+# Misc
+# =============================================================================
+action_WashSmall								Đang giặt
+
+
+plant_tree_location								Trồng cây ở *X
+
+report_intake_cat_SuperMax							Siêu an ninh
+
+interface_undo							Hoàn tác
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_save_failed                               Lưu nhà tù thất bại.
+codex_changelog_next                            Tiếp theo >
+codex_changelog_prev                            < Trước đó
+codex_credits                                   Danh sách đóng góp
+
+codex_options_screenshotmode					Chế độ chụp ảnh màn hình
+codex_tooltip_screenshotmode					Khi ở Chế độ chụp ảnh màn hình, giữ PHÍM [*K] và nhấn [*E] để tắt/bật TOÀN BỘ giao diện (UI) và HUD
+codex_sso_content_message						Bạn đã đăng ký thành công Tài khoản Paradox.\n\nĐể cảm ơn bạn, các tháp Chòi lính canh mới hiện đã được mở khóa trong trò chơi! Hãy tìm chúng trong menu Vật thể.
+codex_options_borderless_windowed               Không viền
+codex_options_monitor                           Màn hình
+
+############################### PSYCH WARD UPDATE ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+material_artdecowall							Tường (Art Deco)
+material_blueWall								Tường sang trọng (Sọc xanh dương)
+material_burgundyWall							Tường sang trọng (Đỏ bọc đô)
+material_greenWall								Tường sang trọng (Xanh lá)
+material_orientalWall							Tường (Kiểu phương Đông)
+material_cushionedwall							Tường (Đệm da)
+
+material_sandstone								Đá sa thạch 
+material_limestonefloor							Đá vôi 
+material_blueCarpet								Thảm (Xanh dương)
+material_redCarpet								Thảm (Đỏ)
+material_brownCarpet							Thảm (Nâu)
+material_paddedfloor							Sàn lót đệm
+material_grassstones							Cỏ và Đá
+material_grasscornerfloor						Góc cỏ
+material_grasscornerfloor1						Góc cỏ
+material_grasscornerfloor2						Góc cỏ
+material_grasscornerfloor3						Góc cỏ
+material_lunarfloor								Sàn mặt trăng
+
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_spookytree								Cây (Ma mị)
+object_cactustree								Cây (Xương rồng)
+object_sakuratree								Cây (Hoa anh đào)
+object_plantcactus								Cây cảnh (Xương rồng)
+object_tyrestack								Chồng lốp xe
+object_lamp										Đèn (Đèn bàn)
+object_bathroomSink								Bồn rửa mặt
+object_bathroomHandDryer						Máy sấy tay
+object_chestOfDrawers							Tủ ngăn kéo
+object_woodenStool								Ghế đẩu gỗ
+object_woodenTable								Bàn gỗ			
+object_bucket									Cái xô
+object_shortbookcase							Kệ sách (Thấp)
+object_outdoorTable								Bàn ngoài trời
+object_mooseHead								Đầu nai sừng tấm
+object_toiletSign								Biển hiệu (Nhà vệ sinh)
+object_rightArrowSign							Biển hiệu (Mũi tên phải)
+object_leftArrowSign							Biển hiệu (Mũi tên trái)
+object_infirmarySign							Biển hiệu (Bệnh xá)
+object_canteenSign								Biển hiệu (Nhà ăn)
+object_showerSign								Biển hiệu (Phòng tắm)
+object_armourySign								Biển hiệu (Kho vũ khí)
+object_jaildoorred								Cửa trại giam (Đỏ)
+object_jaildoorgrey								Cửa trại giam (Xám)
+object_jaildoororange							Cửa trại giam (Cam)
+object_jaildoorYellow							Cửa trại giam (Vàng)
+object_jaildoorlargered							Cửa trại giam lớn (Đỏ)
+object_jaildoorlargegrey						Cửa trại giam lớn (Xám)
+object_jaildoorlargeorange						Cửa trại giam lớn (Cam)
+object_jaildoorlargeyellow						Cửa trại giam lớn (Vàng)
+object_coatstand								Cây treo quần áo
+object_dogbowl									Bát ăn cho chó
+object_footbridge                               Cầu đi bộ
+object_footbridgesteel                          Cầu đi bộ bằng thép
+object_footbridgeb                              Cầu đi bộ B
+object_footbridgesteelb                         Cầu đi bộ bằng thép B
+object_windowclassy								Cửa sổ sang trọng
+object_windowclassyLarge						Cửa sổ sang trọng (Lớn)
+object_gravestone								Bia mộ
+object_psychiatrist								Bác sĩ tâm thần
+object_orderly									Hộ lý
+object_rorschachTest							Bài kiểm tra Rorschach
+object_anatomyModel								Mô hình giải phẫu
+object_flipboard								Bảng lật
+object_medicineCabinetPsych						Tủ thuốc
+object_leatherchair								Ghế da
+object_leatherSofa								Ghế sofa da
+object_parkbench								Ghế băng (Công viên)
+object_fencegateguard							Cổng hàng rào (Lính canh)
+object_oaktable									Bàn (Gỗ sồi)
+object_oakbench									Ghế băng (Gỗ sồi)
+
+object_classic									Cổ điển
+object_dalmation								Chó đốm (Dalmatian)
+object_husky									Chó Husky
+object_companion								Bạn đồng hành
+object_cat										Mèo
+object_direwoof									Sói hung tợn (Direwoof)
+
+equipment_fountainPen							Bút mực
+equipment_goldPocketWatch						Đồng hồ bỏ túi bằng vàng
+equipment_sedativeShot							Mũi tiêm an thần (Ống tiêm)
+equipment_sedativesyringe						Thuốc an thần (Ống tiêm)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_artdecowall				Xây Tường Art Deco để tạo nên phong cách kiến trúc những năm 1920 cho nhà tù.
+buildtoolbar_popup_mat_blueWall					Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+buildtoolbar_popup_mat_burgundywall				Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+buildtoolbar_popup_mat_greenwall				Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+buildtoolbar_popup_mat_orientalwall				Xây tường phương Đông để tạo ra các khu vực mang cảm giác Nhật Bản cổ kính trong nhà tù.
+buildtoolbar_popup_mat_cushionedwall			Xây các đoạn tường trên nền móng để tạo ra các khu vực hoặc phòng mới mang vẻ sang trọng bọc da.
+buildtoolbar_popup_mat_sandstone				Lát các phiến đá sa thạch xuống các khu vực ngoài trời.
+buildtoolbar_popup_mat_limestonefloor			Sàn nhà có màu quả chanh phai.
+buildtoolbar_popup_mat_blueCarpet				Trải thảm êm ái xuống. Hoàn hảo cho các khu vực nhân viên.
+buildtoolbar_popup_mat_redCarpet				Trải thảm êm ái xuống. Hoàn hảo cho các khu vực nhân viên.
+buildtoolbar_popup_mat_brownCarpet				Trải thảm êm ái xuống. Hoàn hảo cho các khu vực nhân viên.
+buildtoolbar_popup_mat_paddedfloor				Phù hợp với tường lót đệm để tạo ra một phòng giam lót đệm hoàn chỉnh cho các tù nhân tâm thần hình sự.
+buildtoolbar_popup_mat_grassstones				Một khu vực nhiều cỏ xen lẫn các phiến đá lát.
+buildtoolbar_popup_mat_grasscornerfloor			Một góc cỏ xen lẫn đất. Hữu ích cho các lối đi góc cạnh.
+buildtoolbar_popup_mat_grasscornerfloor1		Một góc cỏ xen lẫn đất. Hữu ích cho các lối đi góc cạnh.
+buildtoolbar_popup_mat_grasscornerfloor2		Một góc cỏ xen lẫn đất. Hữu ích cho các lối đi góc cạnh.
+buildtoolbar_popup_mat_grasscornerfloor3		Một góc cỏ xen lẫn đất. Hữu ích cho các lối đi góc cạnh.
+buildtoolbar_popup_mat_lunarfloor				Bề mặt đá cứng với diện mạo mang tầm liên sao.
+buildtoolbar_popup_mat_WoodenDockFloor			Sàn gỗ chắc chắn, hoàn hảo cho khu vực bến tàu.
+buildtoolbar_popup_obj_spookytree				Một cái cây già cỗi ma mị.
+buildtoolbar_popup_obj_cactustree				Sẽ trông thích hợp nhất trên vùng đất khô cằn.
+buildtoolbar_popup_obj_sakuratree				Một cây hoa anh đào xinh đẹp với sắc hoa nở rộ màu hồng.
+buildtoolbar_popup_obj_plant					Một cây cảnh trong nhà dễ chịu.
+buildtoolbar_popup_obj_plantcactus				Một chậu xương rồng trong nhà.
+buildtoolbar_popup_obj_tyrestack				Hoạt động như một bức tường nhỏ mà tù nhân và nhân viên sẽ đi vòng qua.
+buildtoolbar_popup_obj_lamp						Đèn cây trang trí đứng, hoàn hảo cho văn phòng và khu vực nhân viên.
+buildtoolbar_popup_obj_bathroomSink				Không một phòng tắm vệ sinh nào hoàn chỉnh nếu thiếu thứ này
+buildtoolbar_popup_obj_bathroomHandDryer		Kết hợp hoàn hảo với Bồn rửa mặt
+buildtoolbar_popup_obj_chestOfDrawers			Một chiếc tủ ngăn kéo bằng gỗ.
+buildtoolbar_popup_obj_woodenStool				Sẽ rất hợp khi đi cùng với Bàn gỗ.
+buildtoolbar_popup_obj_woodenTable				Sẽ rất hợp khi đi cùng với Ghế đẩu gỗ	
+buildtoolbar_popup_obj_bucket					Chỉ là một cái xô
+buildtoolbar_popup_obj_shortbookcase			Một chiếc giá sách dáng thấp hơn.
+buildtoolbar_popup_obj_outdoorTable				Để tù nhân ngồi ăn uống ở ngoài trời.
+buildtoolbar_popup_obj_mooseHead				Một đầu nai sừng tấm tuyệt đẹp được chế tác thủ công gắn trên biểu bảng.
+buildtoolbar_popup_obj_toiletSign				Biển tường có biểu tượng Nhà vệ sinh trên đó.
+buildtoolbar_popup_obj_rightArrowSign			Biển tường có hình mũi tên chỉ sang phải.
+buildtoolbar_popup_obj_leftArrowSign			Biển tường có hình mũi tên chỉ sang trái.
+buildtoolbar_popup_obj_infirmarySign			Biển tường có biểu tượng Bệnh xá trên đó.
+buildtoolbar_popup_obj_canteenSign				Biển tường có biểu tượng Nhà ăn trên đó.
+buildtoolbar_popup_obj_showerSign				Biển tường có biểu tượng Phòng tắm trên đó.
+buildtoolbar_popup_obj_armourySign				Biển tường có biểu tượng Kho vũ khí trên đó.
+buildtoolbar_popup_obj_jaildoorred				Cửa trại giam có màu để giúp phân loại các dãy phòng giam Tối đa An ninh của bạn.
+buildtoolbar_popup_obj_jaildoorgrey				Cửa trại giam có màu để giúp phân loại các dãy phòng giam Thấp An ninh của bạn.
+buildtoolbar_popup_obj_jaildoororange			Cửa trại giam có màu để giúp phân loại các dãy phòng giam Trung bình An ninh của bạn.
+buildtoolbar_popup_obj_jaildooryellow			Cửa trại giam có màu để giúp phân loại các dãy phòng giam Quản thúc Bảo vệ của bạn.
+buildtoolbar_popup_obj_jaildoorlargered			Cửa trại giam lớn có màu để giúp phân loại các dãy phòng giam Tối đa An ninh của bạn.
+buildtoolbar_popup_obj_jaildoorlargegrey		Cửa trại giam lớn có màu để giúp phân loại các dãy phòng giam Thấp An ninh của bạn.
+buildtoolbar_popup_obj_jaildoorlargeorange		Cửa trại giam lớn có màu để giúp phân loại các dãy phòng giam Trung bình An ninh của bạn.
+buildtoolbar_popup_obj_jaildoorlargeYellow		Cửa trại giam lớn có màu để giúp phân loại các dãy phòng giam Quản thúc Bảo vệ của bạn.
+buildtoolbar_popup_obj_coatstand				Nơi treo áo khoác và mũ của nhân viên khi nghỉ ngơi.
+buildtoolbar_popup_obj_dogbowl					Đựng nước và thức ăn cho chó canh gác đang mệt.\nTăng một lượng nhỏ thể lực cho chó.
+buildtoolbar_popup_obj_secretdoor				Cửa ẩn ngụy trang thành giá sách, có thể trượt mở để nhân viên đi qua.
+buildtoolbar_popup_obj_parkbench				Một chiếc ghế băng công viên ngoài trời.
+buildtoolbar_popup_obj_fencegateguard			Cổng rất hợp với Hàng rào, chỉ lính canh mới có thể mở.
+buildtoolbar_popup_obj_oaktable					Dùng để ăn uống.
+buildtoolbar_popup_obj_oakbench					Dùng để ngồi. Rất hợp đi cùng với Bàn gỗ sồi.
+
+buildtoolbar_popup_obj_classic					Chó canh gác nguyên bản, già dặn nhưng giàu kinh nghiệm.
+buildtoolbar_popup_obj_dalmation				Ban đầu sống ở trang trại, nhưng giờ làm việc trong bộ phận ngăn chặn vượt ngục.
+buildtoolbar_popup_obj_husky					Một cái bẫy chết chóc cho những kẻ vượt ngục đang di chuyển trong tuyết.
+buildtoolbar_popup_obj_companion				Người bạn tốt nhất của lính canh
+buildtoolbar_popup_obj_cat						Không phải ai cũng là người yêu chó.
+buildtoolbar_popup_obj_direwoof					Liệu còn ai dám nghĩ đến chuyện vượt ngục?
+
+buildtoolbar_popup_filter_mostused				Sử dụng nhiều nhất
+buildtoolbar_caters_safety						Phục vụ cho nhu cầu An toàn.
+
+interfacedeployment_orderly						Phân bổ hộ lý
+buildtoolbar_deployment_orderly					Phân bổ hộ lý vào các phân khu trong nhà tù của bạn.
+
+interfacedeployment_orderlypatrols				Phân bổ hộ lý
+buildtoolbar_deployment_orderlypatrols			Phân bổ hộ lý vào các tuyến tuần tra trong nhà tù của bạn.
+
+room_PaddedCell                                Phòng lót đệm
+room_PaddedHoldingCell                         Phòng tập trung lót đệm
+room_PsychiatristOffice							Phòng bác sĩ tâm thần
+
+interfaceplanning_BuildPlan			Xây dựng sơ đồ
+interfaceplanning_ClearPlan			Xóa sơ đồ
+interfaceplanning_Door				Cửa
+
+
+
+buildplan_title					Lựa chọn loại tường			
+buildplan_message				Bạn đã sẵn sàng xây dựng theo sơ đồ của mình chưa?\n	Hành động này không thể hoàn tác.\n\n	Tất cả các bức tường trong sơ đồ sẽ được xây dựng cùng một loại tường.\n	Lựa chọn loại tường có thể được thay đổi bên dưới.
+clearplan_title					Xóa sơ đồ
+clearplan_message				Bạn có chắc chắn muốn xóa tất cả các sơ đồ đã vẽ không?\n \n	Hành động này không thể hoàn tác.
+
+d11_custom_planning 				Lập sơ đồ tùy chỉnh
+
+buildtoolbar_popup_planning			Lập sơ đồ nhà tù của bạn mà không lo công nhân thực sự làm bất cứ điều gì cho đến khi bạn sẵn sàng. Menu Lập sơ đồ cho phép bạn chọn Xây dựng tất cả các cấu trúc và cửa đã lên kế hoạch, Xóa các phần trong sơ đồ của bạn hoặc Xóa toàn bộ sơ đồ và bắt đầu lại.
+
+buildtoolbar_popup_help_planningDoor_1		Loại cửa được chọn sẽ được sử dụng khi bạn đặt một chiếc cửa lên sơ đồ của mình.
+buildtoolbar_popup_help_quickBuildWall_1	Loại tường được chọn sẽ được sử dụng trong việc xây dựng (các) công trình Xây nhanh tiếp theo của bạn
+
+
+buildtoolbar_popup_mat_blueclassywall			Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+buildtoolbar_popup_mat_burgundyclassywall		Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+buildtoolbar_popup_mat_greenclassywall			Xây tường sang trọng trên nền móng để tạo ra các khu vực hoặc phòng nhân viên mới.
+
+buildtoolbar_popup_obj_windowclassy				Làm cho bên ngoài trông đẹp hơn nhiều so với thực tế.
+buildtoolbar_popup_obj_windowclassyLarge		Làm cho bên ngoài trông đẹp hơn nhiều so với thực tế.
+buildtoolbar_popup_obj_gravestone				Một bia mộ được cung cấp cho mỗi ca tử vong xảy ra trong nhà tù của bạn.
+
+buildtoolbar_popup_staff_psychiatrist			An nhân viên cấp cao cung cấp cho các tù nhân tâm thần hình sự các buổi tư vấn thường xuyên.\nBác sĩ tâm thần cung cấp các buổi gặp mặt một-đối-một thường xuyên để giúp xoa dịu các tù nhân tâm thần hình sự của chúng ta, một khi chúng ta đã thiết lập chương trình Tư vấn Tâm thần tại nhà tù. \nNếu có nhiều tù nhân tâm thần hình sự, chúng ta nên thuê vài bác sĩ tâm thần để hỗ trợ tất cả họ. Hãy đảm bảo mỗi người cũng có một văn phòng riêng.
+
+buildtoolbar_popup_staff_orderly				Nhân viên y tế, được đào tạo đặc biệt trong việc xử lý các đối tượng tâm thần hình sự.
+buildtoolbar_popup_obj_leatherchair				Phù hợp với Ghế sofa da. Hoàn hảo để nhân viên ngồi và chắc chắn là quá tốt so với tù nhân của bạn.
+
+buildtoolbar_popup_obj_rorschachTest		    Thêm Bài kiểm tra Rorschach vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+buildtoolbar_popup_obj_anatomyModel				Thêm Mô hình giải phẫu vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+buildtoolbar_popup_obj_flipboard				Thêm Bảng lật có biểu đồ não vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+buildtoolbar_popup_obj_medicineCabinetPsych		Thêm Tủ thuốc vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+buildtoolbar_popup_obj_leatherchair				Thêm Ghế da cổ điển vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+buildtoolbar_popup_obj_leatherSofa				Thêm Ghế sofa da cổ điển vào phòng bác sĩ tâm thần sẽ cải thiện hiệu quả điều trị của bác sĩ tâm thần đối với các tù nhân tâm thần hình sự.
+
+buildtoolbar_deployment_insaneseczone			Chỉ các tù nhân tâm thần hình sự mới được phép đi vào phân khu này.
+
+failuremessage_maximumcountreachedgeneric		Đã đặt số lượng tối đa
+
+buildtoolbar_popup_locked_PsychiatricConsultation				Mở khóa sau *B buổi khám tâm thần nữa
+buildtoobar_PsychConItemImproveInfo 			- Cải thiện đánh giá của một Phòng bác sĩ tâm thần.
+buildtoobar_PsychConItemImproveSuppression 		- Sau khi tư vấn, làm giảm mức độ áp chế\nvà một số nhu cầu nhất định của tù nhân tâm thần hình sự thêm +5%
+buildtoobar_PsychConItemImproveGrace 			- Sau khi tư vấn, cung cấp cho tù nhân tâm thần hình sự\nmột khoảng thời gian 'ân hạn' thêm 1 ngày,\ntrước khi mức độ áp chế và một số nhu cầu nhất định bắt đầu tăng trở lại.
+buildtoolbar_popup_obj_Footbridge				Cho phép tù nhân và nhân viên đi qua các khu vực đất và nước. Không thể xây dựng đè lên tường, hàng rào và các tòa nhà khác.
+buildtoolbar_popup_obj_FootbridgeSteel			Cho phép tù nhân và nhân viên đi qua các khu vực đất và nước. Không thể xây dựng đè lên tường, hàng rào và các tòa nhà khác.
+buildtoolbar_popup_obj_FootbridgeB				Cho phép tù nhân và nhân viên đi qua các khu vực đất và nước. Không thể xây dựng đè lên tường, hàng rào và các tòa nhà khác.
+buildtoolbar_popup_obj_FootbridgeSteelB			Cho phép tù nhân và nhân viên đi qua các khu vực đất và nước. Không thể xây dựng đè lên tường, hàng rào và các tòa nhà khác.
+
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_PaddedSolitary                            Phòng biệt giam lót đệm
+
+# =============================================================================
+# Room - Description
+# =============================================================================
+
+buildtoolbar_popup_room_paddedcell			    Dành cho các tù nhân tâm thần hình sự của chúng ta, với những bức tường lót đệm tạo ra hiệu ứng làm dịu.
+buildtoolbar_popup_room_paddedholdingcell	    Nơi các tù nhân tâm thần hình sự mới của chúng ta được xếp vào trước khi phòng giam lót đệm cố định sẵn sàng.
+buildtoolbar_popup_room_paddedsolitary			    Một hình thức giam giữ cách ly dành cho những tù nhân tâm thần hình sự tồi tệ nhất của chúng ta.
+
+# =============================================================================
+# Quick Build - Names
+# =============================================================================
+
+quickbuild_paddedbasiccell									Lót đệm (Nhỏ)
+quickbuild_paddedintermediatecell							Lót đệm (Vừa)
+quickbuild_paddedholdingcell								Phòng tập trung lót đệm
+quickbuild_paddedsolitarycell								Phòng biệt giam lót đệm
+quickbuild_PsychiatristOffice								Phòng bác sĩ tâm thần
+
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacedeployment_insaneseczone                  Chỉ phân khu Tâm thần
+interfacetopbar_PrisonerCells_insaneSecOnly	Sức chứa Tâm thần Hình sự: *X
+
+roomgrading_PsychiatristOffice_info				Mở khóa và đặt thêm các vật thể trong Phòng bác sĩ tâm thần để cải thiện hiệu quả điều trị cho các tù nhân tâm thần hình sự.\nVật phẩm được mở khóa thông qua việc tù nhân tâm thần hình sự tham gia các Chương trình Tư vấn Tâm thần.
+roomgrading_PsychiatristOffice_Item				Vật phẩm : *X
+roomgrading_PsychiatristOffice_Quality			Năng lực Bác sĩ tâm thần: *Q
+roomgrading_PsychiatristOffice_Upgrade			Nâng cấp Phòng bác sĩ tâm thần để cải thiện năng lực của họ.
+
+roomgrading_score_average		TRUNG BÌNH
+roomgrading_score_good			TỐT
+roomgrading_score_verygood		RẤT TỐT
+roomgrading_score_outstanding	XUẤT SẮC
+
+roomgrading_has_pa_system		[*X] Có hệ thống loa thông báo trong dãy phòng giam
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_grant_firstinsanecellblock				Khu tù nhân tâm thần hình sự
+objective_grant_firstinsanecellblock_description	Chính phủ sẵn sàng cung cấp tài trợ để mở rộng nhà tù của chúng ta với các phương tiện nhằm quản thúc và bảo vệ phúc lợi của các tù nhân tâm thần hình sự.\n\nQuỹ tài trợ này sẽ giúp tạo điều kiện thuận lợi cho việc xây dựng các phòng giam lót đệm đặc biệt và thuê các bác sĩ tâm thần được đào tạo bài bản.
+objective_grant_firstinsanecellblock_cells			Xây dựng một khu / dãy phòng giam cho đối tượng Tâm thần hình sự với 10 Phòng lót đệm
+objective_grant_firstinsanecellblock_prisoners		Tiếp nhận 10 tù nhân tâm thần hình sự
+objective_grant_firstinsanecellblock_psychiatrist	Thuê 2 Bác sĩ tâm thần (mỗi người cần một văn phòng)
+
+objective_readinsaneletter						Hướng dẫn của Giám đốc điều hành về Tù nhân tâm thần hình sự
+objective_readinsaneletter_description			Trước khi đưa các tù nhân tâm thần hình sự vào nhà tù của bạn, bạn nên chuẩn bị sẵn sàng các cơ sở vật chất và nhân viên phù hợp để chăm sóc tốt cho các nhu cầu của họ - Giám đốc điều hành...
+
+# =============================================================================
+# Wardens
+# =============================================================================
+
+warden_wardeninsanehawk_name                     Hawk Hartman
+warden_wardeninsanehawk_desc                     Là một cựu nhân viên bảo lãnh, Hartman truyền lại các kỹ thuật đào tạo có giá trị cho nhân viên an ninh của mình.\n\n -Tất cả lính canh ít làm rơi chìa khóa nhân viên hơn\n -Thể lực của lính canh được hồi phục khi tiếp nhận tù nhân
+warden_wardeninsanehawk_desc_short               - Thể lực của lính canh được hồi phục khi tiếp nhận tù nhân.
+
+warden_wardeninsaneslugworth_name                Bác sĩ Slugworth
+warden_wardeninsaneslugworth_desc                Khi tất cả các nhà tù khác từ chối họ, Slugworth đã mở cửa đón những tù nhân tâm thần hình sự tồi tệ nhất ngoài kia, với niềm tin rằng ông có thể giúp đỡ.\n\n - Các đợt điều trị của bác sĩ tâm thần mang lại hiệu quả tích cực hơn 20%\n - Tỷ lệ tiếp nhận các tù nhân tâm thần hình sự mắc chứng điên loạn cao hơn!\n
+warden_wardeninsaneslugworth_desc_short          - Tiếp nhận nhiều tù nhân tâm thần hình sự mắc chứng điên loạn hơn. Bác sĩ tâm thần điều trị tốt hơn.
+
+warden_wardeninsanehudson_name					 Bác sĩ Hudson
+warden_wardeninsanehudson_desc                   Bác sĩ Hudson sẵn sàng làm những điều mà không giám thị nào khác có thể làm...\n\n - Các dịch vụ khẩn cấp hoạt động nhanh hơn 20% và đến sớm hơn\n - Chi phí sửa chữa được giảm 10%
+warden_wardeninsanehudson_desc_short             - Thời gian phản ứng nhanh hơn, và chi phí sửa chữa được giảm bớt.
+
+warden_wardenfarmer_name		Nhà thực vật học
+warden_wardenfarmer_desc		Là một người có vô vàn kinh nghiệm trong ngành Nông nghiệp, Nhà thực vật học có thể mang lại tác động rất tích cực cho việc trồng trọt trong trại giam. Tăng giá xuất khẩu của mỗi loại cây trồng, cơ hội rụng hạt của cây, đồng thời kéo dài thời gian héo và hư hỏng của cây đang trồng lẫn nông sản đã thu hoạch.
+warden_wardenfarmer_desc_short		- Gấp đôi giá xuất khẩu của tất cả nông sản tự trồng trong trại giam
+
+warden_wardengreenpower_name			Nhà sinh thái học
+warden_wardengreenpower_desc			Là một người có vô vàn kinh nghiệm làm việc với Năng lượng xanh, Nhà sinh thái học có thể mang lại tác động rất tích cực cho các nguồn năng lượng này. Tăng sản lượng điện của tất cả các nguồn năng lượng xanh, đồng thời gấp đôi giá trị của cả năng lượng xuất khẩu và hoạt động tái chế.
+warden_wardengreenpower_desc_short		- Tăng sản lượng điện của tất cả các nguồn năng lượng xanh lên 1/3
+
+# =============================================================================
+# Victory, failures
+# =============================================================================
+
+victory_insaneprisonersdeaths					 Số ca tử vong của tù nhân tâm thần
+victory_warning_insaneprisonersdeaths			 Bạn sẽ bị sa thải nếu có quá nhiều tù nhân tâm thần tử vong.
+victory_insaneprisonersdeaths_units				 Ca tử vong
+
+victory_insaneprisonersabused					 Tù nhân tâm thần bị tấn công
+victory_warning_insaneprisonersabused			 Bạn sẽ bị sa thải nếu có quá nhiều tù nhân tâm thần bị lính canh tấn công.
+victory_insaneprisonersabused_units				 Vụ tấn công
+
+victory_adviserwarning_insaneprisonersdeaths1	 Chúng ta không thể tiếp tục để các tù nhân tâm thần hình sự chịu sự ngược đãi trong nhà tù của mình! Giới truyền thông sẽ bôi nhọ tên tuổi của chúng ta nếu chúng ta không chấn chỉnh lại hành vi!
+victory_advisernotice_insaneprisonersdeaths1	 Thế là hết! Bạn xong đời rồi! Đáng lẽ bạn phải chăm sóc những người bất ổn về tâm thần, nhưng thay vào đó bạn lại để họ phải chịu những sự tàn bạo không thể nói thành lời. Tôi chỉ có thể sa thải bạn, nhưng tôi khuyên bạn nên về nhà và tự đánh giá lại các lựa chọn cuộc đời mình đi.
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_criminallyinsane					Tù nhân tâm thần hình sự
+
+codex_tooltip_criminallyinsane					Đối phó với các tù nhân liên tục cảm thấy bị áp chế, đòi hỏi các phòng giam lót đệm mới và sự trợ giúp của bác sĩ tâm thần để giảm bớt các Nhu cầu về Quyền riêng tư, Sự thoải mái, An toàn và Tự do của họ trước khi họ bùng nổ. Bật cài đặt này cũng sẽ khiến một số tù nhân thông thường bị hóa điên trong nhà tù của bạn nếu Nhu cầu của họ không được đáp ứng. Việc tù nhân biến thành tâm thần hình sự có thể được tắt trong phần Cài đặt bản đồ.
+
+codex_prisoner_biography_NITG					Tiểu sử tùy chỉnh do người chơi tạo
+codex_options_InsaneGauge						Thanh đo hiển thị trên đầu tù nhân
+
+codex_option_desert								Mảnh đất sa mạc
+codex_tooltip_desert							Tạo một mảnh đất khởi đầu trông như một sa mạc cát.
+
+codex_options_rendercolours						Lớp phủ màu cho phòng
+
+codex_new_selectdog								Chọn chó canh gác
+
+codex_option_prisonerTurning					Tù nhân có thể trở thành tâm thần hình sự
+
+# =============================================================================
+# Rapsheet
+# =============================================================================
+
+rapsheet_category_insane						Tâm thần hình sự
+rapsheet_insane_bio_desc                        Các tù nhân tâm thần hình sự luôn cảm thấy mức độ áp chế liên tục và cần các phòng giam lót đệm cùng sự trợ giúp của bác sĩ tâm thần để giữ họ bình tĩnh.\n\nNhững tù nhân tâm thần hình sự bùng nổ có thể tấn công nhân viên của chúng ta, gây thiệt hại cho nhà tù, hoặc cố gắng trốn thoát, cũng như có các hành vi khó đoán khác.
+
+reputation_Weak                                 Yếu ớt
+reputation_Insomniac                            Mất ngủ
+reputation_Depressed                            Trầm cảm
+reputation_Outbreaks                            Bộc phát bạo lực
+reputation_Sickness                             Đau ốm
+reputation_Hyperactive                          Tăng động
+reputation_Addict                               Nghiện ngập
+reputation_Claustrophobic                       Sợ không gian hẹp
+reputation_ExtremelyStoical                     Cực kỳ khắc kỷ
+reputation_ExtremelyVolatile                    Cực kỳ thất thường
+reputation_Psychopathic                         Điên loạn
+reputation_Insane                               Tâm thần hình sự
+
+reputationtooltip_Weak                          Tù nhân này yếu hơn, sẽ không chống chọi tốt trong một trận chiến và do đó dễ bị thương tích hơn.
+reputationtooltip_Insomniac                     Tù nhân này cần rất ít thời gian ngủ.
+reputationtooltip_Depressed                     Tù nhân này di chuyển chậm hơn nhiều khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_Outbreaks                     Tù nhân này dễ có các đợt bộc phát bạo lực và phá hoại môi trường xung quanh khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_Sickness                      Tù nhân này dễ bị nôn mửa hoặc đại tiểu tiện không tự chủ khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_Hyperactive                   Di chuyển xung quanh nhanh hơn nhiều khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_Addict                        Tù nhân này có nhiều khả năng hình thành thói quen nghiện ngập khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_Claustrophobic                Khao khát vượt ngục khỏi môi trường xung quanh của tù nhân này cao hơn nhiều khi cảm thấy bị áp chế và không được điều trị.
+reputationtooltip_ExtremelyStoical              Tù nhân này sẽ không bị áp chế khi bị nhốt trong phòng Biệt giam hoặc khi có mặt lính canh. Họ thực sự không bận tâm.
+reputationtooltip_ExtremelyVolatile             Hãy để mắt kỹ tới kẻ này. Bất cứ điều gì cũng có thể kích động họ và khiến mọi chuyện trở nên tồi tệ rất nhanh chóng.
+reputationtooltip_Psychopathic                  Tù nhân này nguy hiểm và khó đoán hơn nhiều so với các tù nhân tâm thần hình sự khác.
+reputationtooltip_Insane                        Hãy đảm bảo tù nhân này được tiếp cận các buổi Tư vấn Tâm thần của bác sĩ tâm thần và một phòng giam lót đệm để giúp họ bình tĩnh lại.
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_cat_insane						Tâm thần hình sự
+report_intake_list_tooltip_insane				Các tù nhân tâm thần hình sự luôn cảm thấy mức độ áp chế liên tục và đòi hỏi các phòng giam lót đệm mới cùng sự trợ giúp của bác sĩ tâm thần để giảm bớt các Nhu cầu về Quyền riêng tư, Sự thoải mái, An toàn và Tự do trước khi họ bùng nổ.\n\nBạn không thể yêu cầu tù nhân tâm thần hình sự cho đến khi có sẵn một số Phòng lót đệm hoặc Phòng tập trung lót đệm.\n\nCác phòng giam thông thường có thể được chuyển đổi thành Phòng lót đệm thông qua menu Phòng.
+report_intake_insane_intake_empty				Tù nhân tâm thần hình sự không thể tiếp nhận vào lúc này.\n Bạn cần xây dựng các phòng giam lót đệm hoặc phòng tập trung lót đệm.\nCác phòng giam thông thường có thể được chuyển đổi thành Phòng lót đệm thông qua menu Phòng.
+report_staff_group_prisoners_insane				Tâm thần hình sự
+report_Criminally_Insane						Tâm thần hình sự
+report_Pyschopathic								Điên loạn
+
+report_intake_enable_insane					Bật
+report_intake_psychward_title					Khoa Tâm thần: Phiên bản Giám thị
+report_intake_psychward_tooltip					Kích hoạt lối chơi Khoa Tâm thần: Phiên bản Giám thị cho nhà tù này.\n\nĐiều này sẽ cho phép bạn tiếp nhận các tù nhân tâm thần hình sự, nhưng trước tiên bạn có thể muốn chuẩn bị cho nhà tù.\n\nCó thể nghiên cứu và thuê các bác sĩ tâm thần cũng như nhân viên hộ lý. Có thể tạo các Phòng lót đệm và Phòng tập trung lót đệm.\n\nCả bác sĩ tâm thần và Phòng lót đệm sẽ giúp giữ cho các tù nhân tâm thần hình sự của bạn bình tĩnh và trong tầm kiểm soát. 
+
+reformerror_no_psychiatrist					KHÔNG CÓ BÁC SĨ TÂM THẦN
+reform_completion_psychiatrist              - *X Đã hoàn thành - *Y Đã điều trị (*P%)
+report_staff_group_orderlies				Hộ lý
+
+# =============================================================================
+# Research
+# =============================================================================
+research_Orderly							Hộ lý
+research_Psychiatrist							Bác sĩ tâm thần
+                     
+researchtooltip_Orderly							Lính canh thông thường bị cấm tấn công các tù nhân tâm thần hình sự vì họ có thể làm họ bị thương trong quá trình này.\nHộ lý được đào tạo đặc biệt để khống chế đối tượng tâm thần hình sự mà không làm họ bị thương.\nHộ lý cũng sẽ mặc áo bó điên cho các tù nhân điên loạn vào ban đêm để ngăn họ tự làm hại bản thân qua đêm.
+researchtooltip_Psychiatrist					Một nhân viên cấp cao cung cấp cho các tù nhân tâm thần hình sự các buổi tư vấn thường xuyên.\nBác sĩ tâm thần cung cấp các buổi gặp mặt một-đối-một thường xuyên để giúp xoa dịu các tù nhân tâm thần hình sự của chúng ta, một khi chúng ta đã thiết lập chương trình Tư vấn Tâm thần tại nhà tù. \nNếu có nhiều tù nhân tâm thần hình sự, chúng ta nên thuê vài bác sĩ tâm thần để hỗ trợ tất cả họ. Hãy đảm bảo mỗi người cũng có một văn phòng riêng.
+
+
+# =============================================================================
+# Misc
+# =============================================================================
+
+doortimer_security_Insane			            Tâm thần hình sự
+
+buildtoolbar_header_foundationmain				Chính
+buildtoolbar_header_foundationmore				Thêm
+
+reformprogram_PsychiatricConsultation			Tư vấn Tâm thần
+reformprogram_PsychiatricConsultation_text		Tất cả các tù nhân tâm thần hình sự đều cần các buổi gặp mặt xoa dịu một-đối-một thường xuyên với bác sĩ tâm thần của chúng ta, nhằm giúp giảm bớt cảm giác bị áp chế ngày càng tăng của họ. Việc thiếu sự trợ giúp của bác sĩ tâm thần có thể châm ngòi cho các đợt bộc phát bạo lực và các phản ứng đặc thù khác từ những tù nhân này.
+reform_program_properties_NeedToBeEscorted		Tù nhân có thể cần được áp giải đến buổi học này.
+reform_program_intake_insane				Chỉ dành cho tù nhân tâm thần hình sự.
+
+insane_letter									Kính gửi Ông/Bà,\n\n\nDưới đây là một số hướng dẫn quan trọng để đảm bảo bạn đã chuẩn bị sẵn sàng các cơ sở vật chất và nhân viên phù hợp nhằm chăm sóc chu đáo cho các tù nhân tâm thần hình sự.\n\n1.  Tù nhân tâm thần hình sự phải có Phòng lót đệm. Bạn có thể chuyển đổi các phòng giam tiêu chuẩn thành phòng giam lót đệm (thông qua menu Phòng). Sau khi có phòng giam lót đệm, bạn sẽ có thể tiếp nhận lô tù nhân đầu tiên của mình.\n\n2.  Hãy đảm bảo bạn có các bác sĩ tâm thần và nhân viên hộ lý trong danh sách trả lương. Bác sĩ tâm thần cũng sẽ yêu cầu một văn phòng đặc biệt.\n\n3.  Thiết lập một số chương trình Tư vấn Tâm thần cho các tù nhân tâm thần hình sự của bạn. Các buổi gặp mặt một-đối-một này với bác sĩ tâm thần (và các phòng giam lót đệm) sẽ giúp giữ cho các tù nhân trong tầm kiểm soát. Nâng cấp văn phòng của bác sĩ tâm thần cũng sẽ cải thiện khả năng điều trị của họ.\n\n4.  Nếu không được điều trị và kiểm soát, một tù nhân tâm thần hình sự có thể biểu hiện các hành vi khó đoán, cố gắng trốn thoát hoặc trở nên bạo lực.\n\n5.  Hộ lý sẽ giúp áp giải và chữa trị, và họ không áp chế tù nhân như lính canh thông thường. Bạn cũng sẽ cần hộ lý để mặc áo bó điên cho các tù nhân tâm thần hình sự điên loạn vào cuối ngày. \n\n6.  Việc tù nhân tâm thần hình sự trộn lẫn với những người khác đôi khi có thể dẫn đến rắc rối. Bạn nên xây dựng và tách biệt các phân khu của đối tượng Tâm thần hình sự đối với Nhà ăn, Sân sinh hoạt và các khu vực khác. Và bạn có thể muốn đặt các văn phòng của bác sĩ tâm thần gần các dãy phòng giam Tâm thần hình sự của mình.\n\n7.  Cuối cùng, tù nhân từ các mức độ an ninh khác hiện có cơ hội trở thành tâm thần hình sự, vì vậy hãy để mắt tới họ.\n\nGiám đốc điều hành,\nTập đoàn Prison Architects Corp
+
+job_StraitJacket                         Mặc/Cởi áo bó điên
+job_EscortInsane                         Áp giải tù nhân tâm thần
+status_effect_sedated					Đã được tiêm an thần
+
+orderly_description                     Hộ lý được đào tạo đặc biệt trong việc xử lý và tiêm an thần (nếu cần thiết) cho các tù nhân tâm thần hình sự.
+pyschiatrist_description                TẤT CẢ các tù nhân tâm thần hình sự đều yêu cầu các buổi Tư vấn Tâm thần một-đối-một thường xuyên với bác sĩ tâm thần. Thêm các buổi Tư vấn Tâm thần thông qua menu Chương trình.
+
+insanetooltip_status                    Trạng thái: *X
+insanetooltip_status_level0             BÌNH TĨNH
+insanetooltip_status_level1             KÍCH ĐỘNG
+insanetooltip_status_level2             KHÔNG ỔN ĐỊNH
+insanetooltip_status_level3             BÙNG NỔ!
+insanetooltip_behaviour					Hành vi: *X
+
+mutator_name_ReducedDirtBuildup						Giảm tích tụ bụi bẩn
+mutator_tooltip_ReducedDirtBuildup					Tốc độ tích tụ bụi bẩn và bùn đất quanh nhà tù của bạn được giảm đi một nửa.
+administrator_requiresoffice_psychiatrist           Yêu cầu Phòng bác sĩ tâm thần
+
+dlc_upsell						Bản lưu này sử dụng nội dung từ phần mở rộng "*D". Vì chúng tôi không thể phát hiện phần mở rộng trên hệ thống của bạn, một số tính năng sẽ bị vô hiệu hóa. Vui lòng cân nhắc mua "*D" để có được trải nghiệm Prison Architect trọn vẹn nhất.
+dlc_upsell_multiplayer 			Chủ phòng của trò chơi nhiều người chơi này đã mua phần mở rộng "*D", và bạn cũng sẽ có quyền truy cập vào đó với tư cách là khách của họ. Chúc bạn chơi game vui vẻ!
+
+dlc_insane						Khoa Tâm thần: Phiên bản Giám thị
+dlc_seaandair					Vươn ra biển đảo (Island Bound)
+
+regime_work_pyscho              Chương trình/Thời gian tự do
+regime_worklockdown_pyscho      Chương trình/Giam giữ
+
+regimetooltip_work_pyscho			Lưu ý tù nhân Tâm thần không thể lao động và chỉ có thể tham gia các chương trình trong thời gian lao động
+regimetooltip_worklockdown_pyscho	Lưu ý tù nhân Tâm thần không thể lao động và chỉ có thể tham gia các chương trình trong thời gian lao động
+
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_sedation_level						Mức độ thuốc an thần
+teacher_teaching_pschiatrist                    Đang điều trị		
+pschiatrist_count_status						Đã hoàn thành *X buổi Tư vấn Tâm thần
+
+
+############################### SNEEZER UPDATE ###############################
+
+# =============================================================================
+# Rapsheet
+# ============================================================================= 
+
+action_escortToInfirmary						Áp giải đến Bệnh xá
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacelogistics_cellStatus					Trạng thái phòng giam
+
+buildtoolbar_popup_help_CellStatus_2			Bạn có thể nhấp vào một phòng giam đã có người để xem tù nhân được chỉ định vào đó.
+
+freeCell										Phòng trống
+freeCell_line0									Phòng giam này hiện đang trống.
+occupiedCell									Phòng đã có người
+occupiedCell_line0								*X *Y, *Z
+occupiedCell_line1								Nhấp chuột trái để hiển thị tù nhân này.
+object_prisoner_freshfish						Tù nhân (Lính mới)
+
+total_Connections								Tổng số kết nối: *X
+active_Connections								Số kết nối hoạt động tối đa: *X
+
+interfacedeployment_VisitorDirection			Hướng đi của khách
+
+interface_action_move							Di chuyển
+
+equipment_moreContraband						Hàng cấm
+
+# =============================================================================
+# Reports
+# =============================================================================
+
+report_intake_list_tooltip_prisonerTransfer		\n\nThỉnh thoảng sẽ có các đề xuất tiếp nhận những tù nhân rủi ro cao quá nguy hiểm đối với các nhà tù khác. \nHãy cẩn thận! Có lý do khiến họ trả tiền rất cao. Đây là những tên tội phạm sừng sỏ mà không cơ sở nào khác muốn nhận.
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_tooltip_noUtilities		Không thể xây dựng Đường ống nước và Cáp điện bên dưới.
+
+buildtoolbar_deployment_VisitorDirection 	Nhấp và kéo để chỉ hướng biển báo trên sàn.\n\nĐiều này gợi ý cho những người không phải tù nhân biết nên đi lối nào.\nGiúp kiểm soát luồng người trong nhà tù của bạn.
+
+# =============================================================================
+# Programs
+# =============================================================================
+
+guard_program_requirements             - Mỗi lính canh cần có một *X
+
+schedule_zone_insaneSecOnly						Phân khu Tâm thần
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_option_lunar								Mảnh đất mặt trăng
+codex_tooltip_lunar								Tạo một mảnh đất khởi đầu trông giống như bề mặt mặt trăng.
+
+codex_option_doubleClick						Nhấp đúp để di chuyển vật thể
+
+# =============================================================================
+# Clone Tool
+# =============================================================================
+
+BuildCost_CloneRoom								Sao chép phòng (CloneRoom)
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+codex_startonline                   Trực tuyến
+codex_start                         Tạo trò chơi
+codex_joinonline                    Tham gia trò chơi trực tuyến
+codex_join                          Tham gia trò chơi
+codex_usernamelabel                 Tên người dùng:
+codex_namelabel                     Tên trò chơi:
+codex_passwordlabel                 Mật khẩu:
+codex_passwordprotectedlabel        Có bảo vệ bằng mật khẩu?
+codex_listedlabel                   Hiển thị công khai?
+codex_roomlistlabel                 Danh sách trò chơi:
+codex_connectinglabel               Đang kết nối tới máy chủ...
+codex_retrievingserverlistlabel     Đang tải danh sách trò chơi...
+codex_datausage                     Lượng dữ liệu sử dụng: Đã gửi - *SkB/s, Đã nhận - *RkB/s
+codex_multiplayeroptions            Quản lý người chơi
+codex_playeroptions                 Người chơi
+codex_regionlabel                   Khu vực:
+
+multiplayer_chooseroomname          Vui lòng chọn một tên trò chơi
+multiplayer_chooseusername          Vui lòng chọn một tên người dùng
+multiplayer_joining                 Đang tham gia: *X
+multiplayer_joiningstate_joining    Đang tham gia trò chơi
+multiplayer_joiningstate_receiving  Đang nhận bản đồ thế giới
+multiplayer_joiningstate_loading    Đang tải bản đồ thế giới
+multiplayer_rejoining               Tham gia lại trò chơi sau khi mở rộng đất đai:
+multiplayer_leavegame_confirm       Bạn có chắc chắn muốn rời khỏi trò chơi co-op hiện tại không?
+multiplayer_hostleft                Chủ phòng đã ngắt kết nối.
+multiplayer_joingamefailed          Tham gia trò chơi thất bại:
+multiplayer_startgamefailed         Khởi chạy trò chơi thất bại:
+multiplayer_incorrectpassword       Sai mật khẩu
+multiplayer_disconnected            Mất kết nối tới máy chủ.
+multiplayer_syncerror               Bị ngắt kết nối do lỗi đồng bộ hóa.\n\nVui lòng thử tham gia lại trò chơi của bạn.
+multiplayer_hostonly                Chỉ dành cho chủ phòng.
+multiplayer_modsdisabled            Các bản mod bị vô hiệu hóa khi chơi trực tuyến
+multiplayer_mutatorsdisabled        Các trình đột biến (Mutators) bị vô hiệu hóa khi chơi trực tuyến
+multiplayer_kicked                  Bạn đã bị trục xuất khỏi trò chơi.
+multiplayer_kick                    Trục xuất
+multiplayer_ban                     Cấm
+
+multiplayer_host                    Chủ phòng:
+
+multiplayer_welcomeanalytics        Chào mừng bạn đến với chế độ Nhiều người chơi của Prison Architect.\n\nChúng tôi đã và đang nỗ lực để mang lại trải nghiệm Prison Architect trọn vẹn trong chế độ nhiều người chơi. Prison Architect là một trò chơi lớn và đây là lần đầu tiên chúng tôi cung cấp chế độ nhiều người chơi cho tất cả mọi người, vì vậy chúng tôi sẽ theo dõi sát sao bất kỳ sự cố nào mà người chơi có thể gặp phải.\n\nĐể giúp chúng tôi làm điều này, chúng tôi muốn thu thập một số dữ liệu phân tích ẩn danh nhằm giải quyết mọi vấn đề mà mọi người có thể gặp phải với trò chơi. Điều này có thể được tắt bất kỳ lúc nào trong menu tùy chọn. Bạn có thể xem dữ liệu chúng tôi thu thập trong tệp metrics.txt\n\nChúng tôi hy vọng bạn sẽ thích chơi Prison Architect cùng bạn bè của mình.
+
+region_asia                         Châu Á
+region_au                           Úc
+region_cae                          Đông Canada
+region_eu                           Châu Âu
+region_in                           Ấn Độ
+region_jp                           Nhật Bản
+region_ru                           Nga
+region_rue                          Đông Nga
+region_sa                           Nam Mỹ
+region_kr                           Hàn Quốc
+region_us                           Đông Hoa Kỳ
+region_usw                          Tây Hoa Kỳ
+
+codex_option_escapeplans                Kế hoạch vượt ngục
+buildtoolbar_rollcall                   Điểm danh
+buildtoolbar_tooltip_rollcall           Kêu gọi tất cả tù nhân của bạn ra đứng bên ngoài phòng giam. Chỉ khả dụng trong các chế độ ngủ và vào ban đêm.
+interfacecontrol_graphs                 Biểu đồ
+interfacecontrol_graphs_tooltip         Mở màn hình Biểu đồ, cho phép bạn so sánh các đồ thị về các khía cạnh khác nhau của nhà tù.
+
+graph_title                             Biểu đồ
+
+graph_label_1                           Loại dữ liệu 1
+graph_label_2                           Loại dữ liệu 2
+graph_label_day                         Ngày
+
+graph_axis_none                         Không có
+graph_axis_profit                       Lợi nhuận
+graph_axis_funds                        Ngân quỹ
+graph_axis_prisonsize                   Quy mô nhà tù (m²)
+graph_axis_numprisoners                 Số lượng tù nhân
+graph_axis_numstaff                     Số lượng nhân viên
+graph_axis_releasedprisoners            Tù nhân được trả tự do
+graph_axis_totalreleasedprisoners       Tổng số tù nhân được trả tự do
+graph_axis_escapedprisoners             Tù nhân vượt ngục
+graph_axis_totalescapedprisoners        Tổng số tù nhân vượt ngục
+graph_axis_entitydeath                  Ca tử vong
+graph_axis_totaldeaths                  Tổng số ca tử vong
+graph_axis_prisonerdeaths               Ca tử vong của tù nhân
+graph_axis_guarddeaths                  Ca tử vong của lính canh
+graph_axis_securitygrading              Đánh giá an ninh
+graph_axis_healthgrading                Đánh giá sức khỏe
+graph_axis_reformgrading                Đánh giá cải tạo
+graph_axis_punishmentgrading            Đánh giá hình phạt
+graph_axis_reoffendingrate              Tỷ lệ tái phạm
+graph_axis_prisonvalue                  Giá trị nhà tù
+graph_axis_prisonercapacity             Sức chứa tù nhân
+graph_axis_numincidents                 Số vụ lộn xộn
+graph_axis_totalincidents               Tổng số vụ lộn xộn
+
+
+############################### Other ###############################
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+equipment_Photo						Ảnh chụp
+equipment_SubMachineGun				Súng tiểu liên
+equipment_Soap						Xà phòng	
+
+############################### Prison Wing Priviledges UPDATE ###############################
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+room_gymnasium									Phòng tập thể dục
+buildtoolbar_popup_room_gymnasium				Nơi để tù nhân tập thể dục và giải tỏa sự hung hăng dồn nén, hoặc rèn luyện để giải quyết các bất đồng theo cách cổ điển.
+
+
+buildtoolbar_popup_help_CellStatus_1			Chế độ xem Trạng thái phòng giam hiển thị cho bạn các phòng giam đã có người (màu cam), băng đảng (màu đỏ) và còn trống (màu xanh lá).
+
+object_punchbag_blocked							Không thể tiếp cận bao cát đấm bốc
+object_trainingdummy_blocked					Không thể tiếp cận hình nhân tập luyện
+
+gangCell									Phòng giam *X
+gangMember				Thành viên băng đảng
+gangSoldier				Tay sai băng đảng
+gangLieutenant			Cấp phó băng đảng
+gangLeader				Thủ lĩnh băng đảng
+
+interfacedeployment_CustomSector	Phân khu tùy chỉnh
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_RunningTrack							Đường chạy bộ
+material_BambooFloor							Tre
+material_pipewall								Tường (Ống dẫn)
+material_overgrownwall							Tường (Cây mọc um tùm)
+material_derelictwall							Tường (Bỏ hoang)
+material_slumwall								Tường (Khu ổ chuột)
+material_rustywall								Tường (Rỉ sét)
+material_bamboofence							Hàng rào (Tre)
+material_decayedWall							Tường (Mục nát)
+material_flowerfield							Cánh đồng hoa
+material_FenceAndGrass							Hàng rào (Cỏ)
+material_WallMinSec								Tường (Tối thiểu An ninh)
+material_WallMedSec								Tường (Trung bình An ninh)
+material_WallMaxSec								Tường (Tối đa An ninh)
+material_WallInsaneSec							Tường (Trắng)
+material_WallProtective							Tường (Vàng)
+material_CliffEdge								Rìa vách đá
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_ovalStaffTable							Bàn (Hình bầu dục)			
+object_Painting1								Tranh vẽ
+object_Painting2								Tranh vẽ
+object_ChessTable								Bàn cờ vua
+object_GlassWindow								Kính cửa sổ
+object_GlassWindowLarge							Kính cửa sổ (Lớn)
+object_GymMat									Thảm tập thể dục
+object_SinkMirror								Bồn rửa & Gương
+object_TableFootball							Bi-lắc
+object_TableTennis								Bóng bàn
+object_TyreApparatus							Thiết bị lốp xe
+object_bambooDoor								Cửa (Tre)
+object_Canvas									Toan vẽ & Sơn màu
+object_PetBird									Chim cảnh
+object_SoftPillow								Gối mềm
+object_BoxingRing								Sàn đấu đấm bốc
+object_DumbbellRack								Giá để tạ tay
+object_Treadmill								Máy chạy bộ
+object_Fan										Quạt
+object_PunchBag									Bao cát đấm bốc
+object_WardenStatue								Tượng Giám thị
+object_WaterCooler								Máy nước uống
+object_SnackMachine								Máy bán đồ ăn vặt
+object_Mattress									Giường (Nệm mút)
+object_MetalBarrel								Thùng phi kim loại
+object_WoodenBarrel								Thùng gỗ
+object_MooringBollard							Cọc bích neo tàu
+object_DeckChair								Ghế bành bãi biển
+object_LightGreen								Đèn (Xanh lá)
+object_LightRed									Đèn (Đỏ)
+object_Buoy										Phao cứu sinh
+object_LifeRing									Phao tròn cứu sinh
+object_CoffeeMachine							Máy pha cà phê
+object_ComputerStation							Trạm máy tính
+object_PASystem									Hệ thống loa thông báo
+object_TrainingDummy							Hình nhân tập luyện
+object_StoneWaterSpout							Vòi phun nước bằng đá
+object_WindSock									Ống báo hướng gió
+object_ComfyBed									Giường êm ái
+object_IndoorTreePlanter						Chậu trồng cây trong nhà
+object_OldBed									Giường cũ
+object_CameraPillar								Trụ gắn camera
+object_Blackboard								Bảng đen
+object_JailDoorWhite							Cửa trại giam (Trắng)
+object_JailDoorLargeWhite						Cửa trại giam lớn (Trắng)
+
+object_SignNumber0								Biển hiệu (Số 0)
+object_SignNumber1								Biển hiệu (Số 1)
+object_SignNumber2								Biển hiệu (Số 2)
+object_SignNumber3								Biển hiệu (Số 3)
+object_SignNumber4								Biển hiệu (Số 4)
+object_SignNumber5								Biển hiệu (Số 5)
+object_SignNumber6								Biển hiệu (Số 6)
+object_SignNumber7								Biển hiệu (Số 7)
+object_SignNumber8								Biển hiệu (Số 8)
+object_SignNumber9								Biển hiệu (Số 9)
+
+object_SignLetterA								Biển hiệu (Chữ A)
+object_SignLetterB								Biển hiệu (Chữ B)
+object_SignLetterC								Biển hiệu (Chữ C)
+object_SignLetterD								Biển hiệu (Chữ D)
+object_SignLetterE								Biển hiệu (Chữ E)
+object_SignLetterF								Biển hiệu (Chữ F)
+object_SignLetterG								Biển hiệu (Chữ G)
+object_SignLetterH								Biển hiệu (Chữ H)
+object_SignLetterI								Biển hiệu (Chữ I)
+object_SignLetterJ								Biển hiệu (Chữ J)
+object_SignLetterK								Biển hiệu (Chữ K)
+object_SignLetterL								Biển hiệu (Chữ L)
+object_SignLetterM								Biển hiệu (Chữ M)
+object_SignLetterN								Biển hiệu (Chữ N)
+object_SignLetterO								Biển hiệu (Chữ O)
+object_SignLetterP								Biển hiệu (Chữ P)
+object_SignLetterQ								Biển hiệu (Chữ Q)
+object_SignLetterR								Biển hiệu (Chữ R)
+object_SignLetterS								Biển hiệu (Chữ S)
+object_SignLetterT								Biển hiệu (Chữ T)
+object_SignLetterU								Biển hiệu (Chữ U)
+object_SignLetterV								Biển hiệu (Chữ V)
+object_SignLetterW								Biển hiệu (Chữ W)
+object_SignLetterX								Biển hiệu (Chữ X)
+object_SignLetterY								Biển hiệu (Chữ Y)
+object_SignLetterZ								Biển hiệu (Chữ Z)
+
+equipment_StrikePlacard							Biểu ngữ đình công
+
+# =============================================================================
+# Prefabs - Names
+# =============================================================================
+
+quickbuild_Armoury								Kho vũ khí
+quickbuild_Infirmary							Bệnh xá
+quickbuild_Laundry								Phòng giặt là
+quickbuild_Library								Thư viện
+quickbuild_MailRoom								Phòng thư từ
+quickbuild_Visitation							Phòng thăm nuôi
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_affectsGradingNegativly			-LÀM GIẢM đánh giá của Phòng giam nhà tù.
+
+buildtoolbar_popup_obj_ovalStaffTable			Rất hợp đi cùng với ghế, đặt trong khu vực nhân viên.	
+buildtoolbar_popup_obj_painting1				Chỉ vì đây là nhà tù không có nghĩa là chúng ta không thể giữ cho nó sang trọng.
+buildtoolbar_popup_obj_painting2				Chỉ vì đây là nhà tù không có nghĩa là chúng ta không thể giữ cho nó sang trọng.
+buildtoolbar_popup_obj_chessTable				Trò chơi của những vị vua... và cả những cá nhân ngỗ ngược không chịu tuân thủ pháp luật. Phục vụ cho Nhu cầu 'Giải trí'.
+buildtoolbar_popup_obj_GLassWindow				Để hé nhìn ánh mặt trời qua đó.
+buildtoolbar_popup_obj_GlassWindowLarge			Để đón nhận thật nhiều ánh mặt trời qua đó.
+buildtoolbar_popup_obj_GymMat					Để thư giãn và xua tan những cơn đau nhức.\n -Phục vụ cho Nhu cầu Tập thể dục
+buildtoolbar_popup_obj_TableTennis				Cung cấp thêm một thú tiêu khiển cho tù nhân của bạn.\n -Phục vụ cho nhu cầu Giải trí.
+buildtoolbar_popup_obj_TableFootball			Cung cấp thêm một thú tiêu khiển cho tù nhân của bạn.\n -Phục vụ cho nhu cầu Giải trí.
+buildtoolbar_popup_obj_TyreApparatus			Một số tù nhân quả quyết rằng họ cần một cách để rèn luyện kỹ năng leo trèo.\n -Phục vụ cho Nhu cầu Tập thể dục.
+buildtoolbar_popup_obj_SinkMirror				Trang bị cho phòng giam của tù nhân một bồn rửa và gương.\n -Phục vụ cho Nhu cầu Vệ sinh.
+buildtoolbar_popup_obj_bambooDoor				Một chiếc cổng tre nhân tạo để phù hợp với hàng rào tre. \nNó được xử lý giống như một chiếc Cửa tiêu chuẩn.
+buildtoolbar_popup_obj_canvas					Một cách sáng tạo để tù nhân bày tỏ cảm xúc của họ mà không cần phải đâm chém lẫn nhau.
+buildtoolbar_popup_obj_PetBird					Một người bạn đồng hành nhỏ bé để bầu bạn với tù nhân của bạn.\n -Phục vụ cho các nhu cầu Gia đình, Sự thoải mái và Vật phẩm xa xỉ.
+buildtoolbar_popup_obj_SoftPillow				Cải thiện hơn nữa chất lượng và sự thoải mái cho giường của tù nhân bằng một chiếc gối lông vũ mềm mại.\n -Phục vụ cho các nhu cầu Thoải mái và Giấc ngủ.
+buildtoolbar_popup_obj_BoxingRing				Không một phòng tập thể dục nhà tù nào hoàn chỉnh nếu thiếu nó. Hầu hết tù nhân thích "vẽ tranh" trên tấm toan này hơn.\n -Phục vụ cho các nhu cầu Tập thể dục và Giải trí.
+buildtoolbar_popup_obj_DumbbellRack				Dành cho những tù nhân có tư tưởng muốn tăng cơ bắp.\n -Phục vụ cho Nhu cầu Tập thể dục.
+buildtoolbar_popup_obj_Treadmill				Để tù nhân giữ dáng. Tù nhân tập luyện chăm chỉ thậm chí có thể chạy nhanh hơn.\n -Phục vụ cho Nhu cầu Tập thể dục.
+buildtoolbar_popup_obj_Fan						Một chiếc quạt cây kiểu cũ, giúp làm mát không khí xung quanh một lượng nhỏ.
+buildtoolbar_popup_obj_PunchBag					Dành cho những lúc tù nhân cần xả bớt sự hung hăng dồn nén.\n -Phục vụ cho các Nhu cầu Tập thể dục và Giải trí.
+buildtoolbar_popup_obj_WardenStatue				Một bức tượng đá cao biểu thị quyền cai trị của Giám thị đối với nhà tù. Quá nhiều tượng này có thể khiến tù nhân cảm thấy bị áp chế. \n -LÀM TĂNG áp chế một lượng nhỏ.
+buildtoolbar_popup_obj_WaterCooler				Khoảnh khắc tán gẫu bên Máy nước uống của Prison Architect.
+buildtoolbar_popup_obj_SnackMachine				Đồ ăn vặt nhiều calo, chất lượng thấp.
+buildtoolbar_popup_obj_Mattress					Một chiếc nệm mút bán thoải mái. Hình thức giường rẻ tiền nhất hiện có, nhưng vẫn tốt hơn nằm sàn đất.
+buildtoolbar_popup_obj_MetalBarrel				Thường thấy quanh các khu bến tàu.
+buildtoolbar_popup_obj_WoodenBarrel				Thường thấy quanh các khu bến tàu.
+buildtoolbar_popup_obj_MooringBollard			Mang lại đặc điểm cổ điển cho các khu vực bến tàu. Nó cũng hoạt động giống như một bức tường nhỏ.
+buildtoolbar_popup_obj_LightGreen				Đèn ngoài trời, nhưng có bóng màu xanh lá. Trông rất tuyệt khi đi cùng khu vực bãi đáp trực thăng.
+buildtoolbar_popup_obj_LightRed					Đèn ngoài trời, nhưng có bóng màu đỏ. Trông rất tuyệt khi đi cùng khu vực bãi đáp trực thăng.
+buildtoolbar_popup_obj_Buoy						Nổi trên nước.
+buildtoolbar_popup_obj_LifeRing					Mang lại đặc điểm cổ điển cho các khu vực bến tàu.
+buildtoolbar_popup_obj_ArcadeCabinet			Giải trí cho tù nhân của bạn bằng Máy trò chơi thùng phong cách retro thời thượng.\n -Phục vụ cho các Nhu cầu Giải trí và Thoải mái
+buildtoolbar_popup_obj_CoffeeMachine			Một tính năng mong ước của bất kỳ nhân viên nào làm việc quá sức.
+buildtoolbar_popup_obj_ComputerStation			Phục vụ cho các Nhu cầu Sách báo và Thoải mái.
+buildtoolbar_popup_obj_PASystem					Áp chế tù nhân bằng cách phát các lời nhắc nhở thường xuyên rằng họ thực tế vẫn đang ở trong tù.\n -LÀM TĂNG sự áp chế tù nhân cảm thấy khi được đặt trong Dãy phòng giam hoặc Sân sinh hoạt.
+buildtoolbar_popup_obj_TrainingDummy			Một hình nhân tập luyện kiểu Thiếu Lâm cổ xưa.\n -Tù nhân tập luyện chăm chỉ thậm chí có thể học được các kỹ năng chiến đấu mới!
+buildtoolbar_popup_obj_StoneWaterSpout			Một đầu đá phong cách gothic, khi kết nối với nguồn cấp nước sẽ phun nước ra từ miệng.
+buildtoolbar_popup_obj_ComfyBed					Một chiếc giường sang trọng với nệm cao su non, mang lại giấc ngủ đêm ngon nhất.
+buildtoolbar_popup_obj_IndoorTreePlanter		Một chậu trồng cây âm sàn, dùng để trồng cây trong nhà.
+buildtoolbar_popup_obj_OldBed					Một chiếc giường tù kiểu cũ. Thoải mái hơn Nệm mút, nhưng kém hơn Giường tiêu chuẩn.
+buildtoolbar_popup_obj_Blackboard				Không một Phòng học nào hoàn chỉnh nếu thiếu nó.
+buildtoolbar_popup_obj_JailDoorWhite			Cửa trại giam có màu để giúp phân loại các dãy phòng giam Tâm thần hình sự của bạn.
+buildtoolbar_popup_obj_JailDoorLargeWhite		Cửa trại giam lớn có màu để giúp phân loại các dãy phòng giam Tâm thần hình sự của bạn.
+buildtoolbar_popup_obj_camerapillar				Để đặt ở các khu vực mở, rồi gắn camera vào các bên.
+
+buildtoolbar_popup_obj_signNumber0				Biển hiệu bằng tường có số 0 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber1				Biển hiệu bằng tường có số 1 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber2				Biển hiệu bằng tường có số 2 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber3				Biển hiệu bằng tường có số 3 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber4				Biển hiệu bằng tường có số 4 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber5				Biển hiệu bằng tường có số 5 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber6				Biển hiệu bằng tường có số 6 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber7				Biển hiệu bằng tường có số 7 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber8				Biển hiệu bằng tường có số 8 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signNumber9				Biển hiệu bằng tường có số 9 trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+
+buildtoolbar_popup_obj_signLetterA				Biển hiệu bằng tường có chữ A trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterB				Biển hiệu bằng tường có chữ B trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterC				Biển hiệu bằng tường có chữ C trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterD				Biển hiệu bằng tường có chữ D trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterE				Biển hiệu bằng tường có chữ E trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterF				Biển hiệu bằng tường có chữ F trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterG				Biển hiệu bằng tường có chữ G trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterH				Biển hiệu bằng tường có chữ H trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterI				Biển hiệu bằng tường có chữ I trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterJ				Biển hiệu bằng tường có chữ J trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterK				Biển hiệu bằng tường có chữ K trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterL				Biển hiệu bằng tường có chữ L trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterM				Biển hiệu bằng tường có chữ M trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterN				Biển hiệu bằng tường có chữ N trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterO				Biển hiệu bằng tường có chữ O trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterP				Biển hiệu bằng tường có chữ P trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterQ				Biển hiệu bằng tường có chữ Q trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterR				Biển hiệu bằng tường có chữ R trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterS				Biển hiệu bằng tường có chữ S trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterT				Biển hiệu bằng tường có chữ T trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterU				Biển hiệu bằng tường có chữ U trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterV				Biển hiệu bằng tường có chữ V trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterW				Biển hiệu bằng tường có chữ W trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterX				Biển hiệu bằng tường có chữ X trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterY				Biển hiệu bằng tường có chữ Y trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+buildtoolbar_popup_obj_signLetterZ				Biển hiệu bằng tường có chữ Z trên đó. Sắp xếp các biển hiệu liền nhau để tạo thành từ ngữ hoặc nhãn dán, chẳng hạn như "CELL BLOCK 4".
+
+buildtoolbar_popup_mat_pipewall					Xây Tường ống dẫn trên nền móng để tạo ra các khu vực hoặc phòng mới.
+buildtoolbar_popup_mat_derelictwall				Xây Tường bỏ hoang giá rẻ để có được diện mạo cổ kính đó.
+buildtoolbar_popup_mat_overgrownwall			Xây Tường cây mọc um tùm giá rẻ vì ngay cả trong tù, sự sống vẫn tìm được lối đi.
+buildtoolbar_popup_mat_rustywall				Xây Tường rỉ sét giá rẻ để có diện mạo thời hậu tận thế.
+buildtoolbar_popup_mat_slumwall					Xây Tường khu ổ chuột giá rẻ, bởi vì số tiền tiết kiệm được từ phúc lợi của tù nhân là số tiền bạn có thể dùng để mở rộng văn phòng của mình.
+buildtoolbar_popup_mat_bambooFence				Một hàng rào tre nhân tạo để có diện mạo như một khu đồn trú.
+buildtoolbar_popup_mat_RunningTrack				Hoàn hảo để tù nhân của chúng ta chạy bộ trên đó, đặt tại Sân sinh hoạt.
+buildtoolbar_popup_mat_BambooFloor				Sàn nhà mang diện mạo đồn trú giữa rừng rậm.
+buildtoolbar_popup_mat_DecayedWall				Xây tường giá rẻ làm bằng gạch xỉ mục nát trên nền móng.
+buildtoolbar_popup_mat_flowerfield				Một khu vực nhiều cỏ với những bông hoa đẹp đang nở rộ.
+buildtoolbar_popup_mat_fenceandgrass			Các đoạn hàng rào có cỏ bên dưới, thay vì đất cát.
+buildtoolbar_popup_mat_WallMinSec				Xây các bức tường có màu để biểu thị một phân khu an ninh cụ thể của nhà tù.
+buildtoolbar_popup_mat_WallMedSec				Xây các bức tường có màu để biểu thị một phân khu an ninh cụ thể của nhà tù.
+buildtoolbar_popup_mat_WallMaxSec				Xây các bức tường có màu để biểu thị một phân khu an ninh cụ thể của nhà tù.
+buildtoolbar_popup_mat_WallInsaneSec			Xây các bức tường có màu để biểu thị một phân khu an ninh cụ thể của nhà tù.
+buildtoolbar_popup_mat_WallProtective			Xây các bức tường có màu để biểu thị một phân khu an ninh cụ thể của nhà tù.
+buildtoolbar_popup_mat_CliffEdge				Xây tường vách đá để tạo ra các phần trên cao và các khu vực không thể vượt qua quanh nhà tù hoặc hòn đảo của bạn. 
+buildtoolbar_popup_mat_Water					Tạo các dòng suối, dòng sông và các khu vực nước không thể vượt qua khác.
+buildtoolbar_popup_mat_WaterShallow				Tạo các khu vực nước nông để làm cho đường bờ biển đẹp hơn, nằm giữa sàn Cát và Nước. Những ô này có thể đi qua được, không giống như Nước tiêu chuẩn.
+buildtoolbar_popup_mat_WaterLarge				Tạo các khu vực nước lớn, hồ và đại dương.
+
+interfaceoverlay_signs							Biển hiệu
+interfacemode_walls								Tường
+interfacemode_doors								Cửa
+
+interface_action_snackbought                    Đã mua đồ ăn vặt
+
+# =============================================================================
+# Crisis Toolbar
+# =============================================================================
+
+crisisSector_AllSectors							TẤT CẢ Phân khu
+crisisSector_StopAll							Dừng TẤT CẢ
+crisisSector_SharedOnly							Chỉ Khu chung
+crisisSector_MinSecOnly							Chỉ Tối thiểu An ninh
+crisisSector_MedSecOnly							Chỉ Trung bình An ninh
+crisisSector_MaxSecOnly							Chỉ Tối đa An ninh
+crisisSector_InsaneOnly							Chỉ Tâm thần
+crisisSector_ProtectedOnly						Chỉ Được bảo vệ
+crisisSector_SuperMaxOnly						Chỉ Siêu an ninh
+crisisSector_DeathRowOnly						Chỉ Tử tù
+
+crisisToolbarTitle_WeaponsFree			TỰ DO NỔ SÚNG
+crisisToolbarTitle_TunnelSearch			TÌM KIẾM ĐƯỜNG HẦM
+crisisToolbarTitle_Shakedown			TỔNG KHÁM XÉT
+crisisToolbarTitle_Lockdown			PHONG TỎA
+crisisToolbarTitle_Bangup			GIAM PHÒNG
+crisisToolbarTitle_RollCall			ĐIỂM DANH
+crisisToolbarQuestion				 - Chọn phân khu nào?
+
+# =============================================================================
+# Custom Sector Window
+# =============================================================================
+
+customSector_message			Chọn mức độ an ninh nào được phép đi vào phân khu tùy chỉnh này.
+customsectorwindow_minseccaption		Tối thiểu An ninh
+customsectorwindow_medseccaption		Trung bình An ninh
+customsectorwindow_maxseccaption		Tối đa An ninh		
+customsectorwindow_supermaxcaption	Siêu an ninh
+customsectorwindow_deathrowcaption	Tử tù
+customsectorwindow_protectivecaption	Quản thúc Bảo vệ
+customsectorwindow_insanecaption		Tâm thần hình sự
+
+customSector_title			Phân khu An ninh Tùy chỉnh
+customSector_subtitle			Phân khu an ninh này cho phép những điều sau:
+
+# =============================================================================
+# Room Grading
+# =============================================================================
+
+roomgrading_messaging							Nâng cấp phòng này cũng sẽ cải thiện đánh giá của Phân khu An ninh này.
+roomGrading_prisonerTransfer					Các nâng cấp sẽ CHỈ thúc đẩy tù nhân khi phần mở rộng DLC "Cleared For Transfer" đã được cài đặt và tùy chọn "Chuyển trại tù nhân" được bật trong menu Cài đặt bản đồ.
+
+roomgrading_Cell_BadWalls						[*E] Bị bao quanh bởi những bức tường ngột ngạt
+roomgrading_Cell_OutsideWindow_Large			[*E]*Y Cửa sổ lớn
+roomgrading_Cell_HasWindow_None					[*E] Không có cửa sổ
+roomgrading_Dormitory_BadWalls					[*E] Bị bao quanh bởi những bức tường ngột ngạt
+roomgrading_Dormitory_Mattress					[*E] Phần lớn giường chất lượng thấp
+roomgrading_Dormitory_HasWindow_None			[*E] Không có cửa sổ
+roomgrading_Canteen_RoomSize					[*E] Diện tích phòng ít nhất *X ô vuông
+roomgrading_Canteen_Item						[*E] Vật phẩm : *X
+roomgrading_Canteen_MealQuality					[*E] Chất lượng bữa ăn TRUNG BÌNH
+roomgrading_Canteen_MealQuality_High			[*E] Chất lượng bữa ăn CAO
+roomgrading_Canteen_MealQuality_Low				[*E] Chất lượng bữa ăn THẤP
+roomgrading_Canteen_MealQuality_None			[*E] KHÔNG CÓ chất lượng bữa ăn
+roomgrading_Canteen_MealVariety					[*E] Độ đa dạng bữa ăn TRUNG BÌNH
+roomgrading_Canteen_MealVariety_High			[*E] Độ đa dạng bữa ăn CAO
+roomgrading_Canteen_MealVariety_Low				[*E] Độ đa dạng bữa ăn THẤP
+roomgrading_Canteen_MealVariety_None			[*E] KHÔNG CÓ độ đa dạng bữa ăn
+roomgrading_Canteen_HasWindow_None				[*E] Không có cửa sổ
+roomgrading_Yard_RoomSize						[*E] Diện tích phòng ít nhất *X ô vuông
+roomgrading_Yard_RoomSizeLess					[*E] Diện tích phòng từ *X ô vuông trở xuống
+roomgrading_Yard_Item							[*E] Vật phẩm : *X
+roomgrading_Yard_Floor							[*E] Lót sàn *X (trên *Y%)
+roomgrading_Yard_MultiItems						[*E] Chứa *X vật thể kể trên
+roomgrading_Yard_Floor_Quantity					[*E] *X *Y ô vuông
+roomgrading_CommonRoom_RoomSize					[*E] Diện tích phòng ít nhất *X ô vuông
+roomgrading_CommonRoom_Item						[*E] Vật phẩm : *X
+roomgrading_Gymnasium_RoomSize					[*E] Diện tích phòng ít nhất *X ô vuông
+roomgrading_Gymnasium_OutsideWindow				[*E] *Y Cửa sổ hướng ngoài trời
+roomgrading_Gymnasium_Item						[*E] Vật phẩm : *X
+roomgrading_Gymnasium_HasWindow_None			[*E] Không có cửa sổ
+roomgrading_Classroom_RoomSize					[*E] Diện tích phòng ít nhất *X ô vuông
+roomgrading_Classroom_Item						[*E] Vật phẩm : *X
+roomgrading_Classroom_OutsideWindow				[*E] *Y Cửa sổ hướng ngoài trời
+
+buildtoolbar_improvement						-CẢI THIỆN đánh giá của phòng *R 
+buildtoolbar_decreased							-LÀM GIẢM đánh giá của phòng *R
+buildtoolbar_improvement_windows				(khi hướng ra bên ngoài)
+
+buildtoolbar_planning_autofoundation			Tự động xây nền móng
+
+prisoner_roomquality_veryLow						Rất thấp
+prisoner_roomquality_low							Thấp
+prisoner_roomquality_high							Cao
+prisoner_roomquality_veryHigh						Rất cao
+prisoner_roomquality_supreme						Thượng hạng
+
+# =============================================================================
+# Security Sector Grading
+# =============================================================================
+
+interfaceLogistics_MinSecGrading				Đánh giá Tối thiểu An ninh
+interfaceLogistics_MedSecGrading				Đánh giá Trung bình An ninh
+interfaceLogistics_MaxSecGrading				Đánh giá Tối đa An ninh
+interfaceLogistics_SuperMaxGrading				Đánh giá Siêu an ninh
+
+sectorGrading_title								Phân khu *X
+sectorGrading_housed							*X tù nhân đang được giam giữ tại *Y			
+sectorGrading_desiresTransfer					*X tù nhân *Y đang mong muốn được chuyển sang *Z
+
+sectorGrading_description						Chi tiết về đánh giá của phân khu này được cung cấp bên dưới. Càng có nhiều đặc quyền được thêm vào thì đánh giá càng cao. Đánh giá tối đa là 250.
+sectorGrading_encouragement						Sự chênh lệch đánh giá giữa *X và phân khu này càng cao thì các tù nhân *X càng có thêm động lực cải tạo và chấp hành tốt để có cơ hội được chuyển sang phân khu an ninh thấp hơn này.
+sectorGrading_discouragement					Bạn cũng có thể làm giảm đánh giá của *X bằng cách loại bỏ các đặc quyền và sự thoải mái để tạo ra hiệu ứng tương tự, nhưng bạn cũng sẽ đối mặt với rủi ro làm phật lòng những tù nhân đó.
+
+sectorGrading_transferNote						(LƯU Ý: Tù nhân có động lực chuyển trại sẽ CHỈ có hiệu lực khi phần mở rộng DLC "Cleared For Transfer" được cài đặt và tùy chọn "Chuyển trại tù nhân" được bật trong menu Cài đặt bản đồ).
+
+sectorGrading_privilegesTitle					Đặc quyền tù nhân
+sectorGrading_visitation						[+*X] Thăm nuôi
+sectorGrading_mail								[+*X] Thư từ
+sectorGrading_work								[+*X] Tham gia lao động (tiền mặt)
+sectorGrading_education							[+*X] Tiếp cận giáo dục / các chương trình
+sectorGrading_meals								[+*X] 2+ bữa ăn mỗi ngày
+sectorGrading_freeTime							[+*X] Nhiều thời gian tự do (20%)
+sectorGrading_extraFreeTime						[+*X] Thêm thời gian tự do (30%)
+sectorGrading_yard								[+*X] Tiếp cận Sân sinh hoạt
+sectorGrading_gym								[+*X] Tiếp cận Phòng tập thể dục
+sectorGrading_shop								[+*X] Tiếp cận Cửa hàng
+sectorGrading_commonRoom						[+*X] Tiếp cận Phòng sinh hoạt chung
+sectorGrading_showers							[+*X] Tắm nước nóng
+sectorGrading_sleep								[+*X] Ngủ từ 10 tiếng trở lên
+
+sectorGrading_facilitiesTitle					Cơ sở vật chất
+sectorGrading_room								[*X/*Y] Chất lượng phòng *R
+
+sectorGrading_conditionsTitle					Điều kiện
+sectorGrading_suppresion						[*X/15] Áp chế *Y
+sectorGrading_risk								[*X/20] Rủi ro *Y (tử vong & thương tích)
+sectorGrading_cleanliness						[*X/15] Độ sạch sẽ *Y
+
+sectorGrading_grade								Đánh giá *X/250
+dialog_veryLow									Rất thấp
+
+# =============================================================================
+# Policy Report
+# =============================================================================
+
+dialog_various								Khác nhau
+
+report_needs_staffBreaks					Đây là tỷ lệ phần trăm tối đa của nhân viên thuộc tất cả các bộ phận có thể nghỉ giải lao cùng một lúc.
+reports_privilegetitle						Chính sách đặc quyền
+reports_misconducttitle						Chính sách xử lý vi phạm
+reports_paroletitle							Chính sách hạn mức tha tù trước thời hạn
+reports_parole_info							Điều chỉnh hạn mức:
+reports_parole_Cutoff						(*P%)
+reports_policy_PrivilegeTableTitle			Đặc quyền
+reports_policy_Visitation					Thăm nuôi
+reports_policy_Mail							Thư từ
+reports_policy_PrisonLabour					Lao động cải tạo
+reports_policy_All							Tất cả
+reports_policy_Programs						Chương trình
+reports_policy_WorkPrograms					Lao động
+reports_policy_EducationPrograms			Giáo dục
+reports_policy_WellnessPrograms				Sức khỏe & Thể chất
+
+reports_policy_defaults						Khuyến nghị 
+reports_policy_tooltip_recomended			Đặt *X về các giá trị khuyến nghị cho tất cả các mức độ an ninh được chọn.
+reports_policy_tooltip_all					Chọn/Bỏ chọn tất cả các mức độ an ninh của nhà tù
+
+reports_privilegesPolicy_tooltip_all		Thay đổi tất cả các chương trình ngoại trừ các buổi Điều trần tha bổng, Kháng cáo tử hình và Tư vấn Tâm thần.
+reports_privilegesPolicy_tooltip			Chọn Phân khu An ninh nào có thể tham gia vào các chương trình này:
+reports_privilegesPolicy_tooltip_EducationPrograms	\n-Giáo dục cơ bản \n-Giáo dục phổ thông
+reports_privilegesPolicy_tooltip_WellnessPrograms	\n-Liệu pháp hành vi \n-Liệu pháp cai nghiện rượu theo nhóm \n-Hướng dẫn tâm linh
+reports_privilegesPolicy_tooltip_WorkPrograms		\n-An toàn và Vệ sinh nhà bếp \n-Hướng dẫn an toàn xưởng lao động \n-Học nghề mộc
+
+report_policy_categoryTooltip_Minsec		Tối thiểu An ninh
+report_policy_categoryTooltip_Normal		Trung bình An ninh
+report_policy_categoryTooltip_MaxSec		Tối đa An ninh
+report_policy_categoryTooltip_Protected		Quản thúc Bảo vệ
+report_policy_categoryTooltip_SuperMax		Siêu an ninh
+report_policy_categoryTooltip_DeathRow		Tử tù
+report_policy_categoryTooltip_Insane		Tâm thần hình sự
+report_policy_categoryTooltip_PrisonerTransfer	Huyền thoại
+
+report_policy_misconductConflict_tooltip	Nhiều loại hình an ninh đang được chọn với các giá trị chính sách khác nhau. Hãy chọn từng danh mục tù nhân cụ thể để xem chính sách xử lý vi phạm của họ.
+
+report_policy_match							Khớp với:
+
+report_policy_matchTitle					Khớp các Phân khu An ninh
+report_policy_match_tooltip					Khớp Chính sách xử lý vi phạm của *X với một phân khu an ninh khác.
+
+report_policy_privilegesUnchangableTooltip	Mức độ An ninh này đã bị khóa các chính sách đặc quyền của họ.
+
+# =============================================================================
+# Deployment
+# =============================================================================
+
+interfacedeployment_Chef					Phân bổ đầu bếp
+interfacedeployment_Doctor					Phân bổ bác sĩ
+
+buildtoolbar_deployment_Chef				Phân bổ đầu bếp vào các phân khu trong nhà tù của bạn.
+buildtoolbar_deployment_Doctor				Phân bổ bác sĩ vào các phân khu trong nhà tù của bạn.
+buildtoolbar_deployment_PrioritizeJanitor	Sử dụng tùy chọn này để ưu tiên nhân viên vệ sinh thực hiện công việc của họ tại các khu vực cụ thể trước các khu vực khác quanh nhà tù. Nếu thiếu nhân viên, nhân viên vệ sinh sẽ cố gắng bao quát các khu vực ưu tiên của bạn trước. Chỉ định 1, 2 hoặc 3 nhân viên vệ sinh để ưu tiên một khu vực.
+buildtoolbar_deployment_PrioritizeGardener	Sử dụng tùy chọn này để ưu tiên thợ làm vườn thực hiện công việc của họ tại các khu vực cụ thể trước các khu vực khác quanh nhà tù. Nếu thiếu nhân viên, thợ làm vườn sẽ cố gắng bao quát các khu vực ưu tiên của bạn trước. Chỉ định 1, 2 hoặc 3 thợ làm vườn để ưu tiên một khu vực.
+
+researchtooltip_deployment2					Bạn có thể chỉ định cụ thể các nhân viên này vào các phân khu của nhà tù thông qua menu Phân bổ.
+researchtooltip_prioritize					Bạn có thể ưu tiên cụ thể các nhân viên này vào các phân khu của nhà tù thông qua menu Phân bổ.
+
+interfacetopbar_tooltip_totalChefs			Tổng cộng *X đầu bếp
+interfacetopbar_tooltip_totalDoctors		Tổng cộng *X bác sĩ
+interfacetopbar_tooltip_cook				Số lượng đầu bếp bạn đang có để làm việc trong nhà tù.
+interfacetopbar_tooltip_doctor				Số lượng bác sĩ bạn đang có để làm việc trong nhà tù.
+
+interfacetopbar_tooltip_priorityStationed   *X công việc ưu tiên
+
+interfacetopbar_tooltip_totalJanitors		Tổng cộng *X nhân viên vệ sinh
+interfacetopbar_tooltip_totalGardeners		Tổng cộng *X thợ làm vườn
+interfacetopbar_tooltip_janitor				Số lượng nhân viên vệ sinh bạn đang có để làm việc trong nhà tù.
+interfacetopbar_tooltip_gardener			Số lượng thợ làm vườn bạn đang có để làm việc trong nhà tù.
+
+# =============================================================================
+# Prisoner Transfer Report
+# =============================================================================
+
+reports_prisoners_transfer					Có *X tù nhân *W muốn chuyển sang *C:
+reports_prisoners_transfer_ready			sẵn sàng
+reports_prisoners_transfer_wanting			đang mong muốn
+reports_prisoners_transfer_button			PHÊ DUYỆT TẤT CẢ
+reports_prsioners_transfer_numCells			(Hiện có *X phòng giam trống)
+reports_prisoners_transfer_otherPrisoners	*X tù nhân khác
+
+reports_transfers_offMessage				Tính năng Chuyển trại tù nhân có thể được bật thông qua menu Cài đặt bản đồ.
+report_Transfer								Chuyển trại
+
+transfer_icon_tooltip						Sử dụng các tùy chọn bên dưới để xác định các tiêu chí mà tù nhân *X cần đáp ứng để được chuyển sang *Y. \nBạn có thể sử dụng cột Tiêu chí chính sách để tăng tính thử thách cho các tù nhân muốn đủ điều kiện chuyển trại, và các tùy chọn khác để tước quyền ngay lập tức của một số loại tù nhân nhất định. \nKhông phải tất cả tù nhân đều hứng thú với việc chuyển trại. Đặc biệt là những ai có án tù ngắn, đang có kế hoạch đào hầm vượt ngục, hoặc đơn giản là không nghĩ rằng điều kiện hay sự thoải mái ở Phân khu An ninh thấp hơn phân khu của họ lại tốt đến thế.
+transfer_tooltip_onOff						Bỏ tích để TẮT/BẬT cho (các) Phân khu An ninh được chọn.
+
+transfer_description						Thiết lập tiêu chí để tù nhân đáp ứng nhằm được chuyển sang một phân khu an ninh thấp hơn và thoải mái hơn.
+transfer_use								Allow transfer from *X to *Y
+transfer_behaviourtitle						Chấp hành tốt
+transfer_reformtile							Cải tạo
+transfer_requiredtitle						Yêu cầu bắt buộc
+transfer_qualifiedcaption					Tổng số tù nhân đủ điều kiện hiện tại
+transfer_hopingcaption						Tổng số tù nhân có động lực để đủ điều kiện
+transfer_numPrisoners						*X Tù nhân (*Y%)
+
+transfer_title								Tiêu chí chuyển trại
+transfer_criteria							Giá trị tiêu chí
+transfer_qualifying							Tù nhân đủ điều kiện
+
+transfer_behaviour_staffAssaults			Không hành hung nhân viên
+transfer_behaviour_murders					Không phạm tội giết người
+transfer_behaviour_murdersStuff				(nhân viên & tù nhân)
+transfer_behaviour_escapeAttempts			Không có mưu đồ vượt ngục
+transfer_behaviour_contraband				Không có hàng cấm nguy hiểm
+transfer_behaviour_gangMembers				Loại bỏ thành viên băng đẳng
+
+transfer_behaviour_tooltip_staffAssaults	Tù nhân đủ điều kiện chuyển trại phải không hành hung bất kỳ nhân viên nào trong số ngày được chỉ định. Số ngày cao hơn sẽ loại bỏ những tù nhân liên tục bạo lực.
+transfer_behaviour_tooltip_murders			Tù nhân đủ điều kiện chuyển trại phải không giết hại bất kỳ nhân viên hoặc tù nhân nào trong số ngày được chỉ định. Số ngày cao hơn sẽ loại bỏ những tù nhân nguy hiểm nhất của bạn.
+transfer_behaviour_tooltip_escapeAttempts	Tù nhân đủ điều kiện chuyển trại phải không bị bắt quả tang khi đang cố gắng vượt ngục trong số ngày được chỉ định.
+transfer_behaviour_tooltip_contraband		Tù nhân đủ điều kiện chuyển trại phải không bị bắt quả tang cùng với bất kỳ Vũ khí hoặc Công cụ nào trong số ngày được chỉ định.
+transfer_behaviour_tooltip_gangMembers		Chọn loại bỏ TẤT CẢ các thành viên băng đảng khỏi việc chuyển trại, hoặc chỉ một số cấp bậc nhất định trong băng đảng.
+
+transfer_reform_tooltip_reoffending			Tù nhân đủ điều kiện chuyển trại phải không có tỷ lệ % cơ hội tái phạm quy định hoặc cao hơn. Số phần trăm thấp hơn sẽ giúp đảm bảo những tù nhân chấp hành tốt nhất và cải tạo tốt nhất của bạn đủ điều kiện.
+transfer_reform_tooltip_programsPassed		Tù nhân đủ điều kiện chuyển trại phải vượt qua một số lượng chương trình nhất định. Số lượng cao hơn sẽ loại bỏ những tù nhân không có thiện chí muốn cải tạo.
+
+transfer_required_tooltip					Điều chỉnh giá trị này để quyết định xem tù nhân có phải đáp ứng TẤT CẢ các tiêu chí đã tích chọn để chuyển trại hay một lượng ít hơn.
+
+transfer_tooltip_uncheck					\nBỏ tích để loại bỏ điều này khỏi tiêu chí chuyển trại.
+
+
+transfer_reform_reoffending					% tỷ lệ tái phạm ước tính
+transfer_reform_programsPassed				Chương trình đã vượt qua
+
+transfer_required							Các tiêu chí trên cần đáp ứng
+
+transfer_criteriaTime						trong *X ngày
+
+gangNone									Không có
+gang_transfer_None							Không có
+gang_transfer_Soldier						Tất cả
+gang_transfer_Lieutenant					Cấp phó, Thủ lĩnh
+gang_transfer_Leader						Thủ lĩnh
+
+report_prisoner_approve						Phê duyệt
+report_prisoner_approveAll					Phê duyệt cho tất cả các tù nhân đã đáp ứng tiêu chí chuyển trại của bạn để chuyển xuống *X. Số lượng tù nhân được chuyển đi cũng sẽ phụ thuộc vào số lượng phòng giam còn trống.
+
+approveTransfer_title						Phê duyệt chuyển trại
+approveTransfer_message						Phê duyệt chuyển tù nhân *F *S sang *C
+approveAllTransfer_message					Phê duyệt cho tất cả các tù nhân đủ điều kiện để chuyển sang *C
+approveAllTransfer_someMessage				Chỉ có *X phòng giam trống ở *C. Bạn có muốn chuyển *X tù nhân sang *C không?
+approveTransfer_noFreeCells					Không có sẵn phòng giam trống nào để chuyển tù nhân vào. Hãy tạo thêm phòng giam cho mức độ an ninh này để phê duyệt chuyển trại.
+
+dialog_group								Nhóm
+
+transfer_pastCrimes_tooltip					Tước quyền của các tù nhân có tội danh thuộc Nhóm *X trong hồ sơ phạm tội bao gồm:
+transfer_criteria_met						*X/*Y
+transfer_review								Xem xét chuyển trại
+
+# =============================================================================
+# Actions
+# =============================================================================
+
+action_RunTreadmill								Đang sử dụng máy chạy bộ
+action_PunchingBag								Đang sử dụng bao cát đấm bốc
+action_Boxing									Đang sử dụng sàn đấu đấm bốc
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_tooltip_escapeplans               Cho phép nhiều lựa chọn vượt ngục hơn cho tù nhân. Bây giờ họ sẽ cố gắng trèo qua tường của bạn khi tìm cách vượt ngục.
+codex_options_shadowcaption				Bật/Tắt bóng đổ
+codex_options_punishmentscaption		Khám xét & Hành động theo từng phân khu
+
+codex_option_prisonerTransfer			Chuyển trại tù nhân
+codex_tooltip_prisonerTransfer			Chuyển trại tù nhân cho phép bạn thiết lập các tiêu chí mà tù nhân phải đáp ứng để được chuyển trại và nâng cấp lên một phân khu an ninh tốt hơn trong nhà tù của bạn, nơi có thể cung cấp sự thoải mái, cơ sở vật chất và các đặc quyền khác nhiều hơn. \n\nTù nhân giờ đây sẽ tự đánh giá các điều kiện ở phân khu hiện tại của họ và phân khu thấp hơn bên dưới họ, rồi quyết định xem họ có muốn được chuyển trại hay không. Nếu có, họ sẽ xác định xem bản thân có cố gắng sửa đổi hành vi và đáp ứng chính sách chuyển trại của bạn không, dựa trên nhu cầu và đặc điểm cá nhân của họ.\n\nMỗi phân khu đều được đánh giá dựa trên các đặc quyền và cơ sở vật chất mà bạn cung cấp cho tù nhân trong phân khu đó. Khoảng cách 'chênh lệch' giữa phân khu của họ và phân khu bên dưới càng lớn thì tổng số tù nhân muốn được chuyển trại sẽ càng nhiều.\n\nSau khi một tù nhân đáp ứng các tiêu chí chuyển trại của bạn, việc có chuyển trại họ hay không và vào lúc nào vẫn hoàn toàn tùy thuộc vào bạn.
+
+# =============================================================================
+# Miscelanious
+# =============================================================================
