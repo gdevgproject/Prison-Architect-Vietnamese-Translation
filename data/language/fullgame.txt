@@ -1,1015 +1,1014 @@
-﻿
-campaigncutscene_tooltip 				(Click to trigger the next chapter of the story)
-campaignchapter_locked                  (Locked)
-
-
-# =============================================================================
-# Food / Palermo
-# =============================================================================
-
-campaignchapter_food                    Palermo
-
-campaignchapter_food_description        A massive fire has destroyed this prison's kitchen and canteen.  If we don't find a way to feed the inmates quickly, we'll have a full-scale riot on our hands.\nSolve the food crisis then rebuild the Kitchen and Canteen.
-
-adviser_food_fire_1                     There's a crisis brewing at one of our other facilities.
-adviser_food_fire_2                     Someone's started a fire in the prison kitchen. The priority is to put it out, stop any casualties and prevent more damage. 
-adviser_food_fire_3                     Use the Emergency Services button in the toolbar to call the fire brigade. 
-adviser_food_fire_4                     Get this fire under control before it burns the whole prison down!
-
-objective_food_callfirebrigade          Call the fire department
-objective_food_extinguishflames         Extinguish the flames
-
-objective_food_callfirebrigade_description 	To call out the fire brigade, click the Emergencies button in the toolbar then click Firemen
-objective_food_extinguishflames_description  When you have firemen selected you can manually aim their hoses by holding the H key. Use this to concentrate the hoses at the centre of the flames.\n\nTry to keep the firemen as close to the fire as possible - they will be more effective.
-
-adviser_food_savedon1                   My God, there's a survivor in the wreckage.
-adviser_food_savedon2					Christ on a crutch, it's Don Palermo. Of all the inmates... it just had to be our mob boss. 
-adviser_food_donintro2					The bad news for him is that budget cuts have meant we had to sack all our permanent doctors. 
-adviser_food_donintro3				 	The good news is, our Infirmary is still usable. Hire a couple of Doctors and they'll take care of Don Palermo whilst we sort this mess out.
-
-adviser_food_afterfire3                 We need to clear up this mess.
-adviser_food_afterfire4                 Use the bulldoze tool to demolish the ruined canteen and kitchen. You need to remove all the debris. 
-adviser_food_afterfire6                 Designate a Garbage Zone adjacent to the road. Our workmen will dump the wreckage there for the garbage trucks to dispose of.
-adviser_food_dismissfiremen1			Finally, can you send those firemen home now that they've done their job.
-adviser_food_gamespeed                  Demolishing those buildings will take a while. You can pass the time more quickly by using the buttons under the clock.
-
-adviser_food_todolist1					I've added more details on each of these objectives into your todo list.
-adviser_food_todolist2					Any time you're unsure what to do, highlight the objective and you'll see additional instructions.
-
-objective_food_buildmedicalward_doctors Hire a couple of Doctors to staff the Infirmary
-
-objective_food_DismissAllFiremen		Dismiss the firemen
-objective_food_cleararea                Clear the burnt wreckage 
-objective_food_buildgarbagearea         Designate a Garbage Zone
-objective_food_clearcanteen             Clear the canteen wreckage
-objective_food_clearkitchen             Clear the kitchen wreckage
-objective_food_hiremoreworkmen			(OPTIONAL) Hire more workmen to speed up demolition
-
-objective_food_dismissallfiremen_description 	To dismiss an Emergency callout, locate their icon on the right hand side of the screen, and click the red X circle button to send them home.
-objective_food_cleararea_description 	Use the Bulldoze tool to demolish buildings. The bulldoze tool can be found under 'Foundations' in the main toolbar.
-
-adviser_food_familyvisit1				Good work.
-adviser_food_familyvisit2 				Let's check up on our casualty.
-
-adviser_food_troublesoon1				Without food, these inmates will be tearing the walls down within a couple of days.
-adviser_food_troublesoon2 				We've got to secure the prison before we end up with a riot on our hands. 
-adviser_food_troublesoon3 				This is the Deployment screen. From here you can control the tactical deployment of all your guards.
-adviser_food_troublesoon4 				Deploy a spread of guards to all cell blocks and rooms. Assign 10 guards to stations around the prison. That should be a sufficient show of strength for now.
-adviser_food_troublesoon5				I also want a patrol around the inner courtyard where we will be building the new facilities. 
-adviser_food_troublesoon6				One last thing. With the canteen out of action, some food crates have spoiled. Dump them before we get an infestation.
-
-objective_food_deployguards				Deploy 10 guards around the prison
-objective_food_deploypatrol				Assign 2 guards to patrol the inner courtyard 
-
-objective_food_deployguards_description		To deploy guards, open the Deployment screen, then click within a sector to create a Station. A guard will be automatically assigned to that station.
-objective_food_deploypatrol_description		Open the Deployment screen, then select Patrols. Click and drag to draw your patrol routes.\n\nTo assign guards to a patrol, click again on any square within the patrol.
-
-objective_food_dumpfood 				Dump the spoiled food stuffs
-objective_food_dumpfood_description		The spoiled food stuffs can be found in the Storage cupboard, in the North East quadrant of the prison.\n\nTo dump any item, click on it then click on 'Dump' in the popup menu.
-
-adviser_food_doncantspeak1				...
-adviser_food_doncantspeak2				eeugh .... ...
-
-adviser_food_doninfirmary0              I think he's trying to say something.
-adviser_food_doninfirmary1				Which of you, rat-piss mother fuckers did this?
-adviser_food_doninfirmary2 				No one did this to you, pappy. It was an accident.
-adviser_food_doninfirmary3 				Shut your stinking mouth and listen good. The both of you. 
-adviser_food_doninfirmary4 				If I knew which of you fucks started that fire, I'd snap your stinking neck!
-adviser_food_doninfirmary5 				But my time is done. I'm going to die in this fucking bed.
-adviser_food_doninfirmary6 				And there's a family business to run. The Palermo name is all we've got left. So you do the honourable thing you dirty piece of shit fucks. Capiche?
-adviser_food_doninfirmary7				We know what to do, pops.
-adviser_food_donchat13					This isn't over, Nico.
-adviser_food_donchat14					Watch your fucking back.
-
-adviser_food_founddrugs1				You would not believe what I've just been told. 
-adviser_food_founddrugs2				Our guys were dumping some of the old food stuffs. They discovered packs of narcotics and bottles of alcohol hidden in the crates.
-adviser_food_founddrugs3				We'd suspected the Palermo family of smuggling into the facility for some time now, but we'd never been able to determine how.
-adviser_food_founddrugs4 				Some days it doesn't just rain, it pours.
-
-adviser_food_rebuild1                   We've a lot of work still to do.  We need to turn our attention to replacing the kitchen and canteen.
-adviser_food_rebuild2                   First, we need to rebuild the kitchen. You'll need to install several pieces of equipment, and hire some chefs.
-adviser_food_rebuild3					Once that's done, build a new canteen.
-adviser_food_rebuild4					Once you have all that completed, the chefs will automatically start preparing meals for the entire prison.
-adviser_food_rebuild5                   If you aren't sure what to do at any time, try highlighting the objective in the todo list to see some hints.
-
-adviser_food_fightoutro1  				Fantastic. Looks like the Palermo family is running out of members.
-
-adviser_food_sprinklerintro1 			We could have quite a serious narcotics problem on our hands here. But we can't deal with that yet.
-adviser_food_sprinklerintro2 			We've got our kitchen and canteen up and running. Our chefs will work on preparing food for everyone, which should cool things down.
-adviser_food_sprinklers1                I'm concerned that the fire was clearly deliberate, and we don't want a repeat of that.
-adviser_food_sprinklers2 				Install a sprinkler system over the new kitchen and canteen and connect them to the water mains.
-
-adviser_food_explainneeds1 				All prisoners have needs. Those needs directly impact how your prisoners behave. Right now, everyone is starving hungry, and that's what all the shouting has been about.
-adviser_food_explainneeds2 				Food is one of their highest priority needs, and you ignore it at your peril. A prison is just a few failed meals away from a wall to wall riot.
-adviser_food_explainneeds3 				You can monitor the needs of all your prisoners from the Needs Report, which you can normally access through the Reports icon in the bottom right.
-adviser_food_explainneeds4				This report shows the combined needs of all your prisoners. Red means a lot of prisoners are angry about this particular need not being met.
-adviser_food_explainneeds5 				As you'd expect, Food is red for virtually everyone. But these prisoners are also very bored (Recreation need), and the prison is in a pretty shabby state which is reflected in their Environment and Clothing needs.
-adviser_food_explainneeds6				It's your decision, as the resident prison architect, which needs you will try to attend to first.  You could install televisions in their cells to keep them occupied, and hire some Janitors to clean the place up.
-adviser_food_explainneeds7				Or you can just ignore your prisoners needs altogether, and rely on force to keep your prison under control.
-adviser_food_explainneeds8 				I'll leave it up to you.
-
-objective_food_needs 					(OPTIONAL) Take care of your inmates needs
-objective_food_handlefoodneed 			(OPTIONAL) Handle the Food needs of your prisoners 
-objective_food_handleboredomneed		(OPTIONAL) Handle the recreational needs of your prisoners 
-objective_food_handleenvironmentneed	(OPTIONAL) Handle the environmental needs of your prisoners
-
-objective_food_needs_description 					You can see the overall needs of all your prisoners by clicking on Reports (bottom right of the screen), then Needs.\nYou can also highlight a prisoner and see which needs are affecting him.\n\nNeeds can never be permanently dealt with - it's always an ongoing battle.
-objective_food_handlefoodneed_description 			Our chefs will prepare food for everyone, and all inmates should be fed by the end of the next meal time.
-objective_food_handleboredomneed_description 		Boredom can be tackled quite effectively by installing televisions in each person's cell. Or you could build a common room and place some tvs and pool tables in there.\n\nYou can also place tvs in shared rooms like the Canteen.
-objective_food_handleenvironmentneed_description 	Hire some janitors and they will gradually clean the place up.
-
-adviser_food_needssuccess1 				You've shown an admirable dedication in taking care of your prisoners needs. Well done.
-adviser_food_needssuccess2 				You'll probably have noticed by now that the major remaining gripe amongst prisoners is the lack of clean clothing. 
-adviser_food_needssuccess3 				If you want to take care of this need as well, you'll need to run a laundry service to gradually provide all your inmates with clean clothing.
-adviser_food_needssuccess4 				Build a laundry and hire more janitors to start providing clean laundry to our inmates.
-
-objective_food_laundry 					(OPTIONAL) Clean Clothing
-objective_food_buildlaundry 			(OPTIONAL) Build a Laundrette
-objective_food_hirejanitors             (OPTIONAL) Hire enough janitors to run your laundry
-objective_food_handleclothingneed 		(OPTIONAL) Handle the clothing needs of your prisoners
-
-objective_food_buildkitchen             Build a Kitchen (approx 12m sq)
-objective_food_buildkitchencookers      Install at least four Cookers
-objective_food_buildkitchenfridges      Install at least four Fridges
-objective_food_buildkitchensink         Install a Kitchen Sink
-objective_food_buildkitchenbin	 		Place a Bin in the Kitchen
-objective_food_buildkitchenwatermains 	Connect the Sink to the water mains
-objective_food_buildkitchenfloor 		(OPTIONAL) Improve the kitchen floor
-
-objective_food_buildkitchen_description		You will need to construct Foundations first.
-objective_food_buildcanteen_description		You will need to construct Foundations first.
-
-objective_Food_HireChefs				Hire at least 8 Cooks
-objective_food_CookMeals				(Automatic) Prepare meals for all inmates
-
-objective_food_buildcanteen             Build a Canteen (approx 20m sq)
-objective_food_buildservingtables       Install two Serving Tables
-objective_food_buildcanteentables       Install at least six Tables
-objective_food_buildcanteenchairs       Install two Benches around each Table
-objective_food_buildcanteenbin	 		Place a Bin in the Canteen
-objective_food_buildcanteenfloor 		(OPTIONAL) Improve the Canteen floor
-
-
-objective_food_buildsprinklers          Install a new sprinkler system
-objective_food_buildsprinklers1         Install a couple of sprinklers in the Kitchen
-objective_food_buildsprinklers2         Install a couple of sprinklers in the Canteen
-objective_food_connectwater             Connect the kitchen sprinklers to the water mains
-objective_food_connectwater2			Connect the canteen sprinklers to the water mains
-objective_food_feedprisoners            Complete one dinner service by feeding all the prisoners
-
-objective_food_buildkitchenwatermains_description   Large pipes are for moving large volumes of water under high pressure. Small pipes are for connecting individual items to the water supply.\n\nUse the UTILITIES view to place large pipes to your buildings. Then use small pipes to connect the large pipe to all of the objects nearby that need a water supply.
-objective_food_connectwater_description             Large pipes are for moving large volumes of water under high pressure. Small pipes are for connecting individual items to the water supply.\n\nUse the UTILITIES view to place large pipes to your buildings. Then use small pipes to connect the large pipe to all of the objects nearby that need a water supply.
-objective_food_connectwater2_description            Large pipes are for moving large volumes of water under high pressure. Small pipes are for connecting individual items to the water supply.\n\nUse the UTILITIES view to place large pipes to your buildings. Then use small pipes to connect the large pipe to all of the objects nearby that need a water supply.
-
-campaigncutscene_foodinfirmary			Infirmary
-campaigncutscene_foodfamily             Family
-campaigncutscene_foodfeud               Feud
-campaigncutscene_foodregret				Regret
-campaigncutscene_foodsuccession 		Succession
-
-campaigncutscene_foodfamily_description		The Palermo family once ran narcotics across all of east coast America. Discover the backstory of Don Palermo and his children.
-
-adviser_name_thedon                     Don Palermo
-adviser_name_thedonangry                Don Palermo
-adviser_name_nico                       Nico Tamoretti 
-adviser_name_nicoshower					Nico Tamoretti
-adviser_name_nicosuited					Nico Tamoretti
-adviser_name_sonny                      Sonny Palermo 
-adviser_name_sonnysuited				Sonny Palermo
-adviser_name_sonnystrangled				Sonny Palermo
-adviser_name_anthonysuited				Anthony Palermo
-adviser_name_wiggins					Wiggins
-adviser_name_nicoinfirmary				Nico Tamoretti
-adviser_name_vitalia					Vitalia Palermo
-
-cutscene_foodfamily_palermo01			Don Victor Palermo. Boss of one of the east coast's most feared mob families.
-cutscene_foodfamily_palermo1			The Palermo's eluded the FBI for decades.
-cutscene_foodfamily_palermo02			Anthony Palermo, the Don's eldest son and natural heir, ran the day to day operations. 
-cutscene_foodfamily_palermo03			Nico Tamoretti wasn't a made man, but was welcomed into the family business when he married the Don's only daughter, Vitalia.
-cutscene_foodfamily_palermo04			And Sonny Palermo. The Don's second son. The runt of the litter. Temper like a pitbull, and only half as smart.
-
-cutscene_foodfamily_palermo2 			Their empire ran a narcotics trade from Maine to Florida. 
-cutscene_foodfamily_palermo3			That was until Anthony got caught in flagrante delicto.
-cutscene_foodfamily_palermo3b           Shot dead by a jealous husband.
-cutscene_foodfamily_palermo4			Unfortunately for the family, police at the scene found twelve kilos of uncut cocaine in Anthony's sports bag. 
-cutscene_foodfamily_palermo5			And the evidence led straight to the top.
-cutscene_foodfamily_palermo6			Overnight everything the Palermo family had built up crumbled to the ground. The FBI had everything they needed to ensure they'd all rot in jail.
-cutscene_foodfamily_palermo7			Which leaves Vitalia, the Don's daughter, the only living member of the family who isn't behind bars.
-cutscene_foodfamily_palermo8			We don't know much about her, other than she was always kept outside the family business. 
-cutscene_foodfamily_palermo9 			But somebody on the outside must have been sending those drugs in.
-
-adviser_food_findalldrugs1				That's the food situation dealt with.  The inmates will be a lot happier now that they're being fed again.
-
-adviser_food_findalldrugs2				You can bet the Palermo's were selling those narcotics on to every con here. 
-adviser_food_findalldrugs3				The guards are telling me they've seen a lot of prisoners showing signs of withdrawal since the fire. 
-adviser_food_findalldrugs4				I want you to search every prisoner and every cell. I bet we find Palermo drugs all over the prison.
-
-objective_food_findalldrugs					Find all the drugs in the prison
-objective_food_findalldrugs_description 	Search each cell block by clicking on a prisoner within that cell block, then clicking 'Search Cell Block'. Or use the Shakedown option in the toolbar at the bottom of the screen.
-
-objective_food_hiremoreguards 			(OPTIONAL) Hire more guards to speed up the search
-
-adviser_food_drugsfound1				On the positive, it's not as bad as it could have been, but there are definite problems with drug and alcohol dependency.
-adviser_food_drugsfound2				We need to help these men.  It's the only way of curbing their activities and dealing with their symptoms. 
-adviser_food_drugsfound2b 				Start a drug treatment program in the infirmary. Our Doctors will administer a chemical substitute that will help alleviate the cravings in our addicts.
-adviser_food_drugsfound3				For the alcoholics, there isn't a chemical substitute, so I suggest we start group therapy sessions. 
-adviser_food_drugsfound4				You'll have to build a new Common Room to run those meetings.
-adviser_food_drugsfound5				To start new Programs, go to 'Reports' in the bottom right of the screen, then 'Programs'.
-
-objective_food_drugtreatment			Start a drug treatment program
-objective_food_cureaddictions			(OPTIONAL) Start curing the inmates drug addictions
-objective_food_alcoholprogram			Start a group therapy program for alcoholics
-objective_Food_HelpAlcoholics			(OPTIONAL) Start helping the alcoholics through recovery
-objective_food_buildcommonroom 			Build a common room 
-objective_food_buildcommonroomchairs	Create a meeting place made up of 8 chairs
-
-objective_food_drugtreatment_description 	Click on 'Reports' in the bottom right of the screen, then select the 'Programs' tab. The program is called 'Pharmacological Treatment of Drug Addiction', and takes place in the Infirmary.\n\nNb you will require at least two hours of Work time set in the Regime, to permit prisoners to attend.
-objective_food_alcoholprogram_description 	Click on 'Reports' in the bottom right of the screen, then select the 'Programs' tab. \n\nNb you will require at least two hours of Work time set in the Regime, to permit prisoners to attend.
-
-cutscene_food_feudintro1 				We've had an incident in the showers. There's a body. 
-cutscene_food_feudintro2 				Actually, there's two bodies. Luckily for us, we've got cameras in there. 
-cutscene_food_feudintro3 				When you get a moment, click on the Polaroid in the Showers and we'll take a look at what happened.
-
-objective_food_triggerfightscene		When you are ready, click on the polaroid in the Showers to proceed.
-objective_food_triggerfightscene_description 	The Showers are on the North West corner of the facility.
-
-cutscene_food_feud1b                    Alone. Perfect.
-cutscene_food_feud1                     You took your time.
-cutscene_food_feud2                     Cut the bullshit. I never did know what that sister of mine saw in you.
-cutscene_food_feud2b 					This her idea? Off the old man?
-cutscene_food_feud3                     Is that what you think, you fat fuck? I didn't mean for him to get hurt. I love him like he's my own father.
-cutscene_food_feud3b 					I'm sick of seeing this family brought down by your stupidity.
-cutscene_food_feud4                     The fire was meant for you.
-cutscene_food_feud5                     Then consider this repaying the favour.
-cutscene_food_feud6                     Don't come the saint. We both know you planned to take me out one day.
-cutscene_food_feud7                     Yeah, you always were a smart guy, Nico. Look where it got you. Don't worry, you won't feel a thing.
-cutscene_food_feud8                     I told you. Watch your back.
-cutscene_food_feud8b                    euuegggghhhh!!!!!.....
-cutscene_food_feud8c                    AAARRRGGRGGGGGG!!!!
-cutscene_food_feud8d                    Have you met Franky before?  He's got a unique talent with piano wire.
-cutscene_food_feud8e                    Honestly, by the time he's finished, they'll think it was suicide.
-cutscene_food_feud9                     This isn't over, Nico.
-cutscene_food_feud9b                    You have got to be kidding me.
-
-cutscene_food_successionintro			Very good. We've made a real difference here, and I think the prison is back under control.
-cutscene_food_successionintro2 			You can stay and improve the prison further, or we can move on to the next facility.
-cutscene_food_successionintro3 			When you are ready to move on, click on the Polaroid in the Infirmary.
-
-objective_food_runending 				When you are ready, click on the polaroid in the Infirmary to proceed.
-objective_food_runending_description	The Infirmary is on the south-west edge of the prison facility.
-
-cutscene_food_succession1				Vitalia! 
-cutscene_food_succession1b				...?
-cutscene_food_succession2				Sweet cheeks!
-cutscene_food_succession3				I'm sorry. I fucked up.
-cutscene_food_succession4				Hush now.
-cutscene_food_succession5				They said pops won't last the week.
-cutscene_food_succession6				I know. I came to say goodbye.
-cutscene_food_succession7				You know, we could walk away now. You and me. This fucking life. It's taken everything.
-cutscene_food_succession8				I'd like that.
-cutscene_food_succession9				But I can't. I'm a Palermo, Nico.
-cutscene_food_succession10				And with papa gone, and you an outsider in his place. Our enemies would walk right over this family. 
-cutscene_food_succession11 				I can't have that. I have to show them a Palermo still sits on the throne.
-cutscene_food_succession12				What, so you're here to fucking whack me? After all we've been through?
-cutscene_food_succession13				Nico, Nico, Nico. You're so old school. 
-cutscene_food_succession14 				No, sweetheart. I'm divorcing you.
-cutscene_food_succession15				The fuck? You kidding me? I'm a dead man in here without the family behind me.
-cutscene_food_succession16				I know, sweetheart. But that's not my concern any more.
-cutscene_food_succession17				I wish you to a better place, pappy.
-cutscene_food_succession18				Goodbye, Nico.
-
-
-# =============================================================================
-# Riot 
-# =============================================================================
-
-campaignchapter_riot                    G.A.B.O.S
-campaignchapter_riot_description		There is a riot in progress at Alchemico State Prison. Get in there and re-secure the building.
-
-campaigncutscene_riotintro              Breaking News
-
-adviser_riot_newsintro_01				Breaking news! 
-adviser_riot_newsintro_02				Riot at Alchemico State Prison - staff and security have withdrawn to the perimeter to wait for military assistance.
-adviser_riot_newsintro_1				A number of personnel are still unaccounted for, including company CEO Charles Wallace.
-adviser_riot_newsintro_2				Rioting erupted following the arrest of several high-profile judges ...
-adviser_riot_newsintro_3				... alleged to have taken kickbacks in return for imposing harsher prison sentences.
-adviser_riot_newsintro_4				Adding fuel to the fire, sources say the criminal underworld has recently been rocked by a series of high profile murders ...
-adviser_riot_newsintro_5				... including the attempted assassination of mob boss Victor Palermo last month.
-adviser_riot_newsintro_6				CEO Charles Wallace's deputy, a relative newcomer to the post, has been tasked with restoring order.
-adviser_riot_newsintro_7				It has yet to be seen whether a lack of experience will prove costly during this difficult crisis.
-adviser_riot_newsintro_8                Douglas Benedict, currently serving a life term, is believed to be the ringleader behind the outbreak of violence.
-
-adviser_riot_newsintroheller_1 			City Mayor Calvin Heller released this statement just a few moments ago.
-adviser_riot_newsintroheller_2 			To those who question our policies of punitive reform, this should act as a stark reminder. 
-adviser_riot_newsintroheller_3 			These men have housing and food provided. The privilege of paid work. 
-adviser_riot_newsintroheller_4 			This is how they reward the taxpayers who subsidise their comforts.
-
-campaigncutscene_riothostages			Hostages
-adviser_name_riotceo					The CEO 
-adviser_name_riotbenedict 				Benedict
-
-adviser_riot_hostages1					Listen up. We've got your CEO. 
-adviser_riot_hostages1b 				Euugg... ...
-adviser_riot_hostages2 					So this is how it works. I ask. You give. 
-adviser_riot_hostages3					Any problems, send anyone in, or if I even smell a cop, I put a bullet in his skull.
-adviser_riot_hostages4 					We want an unmarked vehicle. Blacked out windows. Full tank. One hour. I’ll be in touch.
-adviser_riot_hostages5 					Now, where were we.
-adviser_riot_hostages5b					What were you doing in that office?
-adviser_riot_hostages6					I swear, I don't know anything.
-adviser_riot_hostages7					I seen my own reflection enough to know a man doing wrong.
-adviser_riot_hostages8					What were you hiding?
-adviser_riot_hostages9					I belong in a place like this. But the kid...what good did it do anybody, that boy doing more time?
-adviser_riot_hostages10					You know something, and telling me's the only way to get out here alive.
-
-adviser_riot_hostageheller1 			This is completely unacceptable. We need eyes on that canteen so we can see what's happening.
-adviser_riot_hostageheller2 			There's a small security room to the north of the canteen. We need to secure it.
-adviser_riot_hostageheller3 			Deploy some Guards in there to man the CCTV console, and we'll get vision of the whole cell block.
-
-objective_Riot_MaxSecCameras			Recapture security room
-
-campaigncutscene_riotroulette			Roulette
-
-adviser_riot_rouletteintro1             We've got a guard in the security room, so we're getting the live pictures from the CCTV camera system.
-adviser_riot_rouletteintro2             Let's take a look at the hostage situation.
-adviser_riot_click 						<click>
-adviser_riot_roulette1					Last chance to walk out of here, boss man. Ever play two-ball tag?
-adviser_riot_roulette2 					Two bullets. Four empty chambers. 
-adviser_riot_roulette2b 				Used to play this with Jackrabbits. We'd blow their heads clean off. 
-adviser_riot_roulette3 					But you'll work just the same.
-adviser_riot_roulette4 					Let's start with a simple question. What were you doing in that office?
-adviser_riot_roulette5 					I swear, I don't know anything.
-adviser_riot_roulette5b 				Really.
-adviser_riot_roulette6 					Fine. Who goes first? You? Me? What about this guy?
-adviser_riot_roulette7					What do you know. Just like a Jackrabbit.
-adviser_riot_roulette8 					WHAT WAS IN THOSE FILES?
-adviser_riot_roulette9 					I swear! I don't know...
-adviser_riot_roulette10 				Luck's running out. Still a bullet in there somewhere. And I know what I saw.
-adviser_riot_roulette11b 				Couldn't believe my own eyes.
-adviser_riot_roulette11c 				The big company man himself, here in my prison. Looking guilty as fuck. 
-adviser_riot_roulette11d 				I’m guessing there was more in those files than just my rap sheet.
-adviser_riot_roulette11					Please... please don't. 
-adviser_riot_roulette11e 				Odds are getting shorter, Wallace.
-adviser_riot_roulette12 				I tell you what, I'll make it easier for you.
-adviser_riot_roulette12b	 			Alright, enough with this bullshit.
-adviser_riot_roulette13 				It's your turn, motherfucker.  Unless you tell me what I want to know.
-adviser_riot_roulette14 				I can't. Please.
-adviser_riot_roulette15 				Okay! Please! Please. Don't shoot. It was money. It was all money.
-adviser_riot_roulette16 				That's it?
-adviser_riot_roulette17 				You're valuable commodities. The longer any of you are in here, the more profit we make. We were just bending the rules. 
-adviser_riot_roulette17b				That file was the proof.
-adviser_riot_roulette18 				So what are we worth? What do you get for keeping us inside?
-adviser_riot_roulette19 				Seventy three thousand dollars a year.
-adviser_riot_roulette20					Each? Sonofabitch. It's time for you to start paying back.
-
-campaigncutscene_riotassault 			Breach
-
-adviser_riot_assault01					That's it. It's time to bring this situation to an end. 
-adviser_riot_assault02 					The team is all in position. 
-adviser_riot_assault03					I want my wheels now. Wallace is joining us. And if I catch sight of a tail you’ll be scraping pieces of him off the freeway.
-adviser_riot_assault2 					Right then, big man. You're coming with us. They won't risk anything stupid with you riding shotgun.
-adviser_riot_assault3 					None of us are getting out of here. It’s not you they want.
-adviser_riot_assault4 					What you talking about?
-adviser_riot_assault5					I did it for money. But HE did it for political gain. The longer the sentences, the more votes he got.
-adviser_riot_assault6					Who the fuck you talking about?
-adviser_riot_assault7					Mayor Heller. It was his blueprint. I just oiled the wheels. 
-adviser_riot_assault7b 					Those files were the evidence that could destroy his career.
-adviser_riot_assault8					You are shitting me.
-adviser_riot_assault9 					What the fuck...
-adviser_riot_assault9b					They're coming in, get ready!
-adviser_riot_assault10					I FUCKING WARNED YOU!
-
-# Riot Objectives and help text
-
-adviser_name_negotiator 				The Negotiator
-
-adviser_riot_negotiator1 				It's out of control here. Nobody is in charge.
-adviser_riot_negotiator2 				We've got multiple casualties, and the remaining guards won't go into the rioting cell blocks.  We've had to pull back to the perimeter.
-adviser_riot_negotiator3 				Figure out what to do, and put a stop to this before it gets out of hand.
-adviser_riot_negotiator4 				Riot police should be here in a few minutes.
-
-adviser_riot_firstreinforcements1 		The first of the response teams has arrived. 
-adviser_riot_firstreinforcements2 	 	These guys are Riot Guards, and they're much more heavily armoured. Use these guys to start retaking the captured prison wings. 
-adviser_riot_firstreinforcements3 		We've also got some paramedics from the nearby state hospital.  
-adviser_riot_firstreinforcements4 		I suggest you use them to give emergency medical attention to your Riot Guards as they retake the prison.
-
-objective_Riot_StopTheRiot 				Stop the riot
-objective_Riot_StopTheRiot_description  Nobody is in charge. You need to figure out what to do.
-
-adviser_riot_helleradvice1				I assume this is the CEO's deputy with whom I'm speaking. 
-adviser_riot_helleradvice2 				I appreciate this is a very difficult time and we are all under intense scrutiny. Rest assured, you have my full support in using any and all resources at your disposal. 
-adviser_riot_deployguards1				We've gained a foot hold, and retaken some of the prison. And the loss of life so far is completely justifiable.
-adviser_riot_deployguards2				But before you push on and retake the rest of the prison, you should re-secure the wings that you have captured.
-adviser_riot_deployguards3				Hire some guards and assign them to the recaptured sectors from the Deployment screen. They will ensure the captured wings stay captured.
-adviser_riot_deployguards4 				Once you've taken care of that, push into the remaining zones and put these monsters down. These animals can't be rehabilitated. And they can't be negotiated with.
-adviser_riot_deployguards5 				I'm working on authorising an Armed Response team that will put an end to this quick.
-
-adviser_riot_infirmary1 				You've got wounded all over the prison, and more to come no doubt. You can't just leave them to bleed to death. 
-adviser_riot_infirmary2 				Build an Infirmary somewhere on site, and hire Doctors to treat the injured.
-adviser_riot_infirmary3 				We've also seen quite a few bodies.  For the sake of their dignity, we need to build a Morgue and start collecting them up.
-adviser_riot_infirmary4					You'll need to hire workmen to do the construction work. Be sure to keep them safe.
-
-objective_Riot_ResecureWings 			Hire guards and deploy them to the recaptured zones
-objective_riot_medicalneeds				(OPTIONAL) Tend to the medical needs of your prison
-objective_Riot_Infirmary				(Optional) Build an Infirmary and treat the wounded
-objective_Riot_Morgue 					(Optional) Build a Morgue and collect the dead
-objective_Riot_SecureGenPop				Recapture the Gen-Pop wing (central)
-objective_Riot_SecureSpecialWing		Recapture the Special wing (west)
-objective_Riot_SecureMaxSec				Recapture the Max-Sec wing (south)
-objective_riot_putoutfires				Bring the fire under control
-
-adviser_riot_secondreinforcements1		More Riot Guards have arrived.
-
-adviser_riot_armedreinforcements1		The Mayor has brought in some armed police from the nearby police station.
-adviser_riot_armedreinforcements2		Be careful with these guys. You might just end up with a bloodbath on your hands if you let them loose.
-adviser_riot_armedreinforcements3		On the other hand, the prisoners may choose to surrender when they see these guys coming in.
-
-adviser_riot_reinforcementsunlocked1 	The main bulk of the reinforcements have arrived.
-adviser_riot_reinforcementsunlocked2 	You can now call up as many squads of Riot Police and Paramedics as you need, from the Emergencies toolbar.
-
-adviser_riot_cleanup1                   The facility is under control, and the rioters have been subdued. It could easily have turned out a lot worse.
-adviser_riot_cleanup2                   We've got one hell of a clean-up operation ahead of us. I'd appreciate your help with that, if you've the time.
-adviser_riot_cleanup2b 					We don't have any building contractors on site, so the first step will be to hire some new workmen to get to work repairing the place.
-adviser_riot_cleanup3                   I always thought security here was much too lax. These inmates have been given too much free rein for too long. That stops today.
-adviser_riot_cleanup4                   I want you to build us a new Armoury, then deploy armed guards at key positions around the prison. The sight of that will subdue these prisoners and they'll think twice about causing this much trouble again.
-adviser_riot_cleanup5                   I'm also approving the funds to provide body armour to all guards on site. Our men need to be able to defend themselves.
-adviser_riot_cleanup6                   Let's continue. These prisoners need discipline. Order in their lives. I suggest we put them to work tidying up the mess they've made.
-adviser_riot_cleanup7                   Start up a labour program for our inmates, and put them to work cleaning the prison and doing the laundry.
-adviser_riot_cleanup7b                  You can assign prisoners to work from the toolbar, under Logistics. Highlight the objective for more detailed help on how to do this.
-adviser_riot_cleanup8                   We've a few other requirements. There are a lot of prisoners who need to be taught the error of their ways. Build a new Solitary Confinement wing.
-adviser_riot_cleanup8b                  Our guards will take care of moving inmates to Solitary as required. Solitary Confinement gives inmates time to reflect on what they've done, and reminds them who is in charge around here.
-adviser_riot_cleanup9                   And let's not forget the staff, who made it through this ordeal with us. They are exhausted.
-adviser_riot_cleanup9b 					Build a staff room somewhere to give them somewhere to recover.
-adviser_riot_cleanup10                  Finally, we need to bring all of this in on a budget. Make sure we have a positive bank balance and cash-flow. 
-adviser_riot_cleanup10b 				Prisoner labour is substantially cheaper than contractors when it comes to cleaning, janitorial work, laundry and the like. 
-adviser_riot_cleanup11                  There's a lot to do here. We really appreciate your help.
-adviser_riot_cleanup12                  Once you feel you've done enough and are ready to move on, click on the polaroid by the front gates.
-
-adviser_riot_cleanup13 					Excellent work. I think the security of this facility is looking much stronger now. 
-
-objective_riot_solitary 				(OPTIONAL) Build a Solitary wing and start punishing rioters
-objective_riot_armoury 					(OPTIONAL) Implement new security protocols
-objective_riot_armoury_research			Unlock the Armoury through Bureaucracy
-objective_riot_armoury_build 			Build an Armoury (in a secure location)
-objective_riot_armoury_deploy			Deploy armed guards around the prison
-objective_riot_armoury_armour 			Unlock body armour for all security staff
-objective_riot_armoury_tazers 			Unlock Tazers for your armed guards 
-objective_riot_staffroom 				(OPTIONAL) Build a Staff Room for your exhausted staff 
-objective_riot_balancebooks 			(OPTIONAL) Balance the accounts 
-objective_riot_balancebooks_balance 	Positive Bank Balance 
-objective_riot_balancebooks_cashflow 	Positive Cash-flow
-objective_riot_prisonerwork				(OPTIONAL) Establish a punitive labour program 
-
-objective_riot_cleaningcupboard			Build a Cleaning Cupboard 
-objective_riot_laundry					Build a Laundry 
-objective_riot_inmatesincleaning 		Assign inmates to work in Cleaning
-objective_riot_inmatesinlaundry			Assign inmates to work in Laundry
-objective_riot_cleanprison 				Clean the prison 
-objective_riot_providelaundry			Provide clean laundry
-
-objective_riot_armoury_research_description		The bureaucracy icon is just above this todo list. Click to begin work on the 'Armoury' - your Chief will do the paperwork. 
-objective_riot_armoury_deploy_description       To deploy armed guards, go to Deployment then 'Armed Patrols'. Click and drag to draw patrols where you want them, then click again on the patrols to assign armed guards to them.
-objective_riot_armoury_guardtazers_description  Look in Reports / Programs - you will see 'Guard Tazer Training'.\n\nYour guards need training before they can use Tazers. You will need to build a Classroom in which to perform this training.
-objective_riot_prisonerwork_description         To assign prisoners to work, go to 'Logistics' then 'Prison Labour'. Click to add jobs to any room highlighted in green.\n\nYou must also specify when prisoners are to work. Go to Reports / Regime, and add several hours of 'Work' time into the day. Inmates will work if there are jobs available during this time.
-
-objective_Riot_PlayerExitsMap			Click on the polaroid outside the main entrance when you are finished.
-
-
-# =============================================================================
-# Conviction
-# =============================================================================
-
-campaigncutscene_convictionheist        Heist
-campaigncutscene_convictionmorgan       Morgan
-campaigncutscene_convictionvisitation   Visitation
-campaigncutscene_convictionsuicide      Suicide
-
-campaignchapter_conviction              Conviction
-campaignchapter_conviction_description  One of our inmates has been put on suicide watch. Henry Morgan, Benedict's partner in crime. Thirteen months into a five year sentence. Help us take care of these men.
-
-adviser_name_benedictarmed              Benedict
-adviser_name_morgan                     Henry Morgan
-adviser_name_morganarmed				Henry Morgan
-adviser_name_morganhappy                Henry Morgan
-adviser_name_senator                    Senator Walter Hurst
-adviser_name_detective                  Police Detective
-adviser_name_kerry 						Kerry Morgan 
-adviser_name_hurst 						Doctor Walter Hurst 
-adviser_name_keane 						Officer Keane 
-
-adviser_conviction_heist1               Grab the money, kid.
-adviser_conviction_heist2               Drop your weapons, now!
-adviser_conviction_heist2b				Oh shit!
-adviser_conviction_heist3               Shoot, goddamnit!
-adviser_conviction_heist4               What the hell you waiting for, shoot you fucking pussy!
-adviser_conviction_heist6               Sons of bitches!
-adviser_conviction_heist7               Don't shoot! Don't shoot!
-adviser_conviction_heist8               HANDS UP, MOTHERFUCKERS!
-adviser_conviction_heist9               Do exactly what I do, understand?
-adviser_conviction_heist10              Shit, shit, SHIT!
-adviser_conviction_heist11              Don't shoot! DON'T SHOOT!
-
-conviction_intro_1                      Following the recent tragedy at Alchemico State Prison, we are under immense political scrutiny.
-conviction_intro_2                      Until a permanent replacement is found for the CEO position, I’d like you to take the reins.
-conviction_intro_3                      There have been a spate of suicides at this facility recently, and it's not hard to see why. But we have a more immediate problem.
-conviction_intro_4                      The powers that be have decided to send us a huge batch of new inmates. The first will be arriving tomorrow, and we don't have anywhere to house them.
-conviction_intro_5                      We need you to build a brand new cell block, with enough space to handle the new intake. 
-conviction_intro_5b 					I've laid out a potential design for the new cell block here. This should give us enough new cells to handle the intake, and the design includes its own shower facility. 
-conviction_intro_5c 					But it's up to you if you choose to follow this design or do something totally different.
-conviction_intro_6                      My job is to prioritise the welfare of these men. Get that new cell block built, then we'll talk about how to achieve that.
-
-unused_conviction_intro_4                      One of our inmates has been put on suicide watch. Henry Morgan, Benedict's partner in crime. Thirteen months into a five year sentence.
-unused_conviction_intro_7						I want to go and talk to him. We can't have another suicide.
-
-conviction_workintro1                   We've treated these men like dirt for too long. That ends now.
-conviction_workintro2                   The previous CEO was never a big believer in prisoner reform.  But the way I see it, we need to provide these men with some sense of hope for the future.
-conviction_workintro3                   We need to give them the skills they need to succeed when they're released - valuable trade skills, a basic education.
-conviction_workintro4                   We should start a work apprenticeship scheme.  Train these men with some real world skills, so they at least have a future they can look forward to.
-
-
-conviction_hurst1 						The lack of engagement at this facility is shocking. Men deprived of every shred of humanity.
-conviction_hurst2 						They're being shown scant compassion or respect. 
-conviction_hurst3 						It's not what these men deserve.
-conviction_hurst4 						Indeed, Captain. This is no way to treat a human being. They're deprived of every shred of humanity. 
-conviction_hurst4b 						Why should they abide by our rules? You can’t expect them to respond in any way but with the utmost resentment. 
-conviction_hurst4c						We need classrooms, drug rehabilitation programs. A workshop, so they can start to take some pride in their skills.
-conviction_hurst6 						You misunderstand me, Doctor. These men aren't human.  See for yourself.
-conviction_hurst6b 						On your feet, Morgan!
-conviction_hurst7 						You've got a visitor.
-conviction_hurst8 						Rehabilitation? Might as well teach monkeys to play the banjo.
-
-conviction_hurst10 						What's your name son?
-conviction_hurst10b                     Man asked you a question.
-conviction_hurst11 						Henry, sir.
-conviction_hurst12 						Must be cold down there, Henry. Put this on.
-conviction_hurst13 						Lice in the beds sir. Eating me alive. Shirt keeps out the rats. Biggest ones I ever seen.
-conviction_hurst14 						Call me Walter.
-conviction_hurst15 						How are you sleeping?
-conviction_hurst16 						Don’t sleep. Only thing I do in here is think. Lots of time for thinking.
-conviction_hurst16b                     What do you think about?
-conviction_hurst16c                     Dying mostly. And my little girl.
-conviction_hurst17 						She’ll need you to be strong, Henry. This will be hard for her too.
-conviction_hurst18 						Been behind bars every day of her life. She don't even know I exist.
-conviction_hurst19 						It's never too late to change a life, Henry. 
-conviction_hurst19b 					I'd like to come and see you again if I may.
-conviction_hurst20 						Yes, sir. Thank you, sir.
-conviction_hurst21 						Can we do something about those rats? This isn't the third world.
-conviction_hurst22 						I'll get some rat poison in there.
-
-conviction_visitationintro_1            I managed to persuade the chief to make an exception for Morgan's family visitation.
-
-conviction_visitation_0					Hello, Sir. Kerry Morgan, here to see Henry Morgan.
-conviction_visitation_1					Behind the line.
-conviction_visitation_2 				I'm sorry. I'm here to see Henry. Henry Morgan. He's my husband, sir.
-conviction_visitation_3 				I won't tell you again. Behind the line. Now.
-conviction_visitation_4 				Yes, sir. Sorry, sir.
-conviction_visitation_5 				Okay. Come forward. I haven't got all day.
-conviction_visitation_6					Name.
-conviction_visitation_7					Kerry Morgan, sir. Here to see Henry Morgan. And this here's his baby girl.
-conviction_visitation_8					That's what you tell him is it?  Go on through.
-conviction_visitation_8a                Kerry!
-conviction_visitation_9					Afraid there's been a mistake. Morgan's lost his visitation privileges.
-conviction_visitation_9b 				What? 
-conviction_visitation_9c 				I'm sorry. We found liquor in his cell this morning. There's nothing I can do.
-conviction_visitation_10				It took me two hours to get here. My daughter's crying. This isn't fair.
-conviction_visitation_11				You want fair, go to Disneyland. Fair is somewhere you win goldfish and eat hot dogs. You won't find it here.
-conviction_visitation_12				Please, give him this.
-conviction_visitation_13                Sure thing. He won’t be having visitors for quite some time. Any message?
-conviction_visitation_14                No. No message.
-
-conviction_visitation_angrymorgan0		No!
-conviction_visitation_angrymorgan1		Wait!
-conviction_visitation_angrymorgan2		You can't do this!
-conviction_visitation_angrymorgan3		Let me talk to her!
-conviction_visitation_angrymorgan4		You fucking assholes!
-
-conviction_helpinmates_1                That is very disappointing.
-conviction_helpinmates_2                It is so difficult to find ways to genuinely help these men. They really need to be taught to help themselves.
-conviction_helpinmates_3                I think it's clear we need to tackle the visitation facility. Families are queuing out the door, and we clearly can't handle the volume of visitors we are now seeing.
-conviction_helpinmates_4                Build a brand new visitation facility. Despite what happened to Morgan, I think we'll see a positive benefit. And he isn't the only inmate here with family.
-conviction_helpinmates_5                I've been doing some research and I'm astonished to find that many of these inmates have only the most basic maths and reading skills. We need to start to remedy this.
-conviction_helpinmates_6                Open up a new classroom facility, and let's start bringing in external teachers to teach the basics. Without education, these inmates have no hope of anything other than a life of crime.
-conviction_helpinmates_7                And we need to keep on top of the influx of prisoners. Keep expanding our capacity so that every inmate gets a decent quality cell.
-
-conviction_outro1                       I think we've made a big difference here. We've given these inmates something to work towards, and a reason to keep going.
-conviction_outro2                       You can stay and help us see the first batch of inmates through the education and work programs we've set up, if you want.
-conviction_outro3                       But I think we can handle it from here. When you are ready to leave, click on the polaroid in Morgan's cell.
-
-conviction_secondvisit_1                I was hoping to see you at one of my sessions.
-conviction_secondvisit_2                I can’t do it. I can’t stay in this hole any longer.
-conviction_secondvisit_3                Just take it a day at a time.
-conviction_secondvisit_4                I mean the whole stinking place. In here. Out there. They won't let me see my family. I messed up, sir, and that ain’t about to change.
-conviction_secondvisit_5                Henry, it's going to be okay. I’m right beside you.
-conviction_secondvisit_6                It's funny. He said the exact same thing.
-conviction_secondvisit_7                Who, Henry? You can tell me.
-conviction_secondvisit_8                He looked out for me.
-conviction_secondvisit_9                Ever since we were kids.
-conviction_secondvisit_10               Keep your shit together. Whatever happens, kid.
-conviction_secondvisit_11               I’m right beside you.
-conviction_secondvisit_11b 				Right beside me?
-conviction_secondvisit_12               He ain’t there no more.
-conviction_secondvisit_13               I’ll make you an agreement. Come to my next group and I’ll see if we can relax your visitation privileges.
-conviction_secondvisit_14               You’d do that for me, sir?
-conviction_secondvisit_15               It’s not just for you, Henry.
-
-conviction_suicide_1 					Sorry, sir, thought you ought to know. There’s been another suicide. 
-conviction_suicide_2					Looks like one of the prisoners ingested rat poison.
-conviction_suicide_3					Doctor Hurst is on the way there now to confirm.
-conviction_suicide_4					Ain’t she the most beautiful thing you ever seen?
-conviction_suicide_5					I think she might be.
-conviction_suicide_6					Never too late to change a life, sir.
-
-objective_conviction_expandcapacity50			Handle the new prisoner intake
-objective_conviction_expandcapacity50_description	You can see a potential layout for the new cellblock by going into 'Planning' mode from the main toolbar.
-objective_conviction_expandcapacity_cells	 	Provide cells for 40 inmates
-objective_conviction_expandcapacity_shower		Provide a shower facility 
-objective_conviction_expandcapacity_yard		Provide a yard 
-objective_conviction_expandcapacity_intake		Wait for the next intake to arrive 
-
-objective_conviction_workprogram 				Run a work skills training program
-objective_conviction_unlocklabour				Authorise 'Prison Labour' through Bureaucracy 
-objective_conviction_work_trainkitchen			(OPTIONAL) Train 5 inmates in Kitchen Safety and Hygiene
-objective_conviction_work_kitchen				Assign inmates to work in the kitchen
-objective_conviction_work_workshop				Build a workshop 
-objective_conviction_work_trainworkshop			(OPTIONAL) Put 10 inmates through a Workshop Safety Induction
-objective_conviction_work_assignworkshop		Assign inmates to work in the workshop 
-objective_conviction_work_produceplates			(OPTIONAL) Produce 100 license plates
-objective_conviction_work_exportszone			Assign an exports zone near to the road
-objective_conviction_work_setintake             Set Prisoner Intake level to 10 per day
-
-objective_conviction_unlocklabour_description	 You can find the bureaucracy screen by clicking on the icon above this todo list.
-objective_conviction_work_kitchen_description	 To assign prisoners to the kitchen, go to 'Logistics' then 'Prison Labour'.\n\nNb. Your prisoners must have passed the 'Kitchen Safety and Hygiene' training course before they can work in the kitchen.				
-objective_conviction_work_assignworkshop_description 	To assign prisoners to the workshop, go to 'Logistics' then 'Prison Labour'.\n\nYour prisoners must have passed the 'Workshop Safety Induction' before they are qualified to work in the workshop.
-objective_conviction_work_trainkitchen_description 		To run training and reform programs, go to 'Reports' (bottom right) then 'Programs'. Prisoners will attend these programs during their assigned work time.\n\nNb you will need to assign two hours of 'Work' time in the Regime schedule screen, otherwise prisoners will not have time to attend the training programs.
-objective_conviction_work_trainworkshop_description 	To run training and reform programs, go to 'Reports' (bottom right) then 'Programs'. Prisoners will attend these programs during their assigned work time.\n\nNb you will need to assign two hours of 'Work' time in the Regime schedule screen, otherwise prisoners will not have time to attend the training programs.
-objective_conviction_work_setintake_description         To make sure your prison doesn't become overcrowded, go to 'Reports' (bottom right) then 'Intake', and use the << button to turn the intake level down to 10.
-
-objective_conviction_visitation				Set up a better visitation service 
-objective_conviction_visitationroom	        Build a new visitors centre 
-objective_conviction_visitationcount		Facilitate 20 inmate family visits
-objective_conviction_telephones	 			Add telephones to all Yards
-objective_conviction_mailroom				Build a Mail Room
-objective_conviction_mailroomwork			Assign prisoners to work in the mail room 
-
-objective_conviction_mailroomwork_description           To assign prisoners to the Mailroom, go to 'Logistics' then 'Prisoner Labour'. 
-
-objective_conviction_education				Begin educating your prisoners 
-objective_conviction_unlockeducation		Authorise 'Education' through Bureaucracy
-objective_conviction_education_classroom	Build a classroom 
-objective_conviction_education_class 		Run a Foundation Education class 
-objective_conviction_education_learn		(OPTIONAL) Have 5 prisoners pass the Foundation Education class
-objective_conviction_education_library		Build a library
-objective_conviction_education_librarywork	Assign prisoners to work in the library
-objective_conviction_education_chapel		Build a chapel
-objective_conviction_education_spiritual	Run a Spiritual Guidance class 
-
-objective_conviction_expandcapacity100			Expand the prison's capacity
-objective_conviction_expandcapacity_cells100	Expand to 80 cells capacity
-objective_conviction_expandcapacity_cells200	(OPTIONAL) Expand to 120 cells capacity
-
-objective_Conviction_PlayerExitsMap         Click on the polaroid in Morgan's cell when you are finished.
+﻿campaigncutscene_tooltip 				(Nhấn để tiếp tục chương tiếp theo của cốt truyện)[cite: 1, 2]
+campaignchapter_locked                  (Đã khóa)[cite: 1, 2]
+
+
+# =============================================================================[cite: 1, 2]
+# Food / Palermo[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
+
+campaignchapter_food                    Palermo[cite: 1, 2]
+
+campaignchapter_food_description        Một trận hỏa hoạn lớn đã thiêu rụi nhà bếp và nhà ăn của nhà tù này. Nếu không mau chóng tìm cách cho bọn tù nhân ăn, chúng ta sẽ phải đối mặt với một cuộc bạo loạn quy mô lớn.\nGiải quyết cuộc khủng hoảng lương thực, sau đó xây lại Nhà bếp và Nhà ăn.[cite: 1, 2]
+
+adviser_food_fire_1                     Đang có khủng hoảng chực chờ ở một trong các cơ sở khác của chúng ta.[cite: 1, 2]
+adviser_food_fire_2                     Kẻ nào đó đã châm lửa trong nhà bếp của nhà tù. Ưu tiên hàng đầu là dập lửa, ngăn chặn thương vong và tránh thiệt hại thêm.[cite: 1, 2]
+adviser_food_fire_3                     Dùng nút Dịch vụ Khẩn cấp trên thanh công cụ để gọi lính cứu hỏa.[cite: 1, 2]
+adviser_food_fire_4                     Phải kiểm soát ngọn lửa trước khi nó thiêu rụi toàn bộ nhà tù này![cite: 1, 2]
+
+objective_food_callfirebrigade          Gọi sở cứu hỏa[cite: 1, 2]
+objective_food_extinguishflames         Dập tắt ngọn lửa[cite: 1, 2]
+
+objective_food_callfirebrigade_description 	Để gọi lính cứu hỏa, nhấn nút Khẩn cấp trên thanh công cụ rồi chọn Lính cứu hỏa[cite: 1, 2]
+objective_food_extinguishflames_description  Khi đã chọn lính cứu hỏa, bạn có thể tự nhắm vòi rồng bằng cách giữ phím H. Dùng cách này để tập trung phun nước vào giữa đám cháy.\n\nCố gắng giữ lính cứu hỏa càng gần ngọn lửa càng tốt - họ sẽ làm việc hiệu quả hơn.[cite: 1, 2]
+
+adviser_food_savedon1                   Lạy Chúa, có người sống sót trong đống đổ nát.[cite: 1, 2]
+adviser_food_savedon2					Mẹ kiếp, là Don Palermo. Trong số tất cả đám tù nhân... lại đúng ngay lão trùm mafia của chúng ta.[cite: 1, 2]
+adviser_food_donintro2					Tin buồn cho ông ta là do cắt giảm ngân sách, chúng ta đã phải sa thải toàn bộ bác sĩ thường trực.[cite: 1, 2]
+adviser_food_donintro3				 	Tin tốt là, Phòng Y tế vẫn còn xài được. Hãy thuê vài Bác sĩ và họ sẽ chăm sóc cho Don Palermo trong khi chúng ta dọn dẹp đống mớ bòng bong này.[cite: 1, 2]
+
+adviser_food_afterfire3                 Chúng ta cần dọn sạch đống lộn xộn này.[cite: 1, 2]
+adviser_food_afterfire4                 Dùng công cụ máy ủi để phá dỡ nhà ăn và nhà bếp đã bị thiêu rụi. Bạn cần dọn sạch mọi mảnh vụn.[cite: 1, 2]
+adviser_food_afterfire6                 Thiết lập một Khu vực Đổ rác kế bên đường. Công nhân của chúng ta sẽ vứt đống đổ nát ra đó để xe rác tới dọn đi.[cite: 1, 2]
+adviser_food_dismissfiremen1			Cuối cùng, hãy cho đám lính cứu hỏa về nhà vì họ đã làm xong nhiệm vụ.[cite: 1, 2]
+adviser_food_gamespeed                  Phá dỡ mấy tòa nhà đó sẽ mất một lúc. Bạn có thể tua nhanh thời gian bằng cách dùng các nút dưới đồng hồ.[cite: 1, 2]
+
+adviser_food_todolist1					Tôi đã thêm chi tiết cho từng mục tiêu này vào danh sách việc cần làm của bạn.[cite: 1, 2]
+adviser_food_todolist2					Bất cứ lúc nào không chắc phải làm gì, hãy rọi vào mục tiêu và bạn sẽ thấy hướng dẫn bổ sung.[cite: 1, 2]
+
+objective_food_buildmedicalward_doctors Thuê vài Bác sĩ vào làm việc tại Phòng Y tế[cite: 1, 2]
+
+objective_food_DismissAllFiremen		Giải tán lính cứu hỏa[cite: 1, 2]
+objective_food_cleararea                Dọn dẹp đống đổ nát cháy đen[cite: 1, 2]
+objective_food_buildgarbagearea         Thiết lập Khu vực Đổ rác[cite: 1, 2]
+objective_food_clearcanteen             Dọn dẹp tàn tích nhà ăn[cite: 1, 2]
+objective_food_clearkitchen             Dọn dẹp tàn tích nhà bếp[cite: 1, 2]
+objective_food_hiremoreworkmen			(TÙY CHỌN) Thuê thêm công nhân để tăng tốc độ dọn dẹp[cite: 1, 2]
+
+objective_food_dismissallfiremen_description 	Để giải tán một đội Khẩn cấp, tìm biểu tượng của họ ở phía bên phải màn hình và nhấn vào nút hình tròn chữ X màu đỏ để đưa họ về nhà.[cite: 1, 2]
+objective_food_cleararea_description 	Dùng công cụ Máy ủi để phá dỡ các tòa nhà. Công cụ máy ủi nằm trong phần 'Nền móng' trên thanh công cụ chính.[cite: 1, 2]
+
+adviser_food_familyvisit1				Làm tốt lắm.[cite: 1, 2]
+adviser_food_familyvisit2 				Kiểm tra tình hình thương vong xem sao.[cite: 1, 2]
+
+adviser_food_troublesoon1				Không có đồ ăn, đám tù nhân này sẽ phá nát những bức tường trong vài ngày tới.[cite: 1, 2]
+adviser_food_troublesoon2 				Chúng ta phải bảo đảm an ninh cho nhà tù trước khi phải hứng chịu một cuộc bạo loạn.[cite: 1, 2]
+adviser_food_troublesoon3 				Đây là màn hình Phân bổ. Từ đây bạn có thể kiểm soát chiến thuật triển khai toàn bộ lính canh của mình.[cite: 1, 2]
+adviser_food_troublesoon4 				Dàn trải lính canh ra tất cả các phân khu buồng giam và các phòng. Phân bổ 10 lính canh vào các vị trí quanh nhà tù. Nhiêu đó là đủ để phô trương lực lượng lúc này.[cite: 1, 2]
+adviser_food_troublesoon5				Tôi cũng muốn có người tuần tra quanh sân trong, nơi chúng ta sẽ xây dựng các cơ sở mới.[cite: 1, 2]
+adviser_food_troublesoon6				Một điều cuối cùng. Vì nhà ăn ngừng hoạt động, một số thùng thức ăn đã bị hỏng. Vứt chúng đi trước khi chuột bọ kéo tới.[cite: 1, 2]
+
+objective_food_deployguards				Phân bổ 10 lính canh quanh nhà tù[cite: 1, 2]
+objective_food_deploypatrol				Phân công 2 lính canh tuần tra sân trong[cite: 1, 2]
+
+objective_food_deployguards_description		Để phân bổ lính canh, mở màn hình Phân bổ, sau đó nhấp vào một phân khu để tạo Trạm gác. Một lính canh sẽ tự động được phân công vào trạm đó.[cite: 1, 2]
+objective_food_deploypatrol_description		Mở màn hình Phân bổ, sau đó chọn Tuần tra. Nhấn và kéo để vẽ các tuyến đường tuần tra của bạn.\n\nĐể phân công lính canh vào đường tuần tra, nhấp lại vào bất kỳ ô vuông nào trong tuyến đường đó.[cite: 1, 2]
+
+objective_food_dumpfood 				Vứt bỏ thức ăn bị hỏng[cite: 1, 2]
+objective_food_dumpfood_description		Thức ăn hỏng có thể tìm thấy trong Tủ chứa đồ, ở khu vực phía Đông Bắc của nhà tù.\n\nĐể vứt bất kỳ món nào, nhấp vào món đó rồi nhấp 'Vứt' trong menu hiện ra.[cite: 1, 2]
+
+adviser_food_doncantspeak1				...[cite: 1, 2]
+adviser_food_doncantspeak2				euuegggghhhh .... ...[cite: 1, 2]
+
+adviser_food_doninfirmary0              Hình như ông ấy đang cố nói gì đó.[cite: 1, 2]
+adviser_food_doninfirmary1				Thằng chó đẻ khốn nạn nào trong bọn mày làm chuyện này?[cite: 1, 2]
+adviser_food_doninfirmary2 				Không ai làm chuyện này cả, bố ạ. Chỉ là tai nạn thôi.[cite: 1, 2]
+adviser_food_doninfirmary3 				Ngậm cái mõm thối của mày lại và nghe cho rõ đây. Cả hai đứa bay.[cite: 1, 2]
+adviser_food_doninfirmary4 				Nếu tao biết thằng khốn nào châm lửa, tao sẽ bẻ cổ nó![cite: 1, 2]
+adviser_food_doninfirmary5 				Nhưng thời của tao hết rồi. Tao sẽ chết trên cái giường chết tiệt này.[cite: 1, 2]
+adviser_food_doninfirmary6 				Và sự nghiệp gia tộc cần người tiếp quản. Cái tên Palermo là tất cả những gì chúng ta còn lại. Nên hãy làm những gì cần làm đi, mấy thằng ranh con chó đẻ. Rõ chưa?[cite: 1, 2]
+adviser_food_doninfirmary7				Bọn con biết phải làm gì rồi, bố.[cite: 1, 2]
+adviser_food_donchat13					Chuyện này chưa xong đâu, Nico.[cite: 1, 2]
+adviser_food_donchat14					Liệu mà giữ cái mạng chó của mày đi.[cite: 1, 2]
+
+adviser_food_founddrugs1				Anh sẽ không tin những gì tôi vừa được báo đâu.[cite: 1, 2]
+adviser_food_founddrugs2				Người của chúng ta đang đi vứt đồ ăn cũ thì phát hiện ra những gói ma túy và rượu giấu trong các thùng hàng.[cite: 1, 2]
+adviser_food_founddrugs3				Từ lâu chúng ta đã nghi ngờ gia đình Palermo buôn lậu hàng cấm vào đây, nhưng chưa bao giờ biết được chúng làm cách nào.[cite: 1, 2]
+adviser_food_founddrugs4 				Đúng là họa vô đơn chí.[cite: 1, 2]
+
+adviser_food_rebuild1                   Chúng ta vẫn còn nhiều việc phải làm. Giờ phải chuyển hướng sang việc xây lại nhà bếp và nhà ăn.[cite: 1, 2]
+adviser_food_rebuild2                   Đầu tiên, phải xây lại nhà bếp. Cần lắp đặt vài trang thiết bị và thuê đầu bếp.[cite: 1, 2]
+adviser_food_rebuild3					Xong việc đó thì xây nhà ăn mới.[cite: 1, 2]
+adviser_food_rebuild4					Khi hoàn tất mọi thứ, các đầu bếp sẽ tự động chuẩn bị bữa ăn cho toàn bộ nhà tù.[cite: 1, 2]
+adviser_food_rebuild5                   Nếu không chắc phải làm gì, hãy thử rọi vào mục tiêu trong danh sách việc cần làm để xem một số gợi ý.[cite: 1, 2]
+
+adviser_food_fightoutro1  				Tuyệt vời. Có vẻ như gia tộc Palermo đang cạn dần người.[cite: 1, 2]
+
+adviser_food_sprinklerintro1 			Chúng ta có thể đang phải đối mặt với một vấn đề ma túy khá nghiêm trọng. Nhưng chúng ta chưa thể giải quyết việc đó ngay được.[cite: 1, 2]
+adviser_food_sprinklerintro2 			Nhà bếp và nhà ăn đã hoạt động trở lại. Các đầu bếp sẽ lo chuẩn bị thức ăn cho mọi người, hy vọng điều này sẽ làm dịu tình hình.[cite: 1, 2]
+adviser_food_sprinklers1                Tôi lo rằng vụ hỏa hoạn rõ ràng là có chủ ý, và chúng ta không muốn chuyện đó lặp lại.[cite: 1, 2]
+adviser_food_sprinklers2 				Hãy lắp đặt hệ thống vòi phun nước phía trên nhà bếp và nhà ăn mới rồi nối chúng với đường ống nước chính.[cite: 1, 2]
+
+adviser_food_explainneeds1 				Mọi tù nhân đều có nhu cầu. Những nhu cầu đó ảnh hưởng trực tiếp đến hành vi của tù nhân. Ngay lúc này, ai cũng đang chết đói, và đó là lý do tại sao bọn chúng la ó ỏm tỏi lên.[cite: 1, 2]
+adviser_food_explainneeds2 				Thức ăn là một trong những nhu cầu ưu tiên cao nhất của chúng, phớt lờ nó thì ráng mà chịu hậu quả. Một nhà tù chỉ cách một cuộc bạo loạn toàn diện vài bữa ăn bị bỏ đói mà thôi.[cite: 1, 2]
+adviser_food_explainneeds3 				Bạn có thể theo dõi nhu cầu của tất cả tù nhân từ Báo cáo Nhu cầu, thường được truy cập thông qua biểu tượng Báo cáo ở góc dưới bên phải.[cite: 1, 2]
+adviser_food_explainneeds4				Báo cáo này hiển thị nhu cầu tổng hợp của toàn bộ tù nhân. Màu đỏ có nghĩa là rất nhiều tù nhân đang tức giận vì nhu cầu cụ thể này không được đáp ứng.[cite: 1, 2]
+adviser_food_explainneeds5 				Đúng như dự đoán, mục Thức ăn đang đỏ rực đối với hầu hết mọi người. Nhưng đám tù nhân này cũng đang rất chán nản (nhu cầu Giải trí), và nhà tù đang ở trong tình trạng khá tồi tàn, thể hiện qua nhu cầu Môi trường và Quần áo của chúng.[cite: 1, 2]
+adviser_food_explainneeds6				Với tư cách là kiến trúc sư thường trú của nhà tù, bạn có quyền quyết định sẽ giải quyết nhu cầu nào trước. Bạn có thể lắp đặt tivi trong phòng giam để chúng có việc làm, và thuê vài Lao công để dọn dẹp nơi này.[cite: 1, 2]
+adviser_food_explainneeds7				Hoặc bạn có thể hoàn toàn phớt lờ nhu cầu của bọn tù nhân, và dựa vào vũ lực để kiểm soát nhà tù của mình.[cite: 1, 2]
+adviser_food_explainneeds8 				Tôi nhường lại quyết định cho bạn.[cite: 1, 2]
+
+objective_food_needs 					(TÙY CHỌN) Lo liệu nhu cầu của tù nhân[cite: 1, 2]
+objective_food_handlefoodneed 			(TÙY CHỌN) Xử lý nhu cầu Thức ăn của tù nhân[cite: 1, 2]
+objective_food_handleboredomneed		(TÙY CHỌN) Xử lý nhu cầu giải trí của tù nhân[cite: 1, 2]
+objective_food_handleenvironmentneed	(TÙY CHỌN) Xử lý nhu cầu môi trường của tù nhân[cite: 1, 2]
+
+objective_food_needs_description 					Bạn có thể xem nhu cầu tổng thể của tất cả tù nhân bằng cách nhấn vào Báo cáo (Góc dưới bên phải màn hình), sau đó chọn Nhu cầu.\nBạn cũng có thể rọi vào một tù nhân để xem nhu cầu nào đang ảnh hưởng đến hắn.\n\nNhu cầu không bao giờ có thể được xử lý vĩnh viễn - đó luôn là một trận chiến không hồi kết.[cite: 1, 2]
+objective_food_handlefoodneed_description 			Các đầu bếp của chúng ta sẽ chuẩn bị thức ăn cho mọi người, và tất cả tù nhân sẽ được cho ăn trước khi kết thúc giờ ăn tiếp theo.[cite: 1, 2]
+objective_food_handleboredomneed_description 		Sự buồn chán có thể được giải quyết khá hiệu quả bằng cách lắp TV trong phòng giam của từng người. Hoặc bạn có thể xây một phòng sinh hoạt chung và đặt vài cái TV cùng bàn bida ở đó.\n\nBạn cũng có thể đặt TV ở các phòng dùng chung như Nhà ăn.[cite: 1, 2]
+objective_food_handleenvironmentneed_description 	Thuê vài lao công và họ sẽ dần dọn dẹp sạch sẽ nơi này.[cite: 1, 2]
+
+adviser_food_needssuccess1 				Bạn đã thể hiện sự tận tâm đáng ngưỡng mộ trong việc chăm sóc nhu cầu của tù nhân. Làm tốt lắm.[cite: 1, 2]
+adviser_food_needssuccess2 				Có lẽ bạn đã nhận ra rằng lời phàn nàn lớn nhất còn lại của đám tù nhân là việc thiếu quần áo sạch.[cite: 1, 2]
+adviser_food_needssuccess3 				Nếu muốn xử lý luôn nhu cầu này, bạn sẽ cần vận hành một dịch vụ giặt ủi để cung cấp dần quần áo sạch cho tất cả tù nhân.[cite: 1, 2]
+adviser_food_needssuccess4 				Xây một phòng giặt ủi và thuê thêm lao công để bắt đầu cung cấp đồ sạch cho bọn tù nhân.[cite: 1, 2]
+
+objective_food_laundry 					(TÙY CHỌN) Quần áo Sạch[cite: 1, 2]
+objective_food_buildlaundry 			(TÙY CHỌN) Xây Phòng Giặt[cite: 1, 2]
+objective_food_hirejanitors             (TÙY CHỌN) Thuê đủ lao công để vận hành phòng giặt[cite: 1, 2]
+objective_food_handleclothingneed 		(TÙY CHỌN) Xử lý nhu cầu quần áo của tù nhân[cite: 1, 2]
+
+objective_food_buildkitchen             Xây một Nhà Bếp (khoảng 12m vuông)[cite: 1, 2]
+objective_food_buildkitchencookers      Lắp đặt ít nhất bốn Bếp lò[cite: 1, 2]
+objective_food_buildkitchenfridges      Lắp đặt ít nhất bốn Tủ lạnh[cite: 1, 2]
+objective_food_buildkitchensink         Lắp đặt một Bồn rửa[cite: 1, 2]
+objective_food_buildkitchenbin	 		Đặt một Thùng rác trong Nhà bếp[cite: 1, 2]
+objective_food_buildkitchenwatermains 	Nối Bồn rửa với đường ống nước chính[cite: 1, 2]
+objective_food_buildkitchenfloor 		(TÙY CHỌN) Cải tạo sàn nhà bếp[cite: 1, 2]
+
+objective_food_buildkitchen_description		Trước tiên bạn cần phải xây Nền móng.[cite: 1, 2]
+objective_food_buildcanteen_description		Trước tiên bạn cần phải xây Nền móng.[cite: 1, 2]
+
+objective_Food_HireChefs				Thuê ít nhất 8 Đầu bếp[cite: 1, 2]
+objective_food_CookMeals				(Tự động) Chuẩn bị bữa ăn cho tất cả tù nhân[cite: 1, 2]
+
+objective_food_buildcanteen             Xây một Nhà Ăn (khoảng 20m vuông)[cite: 1, 2]
+objective_food_buildservingtables       Lắp đặt hai Bàn chia thức ăn[cite: 1, 2]
+objective_food_buildcanteentables       Lắp đặt ít nhất sáu Bàn ăn[cite: 1, 2]
+objective_food_buildcanteenchairs       Lắp đặt hai Băng ghế quanh mỗi Bàn[cite: 1, 2]
+objective_food_buildcanteenbin	 		Đặt một Thùng rác trong Nhà ăn[cite: 1, 2]
+objective_food_buildcanteenfloor 		(TÙY CHỌN) Cải tạo sàn Nhà ăn[cite: 1, 2]
+
+
+objective_food_buildsprinklers          Lắp đặt hệ thống vòi phun nước mới[cite: 1, 2]
+objective_food_buildsprinklers1         Lắp đặt một vài vòi phun nước trong Nhà bếp[cite: 1, 2]
+objective_food_buildsprinklers2         Lắp đặt một vài vòi phun nước trong Nhà ăn[cite: 1, 2]
+objective_food_connectwater             Nối vòi phun nước nhà bếp với đường ống nước chính[cite: 1, 2]
+objective_food_connectwater2			Nối vòi phun nước nhà ăn với đường ống nước chính[cite: 1, 2]
+objective_food_feedprisoners            Hoàn thành một bữa tối bằng cách cho tất cả tù nhân ăn[cite: 1, 2]
+
+objective_food_buildkitchenwatermains_description   Ống nước lớn dùng để luân chuyển khối lượng nước lớn dưới áp lực cao. Ống nước nhỏ dùng để nối các đồ vật riêng lẻ với nguồn cấp nước.\n\nDùng góc nhìn TIỆN ÍCH để đặt ống nước lớn tới các tòa nhà của bạn. Sau đó dùng ống nước nhỏ để nối ống nước lớn với tất cả các đồ vật cần cấp nước ở gần đó.[cite: 1, 2]
+objective_food_connectwater_description             Ống nước lớn dùng để luân chuyển khối lượng nước lớn dưới áp lực cao. Ống nước nhỏ dùng để nối các đồ vật riêng lẻ với nguồn cấp nước.\n\nDùng góc nhìn TIỆN ÍCH để đặt ống nước lớn tới các tòa nhà của bạn. Sau đó dùng ống nước nhỏ để nối ống nước lớn với tất cả các đồ vật cần cấp nước ở gần đó.[cite: 1, 2]
+objective_food_connectwater2_description            Ống nước lớn dùng để luân chuyển khối lượng nước lớn dưới áp lực cao. Ống nước nhỏ dùng để nối các đồ vật riêng lẻ với nguồn cấp nước.\n\nDùng góc nhìn TIỆN ÍCH để đặt ống nước lớn tới các tòa nhà của bạn. Sau đó dùng ống nước nhỏ để nối ống nước lớn với tất cả các đồ vật cần cấp nước ở gần đó.[cite: 1, 2]
+
+campaigncutscene_foodinfirmary			Phòng y tế[cite: 1, 2]
+campaigncutscene_foodfamily             Gia đình[cite: 1, 2]
+campaigncutscene_foodfeud               Thù hằn[cite: 1, 2]
+campaigncutscene_foodregret				Hối hận[cite: 1, 2]
+campaigncutscene_foodsuccession 		Kế vị[cite: 1, 2]
+
+campaigncutscene_foodfamily_description		Gia tộc Palermo từng điều hành mạng lưới buôn lậu ma túy khắp Bờ Đông nước Mỹ. Khám phá câu chuyện quá khứ của Don Palermo và các con của ông.[cite: 1, 2]
+
+adviser_name_thedon                     Don Palermo[cite: 1, 2]
+adviser_name_thedonangry                Don Palermo[cite: 1, 2]
+adviser_name_nico                       Nico Tamoretti[cite: 1, 2]
+adviser_name_nicoshower					Nico Tamoretti[cite: 1, 2]
+adviser_name_nicosuited					Nico Tamoretti[cite: 1, 2]
+adviser_name_sonny                      Sonny Palermo[cite: 1, 2]
+adviser_name_sonnysuited				Sonny Palermo[cite: 1, 2]
+adviser_name_sonnystrangled				Sonny Palermo[cite: 1, 2]
+adviser_name_anthonysuited				Anthony Palermo[cite: 1, 2]
+adviser_name_wiggins					Wiggins[cite: 1, 2]
+adviser_name_nicoinfirmary				Nico Tamoretti[cite: 1, 2]
+adviser_name_vitalia					Vitalia Palermo[cite: 1, 2]
+
+cutscene_foodfamily_palermo01			Don Victor Palermo. Ông trùm của một trong những gia tộc mafia đáng sợ nhất bờ Đông.[cite: 1, 2]
+cutscene_foodfamily_palermo1			Gia tộc Palermo đã lẩn tránh FBI trong suốt nhiều thập kỷ.[cite: 1, 2]
+cutscene_foodfamily_palermo02			Anthony Palermo, con trai cả và là người thừa kế tự nhiên của ngài Don, điều hành các hoạt động thường nhật.[cite: 1, 2]
+cutscene_foodfamily_palermo03			Nico Tamoretti không phải là người trong giới giang hồ, nhưng được thu nhận vào công việc kinh doanh của gia đình khi hắn kết hôn với đứa con gái duy nhất của ngài Don, Vitalia.[cite: 1, 2]
+cutscene_foodfamily_palermo04			Và Sonny Palermo. Đứa con trai thứ hai của ngài Don. Thằng con út bỏ đi. Tính khí thì nóng như chó pitbull, mà đầu óc thì ngu xấp đôi.[cite: 1, 2]
+
+cutscene_foodfamily_palermo2 			Đế chế của chúng điều hành đường dây ma túy từ Maine đến Florida.[cite: 1, 2]
+cutscene_foodfamily_palermo3			Cho đến khi Anthony bị bắt quả tang đang tòm tem.[cite: 1, 2]
+cutscene_foodfamily_palermo3b           Bị bắn chết bởi một gã chồng hay ghen.[cite: 1, 2]
+cutscene_foodfamily_palermo4			Xui xẻo cho gia tộc, cảnh sát tại hiện trường đã tìm thấy mười hai ký cocain chưa tinh chế trong túi thể thao của Anthony.[cite: 1, 2]
+cutscene_foodfamily_palermo5			Và các bằng chứng đã dẫn thẳng lên chóp bu.[cite: 1, 2]
+cutscene_foodfamily_palermo6			Chỉ sau một đêm, mọi thứ gia tộc Palermo gây dựng đều sụp đổ. FBI đã có đủ bằng chứng để đảm bảo tất cả bọn chúng rục xương trong tù.[cite: 1, 2]
+cutscene_foodfamily_palermo7			Chỉ còn lại Vitalia, con gái của ngài Don, là thành viên duy nhất trong gia đình chưa bị tống vào tù.[cite: 1, 2]
+cutscene_foodfamily_palermo8			Chúng ta không biết nhiều về cô ta, ngoại trừ việc cô ta luôn bị gạt ra khỏi chuyện làm ăn của gia đình.[cite: 1, 2]
+cutscene_foodfamily_palermo9 			Nhưng chắc chắn có kẻ nào đó ở bên ngoài đã tuồn số ma túy đó vào.[cite: 1, 2]
+
+adviser_food_findalldrugs1				Thế là xong vấn đề thức ăn. Bọn tù nhân sẽ vui vẻ hơn nhiều khi được cho ăn trở lại.[cite: 1, 2]
+
+adviser_food_findalldrugs2				Anh có thể cá rằng gia đình Palermo đã bán số ma túy đó cho từng tên tù ở đây.[cite: 1, 2]
+adviser_food_findalldrugs3				Bọn lính canh đang báo cáo lại là thấy rất nhiều tù nhân có dấu hiệu vã thuốc kể từ sau vụ cháy.[cite: 1, 2]
+adviser_food_findalldrugs4				Tôi muốn anh lục soát từng tù nhân và từng phòng giam. Tôi cá là chúng ta sẽ tìm thấy ma túy của bọn Palermo khắp nhà tù này.[cite: 1, 2]
+
+objective_food_findalldrugs					Tìm tất cả ma túy trong nhà tù[cite: 1, 2]
+objective_food_findalldrugs_description 	Khám xét từng phân khu buồng giam bằng cách nhấp vào một tù nhân trong phân khu đó, rồi nhấp vào 'Khám xét Phân khu'. Hoặc dùng tùy chọn Tổng khám xét trên thanh công cụ ở cuối màn hình.[cite: 1, 2]
+
+objective_food_hiremoreguards 			(TÙY CHỌN) Thuê thêm lính canh để tăng tốc độ khám xét[cite: 1, 2]
+
+adviser_food_drugsfound1				Nghĩ tích cực thì, mọi chuyện không tệ như tưởng tượng, nhưng chắc chắn là có vấn đề về tình trạng nghiện ma túy và rượu.[cite: 1, 2]
+adviser_food_drugsfound2				Chúng ta cần giúp đỡ những người này. Đây là cách duy nhất để hạn chế hoạt động của chúng và xử lý các triệu chứng vã thuốc.[cite: 1, 2]
+adviser_food_drugsfound2b 				Bắt đầu một chương trình cai nghiện ma túy tại phòng y tế. Các Bác sĩ của chúng ta sẽ cung cấp chất hóa học thay thế để làm giảm cơn thèm thuốc của bọn nghiện.[cite: 1, 2]
+adviser_food_drugsfound3				Đối với chứng nghiện rượu, không có chất thay thế nào cả, vì vậy tôi đề nghị chúng ta nên bắt đầu các buổi trị liệu tâm lý nhóm.[cite: 1, 2]
+adviser_food_drugsfound4				Anh sẽ phải xây một Phòng Sinh hoạt Chung mới để tổ chức các buổi gặp mặt đó.[cite: 1, 2]
+adviser_food_drugsfound5				Để bắt đầu Chương trình mới, vào 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn 'Chương trình'.[cite: 1, 2]
+
+objective_food_drugtreatment			Bắt đầu chương trình cai nghiện ma túy[cite: 1, 2]
+objective_food_cureaddictions			(TÙY CHỌN) Bắt đầu chữa trị chứng nghiện ma túy của tù nhân[cite: 1, 2]
+objective_food_alcoholprogram			Bắt đầu chương trình trị liệu nhóm cho người nghiện rượu[cite: 1, 2]
+objective_Food_HelpAlcoholics			(TÙY CHỌN) Bắt đầu giúp đỡ người nghiện rượu cai nghiện[cite: 1, 2]
+objective_food_buildcommonroom 			Xây phòng sinh hoạt chung[cite: 1, 2]
+objective_food_buildcommonroomchairs	Tạo một khu vực họp với 8 chiếc ghế[cite: 1, 2]
+
+objective_food_drugtreatment_description 	Nhấp vào 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn tab 'Chương trình'. Chương trình có tên 'Điều trị Nghiện Ma túy Bằng Thuốc', và được diễn ra trong Phòng y tế.\n\nLưu ý bạn sẽ cần thiết lập ít nhất hai giờ Làm việc trong Đề án quản lý, để cho phép tù nhân tham gia.[cite: 1, 2]
+objective_food_alcoholprogram_description 	Nhấp vào 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn tab 'Chương trình'. \n\nLưu ý bạn sẽ cần thiết lập ít nhất hai giờ Làm việc trong Đề án quản lý, để cho phép tù nhân tham gia.[cite: 1, 2]
+
+cutscene_food_feudintro1 				Chúng ta vừa có một sự cố trong phòng tắm. Có xác chết.[cite: 1, 2]
+cutscene_food_feudintro2 				Thực ra là hai xác chết. May cho chúng ta là trong đó có camera.[cite: 1, 2]
+cutscene_food_feudintro3 				Khi nào rảnh, hãy nhấp vào ảnh Polaroid trong Phòng tắm và chúng ta sẽ xem chuyện gì đã xảy ra.[cite: 1, 2]
+
+objective_food_triggerfightscene		Khi bạn đã sẵn sàng, nhấp vào ảnh polaroid trong Phòng tắm để tiếp tục.[cite: 1, 2]
+objective_food_triggerfightscene_description 	Phòng tắm nằm ở góc Tây Bắc của cơ sở.[cite: 1, 2]
+
+cutscene_food_feud1b                    Một mình. Hoàn hảo.[cite: 1, 2]
+cutscene_food_feud1                     Mày lề mề quá đấy.[cite: 1, 2]
+cutscene_food_feud2                     Bớt xạo lồn lại đi. Tao đéo bao giờ hiểu được con em gái tao nó nhìn trúng cái gì ở mày.[cite: 1, 2]
+cutscene_food_feud2b 					Đây là ý tưởng của nó à? Bịt miệng ông già?[cite: 1, 2]
+cutscene_food_feud3                     Mày nghĩ vậy sao, thằng mập địt? Tao không cố ý làm ông ấy bị thương. Tao yêu ông ấy như bố đẻ của mình.[cite: 1, 2]
+cutscene_food_feud3b 					Tao chán ngấy cái cảnh phải nhìn gia tộc này tàn lụi vì sự ngu xuẩn của mày rồi.[cite: 1, 2]
+cutscene_food_feud4                     Vụ cháy đó là dành cho mày.[cite: 1, 2]
+cutscene_food_feud5                     Vậy thì coi như tao đang trả lễ đi.[cite: 1, 2]
+cutscene_food_feud6                     Đừng làm trò thánh thiện nữa. Hai chúng ta đều biết mày đã định khử tao từ lâu rồi.[cite: 1, 2]
+cutscene_food_feud7                     Phải, mày luôn là một thằng thông minh mà, Nico. Nhìn xem điều đó đã đưa mày đến đâu. Đừng lo, mày sẽ không thấy đau đâu.[cite: 1, 2]
+cutscene_food_feud8                     Tao bảo rồi. Liệu mà giữ cái mạng chó của mày đi.[cite: 1, 2]
+cutscene_food_feud8b                    euuegggghhhh!!!!!.....[cite: 1, 2]
+cutscene_food_feud8c                    AAARRRGGRGGGGGG!!!![cite: 1, 2]
+cutscene_food_feud8d                     Mày đã gặp Franky chưa? Hắn có một tài năng đặc biệt với dây đàn piano đấy.[cite: 1, 2]
+cutscene_food_feud8e                    Thật sự thì, đến khi hắn làm xong, tụi nó sẽ nghĩ đó là một vụ tự sát.[cite: 1, 2]
+cutscene_food_feud9                     Chuyện này chưa xong đâu, Nico.[cite: 1, 2]
+cutscene_food_feud9b                    Đụ má mày đùa tao chắc.[cite: 1, 2]
+
+cutscene_food_successionintro			Rất tốt. Chúng ta đã tạo ra sự khác biệt lớn ở đây, và tôi nghĩ nhà tù đã nằm trong tầm kiểm soát.[cite: 1, 2]
+cutscene_food_successionintro2 			Bạn có thể ở lại và cải thiện nhà tù này thêm, hoặc chúng ta có thể chuyển sang cơ sở tiếp theo.[cite: 1, 2]
+cutscene_food_successionintro3 			Khi bạn sẵn sàng đi tiếp, hãy nhấp vào ảnh Polaroid trong Phòng y tế.[cite: 1, 2]
+
+objective_food_runending 				Khi bạn đã sẵn sàng, nhấp vào ảnh polaroid trong Phòng y tế để tiếp tục.[cite: 1, 2]
+objective_food_runending_description	Phòng y tế nằm ở rìa Tây Nam của cơ sở nhà tù.[cite: 1, 2]
+
+cutscene_food_succession1				Vitalia![cite: 1, 2]
+cutscene_food_succession1b				...?[cite: 1, 2]
+cutscene_food_succession2				Mình à![cite: 1, 2]
+cutscene_food_succession3				Anh xin lỗi. Anh đã làm hỏng mọi chuyện.[cite: 1, 2]
+cutscene_food_succession4				Trật tự nào.[cite: 1, 2]
+cutscene_food_succession5				Bọn họ bảo bố không qua khỏi tuần này đâu.[cite: 1, 2]
+cutscene_food_succession6				Anh biết. Anh đến để nói lời từ biệt.[cite: 1, 2]
+cutscene_food_succession7				Em biết không, chúng ta có thể từ bỏ tất cả ngay bây giờ. Em và anh. Cái cuộc sống chết tiệt này. Nó đã lấy đi mọi thứ rồi.[cite: 1, 2]
+cutscene_food_succession8				Em cũng muốn thế lắm.[cite: 1, 2]
+cutscene_food_succession9				Nhưng em không thể. Em là một Palermo, Nico à.[cite: 1, 2]
+cutscene_food_succession10				Và khi bố mất, anh sẽ chỉ là một người ngoài ở chỗ của ông ấy. Kẻ thù của chúng ta sẽ giẫm đạp lên gia tộc này mất.[cite: 1, 2]
+cutscene_food_succession11 				Em không thể để chuyện đó xảy ra. Em phải cho bọn chúng thấy một Palermo vẫn đang ngồi trên ngai vàng.[cite: 1, 2]
+cutscene_food_succession12				Cái đéo gì cơ, thế em ở đây để khử anh sao? Sau tất cả những gì chúng ta đã cùng nhau vượt qua?[cite: 1, 2]
+cutscene_food_succession13				Nico, Nico, Nico. Anh đúng là cổ hủ thật.[cite: 1, 2]
+cutscene_food_succession14 				Không, cục cưng à. Em sẽ ly dị anh.[cite: 1, 2]
+cutscene_food_succession15				Cái đéo gì? Em đùa anh đấy à? Anh sẽ chỉ là một xác chết trong này nếu không có gia tộc chống lưng.[cite: 1, 2]
+cutscene_food_succession16				Em biết, cục cưng à. Nhưng đó không còn là việc của em nữa.[cite: 1, 2]
+cutscene_food_succession17				Con mong bố được yên nghỉ nơi suối vàng, bố ạ.[cite: 1, 2]
+cutscene_food_succession18				Tạm biệt anh, Nico.[cite: 1, 2]
+
+
+# =============================================================================[cite: 1, 2]
+# Riot[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
+
+campaignchapter_riot                    G.A.B.O.S[cite: 1, 2]
+campaignchapter_riot_description		Đang có bạo loạn tại Nhà tù Bang Alchemico. Hãy vào đó và giành lại quyền kiểm soát tòa nhà.[cite: 1, 2]
+
+campaigncutscene_riotintro              Tin Tức Khẩn Cấp[cite: 1, 2]
+
+adviser_riot_newsintro_01				Tin nóng![cite: 1, 2]
+adviser_riot_newsintro_02				Bạo loạn tại Nhà tù Bang Alchemico - nhân viên và lực lượng an ninh đã phải rút ra vòng ngoài để chờ viện trợ quân sự.[cite: 1, 2]
+adviser_riot_newsintro_1				Một số nhân viên hiện vẫn đang mất tích, bao gồm cả Giám đốc Điều hành công ty Charles Wallace.[cite: 1, 2]
+adviser_riot_newsintro_2				Cuộc bạo loạn nổ ra sau khi bắt giữ một số thẩm phán cấp cao...[cite: 1, 2]
+adviser_riot_newsintro_3				... những người bị cáo buộc đã nhận hối lộ để đổi lấy việc áp đặt các bản án tù khắc nghiệt hơn.[cite: 1, 2]
+adviser_riot_newsintro_4				Thêm dầu vào lửa, các nguồn tin cho hay thế giới ngầm gần đây đã bị chấn động bởi một loạt các vụ giết người có thanh thế...[cite: 1, 2]
+adviser_riot_newsintro_5				... bao gồm cả vụ ám sát hụt trùm mafia Victor Palermo vào tháng trước.[cite: 1, 2]
+adviser_riot_newsintro_6				Phó Giám đốc Điều hành của Charles Wallace, một người khá mới trong chức vụ, đã được giao nhiệm vụ vãn hồi trật tự.[cite: 1, 2]
+adviser_riot_newsintro_7				Vẫn còn phải xem liệu sự thiếu kinh nghiệm có phải trả giá đắt trong cuộc khủng hoảng khó khăn này hay không.[cite: 1, 2]
+adviser_riot_newsintro_8                Douglas Benedict, hiện đang thụ án chung thân, được cho là kẻ chủ mưu đằng sau sự bùng nổ bạo lực này.[cite: 1, 2]
+
+adviser_riot_newsintroheller_1 			Thị trưởng thành phố Calvin Heller vừa đưa ra thông cáo này cách đây ít phút.[cite: 1, 2]
+adviser_riot_newsintroheller_2 			Đối với những ai đặt câu hỏi về chính sách cải tạo mang tính trừng phạt của chúng tôi, đây sẽ là một lời nhắc nhở đanh thép.[cite: 1, 2]
+adviser_riot_newsintroheller_3 			Những kẻ này được cung cấp chỗ ở và thức ăn. Được hưởng đặc quyền làm việc được trả lương.[cite: 1, 2]
+adviser_riot_newsintroheller_4 			Đây là cách bọn chúng báo đáp những người đóng thuế đã trợ cấp cho sự thoải mái của chúng.[cite: 1, 2]
+
+campaigncutscene_riothostages			Con tin[cite: 1, 2]
+adviser_name_riotceo					Giám đốc Điều hành[cite: 1, 2]
+adviser_name_riotbenedict 				Benedict[cite: 1, 2]
+
+adviser_riot_hostages1					Nghe cho rõ đây. Bọn tao đang giữ Giám đốc Điều hành của tụi mày.[cite: 1, 2]
+adviser_riot_hostages1b 				Euugg... ...[cite: 1, 2]
+adviser_riot_hostages2 					Luật chơi là thế này. Tao yêu cầu. Tụi mày đáp ứng.[cite: 1, 2]
+adviser_riot_hostages3					Có bất kỳ vấn đề gì, mày mà đưa ai vào, hoặc nếu tao đánh hơi thấy mùi cớm, tao sẽ găm một viên đạn vào sọ thằng này.[cite: 1, 2]
+adviser_riot_hostages4 					Bọn tao muốn một chiếc xe không biển số. Kính đen kín mít. Đổ đầy bình xăng. Cho mày một giờ. Tao sẽ liên lạc lại sau.[cite: 1, 2]
+adviser_riot_hostages5 					Nào, chúng ta đang nói tới đâu rồi nhỉ.[cite: 1, 2]
+adviser_riot_hostages5b					Mày đã làm cái quái gì trong cái văn phòng đó?[cite: 1, 2]
+adviser_riot_hostages6					Tôi thề, tôi không biết gì cả.[cite: 1, 2]
+adviser_riot_hostages7					Tao đã soi gương đủ nhiều để nhận ra một thằng đang làm chuyện xấu.[cite: 1, 2]
+adviser_riot_hostages8					Mày đang giấu cái gì?[cite: 1, 2]
+adviser_riot_hostages9					Tao bị nhốt ở cái nơi này là đúng tội. Nhưng thằng nhóc kia... có ích lợi gì cho ai, khi mà thằng nhóc đó phải bóc lịch lâu hơn?[cite: 1, 2]
+adviser_riot_hostages10					Mày biết điều gì đó, và nói ra là cách duy nhất để mày được ra khỏi đây toàn mạng.[cite: 1, 2]
+
+adviser_riot_hostageheller1 			Chuyện này hoàn toàn không thể chấp nhận được. Chúng ta cần quan sát được nhà ăn đó để xem chuyện gì đang xảy ra.[cite: 1, 2]
+adviser_riot_hostageheller2 			Có một phòng an ninh nhỏ ở phía bắc nhà ăn. Chúng ta cần chiếm lại nó.[cite: 1, 2]
+adviser_riot_hostageheller3 			Phân bổ vài Lính canh vào đó để vận hành bảng điều khiển camera quan sát, và chúng ta sẽ có tầm nhìn của toàn bộ khu buồng giam.[cite: 1, 2]
+
+objective_Riot_MaxSecCameras			Chiếm lại phòng an ninh[cite: 1, 2]
+
+campaigncutscene_riotroulette			Cò quay Nga[cite: 1, 2]
+
+adviser_riot_rouletteintro1             Chúng ta đã có một lính canh trong phòng an ninh, vì vậy chúng ta đang nhận được hình ảnh trực tiếp từ hệ thống camera quan sát.[cite: 1, 2]
+adviser_riot_rouletteintro2             Cùng xem tình hình con tin nào.[cite: 1, 2]
+adviser_riot_click 						<cạch>[cite: 1, 2]
+adviser_riot_roulette1					Cơ hội cuối cùng để bước ra khỏi đây đấy, sếp lớn à. Từng chơi trò cò quay chưa?[cite: 1, 2]
+adviser_riot_roulette2 					Hai viên đạn. Bốn buồng đạn trống.[cite: 1, 2]
+adviser_riot_roulette2b 				Tao từng chơi trò này với mấy con thỏ rừng. Bọn tao bắn tung đầu chúng nó.[cite: 1, 2]
+adviser_riot_roulette3 					Mày rồi cũng y chang vậy thôi.[cite: 1, 2]
+adviser_riot_roulette4 					Bắt đầu với một câu hỏi đơn giản nhé. Mày đã làm cái đéo gì trong văn phòng đó?[cite: 1, 2]
+adviser_riot_roulette5 					Tôi thề, tôi không biết gì cả.[cite: 1, 2]
+adviser_riot_roulette5b 				Thật sao.[cite: 1, 2]
+adviser_riot_roulette6 					Được thôi. Ai đi trước nào? Mày? Tao? Hay gã này?[cite: 1, 2]
+adviser_riot_roulette7					Biết gì không. Y như mấy con thỏ rừng kia.[cite: 1, 2]
+adviser_riot_roulette8 					TRONG NHỮNG TẬP HỒ SƠ ĐÓ CÓ GÌ?[cite: 1, 2]
+adviser_riot_roulette9 					Tôi thề! Tôi không biết...[cite: 1, 2]
+adviser_riot_roulette10 				Sắp hết may mắn rồi. Vẫn còn một viên đạn nằm đâu đó trong này. Và tao biết những gì tao đã thấy.[cite: 1, 2]
+adviser_riot_roulette11b 				Tao đéo thể tin vào mắt mình nữa.[cite: 1, 2]
+adviser_riot_roulette11c 				Thằng tay to mặt lớn của công ty, lại có mặt trong nhà tù của tao. Trông tội lỗi vãi cả cứt.[cite: 1, 2]
+adviser_riot_roulette11d 				Tao đoán trong đống hồ sơ đó còn nhiều thứ hơn chỉ là tờ lý lịch tiền án của tao.[cite: 1, 2]
+adviser_riot_roulette11					Làm ơn... xin đừng.[cite: 1, 2]
+adviser_riot_roulette11e 				Tỷ lệ cá cược đang ngắn lại rồi đấy, Wallace.[cite: 1, 2]
+adviser_riot_roulette12 				Tao nói cho nghe, tao sẽ làm cho nó dễ dàng hơn với mày.[cite: 1, 2]
+adviser_riot_roulette12b	 			Được rồi, dẹp cái trò vớ vẩn này đi.[cite: 1, 2]
+adviser_riot_roulette13 				Tới lượt mày đấy, thằng chó đẻ. Trừ khi mày nói cho tao biết những gì tao muốn biết.[cite: 1, 2]
+adviser_riot_roulette14 				Tôi không thể. Làm ơn.[cite: 1, 2]
+adviser_riot_roulette15 				Được rồi! Làm ơn! Làm ơn. Đừng bắn. Vì tiền. Tất cả là vì tiền.[cite: 1, 2]
+adviser_riot_roulette16 				Chỉ vậy thôi sao?[cite: 1, 2]
+adviser_riot_roulette17 				Các người là những mặt hàng có giá trị. Bất kỳ ai trong các người ở trong này càng lâu, chúng tôi càng kiếm được nhiều lợi nhuận. Chúng tôi chỉ hơi lách luật một chút thôi.[cite: 1, 2]
+adviser_riot_roulette17b				Tập hồ sơ đó chính là bằng chứng.[cite: 1, 2]
+adviser_riot_roulette18 				Vậy bọn tao đáng giá bao nhiêu? Tụi mày nhận được bao nhiêu khi giữ bọn tao trong này?[cite: 1, 2]
+adviser_riot_roulette19 				Bảy mươi ba nghìn đô la một năm.[cite: 1, 2]
+adviser_riot_roulette20					Mỗi người á? Đồ chó đẻ. Đã đến lúc mày phải trả nợ rồi.[cite: 1, 2]
+
+campaigncutscene_riotassault 			Đột kích[cite: 1, 2]
+
+adviser_riot_assault01					Thế là đủ rồi. Đã đến lúc kết thúc tình trạng này.[cite: 1, 2]
+adviser_riot_assault02 					Đội đặc nhiệm đã vào vị trí.[cite: 1, 2]
+adviser_riot_assault03					Tao muốn có xe ngay. Wallace sẽ đi cùng bọn tao. Và nếu tao thấy có đứa nào bám đuôi, mày sẽ phải cạo xác thằng này ra khỏi đường cao tốc đấy.[cite: 1, 2]
+adviser_riot_assault2 					Được rồi, sếp bự. Mày sẽ đi cùng bọn tao. Tụi nó sẽ không dám làm liều khi mày đang ngồi ghế phụ đâu.[cite: 1, 2]
+adviser_riot_assault3 					Không ai trong chúng ta sẽ ra khỏi đây cả. Bọn chúng không muốn ông đâu.[cite: 1, 2]
+adviser_riot_assault4 					Mày đang lảm nhảm cái đéo gì vậy?[cite: 1, 2]
+adviser_riot_assault5					Tôi làm vì tiền. Nhưng HẮN TA làm vì lợi ích chính trị. Án tù càng dài, hắn càng nhận được nhiều phiếu bầu.[cite: 1, 2]
+adviser_riot_assault6					Mày đang nói tới thằng đéo nào vậy?[cite: 1, 2]
+adviser_riot_assault7					Thị trưởng Heller. Đó là kế hoạch của ông ta. Tôi chỉ là kẻ bôi trơn bánh răng thôi.[cite: 1, 2]
+adviser_riot_assault7b 					Những tập hồ sơ đó là bằng chứng có thể phá hủy sự nghiệp của ông ta.[cite: 1, 2]
+adviser_riot_assault8					Mày đang đùa tao chắc.[cite: 1, 2]
+adviser_riot_assault9 					Cái đéo gì...[cite: 1, 2]
+adviser_riot_assault9b					Tụi nó vào kìa, chuẩn bị đi![cite: 1, 2]
+adviser_riot_assault10					TAO ĐÃ CẢNH CÁO CHÚNG MÀY RỒI MÀ![cite: 1, 2]
+
+# Riot Objectives and help text[cite: 1, 2]
+
+adviser_name_negotiator 				Người đàm phán[cite: 1, 2]
+
+adviser_riot_negotiator1 				Ngoài tầm kiểm soát rồi. Không ai chịu trách nhiệm cả.[cite: 1, 2]
+adviser_riot_negotiator2 				Chúng ta có quá nhiều thương vong, và những lính canh còn lại sẽ không chịu vào các khu buồng giam đang bạo loạn. Chúng ta đã phải rút ra vòng ngoài.[cite: 1, 2]
+adviser_riot_negotiator3 				Nghĩ xem phải làm gì đi, và ngăn chuyện này lại trước khi nó vượt tầm kiểm soát.[cite: 1, 2]
+adviser_riot_negotiator4 				Cảnh sát chống bạo động sẽ có mặt trong vài phút nữa.[cite: 1, 2]
+
+adviser_riot_firstreinforcements1 		Đội phản ứng đầu tiên đã đến.[cite: 1, 2]
+adviser_riot_firstreinforcements2 	 	Những người này là Lính chống Bạo động, và họ được bọc giáp dày hơn nhiều. Dùng họ để bắt đầu chiếm lại các phân khu nhà tù đã bị chiếm.[cite: 1, 2]
+adviser_riot_firstreinforcements3 		Chúng ta cũng có một số nhân viên y tế từ bệnh viện công gần đây.[cite: 1, 2]
+adviser_riot_firstreinforcements4 		Tôi khuyên bạn nên sử dụng họ để sơ cứu y tế khẩn cấp cho Lính chống Bạo động khi họ chiếm lại nhà tù.[cite: 1, 2]
+
+objective_Riot_StopTheRiot 				Dập tắt bạo loạn[cite: 1, 2]
+objective_Riot_StopTheRiot_description  Không có ai chỉ huy cả. Bạn cần phải tìm ra cách giải quyết.[cite: 1, 2]
+
+adviser_riot_helleradvice1				Tôi cho rằng đây là Phó Giám đốc Điều hành mà tôi đang nói chuyện cùng.[cite: 1, 2]
+adviser_riot_helleradvice2 				Tôi hiểu đây là một thời điểm rất khó khăn và tất cả chúng ta đều đang bị giám sát gắt gao. Hãy yên tâm, bạn có sự hỗ trợ toàn diện của tôi trong việc sử dụng bất kỳ và tất cả các nguồn lực mà bạn có.[cite: 1, 2]
+adviser_riot_deployguards1				Chúng ta đã có được chỗ đứng, và chiếm lại một phần nhà tù. Và thiệt hại về nhân mạng cho đến nay là hoàn toàn có thể biện minh được.[cite: 1, 2]
+adviser_riot_deployguards2				Nhưng trước khi bạn tiến lên và chiếm lại phần còn lại của nhà tù, bạn nên bảo đảm an ninh cho các phân khu mà bạn đã chiếm được.[cite: 1, 2]
+adviser_riot_deployguards3				Thuê thêm lính canh và phân bổ họ vào các phân khu đã chiếm lại từ màn hình Phân bổ. Họ sẽ đảm bảo các phân khu đã chiếm được vẫn nằm trong tay chúng ta.[cite: 1, 2]
+adviser_riot_deployguards4 				Một khi bạn lo xong việc đó, hãy tiến vào các khu vực còn lại và triệt hạ lũ ác thú này. Những con thú này không thể cải tạo được. Và cũng không thể đàm phán với chúng được.[cite: 1, 2]
+adviser_riot_deployguards5 				Tôi đang tiến hành ủy quyền cho một đội Lính canh Vũ trang để kết thúc chuyện này một cách nhanh chóng.[cite: 1, 2]
+
+adviser_riot_infirmary1 				Bạn có người bị thương ở khắp nhà tù, và chắc chắn sẽ còn nhiều người nữa. Bạn không thể bỏ mặc họ chảy máu đến chết.[cite: 1, 2]
+adviser_riot_infirmary2 				Xây một Phòng y tế ở đâu đó trong cơ sở, và thuê Bác sĩ để điều trị cho những người bị thương.[cite: 1, 2]
+adviser_riot_infirmary3 				Chúng ta cũng đã thấy khá nhiều thi thể. Vì sự tôn nghiêm của họ, chúng ta cần xây một Nhà xác và bắt đầu thu gom chúng lại.[cite: 1, 2]
+adviser_riot_infirmary4					Bạn sẽ cần thuê công nhân để làm công việc xây dựng. Hãy đảm bảo giữ an toàn cho họ.[cite: 1, 2]
+
+objective_Riot_ResecureWings 			Thuê lính canh và phân bổ họ đến các khu vực đã tái chiếm[cite: 1, 2]
+objective_riot_medicalneeds				(TÙY CHỌN) Chăm lo nhu cầu y tế cho nhà tù của bạn[cite: 1, 2]
+objective_Riot_Infirmary				(Tùy chọn) Xây Phòng y tế và điều trị cho người bị thương[cite: 1, 2]
+objective_Riot_Morgue 					(Tùy chọn) Xây Nhà xác và thu gom thi thể[cite: 1, 2]
+objective_Riot_SecureGenPop				Tái chiếm phân khu Dân số chung (trung tâm)[cite: 1, 2]
+objective_Riot_SecureSpecialWing		Tái chiếm phân khu Đặc biệt (phía tây)[cite: 1, 2]
+objective_Riot_SecureMaxSec				Tái chiếm phân khu An ninh tối đa (phía nam)[cite: 1, 2]
+objective_riot_putoutfires				Kiểm soát ngọn lửa[cite: 1, 2]
+
+adviser_riot_secondreinforcements1		Đã có thêm Lính chống Bạo động đến.[cite: 1, 2]
+
+adviser_riot_armedreinforcements1		Thị trưởng đã điều động một số cảnh sát vũ trang từ đồn cảnh sát gần đó.[cite: 1, 2]
+adviser_riot_armedreinforcements2		Hãy cẩn thận với những gã này. Bạn rất có thể sẽ phải đối mặt với một cuộc tắm máu nếu bạn thả xích cho họ.[cite: 1, 2]
+adviser_riot_armedreinforcements3		Mặt khác, bọn tù nhân có thể sẽ chọn cách đầu hàng khi thấy những người này tiến vào.[cite: 1, 2]
+
+adviser_riot_reinforcementsunlocked1 	Lực lượng viện binh chủ lực đã đến.[cite: 1, 2]
+adviser_riot_reinforcementsunlocked2 	Bây giờ bạn có thể gọi bao nhiêu đội Cảnh sát chống Bạo động và Nhân viên y tế tùy thích, từ thanh công cụ Khẩn cấp.[cite: 1, 2]
+
+adviser_riot_cleanup1                   Cơ sở đã nằm trong tầm kiểm soát, và những kẻ bạo loạn đã bị khuất phục. Mọi chuyện đáng ra đã có thể tồi tệ hơn rất nhiều.[cite: 1, 2]
+adviser_riot_cleanup2                   Chúng ta có một khối lượng công việc dọn dẹp khổng lồ ở phía trước. Tôi sẽ rất cảm kích sự giúp đỡ của bạn trong việc này, nếu bạn có thời gian.[cite: 1, 2]
+adviser_riot_cleanup2b 					Chúng ta không có bất kỳ nhà thầu xây dựng nào tại chỗ, vì vậy bước đầu tiên sẽ là thuê một số công nhân mới để bắt tay vào sửa chữa nơi này.[cite: 1, 2]
+adviser_riot_cleanup3                   Tôi luôn nghĩ rằng an ninh ở đây quá lỏng lẻo. Những tù nhân này đã được cho quá nhiều sự tự do trong một thời gian quá dài. Chuyện đó sẽ kết thúc từ hôm nay.[cite: 1, 2]
+adviser_riot_cleanup4                   Tôi muốn bạn xây cho chúng ta một Kho vũ khí mới, sau đó phân bổ lính canh vũ trang tại các vị trí trọng yếu quanh nhà tù. Viễn cảnh đó sẽ khuất phục những tù nhân này và chúng sẽ phải suy nghĩ cẩn thận trước khi gây ra rắc rối lớn thế này lần nữa.[cite: 1, 2]
+adviser_riot_cleanup5                   Tôi cũng đang phê duyệt ngân sách để cung cấp áo giáp cho tất cả nhân viên an ninh tại cơ sở. Người của chúng ta cần phải có khả năng tự vệ.[cite: 1, 2]
+adviser_riot_cleanup6                   Tiếp tục nào. Những tù nhân này cần kỷ luật. Trật tự trong cuộc sống của chúng. Tôi đề nghị chúng ta bắt chúng làm việc để dọn dẹp mớ hỗn độn mà chúng đã gây ra.[cite: 1, 2]
+adviser_riot_cleanup7                   Khởi động chương trình lao động cho tù nhân của chúng ta, và bắt chúng làm việc dọn dẹp nhà tù cũng như giặt giũ.[cite: 1, 2]
+adviser_riot_cleanup7b                  Bạn có thể phân công tù nhân làm việc từ thanh công cụ, dưới mục Hậu cần. Rọi vào mục tiêu để biết thêm hướng dẫn chi tiết về cách thực hiện việc này.[cite: 1, 2]
+adviser_riot_cleanup8                   Chúng ta còn một vài yêu cầu khác. Có rất nhiều tù nhân cần được dạy cho một bài học về những sai trái của chúng. Xây một phân khu Biệt giam mới.[cite: 1, 2]
+adviser_riot_cleanup8b                  Lính canh của chúng ta sẽ lo việc chuyển tù nhân vào phòng Biệt giam theo yêu cầu. Việc Biệt giam cho tù nhân thời gian suy ngẫm về những gì chúng đã làm, và nhắc nhở chúng ai mới là người nắm quyền ở đây.[cite: 1, 2]
+adviser_riot_cleanup9                   Và đừng quên các nhân viên, những người đã vượt qua thử thách này cùng chúng ta. Họ đã kiệt sức rồi.[cite: 1, 2]
+adviser_riot_cleanup9b 					Xây một phòng nghỉ cho nhân viên ở đâu đó để cho họ có chỗ phục hồi sức khỏe.[cite: 1, 2]
+adviser_riot_cleanup10                  Cuối cùng, chúng ta cần đưa tất cả những thứ này vào một khoản ngân sách. Hãy đảm bảo chúng ta có số dư ngân hàng và dòng tiền dương.[cite: 1, 2]
+adviser_riot_cleanup10b 				Lao động của tù nhân rẻ hơn đáng kể so với các nhà thầu khi nói đến công việc dọn dẹp, tạp vụ, giặt giũ và những việc tương tự.[cite: 1, 2]
+adviser_riot_cleanup11                  Có rất nhiều việc phải làm ở đây. Chúng tôi thực sự cảm kích sự giúp đỡ của bạn.[cite: 1, 2]
+adviser_riot_cleanup12                  Khi bạn cảm thấy mình đã làm đủ và sẵn sàng đi tiếp, hãy nhấp vào bức ảnh polaroid ở cổng chính.[cite: 1, 2]
+
+adviser_riot_cleanup13 					Làm xuất sắc lắm. Tôi nghĩ an ninh của cơ sở này giờ trông đã mạnh hơn nhiều rồi.[cite: 1, 2]
+
+objective_riot_solitary 				(TÙY CHỌN) Xây một phân khu Biệt giam và bắt đầu trừng phạt bọn bạo loạn[cite: 1, 2]
+objective_riot_armoury 					(TÙY CHỌN) Triển khai các giao thức an ninh mới[cite: 1, 2]
+objective_riot_armoury_research			Mở khóa Kho vũ khí thông qua Đề án quản lý[cite: 1, 2]
+objective_riot_armoury_build 			Xây Kho vũ khí (ở một địa điểm an toàn)[cite: 1, 2]
+objective_riot_armoury_deploy			Phân bổ lính canh vũ trang quanh nhà tù[cite: 1, 2]
+objective_riot_armoury_armour 			Mở khóa áo giáp cho tất cả nhân viên an ninh[cite: 1, 2]
+objective_riot_armoury_tazers 			Mở khóa Súng điện cho lính canh vũ trang của bạn[cite: 1, 2]
+objective_riot_staffroom 				(TÙY CHỌN) Xây Phòng nghỉ Nhân viên cho đội ngũ nhân viên đang kiệt sức[cite: 1, 2]
+objective_riot_balancebooks 			(TÙY CHỌN) Cân đối sổ sách[cite: 1, 2]
+objective_riot_balancebooks_balance 	Số Dư Ngân Hàng Dương[cite: 1, 2]
+objective_riot_balancebooks_cashflow 	Dòng Tiền Dương[cite: 1, 2]
+objective_riot_prisonerwork				(TÙY CHỌN) Thiết lập một chương trình lao động khổ sai[cite: 1, 2]
+
+objective_riot_cleaningcupboard			Xây Tủ Dụng cụ Vệ sinh[cite: 1, 2]
+objective_riot_laundry					Xây Phòng Giặt[cite: 1, 2]
+objective_riot_inmatesincleaning 		Phân công tù nhân làm việc trong bộ phận Vệ sinh[cite: 1, 2]
+objective_riot_inmatesinlaundry			Phân công tù nhân làm việc trong bộ phận Giặt ủi[cite: 1, 2]
+objective_riot_cleanprison 				Dọn dẹp nhà tù[cite: 1, 2]
+objective_riot_providelaundry			Cung cấp quần áo giặt sạch[cite: 1, 2]
+
+objective_riot_armoury_research_description		Biểu tượng Đề án quản lý nằm ngay phía trên danh sách việc cần làm này. Nhấp vào để bắt đầu nghiên cứu 'Kho vũ khí' - Trưởng phòng an ninh của bạn sẽ làm các thủ tục giấy tờ.[cite: 1, 2]
+objective_riot_armoury_deploy_description       Để phân bổ lính canh vũ trang, hãy vào Phân bổ rồi chọn 'Tuần tra Vũ trang'. Nhấp và kéo để vẽ các tuyến tuần tra ở nơi bạn muốn, sau đó nhấp lại vào các tuyến tuần tra để phân công lính canh vũ trang vào đó.[cite: 1, 2]
+objective_riot_armoury_guardtazers_description  Nhìn vào Báo cáo / Chương trình - bạn sẽ thấy 'Đào tạo Sử dụng Súng điện cho Lính canh'.\n\nLính canh của bạn cần được đào tạo trước khi họ có thể sử dụng Súng điện. Bạn sẽ cần xây một Lớp học để thực hiện khóa đào tạo này.[cite: 1, 2]
+objective_riot_prisonerwork_description         Để phân công tù nhân làm việc, hãy vào 'Hậu cần' sau đó chọn 'Lao động Tù nhân'. Nhấp để thêm công việc vào bất kỳ phòng nào được tô màu xanh lá cây.\n\nBạn cũng phải chỉ định thời gian tù nhân phải làm việc. Vào Báo cáo / Chế độ Sinh hoạt, và thêm vài giờ 'Làm việc' vào trong ngày. Tù nhân sẽ làm việc nếu có công việc trong thời gian này.[cite: 1, 2]
+
+objective_Riot_PlayerExitsMap			Nhấp vào ảnh polaroid bên ngoài lối vào chính khi bạn đã hoàn tất.[cite: 1, 2]
+
+
+# =============================================================================[cite: 1, 2]
+# Conviction[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
+
+campaigncutscene_convictionheist        Vụ cướp[cite: 1, 2]
+campaigncutscene_convictionmorgan       Morgan[cite: 1, 2]
+campaigncutscene_convictionvisitation   Thăm viếng[cite: 1, 2]
+campaigncutscene_convictionsuicide      Tự sát[cite: 1, 2]
+
+campaignchapter_conviction              Conviction[cite: 1, 2]
+campaignchapter_conviction_description  Một tù nhân của chúng ta đang bị theo dõi tự sát. Henry Morgan, đồng phạm của Benedict. Đã bóc lịch mười ba tháng trong bản án năm năm. Hãy giúp chúng tôi để mắt đến những người này.[cite: 1, 2]
+
+adviser_name_benedictarmed              Benedict[cite: 1, 2]
+adviser_name_morgan                     Henry Morgan[cite: 1, 2]
+adviser_name_morganarmed				Henry Morgan[cite: 1, 2]
+adviser_name_morganhappy                Henry Morgan[cite: 1, 2]
+adviser_name_senator                    Thượng nghị sĩ Walter Hurst[cite: 1, 2]
+adviser_name_detective                  Thám tử Cảnh sát[cite: 1, 2]
+adviser_name_kerry 						Kerry Morgan[cite: 1, 2]
+adviser_name_hurst 						Bác sĩ Walter Hurst[cite: 1, 2]
+adviser_name_keane 						Sĩ quan Keane[cite: 1, 2]
+
+adviser_conviction_heist1               Gom tiền đi, nhóc.[cite: 1, 2]
+adviser_conviction_heist2               Bỏ vũ khí xuống, ngay lập tức![cite: 1, 2]
+adviser_conviction_heist2b				Ôi đệt![cite: 1, 2]
+adviser_conviction_heist3               Bắn đi, chết tiệt![cite: 1, 2]
+adviser_conviction_heist4               Mày còn đợi cái quái gì nữa, bắn đi đồ nhát cáy![cite: 1, 2]
+adviser_conviction_heist6               Đồ khốn kiếp![cite: 1, 2]
+adviser_conviction_heist7               Đừng bắn! Đừng bắn![cite: 1, 2]
+adviser_conviction_heist8               GIƠ TAY LÊN, LŨ CHÓ ĐẺ![cite: 1, 2]
+adviser_conviction_heist9               Làm chính xác những gì tao làm, hiểu chưa?[cite: 1, 2]
+adviser_conviction_heist10              Chết tiệt, chết tiệt, CHẾT TIỆT![cite: 1, 2]
+adviser_conviction_heist11              Đừng bắn! ĐỪNG BẮN![cite: 1, 2]
+
+conviction_intro_1                      Sau thảm kịch gần đây tại Nhà tù Bang Alchemico, chúng ta đang bị giám sát chặt chẽ về mặt chính trị.[cite: 1, 2]
+conviction_intro_2                      Cho đến khi tìm được người thay thế lâu dài cho vị trí Giám đốc Điều hành, tôi muốn bạn tạm thời nắm quyền điều hành.[cite: 1, 2]
+conviction_intro_3                      Gần đây đã có một loạt các vụ tự sát tại cơ sở này, và không khó để nhận ra lý do. Nhưng chúng ta đang có một vấn đề cấp bách hơn.[cite: 1, 2]
+conviction_intro_4                      Cấp trên đã quyết định gửi cho chúng ta một lô tù nhân mới khổng lồ. Tốp đầu tiên sẽ đến vào ngày mai, và chúng ta không có chỗ nào để chứa họ.[cite: 1, 2]
+conviction_intro_5                      Chúng tôi cần bạn xây một phân khu buồng giam hoàn toàn mới, có đủ không gian để xử lý lượng tiếp nhận mới này.[cite: 1, 2]
+conviction_intro_5b 					Tôi đã phác thảo sẵn một thiết kế tiềm năng cho phân khu buồng giam mới ở đây. Việc này sẽ cung cấp đủ số buồng giam mới để xử lý lượng tiếp nhận, và thiết kế này cũng bao gồm luôn khu vực phòng tắm riêng.[cite: 1, 2]
+conviction_intro_5c 					Nhưng việc bạn chọn làm theo thiết kế này hay làm một điều gì đó hoàn toàn khác là tùy thuộc vào bạn.[cite: 1, 2]
+conviction_intro_6                      Công việc của tôi là ưu tiên phúc lợi cho những người này. Hãy xây xong phân khu buồng giam mới đó đi, rồi chúng ta sẽ bàn cách đạt được điều đó.[cite: 1, 2]
+
+unused_conviction_intro_4                      Một tù nhân của chúng ta đang bị theo dõi tự sát. Henry Morgan, đồng phạm của Benedict. Đã bóc lịch mười ba tháng trong bản án năm năm.[cite: 1, 2]
+unused_conviction_intro_7						Tôi muốn đi nói chuyện với anh ta. Chúng ta không thể để xảy ra thêm một vụ tự sát nào nữa.[cite: 1, 2]
+
+conviction_workintro1                   Chúng ta đã đối xử với những người này như cỏ rác quá lâu rồi. Điều đó phải kết thúc ngay bây giờ.[cite: 1, 2]
+conviction_workintro2                   Giám đốc Điều hành trước đây chưa bao giờ là người có niềm tin lớn vào việc cải tạo tù nhân. Nhưng theo cách tôi nhìn nhận, chúng ta cần cung cấp cho những người này một tia hy vọng nào đó về tương lai.[cite: 1, 2]
+conviction_workintro3                   Chúng ta cần trang bị cho họ những kỹ năng cần thiết để thành công khi được trả tự do - các kỹ năng nghề nghiệp có giá trị, một nền giáo dục cơ bản.[cite: 1, 2]
+conviction_workintro4                   Chúng ta nên bắt đầu một chương trình học nghề. Đào tạo cho những người này một số kỹ năng thực tế, để ít nhất họ có một tương lai có thể mong đợi.[cite: 1, 2]
+
+
+conviction_hurst1 						Sự thiếu gắn kết ở cơ sở này thật đáng kinh ngạc. Những con người bị tước đoạt đi từng chút nhân tính cuối cùng.[cite: 1, 2]
+conviction_hurst2 						Họ chỉ nhận được sự thương hại hoặc tôn trọng ít ỏi.[cite: 1, 2]
+conviction_hurst3 						Đó không phải là những gì họ đáng phải chịu.[cite: 1, 2]
+conviction_hurst4 						Thật vậy, Đại úy. Đây không phải là cách đối xử với một con người. Họ đang bị tước đoạt mọi nhân tính.[cite: 1, 2]
+conviction_hurst4b 						Tại sao họ phải tuân thủ các quy tắc của chúng ta? Anh không thể mong đợi họ phản ứng theo bất kỳ cách nào khác ngoài sự oán giận tột cùng.[cite: 1, 2]
+conviction_hurst4c						Chúng ta cần các lớp học, các chương trình cai nghiện ma túy. Một xưởng làm việc, để họ có thể bắt đầu tự hào về kỹ năng của mình.[cite: 1, 2]
+conviction_hurst6 						Ông hiểu lầm tôi rồi, Bác sĩ. Những kẻ này không phải là con người. Tự nhìn đi thì biết.[cite: 1, 2]
+conviction_hurst6b 						Đứng dậy, Morgan![cite: 1, 2]
+conviction_hurst7 						Anh có người đến thăm này.[cite: 1, 2]
+conviction_hurst8 						Cải tạo sao? Thà dạy khỉ gảy đàn banjo còn hơn.[cite: 1, 2]
+
+conviction_hurst10 						Cậu tên gì, chàng trai?[cite: 1, 2]
+conviction_hurst10b                     Người ta đang hỏi mày kìa.[cite: 1, 2]
+conviction_hurst11 						Henry, thưa ngài.[cite: 1, 2]
+conviction_hurst12 						Dưới đó chắc lạnh lắm, Henry. Mặc cái này vào đi.[cite: 1, 2]
+conviction_hurst13 						Có chấy rận trên giường thưa ngài. Chúng ăn tươi nuốt sống tôi. Áo sơ mi giúp chắn lũ chuột. Những con chuột lớn nhất tôi từng thấy.[cite: 1, 2]
+conviction_hurst14 						Cứ gọi tôi là Walter.[cite: 1, 2]
+conviction_hurst15 						Cậu ngủ thế nào?[cite: 1, 2]
+conviction_hurst16 						Không ngủ được. Điều duy nhất tôi làm trong này là suy nghĩ. Rất nhiều thời gian để suy nghĩ.[cite: 1, 2]
+conviction_hurst16b                     Cậu nghĩ về điều gì?[cite: 1, 2]
+conviction_hurst16c                     Chủ yếu là cái chết. Và cô con gái bé nhỏ của tôi.[cite: 1, 2]
+conviction_hurst17 						Con bé sẽ cần cậu mạnh mẽ, Henry. Điều này cũng khó khăn cho con bé nữa.[cite: 1, 2]
+conviction_hurst18 						Tôi đã ở sau song sắt từ ngày con bé chào đời. Nó còn không biết là tôi tồn tại.[cite: 1, 2]
+conviction_hurst19 						Không bao giờ là quá trễ để thay đổi một cuộc đời đâu, Henry.[cite: 1, 2]
+conviction_hurst19b 					Tôi muốn quay lại thăm cậu nữa nếu được.[cite: 1, 2]
+conviction_hurst20 						Vâng, thưa ngài. Cảm ơn ngài.[cite: 1, 2]
+conviction_hurst21 						Chúng ta có thể làm gì đó với lũ chuột không? Đây đâu phải là thế giới thứ ba.[cite: 1, 2]
+conviction_hurst22 						Tôi sẽ kiếm ít thuốc chuột bỏ vào đó.[cite: 1, 2]
+
+conviction_visitationintro_1            Tôi đã thuyết phục được ngài Trưởng phòng an ninh cho phép gia đình của Morgan được vào thăm như một ngoại lệ.[cite: 1, 2]
+
+conviction_visitation_0					Chào ngài. Tôi là Kerry Morgan, đến đây để gặp Henry Morgan.[cite: 1, 2]
+conviction_visitation_1					Đứng sau vạch kẻ.[cite: 1, 2]
+conviction_visitation_2 				Tôi xin lỗi. Tôi đến để gặp Henry. Henry Morgan. Anh ấy là chồng tôi, thưa ngài.[cite: 1, 2]
+conviction_visitation_3 				Tôi sẽ không nhắc lại lần nữa đâu. Đứng sau vạch kẻ. Ngay lập tức.[cite: 1, 2]
+conviction_visitation_4 				Vâng, thưa ngài. Xin lỗi ngài.[cite: 1, 2]
+conviction_visitation_5 				Được rồi. Tiến lên đây. Tôi không có cả ngày đâu.[cite: 1, 2]
+conviction_visitation_6					Tên.[cite: 1, 2]
+conviction_visitation_7					Kerry Morgan, thưa ngài. Đến đây để thăm Henry Morgan. Và đây là con gái bé nhỏ của anh ấy.[cite: 1, 2]
+conviction_visitation_8					Cô nói với nó như thế à? Đi qua đi.[cite: 1, 2]
+conviction_visitation_8a                Kerry![cite: 1, 2]
+conviction_visitation_9					E là có chút nhầm lẫn. Morgan đã mất quyền được thăm viếng rồi.[cite: 1, 2]
+conviction_visitation_9b 				Cái gì?[cite: 1, 2]
+conviction_visitation_9c 				Tôi rất tiếc. Chúng tôi đã tìm thấy rượu trong phòng giam của anh ta sáng nay. Tôi không thể làm gì được.[cite: 1, 2]
+conviction_visitation_10				Tôi đã mất hai tiếng đồng hồ để đến đây. Con gái tôi đang khóc. Thật không công bằng.[cite: 1, 2]
+conviction_visitation_11				Cô muốn công bằng thì đi Disneyland ấy. Nơi công bằng là chỗ cô trúng thưởng cá vàng và ăn hot dog. Cô sẽ không tìm thấy điều đó ở đây đâu.[cite: 1, 2]
+conviction_visitation_12				Làm ơn, đưa cho anh ấy cái này.[cite: 1, 2]
+conviction_visitation_13                Chắc chắn rồi. Hắn sẽ không có ai đến thăm trong một khoảng thời gian dài đâu. Có nhắn gửi gì không?[cite: 1, 2]
+conviction_visitation_14                Không. Không có nhắn nhủ gì.[cite: 1, 2]
+
+conviction_visitation_angrymorgan0		Không![cite: 1, 2]
+conviction_visitation_angrymorgan1		Đợi đã![cite: 1, 2]
+conviction_visitation_angrymorgan2		Mấy người không thể làm vậy![cite: 1, 2]
+conviction_visitation_angrymorgan3		Để tôi nói chuyện với cô ấy![cite: 1, 2]
+conviction_visitation_angrymorgan4		Lũ khốn kiếp chúng mày![cite: 1, 2]
+
+conviction_helpinmates_1                Thật vô cùng đáng thất vọng.[cite: 1, 2]
+conviction_helpinmates_2                Thật khó để tìm ra những cách thực sự giúp đỡ những người này. Họ thực sự cần được dạy cách tự giúp chính mình.[cite: 1, 2]
+conviction_helpinmates_3                Tôi nghĩ rõ ràng là chúng ta cần giải quyết vấn đề cơ sở vật chất dành cho việc thăm viếng. Gia đình họ đang xếp hàng dài ngoài cửa, và rõ ràng chúng ta không thể xử lý nổi lượng khách đến thăm như hiện tại.[cite: 1, 2]
+conviction_helpinmates_4                Xây một trung tâm thăm viếng hoàn toàn mới. Bất chấp những gì đã xảy ra với Morgan, tôi nghĩ chúng ta sẽ thấy được lợi ích tích cực. Và cậu ta cũng không phải là tù nhân duy nhất ở đây có gia đình.[cite: 1, 2]
+conviction_helpinmates_5                Tôi đã làm một số khảo sát và thật kinh ngạc khi phát hiện ra rằng nhiều tù nhân trong số này chỉ có kỹ năng đọc và tính toán toán học ở mức độ cơ bản nhất. Chúng ta cần bắt đầu khắc phục điều này.[cite: 1, 2]
+conviction_helpinmates_6                Mở một Lớp học mới, và hãy bắt đầu mời giáo viên bên ngoài vào dạy những kiến thức cơ bản. Nếu không có giáo dục, những tù nhân này không có hy vọng gì ngoài một cuộc đời tội phạm.[cite: 1, 2]
+conviction_helpinmates_7                Và chúng ta cần phải theo kịp lượng tù nhân đổ về. Tiếp tục mở rộng sức chứa để mọi tù nhân đều có được một buồng giam chất lượng tốt.[cite: 1, 2]
+
+conviction_outro1                       Tôi nghĩ chúng ta đã tạo ra một sự khác biệt lớn ở đây. Chúng ta đã cho những tù nhân này một mục tiêu để phấn đấu, và một lý do để tiếp tục sống.[cite: 1, 2]
+conviction_outro2                       Bạn có thể ở lại và giúp chúng tôi theo dõi đợt tù nhân đầu tiên hoàn thành các chương trình giáo dục và làm việc mà chúng ta đã thiết lập, nếu bạn muốn.[cite: 1, 2]
+conviction_outro3                       Nhưng tôi nghĩ chúng tôi có thể tự lo liệu từ đây. Khi bạn sẵn sàng rời đi, hãy nhấp vào ảnh polaroid trong phòng giam của Morgan.[cite: 1, 2]
+
+conviction_secondvisit_1                Tôi đã hy vọng sẽ gặp cậu tại một trong những buổi trị liệu của tôi.[cite: 1, 2]
+conviction_secondvisit_2                Tôi không làm được đâu. Tôi không thể ở lại cái hố này lâu hơn nữa.[cite: 1, 2]
+conviction_secondvisit_3                Chỉ cần cố gắng từng ngày thôi.[cite: 1, 2]
+conviction_secondvisit_4                Ý tôi là toàn bộ cái nơi hôi thối này. Ở trong này. Ở ngoài kia. Họ sẽ không cho tôi gặp gia đình. Tôi đã làm hỏng bét mọi thứ, thưa ngài, và điều đó sẽ không thay đổi đâu.[cite: 1, 2]
+conviction_secondvisit_5                Henry, mọi chuyện sẽ ổn thôi. Tôi sẽ sát cánh bên cậu.[cite: 1, 2]
+conviction_secondvisit_6                Thật nực cười. Anh ấy cũng nói chính xác như vậy.[cite: 1, 2]
+conviction_secondvisit_7                Ai cơ, Henry? Cậu có thể nói cho tôi biết.[cite: 1, 2]
+conviction_secondvisit_8                Anh ấy đã luôn chăm sóc tôi.[cite: 1, 2]
+conviction_secondvisit_9                Kể từ khi chúng tôi còn là những đứa trẻ.[cite: 1, 2]
+conviction_secondvisit_10               Giữ tỉnh táo nhé. Dù có chuyện gì xảy ra, nhóc à.[cite: 1, 2]
+conviction_secondvisit_11               Anh sẽ luôn sát cánh bên em.[cite: 1, 2]
+conviction_secondvisit_11b 				Sát cánh bên tôi sao?[cite: 1, 2]
+conviction_secondvisit_12               Anh ấy không còn ở đó nữa.[cite: 1, 2]
+conviction_secondvisit_13               Tôi sẽ thỏa thuận với cậu điều này. Cậu đến dự buổi trị liệu nhóm tiếp theo của tôi và tôi sẽ xem có thể nới lỏng đặc quyền thăm viếng của cậu không.[cite: 1, 2]
+conviction_secondvisit_14               Ngài sẽ làm vậy vì tôi sao, thưa ngài?[cite: 1, 2]
+conviction_secondvisit_15               Không chỉ vì cậu đâu, Henry.[cite: 1, 2]
+
+conviction_suicide_1 					Xin lỗi ngài, tôi nghĩ ngài cần phải biết điều này. Đã có thêm một vụ tự sát nữa.[cite: 1, 2]
+conviction_suicide_2					Có vẻ như một trong những tù nhân đã uống phải thuốc chuột.[cite: 1, 2]
+conviction_suicide_3					Bác sĩ Hurst hiện đang trên đường đến đó để xác nhận.[cite: 1, 2]
+conviction_suicide_4					Ông không thấy con bé là sinh linh đẹp đẽ nhất mà ông từng thấy sao?[cite: 1, 2]
+conviction_suicide_5					Tôi nghĩ là có đấy.[cite: 1, 2]
+conviction_suicide_6					Không bao giờ là quá trễ để làm lại cuộc đời, thưa ngài.[cite: 1, 2]
+
+objective_conviction_expandcapacity50			Xử lý đợt tiếp nhận tù nhân mới[cite: 1, 2]
+objective_conviction_expandcapacity50_description	Bạn có thể xem một bố cục tiềm năng cho phân khu buồng giam mới bằng cách chuyển sang chế độ 'Lên kế hoạch' từ thanh công cụ chính.[cite: 1, 2]
+objective_conviction_expandcapacity_cells	 	Cung cấp buồng giam cho 40 tù nhân[cite: 1, 2]
+objective_conviction_expandcapacity_shower		Cung cấp phòng tắm[cite: 1, 2]
+objective_conviction_expandcapacity_yard		Cung cấp sân hoạt động[cite: 1, 2]
+objective_conviction_expandcapacity_intake		Đợi đợt tiếp nhận tiếp theo đến[cite: 1, 2]
+
+objective_conviction_workprogram 				Vận hành chương trình đào tạo kỹ năng làm việc[cite: 1, 2]
+objective_conviction_unlocklabour				Cấp phép cho 'Lao động Tù nhân' thông qua Đề án quản lý[cite: 1, 2]
+objective_conviction_work_trainkitchen			(TÙY CHỌN) Đào tạo 5 tù nhân về An toàn và Vệ sinh Nhà bếp[cite: 1, 2]
+objective_conviction_work_kitchen				Phân công tù nhân làm việc trong nhà bếp[cite: 1, 2]
+objective_conviction_work_workshop				Xây một Xưởng làm việc[cite: 1, 2]
+objective_conviction_work_trainworkshop			(TÙY CHỌN) Cho 10 tù nhân trải qua Khóa Hướng dẫn An toàn Xưởng làm việc[cite: 1, 2]
+objective_conviction_work_assignworkshop		Phân công tù nhân làm việc trong xưởng[cite: 1, 2]
+objective_conviction_work_produceplates			(TÙY CHỌN) Sản xuất 100 biển số xe[cite: 1, 2]
+objective_conviction_work_exportszone			Thiết lập khu vực Xuất khẩu gần đường lớn[cite: 1, 2]
+objective_conviction_work_setintake             Thiết lập Mức tiếp nhận Tù nhân thành 10 người mỗi ngày[cite: 1, 2]
+
+objective_conviction_unlocklabour_description	 Bạn có thể tìm thấy màn hình Đề án quản lý bằng cách nhấp vào biểu tượng phía trên danh sách việc cần làm này.[cite: 1, 2]
+objective_conviction_work_kitchen_description	 Để phân công tù nhân vào làm trong nhà bếp, hãy vào 'Hậu cần' rồi chọn 'Lao động Tù nhân'.\n\nLưu ý. Tù nhân của bạn phải vượt qua khóa đào tạo 'An toàn và Vệ sinh Nhà bếp' trước khi họ có thể làm việc trong nhà bếp.[cite: 1, 2]
+objective_conviction_work_assignworkshop_description 	Để phân công tù nhân vào làm trong xưởng làm việc, hãy vào 'Hậu cần' rồi chọn 'Lao động Tù nhân'.\n\nTù nhân của bạn phải vượt qua khóa 'Hướng dẫn An toàn Xưởng làm việc' trước khi họ đủ điều kiện để làm việc trong xưởng.[cite: 1, 2]
+objective_conviction_work_trainkitchen_description 		Để chạy các chương trình đào tạo và cải tạo, hãy vào 'Báo cáo' (Góc dưới bên phải) rồi chọn 'Chương trình'. Tù nhân sẽ tham gia các chương trình này trong thời gian làm việc được phân công của họ.\n\nLưu ý bạn sẽ cần phải chỉ định hai giờ 'Làm việc' trong màn hình lịch trình Chế độ Sinh hoạt, nếu không tù nhân sẽ không có thời gian để tham dự các chương trình đào tạo.[cite: 1, 2]
+objective_conviction_work_trainworkshop_description 	Để chạy các chương trình đào tạo và cải tạo, hãy vào 'Báo cáo' (Góc dưới bên phải) rồi chọn 'Chương trình'. Tù nhân sẽ tham gia các chương trình này trong thời gian làm việc được phân công của họ.\n\nLưu ý bạn sẽ cần phải chỉ định hai giờ 'Làm việc' trong màn hình lịch trình Chế độ Sinh hoạt, nếu không tù nhân sẽ không có thời gian để tham dự các chương trình đào tạo.[cite: 1, 2]
+objective_conviction_work_setintake_description         Để đảm bảo nhà tù của bạn không bị quá tải, hãy vào 'Báo cáo' (Góc dưới bên phải) rồi chọn 'Tiếp nhận', và sử dụng nút << để giảm mức tiếp nhận xuống 10.[cite: 1, 2]
+
+objective_conviction_visitation				Thiết lập dịch vụ thăm viếng tốt hơn[cite: 1, 2]
+objective_conviction_visitationroom	        Xây một trung tâm khách thăm viếng mới[cite: 1, 2]
+objective_conviction_visitationcount		Tạo điều kiện cho 20 lượt gia đình vào thăm tù nhân[cite: 1, 2]
+objective_conviction_telephones	 			Lắp thêm điện thoại ở tất cả các Sân[cite: 1, 2]
+objective_conviction_mailroom				Xây một Phòng Thư tín[cite: 1, 2]
+objective_conviction_mailroomwork			Phân công tù nhân làm việc trong phòng thư tín[cite: 1, 2]
+
+objective_conviction_mailroomwork_description           Để phân công tù nhân vào Phòng Thư tín, hãy vào 'Hậu cần' rồi chọn 'Lao động Tù nhân'.[cite: 1, 2]
+
+objective_conviction_education				Bắt đầu giáo dục tù nhân của bạn[cite: 1, 2]
+objective_conviction_unlockeducation		Cấp phép 'Giáo dục' thông qua Đề án quản lý[cite: 1, 2]
+objective_conviction_education_classroom	Xây một lớp học[cite: 1, 2]
+objective_conviction_education_class 		Mở lớp Giáo dục Cơ sở[cite: 1, 2]
+objective_conviction_education_learn		(TÙY CHỌN) Có 5 tù nhân vượt qua được lớp Giáo dục Cơ sở[cite: 1, 2]
+objective_conviction_education_library		Xây một Thư viện[cite: 1, 2]
+objective_conviction_education_librarywork	Phân công tù nhân làm việc trong Thư viện[cite: 1, 2]
+objective_conviction_education_chapel		Xây một Nhà nguyện[cite: 1, 2]
+objective_conviction_education_spiritual	Mở một lớp Hướng dẫn Tâm linh[cite: 1, 2]
+
+objective_conviction_expandcapacity100			Mở rộng sức chứa của nhà tù[cite: 1, 2]
+objective_conviction_expandcapacity_cells100	Mở rộng sức chứa lên thành 80 buồng giam[cite: 1, 2]
+objective_conviction_expandcapacity_cells200	(TÙY CHỌN) Mở rộng sức chứa lên thành 120 buồng giam[cite: 1, 2]
+
+objective_Conviction_PlayerExitsMap         Nhấp vào ảnh polaroid trong phòng giam của Morgan khi bạn đã hoàn tất.[cite: 1, 2]
 
  
-# =============================================================================
-# Epilogue
-# =============================================================================
+# =============================================================================[cite: 1, 2]
+# Epilogue[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
 
-campaignchapter_epilogue                Bootstraps
-campaigncutscene_epilogueintro          Revisit
-campaigncutscene_epilogueoutro          Epilogue 
+campaignchapter_epilogue                Bootstraps[cite: 1, 2]
+campaigncutscene_epilogueintro          Trở lại[cite: 1, 2]
+campaigncutscene_epilogueoutro          Hồi kết[cite: 1, 2]
 
-campaignchapter_epilogue_description    A historic prison is scheduled for demolition and replacement. Use all the skills you've learnt to create the ultimate facility.
+campaignchapter_epilogue_description    Một nhà tù lịch sử dự kiến sẽ bị phá bỏ và thay thế. Hãy sử dụng tất cả các kỹ năng bạn đã học được để tạo ra một cơ sở hoàn hảo nhất.[cite: 1, 2]
 
-adviser_name_reporter 					Reporter
+adviser_name_reporter 					Phóng viên[cite: 1, 2]
 
-epilogue_newsintro1 					Today on CNDC news, a special report into the state of our prisons.
-epilogue_newsintro2 					It’s two years since the infamous 'Siege at Alchemico' claimed so many lives, including that of Chief Executive Charles Wallace. 
-epilogue_newsintro4 					Today we hear from leading experts and ask what, if anything, has changed since those tragic events. 
-epilogue_newsintro5 					First we go live to one of the state's longest running prisons, recently scheduled for demolition.
-epilogue_newsintro6						Live now, only on CNDC news.
+epilogue_newsintro1 					Hôm nay trên bản tin CNDC, một phóng sự đặc biệt về tình trạng nhà tù của chúng ta.[cite: 1, 2]
+epilogue_newsintro2 					Đã hai năm trôi qua kể từ vụ 'Bạo loạn tại Alchemico' khét tiếng cướp đi sinh mạng của rất nhiều người, bao gồm cả Giám đốc Điều hành Charles Wallace.[cite: 1, 2]
+epilogue_newsintro4 					Hôm nay chúng ta sẽ lắng nghe ý kiến từ các chuyên gia hàng đầu và đặt câu hỏi xem, liệu có bất kỳ điều gì, đã thay đổi kể từ những sự kiện bi thảm đó hay không.[cite: 1, 2]
+epilogue_newsintro5 					Đầu tiên chúng ta sẽ kết nối trực tiếp đến một trong những nhà tù hoạt động lâu năm nhất của tiểu bang, gần đây đã có kế hoạch bị dỡ bỏ.[cite: 1, 2]
+epilogue_newsintro6						Trực tiếp ngay bây giờ, chỉ có trên bản tin CNDC.[cite: 1, 2]
 
-epilogue_reporter1						Thanks Sarah. This prison has housed some of the country’s most notorious criminals.  
-epilogue_reporter2 						But now, its walls are being torn down, ready to be replaced by a new prison complex.
-epilogue_reporter3 						If you look behind me, you can see that the construction crews are already here, and demolition work has begun.
-epilogue_reporter4 						Joining me is city Mayor, Calvin Heller. Thank you Mr Heller for taking the time to talk to us today.
-epilogue_reporter5 						It’s my pleasure.
+epilogue_reporter1						Cảm ơn Sarah. Nhà tù này từng là nơi giam giữ một số tội phạm khét tiếng nhất nước.[cite: 1, 2]
+epilogue_reporter2 						Nhưng giờ đây, những bức tường của nó đang bị đập bỏ, sẵn sàng được thay thế bằng một khu phức hợp nhà tù mới.[cite: 1, 2]
+epilogue_reporter3 						Nếu quý vị nhìn ra phía sau tôi, quý vị có thể thấy các đội thi công xây dựng đã có mặt ở đây, và công tác phá dỡ đã bắt đầu.[cite: 1, 2]
+epilogue_reporter4 						Cùng tham gia với tôi là Thị trưởng thành phố, ông Calvin Heller. Cảm ơn ông Heller đã dành thời gian trò chuyện với chúng tôi hôm nay.[cite: 1, 2]
+epilogue_reporter5 						Đó là niềm hân hạnh của tôi.[cite: 1, 2]
 
-epilogue_reporter6 						In the past you've been a strong advocate of a tougher, more disciplined approach to prison management.
-epilogue_reporter6b 					Why demolish a facility which has defined, for so long, the punitive approach?
-epilogue_reporter7 						Both the prison and its operation had become antiquated. 
-epilogue_reporter8 						We took the decision to replace it with an entirely new facility. One with a more modern policy.
-epilogue_reporter9						This prison was in the news a few years ago as one of the last remaining state execution facilities.
-epilogue_reporter10 					Campaigners have long sought to revoke the death penalty laws here. Will you honour their wishes, or will you rebuild the execution facility?
-epilogue_reporter12 					That’s still under review. But it’s not a decision we’ll take lightly.
+epilogue_reporter6 						Trong quá khứ, ông từng là người ủng hộ mạnh mẽ cho một cách tiếp cận cứng rắn hơn, kỷ luật hơn trong quản lý nhà tù.[cite: 1, 2]
+epilogue_reporter6b 					Tại sao lại phá bỏ một cơ sở mà từ lâu đã định hình cho cách tiếp cận mang tính trừng phạt đó?[cite: 1, 2]
+epilogue_reporter7 						Cả nhà tù lẫn quá trình hoạt động của nó đều đã trở nên lỗi thời.[cite: 1, 2]
+epilogue_reporter8 						Chúng tôi đã đưa ra quyết định thay thế nó bằng một cơ sở hoàn toàn mới. Một nơi có chính sách hiện đại hơn.[cite: 1, 2]
+epilogue_reporter9						Nhà tù này từng xuất hiện trên tin tức vài năm trước như một trong những cơ sở thi hành án tử hình cuối cùng còn sót lại của bang.[cite: 1, 2]
+epilogue_reporter10 					Nhiều nhà hoạt động xã hội từ lâu đã tìm cách thu hồi bộ luật tử hình tại đây. Ông sẽ tôn trọng nguyện vọng của họ, hay ông sẽ xây dựng lại cơ sở tử hình?[cite: 1, 2]
+epilogue_reporter12 					Điều đó vẫn đang được xem xét. Nhưng đó không phải là một quyết định mà chúng tôi sẽ xem nhẹ đâu.[cite: 1, 2]
 
-epilogue_reporterend1 					Thank you Mayor Heller. Back to you in the studio.
-epilogue_newstransition1 				This is CNDC news, reporting live on the state of our prison system.
-epilogue_newstransition2 				After the break, we'll be joined by Doctor Walter Hurst, a specialist in prisoner psychology and rehabilitation.
+epilogue_reporterend1 					Cảm ơn Thị trưởng Heller. Trở lại với bạn ở trường quay.[cite: 1, 2]
+epilogue_newstransition1 				Đây là bản tin CNDC, tường thuật trực tiếp về tình trạng hệ thống nhà tù của chúng ta.[cite: 1, 2]
+epilogue_newstransition2 				Sau ít phút quảng cáo, chúng ta sẽ được cùng tham gia với Bác sĩ Walter Hurst, một chuyên gia về tâm lý và phục hồi nhân phẩm cho tù nhân.[cite: 1, 2]
 
-epilogue_parole1 						Still nothing? How long’s that?
-epilogue_parole2						I lost count. No calls. No letters.
-epilogue_parole3 						I'm sorry Morgan. That’s got to hurt. But you’ve got a chance here. Don’t mess up.
-epilogue_parole4 						Henry. Good luck.
-epilogue_parole5 						Don't try to tell them what you think they want to hear.
-epilogue_parole6 						I have to go. I'm live on air in one minute.
-epilogue_parole7                        Mayor Heller, what is your opinion?
-epilogue_parole10 						That was fast!
-epilogue_parole11 						Well?
-epilogue_parole12                       ...
+epilogue_parole1 						Vẫn chưa có gì à? Bao lâu rồi?[cite: 1, 2]
+epilogue_parole2						Tôi không nhớ nữa. Không một cuộc gọi. Không một lá thư.[cite: 1, 2]
+epilogue_parole3 						Tôi rất tiếc, Morgan à. Chắc chắn là rất đau lòng. Nhưng cậu có một cơ hội ở đây. Đừng làm hỏng nó đấy.[cite: 1, 2]
+epilogue_parole4 						Henry. Chúc may mắn.[cite: 1, 2]
+epilogue_parole5 						Đừng cố nói với họ những gì cậu nghĩ họ muốn nghe.[cite: 1, 2]
+epilogue_parole6 						Tôi phải đi đây. Tôi sẽ lên sóng trực tiếp trong một phút nữa.[cite: 1, 2]
+epilogue_parole7                        Thị trưởng Heller, ý kiến của ông là gì?[cite: 1, 2]
+epilogue_parole10 						Nhanh thật đấy![cite: 1, 2]
+epilogue_parole11 						Sao rồi?[cite: 1, 2]
+epilogue_parole12                       ...[cite: 1, 2]
 
-epilogue_outro_1 						Welcome back to this special edition of CNDC news, live with city Mayor Calvin Heller.
-epilogue_outro_2 						Joining us now is Doctor Walter Hurst, who has been accused of squandering huge sums of money on prison reform.
-epilogue_outro_2b 						Dr Hurst, Do you believe you've achieved success?
-epilogue_outro_3						Success? No. Not in general. 
-epilogue_outro_4						I believe everyone has the potential for improvement. And we must offer them that chance.
-epilogue_outro_4b 						I can state with absolute conviction that I've seen real improvement in the attitude and hopes of many of those incarcerated here.
-epilogue_outro_5						Incarceration should be a deterrent. It should not be an opportunity for development or change.
-epilogue_outro_6 						Punishing and dehumanising them during their experience only serves to nurture delinquency. 
+epilogue_outro_1 						Chào mừng quý vị trở lại với phiên bản đặc biệt này của bản tin CNDC, trực tiếp cùng Thị trưởng thành phố Calvin Heller.[cite: 1, 2]
+epilogue_outro_2 						Và cùng tham gia với chúng tôi bây giờ là Bác sĩ Walter Hurst, người vừa bị cáo buộc đã phung phí những khoản tiền khổng lồ vào việc cải tạo nhà tù.[cite: 1, 2]
+epilogue_outro_2b 						Thưa Bác sĩ Hurst, ông có tin rằng mình đã đạt được thành công không?[cite: 1, 2]
+epilogue_outro_3						Thành công sao? Không. Không hoàn toàn là vậy.[cite: 1, 2]
+epilogue_outro_4						Tôi tin rằng mọi người đều có tiềm năng để tiến bộ. Và chúng ta phải trao cho họ cơ hội đó.[cite: 1, 2]
+epilogue_outro_4b 						Tôi có thể khẳng định với sự xác tín tuyệt đối rằng tôi đã thấy được sự tiến bộ thực sự trong thái độ và hy vọng của nhiều người đang bị giam giữ tại đây.[cite: 1, 2]
+epilogue_outro_5						Giam giữ nên là một biện pháp răn đe. Nó không nên là một cơ hội để phát triển hay thay đổi bản thân.[cite: 1, 2]
+epilogue_outro_6 						Trừng phạt và làm mất đi nhân tính của họ trong suốt quá trình thụ án chỉ làm nuôi dưỡng thêm thói côn đồ mà thôi.[cite: 1, 2]
 
-epilogue_outro_7						We provide these men with valuable skills, but more importantly, hope.
-epilogue_outro_7b  						We are helping them to integrate back into society, and contribute after they leave.
-epilogue_outro_8						Ordinary citizens don't get free training. Free education. Guaranteed paid work. 
-epilogue_outro_8b 						We are neglecting the victims of crime, and rewarding the perpetrators.
-epilogue_outro_8c 						Spending vast sums, simply to make these criminals feel good about themselves.
-epilogue_outro_9						We can make a difference, even if we have to do it one individual at a time.
-epilogue_outro_10						These men haven't earned their freedoms. Their liberties.
-epilogue_outro_11						You can tell a tomcat a hundred times to leave the birds in your back yard alone. But he’ll always come back.
-epilogue_outro_12 						It’s in his nature.
+epilogue_outro_7						Chúng tôi cung cấp cho những người này các kỹ năng giá trị, nhưng quan trọng hơn là sự hy vọng.[cite: 1, 2]
+epilogue_outro_7b  						Chúng tôi đang giúp họ tái hòa nhập vào xã hội, và đóng góp sau khi họ rời đi.[cite: 1, 2]
+epilogue_outro_8						Những công dân bình thường đâu có được đào tạo miễn phí. Giáo dục miễn phí. Đảm bảo có việc làm được trả lương.[cite: 1, 2]
+epilogue_outro_8b 						Chúng ta đang phớt lờ các nạn nhân của tội ác, và lại đi khen thưởng cho thủ phạm.[cite: 1, 2]
+epilogue_outro_8c 						Tiêu tốn những khoản tiền khổng lồ, chỉ để làm cho những tên tội phạm này cảm thấy bản thân mình tốt đẹp.[cite: 1, 2]
+epilogue_outro_9						Chúng ta có thể tạo ra sự khác biệt, cho dù chúng ta có phải làm điều đó với từng cá nhân một.[cite: 1, 2]
+epilogue_outro_10						Những kẻ này chưa hề tự kiếm được sự tự do cho bản thân mình. Hay các đặc quyền của họ.[cite: 1, 2]
+epilogue_outro_11						Anh có thể dặn một con mèo đực cả trăm lần là hãy để yên cho những con chim trong sân sau nhà anh. Nhưng nó sẽ luôn quay lại vồ chúng.[cite: 1, 2]
+epilogue_outro_12 						Đó là bản năng của nó rồi.[cite: 1, 2]
 
-epilogue_sandbox_1                      Let me congratulate you on your appointment as CEO. This is an opportunity. A fresh start.
-epilogue_sandbox_2                      You'll have complete autonomy, more or less. More prisoners. Higher re-offending rates. You have a lot of challenges ahead of you.
-epilogue_sandbox_3						As for the death row facility, tear it down. Or keep it, make some use out of it. It really is up to you. Somebody else will take up that business if you won't. 
-epilogue_sandbox_4						As for objectives, I'm giving you the same as I gave to your predessessor. Profits, re-offending rates, capacity. 
-epilogue_sandbox_5 						It's entirely up to you how you achieve them.
-epilogue_sandbox_5b                     One last thing. The previous CEO Charles Wallace left behind a letter that he used to give out to any new prison architects who joined the firm.
-epilogue_sandbox_5c                     He had some good advice. You may find it useful to take a look.
-epilogue_sandbox_6						Good luck!
+epilogue_sandbox_1                      Cho tôi gửi lời chúc mừng nhân dịp bạn được bổ nhiệm làm Giám đốc Điều hành. Đây là một cơ hội lớn. Một sự khởi đầu mới.[cite: 1, 2]
+epilogue_sandbox_2                      Bạn sẽ có quyền tự trị hoàn toàn, ít hay nhiều. Sẽ có thêm tù nhân. Tỷ lệ tái phạm cao hơn. Bạn có rất nhiều thách thức ở phía trước đấy.[cite: 1, 2]
+epilogue_sandbox_3						Còn về cơ sở tử tù, hãy đập bỏ nó đi. Hoặc giữ lại, tận dụng nó để làm việc gì đó. Tất cả thực sự phụ thuộc vào bạn. Sẽ có người khác tiếp quản công việc kinh doanh đó nếu bạn không làm.[cite: 1, 2]
+epilogue_sandbox_4						Về phần các mục tiêu, tôi sẽ giao cho bạn giống như tôi đã giao cho người tiền nhiệm của bạn. Lợi nhuận, tỷ lệ tái phạm, sức chứa.[cite: 1, 2]
+epilogue_sandbox_5 						Việc bạn hoàn thành chúng bằng cách nào là hoàn toàn tùy thuộc vào bạn.[cite: 1, 2]
+epilogue_sandbox_5b                     Một điều cuối cùng. Giám đốc Điều hành tiền nhiệm Charles Wallace đã để lại một lá thư mà ông ấy thường trao cho bất kỳ kiến trúc sư nhà tù mới nào gia nhập công ty.[cite: 1, 2]
+epilogue_sandbox_5c                     Ông ấy có một vài lời khuyên rất hay. Có lẽ bạn sẽ thấy hữu ích khi xem qua.[cite: 1, 2]
+epilogue_sandbox_6						Chúc may mắn![cite: 1, 2]
 
-objective_epilogue_grants				Raise money through the Grants system
-objective_epilogue_grants_description   Grants are one of the primary methods of raising the large volumes of cash needed to build a prison.\n\nYou can find a whole host of grants in the Reports (bottom right of the screen) under 'Grants'. Various agencies will offer you funds to build specific parts of your prison from scratch.
+objective_epilogue_grants				Huy động tiền thông qua hệ thống Quỹ tài trợ[cite: 1, 2]
+objective_epilogue_grants_description   Quỹ tài trợ là một trong những phương pháp chính để huy động số lượng lớn tiền mặt cần thiết để xây dựng một nhà tù.\n\nBạn có thể tìm thấy toàn bộ hệ thống quỹ tài trợ trong Báo cáo (Góc dưới bên phải màn hình) dưới mục 'Quỹ tài trợ'. Các tổ chức khác nhau sẽ cung cấp vốn để bạn xây dựng các phần cụ thể của nhà tù từ con số không.[cite: 1, 2]
 
-objective_epilogue_certifiedprison		Build a prison
-objective_epilogue_capacity				At least 100 inmates 
-objective_epilogue_bankbalance			Bank balance at least $60,000 
-objective_epilogue_cashflow				Net positive cashflow
+objective_epilogue_certifiedprison		Xây dựng một nhà tù[cite: 1, 2]
+objective_epilogue_capacity				Chứa ít nhất 100 tù nhân[cite: 1, 2]
+objective_epilogue_bankbalance			Số dư ngân hàng ít nhất $60.000[cite: 1, 2]
+objective_epilogue_cashflow				Dòng tiền dương ròng[cite: 1, 2]
 
-epilogue_outrointro_1                   I can see you are off to a very good start.
-epilogue_outrointro_2                   If you are near a tv, you should turn it on now. Something I want you to see.
+epilogue_outrointro_1                   Tôi có thể thấy bạn đang có một khởi đầu rất tốt.[cite: 1, 2]
+epilogue_outrointro_2                   Nếu bạn đang ở gần tivi, bạn nên bật nó lên ngay. Có một thứ tôi muốn bạn xem.[cite: 1, 2]
 
-epilogue_basiccompletion_1 				You've achieved the minimum requirements for a state prison. Where you go from here is up to you.
-epilogue_basiccompletion_2 				At this point it is completely up to you and your company how you proceed.
-epilogue_basiccompletion_3 				At the Mayor's office there is only one number that we care about, and that is the re-offending rate.
-epilogue_basiccompletion_4	 			If you can reduce re-offending rates amoungst your prisoners, I'd call that a success.
-epilogue_basiccompletion_5 				People like Doctor Hurst believe you can only achive that through education, reform, skills training and the like.
-epilogue_basiccompletion_6 				In my opinion, punishment can be just as effective a method.
-epilogue_basiccompletion_8 				It's up to you.  I wish you the best of luck!
-epilogue_basiccompletion_9 				When you are done, click on the polaroid on the road to leave the prison.
+epilogue_basiccompletion_1 				Bạn đã đạt được các yêu cầu tối thiểu đối với một nhà tù bang. Từ thời điểm này trở đi, bạn muốn phát triển thế nào là tùy thuộc vào bạn.[cite: 1, 2]
+epilogue_basiccompletion_2 				Tại thời điểm này, cách tiến hành là hoàn toàn tùy thuộc vào bạn và công ty của bạn.[cite: 1, 2]
+epilogue_basiccompletion_3 				Tại văn phòng Thị trưởng, chỉ có một con số mà chúng tôi quan tâm, và đó là tỷ lệ tái phạm tội.[cite: 1, 2]
+epilogue_basiccompletion_4	 			Nếu bạn có thể giảm tỷ lệ tái phạm trong số các tù nhân của mình, tôi sẽ gọi đó là một thành công.[cite: 1, 2]
+epilogue_basiccompletion_5 				Những người như Bác sĩ Hurst tin rằng bạn chỉ có thể đạt được điều đó thông qua giáo dục, cải tạo, đào tạo kỹ năng và những thứ tương tự.[cite: 1, 2]
+epilogue_basiccompletion_6 				Theo ý kiến của tôi, trừng phạt cũng có thể là một phương pháp hiệu quả không kém.[cite: 1, 2]
+epilogue_basiccompletion_8 				Quyền quyết định nằm trong tay bạn. Tôi chúc bạn gặp nhiều may mắn![cite: 1, 2]
+epilogue_basiccompletion_9 				Khi bạn hoàn tất, hãy nhấp vào bức ảnh polaroid trên đường để rời khỏi nhà tù.[cite: 1, 2]
 
-objective_epilogue_reoffending			(OPTIONAL) Reduce the prison re-offending rate
-objective_epilogue_reoffending_description	You can see your re-offending rate in the 'Prison Grading' screen. Click on the icon on the top left of the screen.
+objective_epilogue_reoffending			(TÙY CHỌN) Giảm tỷ lệ tái phạm của nhà tù[cite: 1, 2]
+objective_epilogue_reoffending_description	Bạn có thể xem tỷ lệ tái phạm của mình trong màn hình 'Đánh giá Nhà tù'. Nhấp vào biểu tượng ở góc trên cùng bên trái của màn hình.[cite: 1, 2]
 
-objective_epilogue_reoffending_rate		Reduce the re-offending rate to 30% or less
-objective_epilogue_reoffending_released	Have at least 10 prisoners released
+objective_epilogue_reoffending_rate		Giảm tỷ lệ tái phạm xuống 30% hoặc thấp hơn[cite: 1, 2]
+objective_epilogue_reoffending_released	Có ít nhất 10 tù nhân được thả[cite: 1, 2]
 
-objective_Epilogue_PlayerExitsMap				When you feel you have done enough, click on the polaroid on the road to proceed.
-objective_epilogue_playerexitsmap_description	The polaroid can be found on the road, near the deliveries zone.
-
-
-# =============================================================================
-# Credits
-# =============================================================================
-
-campaigncutscene_epiloguecredits        Credits
-
-credits_createdby1                      - Created by -
-credits_createdby2                      Chris Delay
-credits_producer1                       - Produced by -
-credits_producer2                       Mark Morris
-credits_art1                            - Art -
-credits_art2                            Ryan Sumo
-credits_sound1                          - Sound -
-credits_sound2                          Alistair Lindsay
-credits_screenplay1                     - Screenplay -
-credits_screenplay2                     Chris Hastings
-credits_programmers                     - Programmers -
-credits_programmers1                    John Knottenbelt
-credits_programmers2                    Leander Hambley
-credits_programmers3                    Gary Chambers
-credits_programmers4                    Andrew Lim
-credits_programmers5                    Jeffrey Sheen
-credits_programmers6                    Finlay Curran
-credits_graphicdesign1                  - Graphic Design -
-credits_graphicdesign2                  Morten Pedersen
-credits_special                         - Special thanks -
-credits_special1                        Will Morris
-credits_special2                        Sam Morris
-credits_special3                        Jo Stansfield
-credits_special4                        John Cook
-credits_special5                        Alex Chapman
-credits_special6                        Alex Tutty
-credits_special7                        Double Eleven
-credits_introversion                    - INTROVERSION SOFTWARE -
-credits_introversion1                   Chris Delay
-credits_introversion2                   Mark Morris
-credits_introversion3                   John Knottenbelt
-credits_introversion4                   Thomas Arundel
-credits_pa1                             PRISON
-credits_pa2                             ARCHITECT
+objective_Epilogue_PlayerExitsMap				Khi bạn cảm thấy mình đã làm đủ, hãy nhấp vào ảnh polaroid trên đường để tiếp tục.[cite: 1, 2]
+objective_epilogue_playerexitsmap_description	Ảnh polaroid nằm trên đường lớn, gần khu vực bãi giao hàng.[cite: 1, 2]
 
 
-# =============================================================================
-# MCExporter
-# =============================================================================
+# =============================================================================[cite: 1, 2]
+# Credits[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
+
+campaigncutscene_epiloguecredits        Đội Ngũ Sản Xuất[cite: 1, 2]
+
+credits_createdby1                      - Sáng tạo bởi -[cite: 1, 2]
+credits_createdby2                      Chris Delay[cite: 1, 2]
+credits_producer1                       - Sản xuất bởi -[cite: 1, 2]
+credits_producer2                       Mark Morris[cite: 1, 2]
+credits_art1                            - Đồ họa -[cite: 1, 2]
+credits_art2                            Ryan Sumo[cite: 1, 2]
+credits_sound1                          - Âm thanh -[cite: 1, 2]
+credits_sound2                          Alistair Lindsay[cite: 1, 2]
+credits_screenplay1                     - Biên kịch -[cite: 1, 2]
+credits_screenplay2                     Chris Hastings[cite: 1, 2]
+credits_programmers                     - Lập trình viên -[cite: 1, 2]
+credits_programmers1                    John Knottenbelt[cite: 1, 2]
+credits_programmers2                    Leander Hambley[cite: 1, 2]
+credits_programmers3                    Gary Chambers[cite: 1, 2]
+credits_programmers4                    Andrew Lim[cite: 1, 2]
+credits_programmers5                    Jeffrey Sheen[cite: 1, 2]
+credits_programmers6                    Finlay Curran[cite: 1, 2]
+credits_graphicdesign1                  - Thiết kế Đồ họa -[cite: 1, 2]
+credits_graphicdesign2                  Morten Pedersen[cite: 1, 2]
+credits_special                         - Lời cảm ơn đặc biệt -[cite: 1, 2]
+credits_special1                        Will Morris[cite: 1, 2]
+credits_special2                        Sam Morris[cite: 1, 2]
+credits_special3                        Jo Stansfield[cite: 1, 2]
+credits_special4                        John Cook[cite: 1, 2]
+credits_special5                        Alex Chapman[cite: 1, 2]
+credits_special6                        Alex Tutty[cite: 1, 2]
+credits_special7                        Double Eleven[cite: 1, 2]
+credits_introversion                    - INTROVERSION SOFTWARE -[cite: 1, 2]
+credits_introversion1                   Chris Delay[cite: 1, 2]
+credits_introversion2                   Mark Morris[cite: 1, 2]
+credits_introversion3                   John Knottenbelt[cite: 1, 2]
+credits_introversion4                   Thomas Arundel[cite: 1, 2]
+credits_pa1                             PRISON[cite: 1, 2]
+credits_pa2                             ARCHITECT[cite: 1, 2]
 
 
-codex_mcexport                          Export Prison For Minecraft
-codex_mcexportname						Minecraft Exporter
-codex_worldnametitle					World Name
-codex_seedtitle							Seed
-codex_gamemodetitle						Game Mode
-codex_mapfeattitle						Map Features
-codex_cheatstitle						Cheats
-codex_timeofdaytitle					Time of Day
-codex_rainingtitle						Raining
-codex_thunderingtitle					Thundering
-codex_generatortitle					Generator
-codex_scaletitle						Scale
-codex_exporttomc						Export
-codex_mcexport_default					Default
-codex_mcexport_flat						Flat
-codex_mcexport_largebiomes				LargeBiomes
-codex_mcexport_survival					Survival
-codex_mcexport_creative					Creative
-codex_mcexport_adventure				Adventure
+# =============================================================================[cite: 1, 2]
+# MCExporter[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
 
 
-# =============================================================================
-# Escape Mode
-# =============================================================================
-
-escapemode_help_title                   Escape - It's your only way out
-escapemode_help                         Step One: Reputation - Your reputation means everything in here\n\n• Boost your reputation by starting fights. Hurting people will really get you noticed but breaking things is a good place to start. The more damage you can cause in one fight the better.\n• Leave no witnesses. If a guard spots you fighting you'll get punished for it, unless of course they're no longer around.\n• Getting knocked out looks bad. You're better off ending a fight on your own terms.\n\nStep Two: Squad - Recruit others to join your escape attempt\n\n• Whistle to call them over and they'll stick with you everywhere you go. (Click their name in the top left)\n• They'll even join you in fights which can help you increase your reputation even faster.\n• Train up your squad. You'll never know when having a skilled fighter or competitive sprinter nearby will end up being useful.\n\nStep Three: Contraband - You'll need weapons and tools\n\n• Find a room where there will be something you want. Take a look around and you'll quickly find something useful you can steal.\n• Watch out for metal detectors and guards trying to search you. If you're found with anything they'll grab it and throw you in solitary.\n• Stash your equipment. You can hide your findings in your cell or the cells of others, just remember where you've left things.\n\nStep Four: Tunnels - The quiet way out\n\n• Grab a digging tool and start a tunnel from the toilet in your cell.\n• Digging is slow. Get your squad members to help you dig.\n• Don't get spotted. If a guard sees you entering or exiting a tunnel you'll be rumbled.\n\nGood luck. You're going to need it.
-
-codex_escapemode                        Escape Mode
-codex_escapemode_developer              (Developer) Escape Mode
-codex_escapemode_new                    New Escape Attempt
-codex_escapemode_load                   Load Escape Attempt
-codex_escapemode_save                   Save Escape Attempt
-codex_escapemode_workshop               Escape Mode (Steam Workshop)
-codex_escapemode_workshop_star_rating   *S Stars or over
-
-escapemode_combat_attack                Attack
-escapemode_combat_attack_button         Left Click
-escapemode_combat_lunge                 Lunge
-escapemode_combat_lunge_button          Shift
-escapemode_dig_button                   Hold Left Click
-escapemode_dig                          Dig
-escapemode_surrender                    Surrender
-escapemode_surrender_safe               End Fight
-escapemode_surrender_button             Space
-
-escapemode_helpletter                   Help
-
-escapemode_reputation_points            Rep Points:
-escapemode_reputations_cost             *C Rep Points
-escapemode_reputations_max              MAX
-
-escapesquad_squad_member                Squad Member
-escapesquad_recruitment                 Hold right click to recruit
-escapesquad_recruitment_cost            Rep Point Cost: *C
-escapesquad_toggle_follow               Toggle Follow
-escapesquad_nameplate_following         Following
-escapesquad_skip_punishments            Skip Punishments
-escapesquad_skip_punishments_tooltip    Spend a rep point to have all your squad members sleep through their punishments and wake up in their cells.
-escapesquad_sleep                       Sleep
-escapesquad_sleep_tooltip               Click to sleep through the night.
-escapesquad_reputations                 Reputations
-escapesquad_reputations_tooltip         Spend rep points on reputations to improve your squad's fighting ability. 
-escapesquad_follow_mode                 Follow Mode
-escapesquad_follow_mode_tooltip         Prisoners in follow mode will follow you and copy your misbehaviour.\n\nUse R to toggle follow mode for all prisoners at once.
-escapesquad_remove_member               Remove Squad Member
-escapesquad_remove_member_tooltip       Click to remove this prisoner from your squad.
-escapesquad_escaped                     Escaped
-
-escapemode_sprint_unlock                \n\nUnlocks sprinting by holding Shift. Sprint is only available while you're not in a fight.
-
-escapemode_info_right_click             Right click
-escapemode_info_hold_right_click        Hold right click
-escapemode_info_stash                   to stash contraband
-escapemode_info_pick_up                 to pick up contraband
-escapemode_info_start_tunnel            to start a tunnel
-escapemode_info_enter_tunnel            to enter tunnel
-escapemode_info_exit_tunnel             to exit tunnel
-escapemode_info_dig_up                  to dig up
-escapemode_info_steal                   to steal
-
-escapemode_info_tool                    [Digging Tool]
-escapemode_info_damage                  Damage: *D
-escapemode_info_recharge                Recharge Time: *T
-
-escapemode_gameover                     Game Over
-escapemode_gameover_squad_title         Squad
-escapemode_gameover_casualties_title    Victims
-escapemode_gameover_totalscore_title    Total Score
-escapemode_gameover_totaltime_title     Time Taken
-escapemode_gameover_time_days           *D Days, *H Hours and *M Minutes
-escapemode_gameover_time                *H Hours and *M Minutes
-
-codex_workshop_select_random_prison     Random Workshop Prison
-codex_workshop_searching                Searching
+codex_mcexport                          Xuất Nhà Tù Cho Minecraft[cite: 1, 2]
+codex_mcexportname						Trình Xuất Cho Minecraft[cite: 1, 2]
+codex_worldnametitle					Tên Thế Giới[cite: 1, 2]
+codex_seedtitle							Seed[cite: 1, 2]
+codex_gamemodetitle						Chế Độ Chơi[cite: 1, 2]
+codex_mapfeattitle						Thuộc Tính Bản Đồ[cite: 1, 2]
+codex_cheatstitle						Gian Lận[cite: 1, 2]
+codex_timeofdaytitle					Thời Gian Trong Ngày[cite: 1, 2]
+codex_rainingtitle						Trời Mưa[cite: 1, 2]
+codex_thunderingtitle					Sấm Sét[cite: 1, 2]
+codex_generatortitle					Trình Khởi Tạo[cite: 1, 2]
+codex_scaletitle						Tỷ Lệ[cite: 1, 2]
+codex_exporttomc						Xuất[cite: 1, 2]
+codex_mcexport_default					Mặc Định[cite: 1, 2]
+codex_mcexport_flat						Phẳng[cite: 1, 2]
+codex_mcexport_largebiomes				Đa Dạng Sinh Học[cite: 1, 2]
+codex_mcexport_survival					Sinh Tồn[cite: 1, 2]
+codex_mcexport_creative					Sáng Tạo[cite: 1, 2]
+codex_mcexport_adventure				Phiêu Lưu[cite: 1, 2]
 
 
-# =============================================================================
-# Warden Mode
-# =============================================================================
+# =============================================================================[cite: 1, 2]
+# Escape Mode[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
 
-codex_wardenmode_debugstart             Start Warden Mode
+escapemode_help_title                   Vượt ngục - Đó là lối thoát duy nhất của bạn[cite: 1, 2]
+escapemode_help                         Bước Một: Đặc điểm - Danh tiếng của bạn là tất cả ở nơi này\n\n• Nâng cao Đặc điểm của bạn bằng cách khơi mào các cuộc ẩu đả. Làm người khác bị thương sẽ khiến bạn được chú ý, nhưng đập phá đồ đạc cũng là một cách tốt để bắt đầu. Càng gây ra nhiều sát thương trong một trận ẩu đả càng tốt.\n• Không để lại nhân chứng. Nếu lính canh phát hiện bạn đang đánh nhau, bạn sẽ bị phạt, tất nhiên trừ khi không còn lính canh nào ở đó.\n• Bị đánh gục trông rất kém cỏi. Tốt hơn là bạn nên kết thúc trận đấu theo cách của riêng mình.\n\nBước Hai: Băng đảng - Tuyển mộ người khác tham gia cùng kế hoạch vượt ngục của bạn\n\n• Huýt sáo để gọi họ tới và họ sẽ đi theo bạn mọi nơi. (Nhấp vào tên họ ở góc trên bên trái)\n• Họ thậm chí sẽ tham gia cùng bạn trong các trận ẩu đả, điều này có thể giúp bạn tăng Đặc điểm của mình nhanh hơn.\n• Huấn luyện cho băng đảng của bạn. Bạn không bao giờ biết được lúc nào việc có một chiến binh điêu luyện hay một người chạy nước rút cạnh bên sẽ trở nên hữu ích đâu.\n\nBước Ba: Hàng cấm - Bạn sẽ cần vũ khí và công cụ\n\n• Tìm một căn phòng có chứa thứ bạn muốn. Dạo quanh một chút và bạn sẽ nhanh chóng tìm được vật phẩm hữu ích nào đó có thể ăn cắp.\n• Hãy coi chừng máy dò kim loại và đám lính canh luôn cố khám xét bạn. Nếu bạn bị phát hiện tàng trữ đồ cấm, chúng sẽ tóm lấy và tống bạn vào khu biệt giam.\n• Cất giấu đồ nghề. Bạn có thể giấu chiến lợi phẩm trong phòng giam của mình hoặc của những tên khác, chỉ cần nhớ bạn đã giấu nó ở đâu là được.\n\nBước Bốn: Đường hầm - Lối đi tĩnh lặng\n\n• Lấy một dụng cụ đào đất và bắt đầu đào đường hầm từ bồn cầu trong buồng giam của bạn.\n• Việc đào đất rất chậm chạp. Hãy huy động đám đàn em trong băng giúp bạn đào.\n• Đừng để bị bắt quả tang. Nếu lính canh thấy bạn đang chui ra chui vào đường hầm, bạn sẽ ăn cám ngay.\n\nChúc may mắn. Bạn sẽ cần đến nó đấy.[cite: 1, 2]
 
-buildtoolbar_inventory                  Inventory
-buildtoolbar_tooltip_inventory          Shortcut: (TAB)\n\nManage the warden's inventory and personal protection squad.
+codex_escapemode                        Chế Độ Vượt Ngục[cite: 1, 2]
+codex_escapemode_developer              (Nhà Phát Triển) Chế Độ Vượt Ngục[cite: 1, 2]
+codex_escapemode_new                    Bắt Đầu Chuyến Vượt Ngục Mới[cite: 1, 2]
+codex_escapemode_load                   Tải Chuyến Vượt Ngục[cite: 1, 2]
+codex_escapemode_save                   Lưu Chuyến Vượt Ngục[cite: 1, 2]
+codex_escapemode_workshop               Chế Độ Vượt Ngục (Steam Workshop)[cite: 1, 2]
+codex_escapemode_workshop_star_rating   *S Sao trở lên[cite: 1, 2]
 
-wardenmode_combat                       SELF DEFENCE AUTHORISED
-wardenmode_combat_caption               You are now free to defend yourself from violent prisoners
+escapemode_combat_attack                Tấn Công[cite: 1, 2]
+escapemode_combat_attack_button         Chuột Trái[cite: 1, 2]
+escapemode_combat_lunge                 Lao Tới[cite: 1, 2]
+escapemode_combat_lunge_button          Shift[cite: 1, 2]
+escapemode_dig_button                   Giữ Chuột Trái[cite: 1, 2]
+escapemode_dig                          Đào[cite: 1, 2]
+escapemode_surrender                    Đầu Hàng[cite: 1, 2]
+escapemode_surrender_safe               Kết Thúc Giao Tranh[cite: 1, 2]
+escapemode_surrender_button             Phím Space[cite: 1, 2]
 
-wardenmode_combatwarning                SELF DEFENCE UNAUTHORISED
-wardenmode_combatwarning_caption        You must not harm prisoners unless acting in self defence
+escapemode_helpletter                   Trợ giúp[cite: 1, 2]
 
-wardenmode_info_pick_up                 to pick up
+escapemode_reputation_points            Điểm Đặc điểm:[cite: 1, 2]
+escapemode_reputations_cost             *C Điểm Đặc điểm[cite: 1, 2]
+escapemode_reputations_max              TỐI ĐA[cite: 1, 2]
 
-wardensquad_wardenprotection            Warden Protection
-wardensquad_recruitment_cost            Cost Per Day: +$*C
-wardensquad_nameplate_following         Following
-wardensquad_remove_member               Remove Warden Protection
-wardensquad_remove_member_tooltip       Click to remove this guard from your personal protection squad.\nThis will save you $*C per day.
+escapesquad_squad_member                Thành Viên Băng Đảng[cite: 1, 2]
+escapesquad_recruitment                 Giữ chuột phải để chiêu mộ[cite: 1, 2]
+escapesquad_recruitment_cost            Chi Phí Điểm Đặc điểm: *C[cite: 1, 2]
+escapesquad_toggle_follow               Bật/Tắt Theo Dõi[cite: 1, 2]
+escapesquad_nameplate_following         Đang đi theo[cite: 1, 2]
+escapesquad_skip_punishments            Bỏ Qua Hình Phạt[cite: 1, 2]
+escapesquad_skip_punishments_tooltip    Tiêu thụ một điểm Đặc điểm để các thành viên trong băng của bạn ngủ qua thời gian chịu phạt và thức dậy trong phòng giam của chính họ.[cite: 1, 2]
+escapesquad_sleep                       Ngủ[cite: 1, 2]
+escapesquad_sleep_tooltip               Nhấp để ngủ qua đêm.[cite: 1, 2]
+escapesquad_reputations                 Đặc điểm[cite: 1, 2]
+escapesquad_reputations_tooltip         Tiêu thụ điểm Đặc điểm vào các mục Đặc điểm để cải thiện khả năng chiến đấu của băng đảng.[cite: 1, 2]
+escapesquad_follow_mode                 Chế Độ Đi Theo[cite: 1, 2]
+escapesquad_follow_mode_tooltip         Tù nhân ở chế độ đi theo sẽ đi theo bạn và sao chép hành vi sai trái của bạn.\n\nSử dụng phím R để bật tắt chế độ đi theo cho tất cả tù nhân cùng một lúc.[cite: 1, 2]
+escapesquad_remove_member               Xóa Thành Viên Khỏi Băng[cite: 1, 2]
+escapesquad_remove_member_tooltip       Nhấp để đuổi tên tù này khỏi băng đảng của bạn.[cite: 1, 2]
+escapesquad_escaped                     Đã Vượt Ngục[cite: 1, 2]
+
+escapemode_sprint_unlock                \n\nMở khóa chạy nước rút bằng cách giữ phím Shift. Chạy nước rút chỉ có thể sử dụng khi bạn không đang trong trạng thái chiến đấu.[cite: 1, 2]
+
+escapemode_info_right_click             Chuột phải[cite: 1, 2]
+escapemode_info_hold_right_click        Giữ chuột phải[cite: 1, 2]
+escapemode_info_stash                   để giấu hàng cấm[cite: 1, 2]
+escapemode_info_pick_up                 để nhặt hàng cấm[cite: 1, 2]
+escapemode_info_start_tunnel            để bắt đầu đào hầm[cite: 1, 2]
+escapemode_info_enter_tunnel            để chui vào hầm[cite: 1, 2]
+escapemode_info_exit_tunnel             để chui ra khỏi hầm[cite: 1, 2]
+escapemode_info_dig_up                  để đào lên[cite: 1, 2]
+escapemode_info_steal                   để ăn cắp[cite: 1, 2]
+
+escapemode_info_tool                    [Công Cụ Đào Đất][cite: 1, 2]
+escapemode_info_damage                  Sát thương: *D[cite: 1, 2]
+escapemode_info_recharge                Thời gian Hồi: *T[cite: 1, 2]
+
+escapemode_gameover                     Trò Chơi Kết Thúc[cite: 1, 2]
+escapemode_gameover_squad_title         Băng Đảng[cite: 1, 2]
+escapemode_gameover_casualties_title    Nạn Nhân[cite: 1, 2]
+escapemode_gameover_totalscore_title    Tổng Điểm[cite: 1, 2]
+escapemode_gameover_totaltime_title     Thời Gian Đã Trôi Qua[cite: 1, 2]
+escapemode_gameover_time_days           *D Ngày, *H Giờ và *M Phút[cite: 1, 2]
+escapemode_gameover_time                *H Giờ và *M Phút[cite: 1, 2]
+
+codex_workshop_select_random_prison     Chọn Nhà Tù Workshop Ngẫu Nhiên[cite: 1, 2]
+codex_workshop_searching                Đang Tìm Kiếm[cite: 1, 2]
 
 
-# =============================================================================
-# Collectables
-# =============================================================================
+# =============================================================================[cite: 1, 2]
+# Warden Mode[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
+
+codex_wardenmode_debugstart             Khởi Động Chế Độ Giám Thị[cite: 1, 2]
+
+buildtoolbar_inventory                  Hành Trang[cite: 1, 2]
+buildtoolbar_tooltip_inventory          Phím tắt: (TAB)\n\nQuản lý hành trang của Giám thị và đội bảo vệ cá nhân.[cite: 1, 2]
+
+wardenmode_combat                       ĐƯỢC PHÉP TỰ VỆ[cite: 1, 2]
+wardenmode_combat_caption               Giờ đây bạn được phép tự do phòng vệ trước những tù nhân bạo lực[cite: 1, 2]
+
+wardenmode_combatwarning                KHÔNG ĐƯỢC PHÉP TỰ VỆ[cite: 1, 2]
+wardenmode_combatwarning_caption        Bạn không được phép làm hại tù nhân ngoại trừ trường hợp tự vệ[cite: 1, 2]
+
+wardenmode_info_pick_up                 để nhặt[cite: 1, 2]
+
+wardensquad_wardenprotection            Bảo Vệ Giám Thị[cite: 1, 2]
+wardensquad_recruitment_cost            Chi Phí Mỗi Ngày: +$*C[cite: 1, 2]
+wardensquad_nameplate_following         Đang đi theo[cite: 1, 2]
+wardensquad_remove_member               Hủy Bảo Vệ Giám Thị[cite: 1, 2]
+wardensquad_remove_member_tooltip       Nhấp để loại bỏ lính canh này khỏi đội bảo vệ cá nhân của bạn.\nViệc này sẽ tiết kiệm cho bạn $*C mỗi ngày.[cite: 1, 2]
 
 
-codex_gamebible                         Game Bible
-codex_gamebible_next                    >
-codex_gamebible_prev                    <
-codex_gamebible_singlepage              PAGE *X
-codex_gamebible_doublepage              PAGES *X - *Y
-object_collectable                      Notebook Page
+# =============================================================================[cite: 1, 2]
+# Collectables[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
 
 
-# =============================================================================
-# Multiplayer
-# =============================================================================
+codex_gamebible                         Sách Thánh Trò Chơi[cite: 1, 2]
+codex_gamebible_next                    >[cite: 1, 2]
+codex_gamebible_prev                    <[cite: 1, 2]
+codex_gamebible_singlepage              TRANG *X[cite: 1, 2]
+codex_gamebible_doublepage              CÁC TRANG *X - *Y[cite: 1, 2]
+object_collectable                      Trang Sổ Tay[cite: 1, 2]
 
-codex_startonline                   Go Online
-codex_start                         Create Game
-codex_joinonline                    Join Online Game
-codex_join                          Join Game
-codex_usernamelabel                 Username:
-codex_namelabel                     Game Name:
-codex_passwordlabel                 Password:
-codex_passwordprotectedlabel        Password Protected?
-codex_listedlabel                   Publicly Listed?
-codex_roomlistlabel                 Game List:
-codex_connectinglabel               Connecting to server...
-codex_retrievingserverlistlabel     Retrieving game list...
-codex_datausage                     Data Usage: Sent - *SkB/s, Received - *RkB/s
-codex_multiplayeroptions            Manage Players
-codex_playeroptions                 Players
-codex_regionlabel                   Region:
 
-multiplayer_chooseroomname          Please choose a game name
-multiplayer_chooseusername          Please choose a username
-multiplayer_joining                 Joining: *X
-multiplayer_joiningstate_joining    Joining game
-multiplayer_joiningstate_receiving  Receiving world
-multiplayer_joiningstate_loading    Loading world
-multiplayer_rejoining               Rejoining game after land expansion:
-multiplayer_leavegame_confirm       Are you sure you wish to leave your current co-op game?
-multiplayer_hostleft                Host has disconnected.
-multiplayer_joingamefailed          Failed to join game:
-multiplayer_startgamefailed         Failed to start game:
-multiplayer_incorrectpassword       Incorrect Password
-multiplayer_disconnected            Lost connection to server.
-multiplayer_syncerror               Disconnected due to synchronisation error.\n\nPlease attempt to rejoin your game.
-multiplayer_hostonly                Only available for host player.
-multiplayer_modsdisabled            Mods are disabled for online play
-multiplayer_mutatorsdisabled        Mutators are disabled for online play
-multiplayer_kicked                  You were kicked from the game.
-multiplayer_kick                    Kick
-multiplayer_ban                     Ban
+# =============================================================================[cite: 1, 2]
+# Multiplayer[cite: 1, 2]
+# =============================================================================[cite: 1, 2]
 
-multiplayer_host                    Host:
+codex_startonline                   Trực Tuyến[cite: 1, 2]
+codex_start                         Tạo Phòng Chơi[cite: 1, 2]
+codex_joinonline                    Vào Phòng Chơi Trực Tuyến[cite: 1, 2]
+codex_join                          Tham Gia Chơi[cite: 1, 2]
+codex_usernamelabel                 Tên người dùng:[cite: 1, 2]
+codex_namelabel                     Tên Phòng:[cite: 1, 2]
+codex_passwordlabel                 Mật khẩu:[cite: 1, 2]
+codex_passwordprotectedlabel        Được Bảo vệ Bằng Mật khẩu?[cite: 1, 2]
+codex_listedlabel                   Công Khai?[cite: 1, 2]
+codex_roomlistlabel                 Danh sách Phòng Chơi:[cite: 1, 2]
+codex_connectinglabel               Đang kết nối tới máy chủ...[cite: 1, 2]
+codex_retrievingserverlistlabel     Đang tải danh sách phòng chơi...[cite: 1, 2]
+codex_datausage                     Dữ liệu Sử dụng: Đã gửi - *SkB/s, Đã nhận - *RkB/s[cite: 1, 2]
+codex_multiplayeroptions            Quản lý Người chơi[cite: 1, 2]
+codex_playeroptions                 Người chơi[cite: 1, 2]
+codex_regionlabel                   Khu vực:[cite: 1, 2]
 
-multiplayer_welcomeanalytics        Welcome to Prison Architect Multiplayer.\n\nWe've been working on getting the full Prison Architect experience working in multiplayer. Prison Architect is a big game and this is the first time we're making the multiplayer available to everyone so we'll be keeping an eye on any issues players might encounter.\n\nTo help us with this we would like to collect some anonymised analytics to help resolve any problems people might be having with the game. This can be disabled at any time from the options menu. You can see the data that we collect in metrics.txt\n\nWe hope you enjoy playing Prison Architect with your friends.
+multiplayer_chooseroomname          Vui lòng chọn tên phòng chơi[cite: 1, 2]
+multiplayer_chooseusername          Vui lòng chọn tên người dùng[cite: 1, 2]
+multiplayer_joining                 Đang tham gia: *X[cite: 1, 2]
+multiplayer_joiningstate_joining    Đang kết nối vào phòng[cite: 1, 2]
+multiplayer_joiningstate_receiving  Đang nhận dữ liệu thế giới[cite: 1, 2]
+multiplayer_joiningstate_loading    Đang tải thế giới[cite: 1, 2]
+multiplayer_rejoining               Đang kết nối lại sau khi mở rộng đất:[cite: 1, 2]
+multiplayer_leavegame_confirm       Bạn có chắc chắn muốn rời khỏi phòng chơi co-op hiện tại không?[cite: 1, 2]
+multiplayer_hostleft                Chủ phòng đã ngắt kết nối.[cite: 1, 2]
+multiplayer_joingamefailed          Kết nối vào phòng chơi thất bại:[cite: 1, 2]
+multiplayer_startgamefailed         Tạo phòng chơi thất bại:[cite: 1, 2]
+multiplayer_incorrectpassword       Sai Mật Khẩu[cite: 1, 2]
+multiplayer_disconnected            Mất kết nối với máy chủ.[cite: 1, 2]
+multiplayer_syncerror               Đã ngắt kết nối do lỗi đồng bộ hóa.\n\nVui lòng thử kết nối lại vào phòng chơi của bạn.[cite: 1, 2]
+multiplayer_hostonly                Chỉ khả dụng đối với chủ phòng.[cite: 1, 2]
+multiplayer_modsdisabled            Bản mod bị vô hiệu hóa khi chơi trực tuyến[cite: 1, 2]
+multiplayer_mutatorsdisabled        Các biến dị bị vô hiệu hóa khi chơi trực tuyến[cite: 1, 2]
+multiplayer_kicked                  Bạn đã bị kích khỏi phòng chơi.[cite: 1, 2]
+multiplayer_kick                    Kích[cite: 1, 2]
+multiplayer_ban                     Cấm[cite: 1, 2]
 
-region_asia                         Asia
-region_au                           Australia
-region_cae                          Canada, East
-region_eu                           Europe
-region_in                           India
-region_jp                           Japan
-region_ru                           Russia
-region_rue                          Russia, East
-region_sa                           South America
-region_kr                           South Korea
-region_us                           USA, East
-region_usw                          USA, West
+multiplayer_host                    Chủ phòng:[cite: 1, 2]
+
+multiplayer_welcomeanalytics        Chào mừng bạn đến với Chế Độ Nhiều Người Chơi của Prison Architect.\n\nChúng tôi đã cố gắng nỗ lực để mang đến một trải nghiệm Prison Architect hoàn chỉnh trên chế độ nhiều người chơi. Prison Architect là một tựa game lớn và đây là lần đầu tiên chúng tôi mở chế độ nhiều người chơi cho tất cả mọi người, do đó chúng tôi sẽ phải luôn theo dõi mọi sự cố mà người chơi có thể gặp phải.\n\nĐể hỗ trợ chúng tôi khắc phục điều này, chúng tôi muốn thu thập một số dữ liệu phân tích ẩn danh để giúp giải quyết bất kỳ vấn đề nào mà mọi người có thể đang gặp phải với trò chơi. Bạn có thể vô hiệu hóa tính năng này bất cứ lúc nào từ menu tùy chọn. Bạn có thể xem dữ liệu mà chúng tôi thu thập được ở tệp metrics.txt\n\nChúng tôi hy vọng bạn sẽ có khoảng thời gian vui vẻ khi chơi Prison Architect cùng bạn bè.[cite: 1, 2]
+
+region_asia                         Châu Á[cite: 1, 2]
+region_au                           Úc[cite: 1, 2]
+region_cae                          Canada, Phía Đông[cite: 1, 2]
+region_eu                           Châu Âu[cite: 1, 2]
+region_in                           Ấn Độ[cite: 1, 2]
+region_jp                           Nhật Bản[cite: 1, 2]
+region_ru                           Nga[cite: 1, 2]
+region_rue                          Nga, Phía Đông[cite: 1, 2]
+region_sa                           Nam Mỹ[cite: 1, 2]
+region_kr                           Hàn Quốc[cite: 1, 2]
+region_us                           Hoa Kỳ, Phía Đông[cite: 1, 2]
+region_usw                          Hoa Kỳ, Phía Tây[cite: 1, 2]
