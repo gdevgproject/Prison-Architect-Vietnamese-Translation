@@ -3963,3 +3963,1337 @@ object_FallenTreeBig				Các cây đổ
 # Road Maintenance
 # ==============================================================
 
+object_roadmaintenancevehicle 				Xe bảo trì đường bộ
+interfacecallout_roadmaintenance			Bảo trì đường bộ
+interface_roadMaintenance_no_grit			Hoạt động bảo trì chỉ khả dụng 12 tiếng một lần.
+
+# ==============================================================
+# Visibility (Deep Freeze)
+# ==============================================================
+event_deep_freeze_vis_sniper_tower			Tháp lính bắn tỉa báo cáo tầm nhìn kém. Khả năng phát hiện tù nhân vượt ngục tiềm năng của họ sẽ bị giảm cho đến khi thời tiết quang đãng trở lại.
+event_deep_freeze_vis_outside_guard			Lính canh tuần tra ngoài trời báo cáo gặp vấn đề về tầm nhìn. Có vẻ như họ không thể phát hiện tù nhân ở quá xa phía trước.	
+event_lightning_storm_vis_sniper_tower		Tầm nhìn của lính bắn tỉa trên tháp đang gặp vấn đề trong điều kiện thời tiết này. Họ chắc chắn không thể quan sát xa như trong điều kiện bình thường.
+event_lightning_storm_vis_outside_guard		Tất cả lính canh ngoài trời đều báo cáo tình trạng thiếu tầm nhìn trong thời tiết này. Cần lưu ý điều này nếu có bất kỳ ai cố gắng trốn thoát.
+
+# ==============================================================
+# Polly Free Update
+# ==============================================================
+research_NonLethalSniper					Lính bắn tỉa không gây sát thương
+researchtooltip_NonLethalSniper				Loại đạn mới giúp lính bắn tỉa có khả năng sử dụng hết công năng của súng mà không sợ gây tử vong. Trừ khi lệnh Tự do nổ súng được ban bố, các phát bắn của lính bắn tỉa sẽ chỉ có thể khiến tù nhân bất tỉnh.
+
+material_FieldGrass    				Cỏ đồng nội
+buildtoolbar_popup_mat_FieldGrass		Một vạt cỏ mọc um tùm.
+
+material_LaminateFlooringFR			Sàn gỗ công nghiệp (Chống cháy)
+buildtoolbar_popup_mat_LaminateFlooringFR	Sàn gỗ có đặc tính chống cháy.
+
+material_CarpetFR				Thảm (Chống cháy)
+buildtoolbar_popup_mat_CarpetFR			Trải tấm thảm thoải mái xuống. Hoàn hảo cho các khu vực nhân viên. Nó cũng có đặc tính chống cháy.
+
+object_Shiba						Doge
+buildtoolbar_popup_obj_Shiba		Chú chó đánh hơi còn trẻ nhưng giàu kinh nghiệm, đặc biệt thích các món ăn làm từ thịt gà và phô mai.
+
+object_BlackSetter					Dodge 
+buildtoolbar_popup_obj_BlackSetter	Kẻ săn đuổi những chiếc gậy nhỏ và tù nhân vượt ngục.
+
+object_FernBush					Bụi cây xỉ	
+buildtoolbar_popup_obj_FernBush			Bụi cây này rất thích mọc trong bóng râm.
+
+object_WillowTree					Cây liễu	
+buildtoolbar_popup_obj_WillowTree			Cây này trông sẽ rất tuyệt khi đặt cạnh một vùng nước hoặc là một phần của một khu vườn trang nhã.
+
+survey_letter_1						Kính gửi Giám thị,\n\n\nCảm ơn ông đã tham gia thử nghiệm các tính năng và hệ thống mới của Nhà tù.\n\nVới tư cách là CEO, trách nhiệm của tôi là thu thập phản hồi từ tất cả các Giám thị để cải thiện hơn nữa trải nghiệm.\n\nTôi sẽ rất biết ơn nếu ông có thể dành chút thời gian để điền vào bảng khảo sát mà tôi đã tạo cho ông.\n\nCEO,\nPrison Architects Corp.
+survey_letter_2						Kính gửi Giám thị,\n\n\nMột lần nữa xin cảm ơn ông đã tiếp tục tham gia thử nghiệm các tính năng và hệ thống mới của Nhà tù. \n\nVới nhiều thời gian hơn dành cho việc thử nghiệm các tính năng và hệ thống mới, tôi rất mong nhận được phản hồi cập nhật của ông trong bảng khảo sát này.\n\nCEO,\nPrison Architects Corp.
+dialog_openSurvey					Mở Khảo sát
+object_Ivy							Thường xuân	
+buildtoolbar_popup_obj_Ivy			Một bụi cây trang trí với tán lá dày đặc.
+
+buildtoolbar_popup_uts_Radiator		Đặt chúng quanh nhà tù của bạn, các phòng sẽ trở nên ấm áp và dễ chịu.
+
+# ====================================
+# OTHERS
+# ======================================
+equipment_FirstAidBackpack	Balo sơ cứu 
+
+object_GritterDriver		Tài xế xe rải cát
+
+DF_1_advisor				Chúc mừng ông đã xử lý được tai họa này. Nhờ ông xử lý tình huống này rất tốt, ông sẽ không bị tính phí cho kế hoạch bảo hiểm liên quan trong 5 ngày tới.
+DF_2_advisor				Chúc mừng ông đã xử lý được tai họa này. Nhờ kỹ năng quản lý tuyệt vời của ông, nhân viên của ông sẽ làm việc hiệu quả hơn trong 3 ngày tới.
+DF_3_advisor				Chúc mừng ông đã xử lý được tai họa này. Giờ đây ông sẽ không phải lo lắng về việc tai họa này tái diễn trong ít nhất 10 ngày tới.
+
+LS_1_advisor				Chúc mừng ông đã xử lý được tai họa này. Ông có thể kỳ vọng nhận được một phần thưởng trong tương lai gần.
+LS_2_advisor				Chúc mừng ông đã xử lý được tai họa này. Nhờ ông xử lý tình huống này rất tốt, ông sẽ không bị tính phí cho kế hoạch bảo hiểm liên quan trong 15 ngày tới.
+LS_3_advisor				Chúc mừng ông đã xử lý được tai họa này. Giờ đây ông sẽ không phải lo lắng về việc tai họa này tái diễn trong ít nhất 10 ngày tới.
+
+HW_1_advisor				Chúc mừng ông đã xử lý được tai họa này. Xin vui lòng nhận khoản tiền thưởng trị giá $10,000 này để tiếp tục phát huy công việc tốt đẹp.
+HW_2_advisor				Chúc mừng ông đã xử lý được tai họa này. Các tù nhân rất biết ơn sự chăm sóc của ông và nhu cầu của họ sẽ được cải thiện trong 5 ngày tới.	
+HW_3_advisor				Chúc mừng ông đã xử lý được tai họa này. Giờ đây ông sẽ không phải lo lắng về việc tai họa này tái diễn trong ít nhất 20 ngày tới.
+
+R_1_advisor				Chúc mừng ông đã xử lý được tai họa này. Xin vui lòng nhận khoản tiền thưởng trị giá $10,000 này để tiếp tục phát huy công việc tốt đẹp.
+R_2_advisor				Chúc mừng ông đã xử lý được tai họa này, các tù nhân rất biết ơn sự chăm sóc của ông và nhu cầu của họ sẽ được cải thiện trong 3 ngày tới.
+R_3_advisor				Chúc mừng ông đã xử lý được tai họa này, nhờ sự làm việc chăm chỉ của ông, một hiệu ứng tích cực sẽ được áp dụng cho các tù nhân của ông trong 5 ngày tới.
+
+
+fallen_tree_advisor			Những cây này từ đâu ra vậy? Sức gió chắc hẳn phải mạnh hơn chúng ta nghĩ. Các chuyến hàng đang bị giao trễ, có lẽ chúng ta nên cử một số công nhân đến để dọn dẹp các mảnh vụn bị đổ ngã.
+
+door_swollen_advisor		Cái nóng này đã làm cho các cánh cửa bị giãn nở. Chúng ta phải cho công nhân làm mát chúng nếu muốn sử dụng được chúng.
+lightning_strike_advisor	Điều nguy hiểm nhất của một trận bão là sét đánh, cả đồ vật lẫn con người đều có nguy cơ bị đánh trúng. Cột thu lôi sẽ có thể đổi hướng tia sét ở một mức độ nào đó, vì vậy hãy đảm bảo ông mua một số cột để giúp bảo vệ nhà tù và con người bên trong.
+frozen_ground_advisor		Đường đi bộ ngoài trời đang trở nên khá băng giá, nhân viên vệ sinh có thể rải cát khi được đào tạo bài bản.
+heatwave_fire_advisor		Với đợt nắng nóng này, chúng ta phải cẩn thận với bất kỳ cây cối hoặc vật liệu gỗ nào nằm ngoài trời. Nếu có hỏa hoạn bùng phát, chúng ta phải khống chế nó ngay lập tức.
+deep_freeze_frozen_shower_head		Đầu vòi hoa sen đóng băng rất dễ dàng và chúng ta không thể làm gì nhiều để ngăn chặn điều đó xảy ra. Hy vọng những phòng tắm vòi sen còn hoạt động tốt sẽ đủ đáp ứng.	
+deep_freeze_frozen_sprinkler		Trong điều kiện lạnh giá như vậy, hệ thống vòi phun nước của nhà tù có thể bị đóng băng, đe dọa đến tính mạng con người. Hãy đảm bảo ông có nhân sự được đào tạo kỹ năng phòng cháy chữa cháy đầy đủ trong trường hợp kịch bản này xảy ra. Hồ sơ An toàn Phòng cháy chữa cháy kém sẽ không mang lại điều tốt đẹp gì cho danh tiếng của nhà tù.
+
+interface_action_EmptyRatTrap	Đổ bẫy
+interface_action_CleanPoop		Dọn phân
+
+
+job_grit                          Dọn đường đóng băng		
+
+dryness_level_1				Khô
+dryness_level_2				Rất khô
+dryness_level_3				Cực kỳ khô 
+
+codex_new_ratinfestation			Nạn chuột phá hoại
+status_effect_calamitycold			Giá rét
+
+object_BareTree					Cây (Trơ trụi)	
+buildtoolbar_popup_obj_BareTree			Cây này sẽ là một sự bổ sung tốt cho bất kỳ cảnh quan tuyết rơi nào.
+
+reform_program_intake_ColdControl		Dành cho nhân viên vệ sinh, người làm vườn và công nhân
+
+reform_program_requirements_general		- Mỗi người tham gia yêu cầu một *X
+reform_program_requirements_general_alt	- Mỗi người tham gia yêu cầu một *X hoặc một *Y
+
+weathermap_temperature_range_c 		Dao động từ *X°C đến *Y°C
+weathermap_temperature_range_f 		Dao động từ *X°F đến *Y°F
+
+# ====================================
+# ====================================
+# ----------------------------------- POLLY BATCH 2 -----------------
+# ====================================
+# ====================================
+
+# Missing orderly deployment strings
+interfacetopbar_tooltip_orderlies			Có *X Hộ lý
+interfacetopbar_tooltip_orderly				Số lượng hộ lý sẵn sàng làm việc trong nhà tù của bạn.
+
+object_DoubleStaffDoorBlue 					Cửa đôi nhân viên (Xanh dương)
+buildtoolbar_popup_obj_DoubleStaffDoorBlue				Một cánh cửa đôi có thể sử dụng bởi nhân viên.
+
+object_DoubleStaffDoorOrange							Cửa đôi nhân viên (Cam)
+buildtoolbar_popup_obj_DoubleStaffDoorOrange			Một cánh cửa đôi có thể sử dụng bởi nhân viên.
+
+d11_staffalert_summary_CalamityHeatwave01		Trong này đang nóng lên phải không? Hãy đảm bảo tù nhân và cây cối của ông có đủ nước
+d11_staffalert_title_CalamityHeatwave01			Sóng nhiệt
+d11_staffalert_details_CalamityHeatwave01		Có một vài vấn đề có thể phát sinh trong một đợt sóng nhiệt. Kim loại có thể trở nên cực kỳ nóng, vì vậy hãy cẩn thận với bất kỳ đồ vật và cánh cửa bằng kim loại nào. Ngoài ra, hãy đảm bảo giữ nước cho tù nhân và nhân viên vì họ có thể trở nên lờ đờ. 
+d11_staffalert_hint_CalamityHeatwave01			Một vụ hỏa hoạn kèm theo gió lớn có thể trở thành một thảm họa, hãy đảm bảo ngăn chặn nó và chuẩn bị sẵn sàng.
+
+buildtoolbar_AutomatedEmergencyService			Dịch vụ tự động
+
+weather_instrument_title				Dự báo bởi:
+
+dlc_name_polly							Perfect Storm
+buildtoolbar_stayIndoorsCalamity		Tai họa
+
+codex_tooltip_startingSeason			Chọn mùa bắt đầu của bạn. Thời tiết sẽ diễn tiến tự nhiên qua các mùa.
+
+object_AirPestControlHeli					Trực thăng kiểm soát dịch hại đường không
+
+# ====================================
+# ====================================
+# ----------------------------------- KIMBER BATCH 1 -----------------
+# ====================================
+# ====================================
+
+dlc_name_kimber					Băng đảng	
+# ====================================
+# OBJECTS
+# ======================================
+
+object_Beagle							Juliette
+buildtoolbar_popup_obj_Beagle			Giống chó thích ăn vặt hơn là tấn công.
+
+object_Doberman							Fen
+buildtoolbar_popup_obj_Doberman			Doberman là giống chó cảnh sát tối tân.
+
+object_ChocolateLabrador					Blue
+buildtoolbar_popup_obj_ChocolateLabrador	Yêu thích việc kết bạn mới, thậm chí còn vui hơn khi người bạn đó đang bỏ chạy.
+
+object_BlackShepherd						Luna
+buildtoolbar_popup_obj_BlackShepherd		Trông chúng có vẻ dễ thương, nhưng sẽ hạ gục bất kỳ ai cản đường.
+
+object_TattooRemovalMachine						Máy xóa hình xăm
+buildtoolbar_popup_obj_TattooRemovalMachine 	Vật phẩm này là không thể thiếu để cải tạo một thành viên băng đảng. Xóa hình xăm của họ là bước đầu tiên trong việc cải tạo.
+
+object_MetalStool					Ghế đẩu kim loại
+buildtoolbar_popup_obj_MetalStool 	Một chiếc ghế đẩu kim loại nhỏ xinh.
+
+equipment_TattooRemovalTool			Dụng cụ xóa hình xăm
+
+room_TheCage				Chuồng cọp
+buildtoolbar_popup_room_TheCage		Dành cho tù nhân đang bị biệt giam. Khu vực ngoài trời này được sử dụng để tập thể dục, đồng thời duy trì việc tách biệt tù nhân khỏi các phạm nhân khác.
+
+quickbuild_TheCage			Chuồng cọp
+buildtoolbar_quickbuild_TheCage		Một khu vực ngoài trời mà một tù nhân có thể sử dụng để tập thể dục, giữ họ biệt lập với các tù nhân khác.
+
+material_CageFence		Hàng rào lưới thép
+buildtoolbar_popup_mat_CageFence						Hàng rào lưới mắt cáo dùng để quản thúc tù nhân khi tập thể dục.
+
+room_TattooRemovalRoom	Phòng xóa hình xăm
+buildtoolbar_popup_room_TattooRemovalRoom	Nơi các tù nhân của ông có thể trải qua quá trình đau đớn và tẻ nhạt để xóa các hình xăm băng đảng của họ.
+
+quickbuild_TattooRemovalRoom	Phòng xóa hình xăm
+buildtoolbar_quickbuild_TattooRemovalRoom	Nơi các tù nhân của ông có thể trải qua quá trình đau đớn và tẻ nhạt để xóa các hình xăm băng đảng của họ.
+
+object_PullUpBars							Xà đơn
+buildtoolbar_popup_obj_PullUpBars			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân cứng đầu hơn.
+
+object_KneeRaise							Thiết bị nâng chân
+buildtoolbar_popup_obj_KneeRaise			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân cứng đầu hơn.
+
+object_PushUpStones							Bệ chống đẩy bằng đá
+buildtoolbar_popup_obj_PushUpStones			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân cứng đầu hơn.
+
+object_GangGraffiti							Hình vẽ bậy băng đảng
+d11_hover_info_gang_graffiti_1				+15% Sức mạnh trong Địa bàn đối với các thành viên băng đảng
+d11_hover_info_gang_graffiti_2				+15% Độ cứng cỏi trong Địa bàn đối với các thành viên băng đảng
+
+object_FightRing							Vòng đấu võ
+buildtoolbar_popup_obj_FightRing			Nếu các tù nhân của ông chiến đấu trong vòng đấu, họ sẽ không đánh nhau ở các dãy buồng giam.\n - Đáp ứng các nhu cầu Tập thể dục và Giải trí.
+
+quickbuild_FightClubRoom					Phòng CLB Đấm bốc
+buildtoolbar_quickbuild_FightClubRoom		Về cơ bản thì căn phòng này không hề tồn tại.
+
+room_FightClubRoom							Phòng CLB Đấm bốc
+buildtoolbar_popup_room_FightClubRoom		Về cơ bản thì căn phòng này không hề tồn tại.
+
+object_CageGate							Cửa chuồng lưới
+buildtoolbar_popup_obj_CageGate			Một chiếc cổng hoạt động rất tốt với Hàng rào. Chức năng tương tự như một cánh cửa.
+
+buildtoolbar_popup_obj_RemoteDoor			Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+
+object_RemoteDoorOrange						Cửa điều khiển từ xa (Cam)
+buildtoolbar_popup_obj_RemoteDoorOrange 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+object_RemoteDoorRed						Cửa điều khiển từ xa (Đỏ)
+buildtoolbar_popup_obj_RemoteDoorRed 		Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+object_RemoteDoorYellow						Cửa điều khiển từ xa (Vàng)
+buildtoolbar_popup_obj_RemoteDoorYellow 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+object_RemoteDoorWhite						Cửa điều khiển từ xa (Trắng)
+buildtoolbar_popup_obj_RemoteDoorWhite 		Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+quickbuild_Gymnasium                            Phòng thể chất
+
+object_GymInstructor						Huấn luyện viên thể hình
+
+object_FilingCabinetFancy					Tủ hồ sơ (Sang trọng)
+buildtoolbar_popup_obj_FilingCabinetFancy	Thưởng cho các nhân viên của ông bằng cách tặng họ một chiếc tủ hồ sơ sang trọng.
+
+# ====================================
+# Materials
+# ======================================
+
+material_LongGrass							Cỏ cao
+
+# ==============================================================
+# Menu strings
+# ==============================================================
+
+codex_tooltip_gangsEnhanced             Giờ đây ông có thể thay đổi lượng tù nhân tiếp nhận tham gia vào các Băng đảng của mình. Việc có nhiều Thành viên băng đảng hơn trong nhà tù sẽ khiến việc tuyển mộ băng đảng diễn ra nhanh hơn, nhà tù của ông sẽ trở nên hỗn loạn và nguy hiểm hơn.\n\n• Kế thừa - Trải nghiệm độ khó băng đảng như trước đây (Sơ cấp) \n• 'Thấp' (Mặc định) - Lý tưởng cho người chơi Sơ cấp hoặc Trung cấp \n• Trung bình - Dành cho người chơi có kinh nghiệm \n• Cao - Dành cho người chơi chuyên gia muốn tìm kiếm một thử thách thực sự
+codex_tooltip_morelieutenants			Các đại lý băng đảng đóng một vai trò lớn trong việc chinh phục các địa bàn mới cho Băng đảng tương ứng của họ. Nếu ông muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Đại lý. Chỉ chọn những số nhỏ hơn 6 nếu ông muốn có một thử thách.
+codex_option_morelieutenants			Nhiều Đại lý hơn
+codex_tooltip_codex_option_morelieutenants	Các đại lý băng đảng đóng một vai trò lớn trong việc chinh phục các địa bàn mới cho Băng đảng tương ứng của họ. Nếu ông muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Đại lý. Chỉ chọn những số nhỏ hơn 6 nếu ông muốn có một thử thách.
+
+codex_option_GangSpecialReputations     Đặc điểm đặc biệt của băng đảng
+codex_tooltip_GangSpecialReputations    Các băng đảng được trao những đặc điểm mới làm thay đổi cách thức hành xử của các thành viên trong nhà tù của ông.
+
+codex_option_AllDogs					Tất cả các loài chó
+codex_tooltip_AllDogs				    Chọn tùy chọn này sẽ kích hoạt tất cả các loài chó có sẵn và ngẫu nhiên hóa mỗi lần thuê.
+codex_tooltip_RandomWardens				Chọn tùy chọn này sẽ chọn ngẫu nhiên một Giám thị cho ông.
+
+# Boiling Point
+interfacecontraband_BoilingPoint				Điểm sôi bùng nổ
+buildtoolbar_contraband_BoilingPoint			Hiển thị các khu vực cần cải thiện cho các tù nhân bất mãn.
+
+boilingpoint_header								ĐIỂM SÔI BÙNG NỔ
+boilingpoint_OverallTemperature					Nhiệt độ tổng thể
+boilingpoint_Needs								Nhu cầu
+boilingpoint_ProgramCompletion					Chương trình đã hoàn thành
+boilingpoint_StatusEffects						Hiệu ứng trạng thái
+boilingpoint_RoomQuality						Chất lượng phòng
+
+boilingpoint_OverallTemperature_popup			Có một vài điều nằm ngoài tầm kiểm soát của chúng ta khi nói đến việc làm cho các tù nhân hạnh phúc và bình tĩnh, như tính cách của họ hoặc số lượng tiền án tiền sự họ có. Mỗi tù nhân càng tức giận thì Nhiệt độ Nhà tù sẽ càng cao và họ càng có nhiều khả năng hành xử sai trái.
+boilingpoint_Needs_popup						Hiện tại ông đang có *X tù nhân không thể thỏa mãn nhu cầu của họ.\n\nVui lòng đảm bảo họ có quyền truy cập vào các phòng hoặc đồ vật để có thể thỏa mãn nhu cầu của mình.
+boilingpoint_ProgramCompletion_popup			Hiện tại ông đang có *X tù nhân chưa hoàn thành bất kỳ chương trình nào.\n\nTù nhân càng hoàn thành nhiều chương trình thì họ càng có khả năng giữ bình tĩnh. Hãy thêm một số chương trình để họ có thể tham gia, đảm bảo Chế độ sinh hoạt của họ cho phép điều đó. Một số chương trình có thể lặp lại.
+boilingpoint_StatusEffects_popup				Hiện tại ông đang có *X tù nhân đang phải chịu các hiệu ứng tiêu cực.\n\nHãy cân nhắc việc giám sát chặt chẽ hơn hàng cấm, đặc biệt là rượu hoặc chất kích thích.\n\nKhi các tù nhân có hiệu ứng tích cực, họ sẽ ít có khả năng hành xử sai trái hơn.
+boilingpoint_RoomQuality_popup					Hiện tại ông đang có *X tù nhân đang ở trong những căn phòng tồi tàn.\n\nHãy tăng chất lượng phòng của họ để họ có thể hạnh phúc và bình tĩnh hơn. Một số tù nhân sẽ không đủ điều kiện cho các phòng chất lượng cao. Ông có thể sử dụng Điều chỉnh mức án để giảm bớt các yêu cầu.
+
+buildtoolbar_popup_help_BoilingPoint_1			Chế độ xem Điểm sôi bùng nổ hiển thị cho ông Nhiệt độ Nhà tù hiện tại. Menu này nêu bật các khu vực có vấn đề trong nhà tù của chúng ta, chẳng hạn như chất lượng buồng giam, nhu cầu, hiệu ứng trạng thái và mức độ tham gia chương trình cải tạo.\n\n
+buildtoolbar_popup_help_BoilingPoint_2			~If nếu ông vẫn không thể kiểm soát một tù nhân cụ thể, hãy cân nhắc việc đưa họ vào chế độ Phong tỏa hoặc Biệt giam để hạ hỏa.\n\n
+buildtoolbar_popup_help_BoilingPoint_3			^Mẹo
+buildtoolbar_popup_help_BoilingPoint_4			- Đảm bảo rằng tất cả tù nhân đều được tiếp cận các nhu cầu cơ bản của họ.
+buildtoolbar_popup_help_BoilingPoint_5			- Đầu tư vào các chương trình cải tạo, trị liệu, điều trị và lao động hướng nghiệp, đồng thời đảm bảo chế độ sinh hoạt cho phép họ tham gia các chương trình đó.
+buildtoolbar_popup_help_BoilingPoint_6			- Tù nhân An ninh Thấp sẽ có mức độ chịu đựng cao hơn, vì họ có thời hạn chấp hành án tù ngắn hơn.
+
+boilingpoint_advisor_onboarding					Tù nhân này đang quậy phá, họ dường như đã đạt đến điểm sôi bùng nổ của mình. Perhaps có lẽ chúng ta chưa làm đủ cho các tù nhân của mình, hãy đảm bảo nhu cầu của họ được thỏa mãn, cải thiện điều kiện sống của họ và cho họ việc gì đó để làm. Kiểm tra Menu Tình báo Điểm sôi để biết thêm thông tin.
+
+# ==============================================================
+# Security Menu strings
+# ==============================================================
+
+interfacecontraband_SecurityMenu				Menu An ninh
+buildtoolbar_contraband_SecurityMenu			Xem danh sách tất cả các phạm nhân được coi là nguy hiểm hoặc đang gặp nguy hiểm và áp dụng các biện pháp an ninh cho bất kỳ ai cần quản lý thêm.
+
+securitymenu_header								Menu An ninh
+
+securitymenu_popup_prisonerSelect				Nhấp chuột trái để chọn Tù nhân
+securitymenu_popup_dangerousReputations			Đặc điểm nguy hiểm: 
+securitymenu_popup_dangerousTraits				Nét tính cách nguy hiểm: 
+securitymenu_popup_crimesCommitted				Tội danh: 
+securitymenu_popup_recentMisconduct				Hành vi sai trái gần đây: 
+
+securitymenu_PrisonerType						Loại tù nhân: 
+securitymenu_PrisonerTypeDefault				Mặc định
+securitymenu_PrisonerTypeDangerous				Nguy hiểm
+securitymenu_PrisonerTypeVulnerable				Dễ bị tổn thương
+
+securitymenu_MarkingTypeUnmarked				Chưa đánh dấu
+securitymenu_SelectArea							Chọn khu vực
+securitymenu_SelectAreaCancel					Hủy chọn khu vực
+
+securitymenu_RestrictAccess						Hạn chế truy cập:
+securitymenu_TransferPrisoners					Chuyển tù nhân: 
+securitymenu_transferSecurityLevel				Mức độ an ninh
+securitymenu_GuardAssignment					Chỉ định lính canh: 
+securitymenu_MarkPrisoner						Đánh dấu tù nhân: 
+securitymenu_RemovePrisoner						Trục xuất tù nhân:
+securitymenu_RemovePrisonerButton				Trục xuất tù nhân
+securitymenu_RemovedPrisoner					Tù nhân đã bị trục xuất
+
+securitymenu_RemovePrisoner_message				Trục xuất tù nhân\n\nĐây là giải pháp cuối cùng để đối phó với những phạm nhân tồi tệ nhất, với một mức phí đắt đỏ, ông sẽ có thể gửi tù nhân này đến một cơ sở riêng biệt. Hành động này chỉ có thể được thực hiện 5 ngày một lần.
+
+securitymenu_RestrictAccess_tooltip				Chặn lối vào các khu vực cụ thể, không cho phép (các) tù nhân đã chọn truy cập nếu không có lính canh cố gắng khống chế họ. Thành viên băng đảng không thể bị hạn chế vào các khu vực / địa bàn của riêng họ.
+securitymenu_TransferPrisoner_tooltip			Move di chuyển các tù nhân đã chọn sang một hệ thống an ninh cụ thể để giúp quản lý họ dễ dàng hơn.
+securitymenu_MarkPrisoner_tooltip				Gắn một dấu hiệu trực quan cho các tù nhân đã chọn, để giúp ông để mắt tốt hơn đến bất kỳ cá nhân nào nguy hiểm hơn hoặc ngược lại đang gặp nguy hiểm.
+
+rapsheet_assignguard							Chỉ định lính canh
+rapsheet_assignguard_end						Hủy chỉ định lính canh
+
+job_PrisonerAssignment							Chỉ định lính canh đi kèm
+assignment_confirm_message						Ông có muốn chỉ định một lính canh không?
+assignment_description_message					Nếu ông muốn để mắt đến tù nhân này, ông có thể muốn chỉ định một lính canh đi kèm họ. Vui lòng đảm bảo ông có đủ lính canh rảnh rỗi.
+assignment_error_message						Tù nhân này hiện không thể chỉ định lính canh đi kèm. Vui lòng thử lại sau.\n\nHọ có thể vừa mới đến, đang bị cùm hoặc đang trong thời gian bị phong tỏa.
+
+buildtoolbar_popup_help_securitymenu_1        Menu an ninh liệt kê tất cả các thành viên trong nhà tù được coi là thành phần nguy hiểm hoặc dễ bị tổn thương trong quần thể tù nhân. Thông qua menu này, một số hành động nhất định có thể được áp dụng cho tù nhân để cung cấp hỗ trợ thêm và cho phép quản lý các tù nhân này tốt hơn.\n\n
+buildtoolbar_popup_help_securitymenu_2        ~Theo mặc định, cả tù nhân nguy hiểm và dễ bị tổn thương đều được liệt kê cùng nhau nhưng tùy chọn "loại tù nhân" cho phép ông áp dụng hành động cho các nhóm cụ thể.\n\n
+buildtoolbar_popup_help_securitymenu_3        ~Một số hành động có thể áp dụng cho một nhóm trong khi những hành động khác chỉ có thể áp dụng cho các cá nhân được chọn, hãy bôi đen và nhấp chuột trái vào một tù nhân để chọn họ.\n\n
+buildtoolbar_popup_help_securitymenu_4        ^Mẹo
+buildtoolbar_popup_help_securitymenu_5        - Tùy chọn chỉ định lính canh sẽ giúp vừa giữ tù nhân an toàn khỏi những người khác, vừa để mắt đến họ nhằm giúp ngăn chặn bất kỳ hành vi sai trái nào xảy ra. Lính canh sẽ không ở bên cạnh tù nhân trong thời gian riêng tư của họ như giờ ngủ và giờ tắm.
+buildtoolbar_popup_help_securitymenu_6        - Nếu một tù nhân đang gây ra quá nhiều rắc rối trong nhà tù của ông và quá khó để đối phó, tùy chọn Trục xuất tù nhân sẽ gửi họ đi nơi khác. Hành động này có thời gian hồi và không thể thực hiện mỗi ngày, đồng thời nó cũng tốn một khoản chi phí tiền tệ.
+
+# ==============================================================
+# Kimber todo list help objectives
+# ==============================================================
+objectiveWindow_FilterButton_4_title 				Về băng đảng
+objectiveWindow_FilterButton_4_tooltip				Mọi thứ ông cần biết về các Băng đảng 
+
+objective_HelpGangBehaviourAndType				Hành vi băng đảng
+objective_HelpGangBehaviourAndType_Description			Các băng đảng mới đã được đưa vào với mỗi băng đảng có hành vi hơi khác nhau một chút.
+objective_HelpGangBehaviourAndType_child_1			Vipers (Rắn lục)
+objective_HelpGangBehaviourAndType_child_1_Description		Băng Vipers là một lũ quỷ quyệt, chúng tập trung vào việc đầu độc nhà tù bằng các chất kích thích mà chúng kiểm soát, trong khi bản thân từng thành viên đều cực kỳ chết chóc.
+objective_HelpGangBehaviourAndType_child_2			Bone-Breakers (Nghiền xương)
+objective_HelpGangBehaviourAndType_child_2_Description		Băng Bone-Breakers có thể được coi là những tên côn đồ cơ bắp cuồn cuộn, chúng tập trung nhiều hơn vào bạo lực và phá hoại hơn là bất kỳ điều gì khác.
+objective_HelpGangBehaviourAndType_child_3			Jackals (Chó hoang)
+objective_HelpGangBehaviourAndType_child_3_Description		Băng Jackals là băng đảng tháo vát và nhiều mánh khóe nhất, với việc chúng tập trung vào kiểm soát địa bàn và bán hàng cấm để gia tăng quyền lực tài chính của mình.
+
+objective_HelpGangActivities					Hoạt động băng đảng
+objective_HelpGangActivities_Description			Các hoạt động của băng đảng sẽ bao gồm từ việc vận hành và quản lý địa bàn của riêng chúng, thực hiện các bước đi lớn chống lại các thành viên chủ chốt của nhà tù, đưa ra yêu sách với người chơi và các hành động tương tự.
+objective_HelpGangActivities_child_1				Hoạt động chuyên môn hóa
+objective_HelpGangActivities_child_1_Description		Mỗi băng đảng sẽ tham gia vào các hoạt động chuyên môn tùy thuộc vào tính cách khác nhau của chúng, Vipers tập trung vào sản xuất và bán chất kích thích, Bone-breakers tập trung vào đánh nhau và phá hoại, còn Jackals tập trung nhiều hơn vào địa bàn và kiếm tiền.
+objective_HelpGangActivities_child_2				Hoạt động địa bàn
+objective_HelpGangActivities_child_2_Description		Địa bàn mới đi kèm với những hành vi mới. Các băng đảng giờ đây sẽ "kiểm soát an ninh" bất kỳ khu vực nào chúng nắm quyền, đảm bảo rằng các tù nhân khác phải biết điều và trả tiền để sử dụng bất kỳ vật dụng nào bên trong, ngay cả trong giờ lao động của họ. Các thành viên băng đảng cũng sẽ thu giữ số lượng lớn hàng cấm dựa trên căn phòng mà chúng kiểm soát, với các "đại lý" xuất hiện để bán những vật phẩm này cho các tù nhân khác.
+objective_HelpGangActivities_child_3				Yêu sách của băng đảng
+objective_HelpGangActivities_child_3_Description		Once một băng đảng giành đủ quyền lực và sự tự tin trong nhà tù, chúng sẽ bắt đầu đưa ra những yêu sách nhất định, các yêu sách này sẽ bao gồm từ việc đòi trang bị thiết bị mới cho đến có thêm thời gian ra Sân chơi hoặc Thời gian tự do, người chơi sẽ có một khoảng thời gian nhất định để giải quyết (các) yêu sách này. Nếu người chơi không đáp ứng được những yêu sách này, hậu quả sẽ ngay lập tức bắt đầu, với việc băng đảng thường gây ra một số hình thức phá hoại hoặc bạo lực. 
+
+objective_HelpCrookedGuards					Lính canh tha hóa
+objective_HelpCrookedGuards_Description				Mặc dù chúng ta muốn nghĩ về đội ngũ nhân viên dũng cảm của mình là trong sạch và bất khuất, nhưng đáng buồn thay không phải lúc nào cũng như vậy.
+objective_HelpCrookedGuards_child_1				Hối lộ lính canh
+objective_HelpCrookedGuards_child_1_Description			Lính canh tiêu chuẩn có thể bị hối lộ để nhắm mắt làm ngơ trước một số hành vi sai trái nhất định trong 48 giờ, để mặc tù nhân giữ hàng cấm ngay cả khi họ tìm thấy chúng và khiến các băng đảng dễ dàng chiếm quyền kiểm soát địa bàn hơn. May mắn thay, bằng cách sử dụng những kẻ chỉ điểm, các lính canh đáng ngờ có thể bị chỉ mặt, mang lại cho người chơi cơ hội sa thải bất kỳ lính canh nào đã bị tha hóa.
+objective_HelpCrookedGuards_child_2				Tham nhũng lính canh
+objective_HelpCrookedGuards_child_2_Description			Một số lính canh có thể bị tha hóa do tương tác quá nhiều với các thành viên băng đảng, khi họ được trả tiền để buôn lậu hàng cấm vào cho các băng đảng. Kẻ chỉ điểm có thể đánh dấu các lính canh đáng ngờ cho ông, trong khi các máy phát hiện hàng cấm và quản khuyển cũng sẽ có thể tìm thấy số hàng cấm này khi nó vẫn còn trên người họ.
+
+objective_HelpGangIntelligence					Tình báo băng đảng
+objective_HelpGangIntelligence_Description			Với rất nhiều nguy cơ xảy ra hành vi sai trái trong nhà tù, thông tin tình báo luôn là chìa khóa để giữ cho mọi thứ an toàn trong cơ sở của ông. Menu tình báo băng đảng sẽ cung cấp thông tin về từng băng đảng trong nhà tù của ông, liệt kê số lượng thành viên mà mỗi băng có, tiền quỹ của chúng và cũng liệt kê số liệu thống kê cơ bản về các hành vi sai trái mà chúng đã thực hiện khi bị giam giữ. Nó cũng hiển thị bất kỳ chuyển động hoặc hoạt động nào mà bất kỳ băng đảng nào tham gia để giúp hiển thị mức độ nguy hiểm của từng băng đảng.
+
+objective_HelpSecurityOptions					Tùy chọn an ninh
+objective_HelpSecurityOptions_Description			Một danh sách các "tù nhân quan trọng" sẽ được liệt kê trong một menu mới, với tất cả các tù nhân được coi là đang gặp nguy hiểm từ người khác hoặc bản thân họ là mối nguy hiểm cho người khác. Với menu này, các tù nhân cần được chú ý thêm có thể được đánh dấu để có thể theo dõi họ dễ dàng hơn trong quá trình chơi thông thường, các hành động khác như hạn chế quyền truy cập của tù nhân vào các khu vực nhất định, chuyển các nhóm sang các mức độ an ninh cụ thể và thậm chí loại bỏ các tù nhân hay gây rắc rối bằng cách gửi họ đến một cơ sở khác mặc dù làm như vậy sẽ yêu cầu trả một khoản tiền phạt nặng.
+
+objective_HelpPrograms						Chương trình cải tạo
+objective_HelpPrograms_Description				Để giúp bảo đảm an ninh và hỗ trợ các lính canh của ông, họ giờ đây có thể nhận được khóa đào tạo mới cho phép họ dễ dàng tước vũ khí của một tù nhân đang trang bị hung khí. Các tù nhân cũng sẽ có các chương trình mới dành cho họ, với các chương trình giải trí để giúp cải tạo họ và cố gắng giúp làm dịu tù nhân hoặc cho phép họ giải tỏa bớt căng thẳng, và cả các chương trình tái hòa nhập sẽ giúp hướng tù nhân rời xa cuộc sống băng đảng, cho phép họ hoàn thành thời hạn chấp hành án tù của mình một cách hòa bình và mang tính xây dựng hơn.
+
+# =============================================================================
+# Grants
+# =============================================================================
+objective_grant_positiveEnergyGrant					Năng lượng tích cực
+objective_grant_positiveEnergyGrant_Description				Các thành viên băng đảng cần tập trung tâm trí (và năng lượng của họ) vào việc tập thể dục thay vì bạo lực. Nghiên cứu đã chỉ ra tập thể dục làm giảm các hành động như vậy. Hãy thiết lập một số thiết bị tập thể dục ngoài trời ở sân chơi.
+objective_grant_positiveEnergyGrant_yard				Xây dựng một Sân chơi
+objective_grant_positiveEnergyGrant_bench				Thêm một Ghế tập tạ
+
+objective_grant_advancedProtectionGrant					Bảo vệ nâng cao
+objective_grant_advancedProtectionGrant_Description			Việc bảo vệ nhân viên là tối quan trọng khi đối phó với các băng đảng có tổ chức. Chúng ta cần đảm bảo nhân viên của mình được đào tạo ở mức độ cao nhất vì sự an toàn của họ.
+objective_grant_advancedProtectionGrant_training			Đào tạo thành công 20 Lính canh nhận Chứng chỉ tước vũ khí.
+
+objective_grant_gangWelfareGrant					Phúc lợi băng đảng
+objective_grant_gangWelfareGrant_Description				Biến chiến tranh băng đảng thành phúc lợi băng đảng là ưu tiên hàng đầu. Các thành viên băng đảng có cơ hội cải tạo tốt khi được đưa vào các chương trình có thể giúp họ thoát khỏi cuộc sống đó.
+objective_grant_gangWelfareGrant_exGangMembers				Cải tạo thành công 15 Thành viên băng đảng thành Cựu thành viên băng đảng.
+
+objective_grant_exGangProtectionGrant					Chương trình bảo vệ cựu thành viên băng đảng
+objective_grant_exGangProtectionGrant_Description			Chính phủ đang cung cấp tiền tài trợ để xây dựng một khu phân khu Quản thúc Bảo vệ nhằm bảo vệ các cựu thành viên băng đảng trên con đường tái hòa nhập cộng đồng.	
+objective_grant_protectionCells						Xây dựng 10 Buồng giam trong một Phân khu Chỉ bảo vệ
+objective_grant_protectionShower					Xây dựng một Phòng tắm vòi sen trong một Phân khu Chỉ bảo vệ
+objective_grant_protectionCanteen					Xây dựng một Nhà ăn trong một Phân khu Chỉ bảo vệ
+objective_grant_protectionKitchen					Xây dựng một Nhà bếp trong một Phân khu Chỉ bảo vệ
+objective_grant_protectionYard						Xây dựng một Sân chơi trong một Phân khu Chỉ bảo vệ
+objective_grant_protectionGuards					Chỉ định một Lính canh vào một Phân khu Chỉ bảo vệ
+objective_grant_protectionExGang					Xếp 1 Cựu thành viên băng đảng vào Mức độ an ninh Quản thúc Bảo vệ
+
+grant_category_adminHired						Quản trị viên đã thuê:
+
+# =============================================================================
+# Reform Programs
+# =============================================================================
+
+reformprogram_TattooRemovalProgram			Chương trình xóa hình xăm
+reformprogram_TattooRemovalProgram_text		Nếu các tù nhân của ông hối hận về việc xăm mình theo băng đảng, ông có thể tạo điều kiện cho việc tái hòa nhập của họ bằng cách cung cấp các buổi xóa hình xăm. Hoàn thành chương trình này sẽ biến họ thành một mục tiêu bị săn đuổi.
+
+reformprogram_HandToHandCombat				Chứng chỉ tước vũ khí
+reformprogram_HandToHandCombat_text			Khi mọi thứ trở nên khó khăn, chúng ta phải cứng rắn hơn. Đào tạo cho lính canh của ông các kỹ thuật nâng cao để tước vũ khí của tù nhân.
+
+reformprogram_GangRehabilitation			Tái hòa nhập băng đảng
+reformprogram_GangRehabilitation_text			Nếu một thành viên băng đảng gây ra quá nhiều rắc rối quanh nhà tù, hãy cố gắng để họ hoàn thành chương trình này. Đây là bước đầu tiên để cắt đứt quan hệ với băng đảng của họ và bước sang trang mới. Hoàn thành chương trình này sẽ biến họ thành một mục tiêu bị săn đuổi. Loại chuyển tuyến: Bạo lực và Phá hoại.
+reform_program_intake_ReferralGangViolenceDestruction	Chuyển tuyến: Chỉ dành cho các băng đảng Bạo lực và Phá hoại.
+reform_program_intake_GangOnly				Chỉ dành cho băng đảng
+
+reformprogram_FaithProgram					Chương trình tín ngưỡng
+reformprogram_FaithProgram_text				Các tù nhân tham gia vào chương trình chuyên sâu này sẽ sẵn lòng từ bỏ lối sống xấu xa của họ và đón nhận một cuộc sống tốt đẹp hơn. Nếu họ đã hoàn thành chương trình này, họ có thể muốn cắt đứt quan hệ với Băng đảng của mình.
+
+reformprogram_BreatheProgram				Liệu pháp hít thở ôn hòa
+reformprogram_BreatheProgram_text			Dạy các tù nhân của ông cách hít thở và thư giãn. Sau mỗi lớp học, tù nhân của ông sẽ cảm thấy bình tĩnh hơn rất nhiều, họ thậm chí có thể cân nhắc việc cư xử tốt hơn.
+
+
+reformprogram_FightClub					CLB Đấm bốc
+reformprogram_FightClub_text			Các buổi tập luyện này nhằm mục đích hướng năng lượng phá hoại của các tù nhân vào việc chiến đấu trong một môi trường có kiểm soát. Sau đó họ có thể quá mệt mỏi để đánh nhau ngoài đời. Khoan đã… quy tắc đầu tiên là gì ấy nhỉ?
+
+reform_program_properties_TeacherUsesSameEquipment		Người dạy yêu cầu một *X
+reform_program_properties_GangMemberCanAttend			Thành viên băng đảng có thể tham gia
+reform_program_properties_RequiresAllStudentsPresent		Yêu cầu tất cả học viên phải có mặt
+
+object_KayuMalamTree		Cây Kayu Malam
+buildtoolbar_popup_obj_KayuMalamTree		Một cây đại thụ với màu sắc sẫm tuyệt đẹp. Không phù hợp để đóng giường ngủ
+object_EbonyLog				Gỗ mun tròn
+object_EbonyWood			Gỗ mun xẻ
+object_TreeVines			Cây dây leo
+buildtoolbar_popup_obj_TreeVines		Loại cây này là thứ phải có cho một nhà tù nhiệt đới chuẩn nghĩa.
+# ============================================================== 
+# Gang Demands 
+# ==============================================================
+gang_vipers				Băng Vipers
+gang_bonebreakers		Băng Bone Breakers
+gang_jackals			Băng Jackals
+gang_red				Đỏ
+gang_blue				Xanh dương
+gang_green				Xanh lá
+gang_yellow				Cựu thành viên băng đảng
+
+# ==============================================================
+# Gang Demands 
+# ==============================================================
+objective_GangDemand			   Yêu sách băng đảng
+objective_GangDemand_description   Những tên thủ lĩnh băng đảng táo tợn sẽ đưa ra một số yêu sách nhằm cải thiện chất lượng cuộc sống trong tù. Không tuân thủ các yêu sách này có thể dẫn đến một cuộc bạo loạn, hãy đảm bảo rằng nếu điều đó xảy ra thì nhà tù của ông đã được chuẩn bị sẵn sàng.
+GangDemand_announcement      	   Các thành viên băng đảng sẽ gây ra rất nhiều rắc rối nếu chúng ta không nhượng bộ trước các yêu sách của chúng.
+
+# - G refers to gang name, X is a numerical value. Separate strings due to plurals etc
+# - Escalated appears as own string but will be filtered out by tool. 
+
+objective_Gang_ContrabandToolsPunishment_child 				*G - Giảm hình phạt cho việc Tìm thấy dụng cụ xuống còn *X giờ. 
+objective_Gang_ContrabandToolsPunishment_Escalated_child 	*G - Giảm hình phạt cho việc Tìm thấy dụng cụ xuống mức Không có
+
+objective_Gang_MurderPunishment_child 			 *G - Giảm hình phạt cho tội Giết người xuống còn *X giờ. 
+objective_Gang_MurderPunishment_Escalated_child  *G - Giảm hình phạt cho tội Giết người xuống còn *X giờ. 
+
+objective_Gang_MoreYardTime_child 				*G - Tăng thời gian ra Sân chơi trong chế độ sinh hoạt lên *X giờ. 
+objective_Gang_MoreYardTime_Escalated_child     *G - Tăng thời gian ra Sân chơi trong chế độ sinh hoạt lên *X giờ. 
+
+objective_Gang_PullUpBars_child  				*G - Phải có *X Xà đơn. 
+objective_Gang_PullUpBars_Escalated_child 		*G - Phải có *X Xà đơn. 
+
+objective_Gang_TyreApparatus_child  			*G - Phải có *X Thiết bị lốp xe tập thể hình. 
+objective_Gang_TyreApparatus_Escalated_child 	*G - Phải có *X Thiết bị lốp xe tập thể hình. 
+
+objective_Gang_PunchBag_child  					*G - Phải có *X Bao cát đấm bốc. 
+objective_Gang_PunchBag_Escalated_child 		*G - Phải có *X Bao cát đấm bốc. 
+
+objective_Gang_PushUpStones_child  				*G - Phải có *X Bệ chống đẩy bằng đá.
+objective_Gang_PushUpStones_Escalated_child		*G - Phải có *X Bệ chống đẩy bằng đá.
+
+# - X in this case will refer to a room name
+objective_Gang_RequireYard_child  						*G - Phải có một *X.
+objective_Gang_RequireYard_Escalated_child 		*G - Phải có một *X.
+
+objective_Gang_RequireLibrary_child  				*G - Phải có một *X.
+objective_Gang_RequireLibrary_Escalated_child 	*G - Phải có một *X.
+
+objective_Gang_RequireMailRoom_child  			*G - Phải có một *X.
+objective_Gang_RequireMailRoom_Escalated_child  *G - Phải có một *X.
+
+d11_gangdemand_success 				Chúng ta đã nhận được một khoản tiền vì đã xử lý tốt tình huống này.
+d11_gangdemand_fail 				Đảm bảo tình huống này không xảy ra một lần nữa.
+d11_gangCompensation				Bồi thường băng đảng
+
+# ==============================================================
+# Gang Menu 
+# ==============================================================
+d11_gang_goal					Mục tiêu băng đảng:
+d11_gang_bonebreakers_goal			Phá hoại
+d11_gang_jackals_goal				Kiểm soát nhà tù
+
+d11_gang_traits					Đặc điểm băng đảng:
+d11_gang_officer				Cán bộ băng đảng:
+d11_gang_territories				Địa bàn:
+d11_gang_misconduct				Hành vi sai trái:
+d11_gang_kills					Số mạng giết hại của băng:
+
+# ==============================================================
+# Gang Menu : HeatMap
+# ==============================================================
+d11_heatmap_gang			Băng đảng liên quan:
+d11_heatmap_deaths			Số ca tử vong:
+d11_heatmap_day				Ngày xảy ra:
+d11_heatmap_time			Thời gian xảy ra:
+
+d11_gang_event_pr.gf			Hỗn chiến băng đảng
+d11_gang_event_g.tc			Thay đổi địa bàn
+# ==============================================================
+# Gang Segregation
+# ==============================================================
+
+gangSegregationMessage			Chọn băng đảng nào thường được phép tiến vào các khu vực nhất định.
+interfacedeployment_GangSegregation		Cách ly băng đảng
+buildtoolbar_deployment_GangSegregation Nhằm cung cấp một mức độ kiểm soát đối với việc phân chia băng đảng, các băng đảng có thể được chỉ định vào các không gian sống khác nhau, cho phép giữ chúng tránh xa nhau để tránh bất kỳ sự kích động không cần thiết nào.
+
+# ==============================================================
+# Crooked Guards
+# ==============================================================
+
+research_StaffVetting				Thẩm định nhân viên
+researchtooltip_StaffVetting		Giảm khả năng các lính canh mới bị tha hóa. Mở khóa Điều tra lính canh cho phép ông đánh hơi ra các lính canh tha hóa bằng cách sử dụng kẻ chỉ điểm.
+
+buildtoolbar_GuardInvestigation				Điều tra lính canh
+buildtoolbar_tooltip_GuardInvestigation		Làm việc với kẻ chỉ điểm và Trưởng phòng an ninh của ông để điều tra các lính canh và đánh hơi sự tham nhũng. Phạm vi bao phủ của các kẻ chỉ điểm đang hoạt động càng lớn, ông càng vạch trần được nhiều lính canh tha hóa. Trưởng phòng an ninh không được đang chủ trì một chương trình hoặc tham gia một buổi thi hành án tử hình.
+buildtoolbar_CI_requirement			Ít nhất một kẻ chỉ điểm
+
+guardinvestigation_underway			ĐANG TIẾN HÀNH ĐIỀU TRA LÍNH CANH
+guardinvestigation_investigated		Đã điều tra *A/*B lính canh
+
+informant_investigating				Đang điều tra
+crookedguard_fired_reward			Lính canh tha hóa đã bị sa thải
+crookedguard_advisor_onboarding		Chúng ta đã phát hiện ra một lính canh tha hóa đang cấu kết với một băng đảng. Tôi đã đánh dấu họ trong tab Nhân viên trên Báo cáo của ông. Hãy nhớ sa thải họ.
+
+buildtoolbar_popup_staff_doghandler				Quản khuyển và những người bạn đồng hành bốn chân của họ có thể phát hiện hàng cấm trên người tù nhân đi qua ở khoảng cách gần.
+buildtoolbar_popup_staff_kimber_doghandler		Quản khuyển và những người bạn đồng hành bốn chân của họ có thể phát hiện hàng cấm trên người tù nhân và lính canh tha hóa đi qua ở khoảng cách gần.
+# ==============================================================
+# Prisoner Intake
+# ==============================================================
+d11_prisoner_replacement			Bổ sung tù nhân
+d11_prisoner_replacement_tooltip	Giá trị quần thể tù nhân sẽ được bổ sung lên đến số lượng mong muốn với tỷ lệ các mức độ an ninh được giữ nguyên nếu có thể. Mọi số lượng tù nhân dư thừa sẽ được yêu cầu theo hệ thống tiêu chuẩn
+
+# ==============================================================
+# Interface
+# ==============================================================
+
+interface_action_CleanGraffiti		Xóa bỏ
+job_cleanupobject					Dọn dẹp *X
+interfacetopbar_tension_angrygangmembersgraffiti		+ *X THÀNH VIÊN BĂNG ĐẢNG ĐANG PHẪN NỘ (Do hình vẽ bậy bị xóa)
+interfacetopbar_tension_angrygangmembersleadercell		+ *X THÀNH VIÊN BĂNG ĐẢNG ĐANG PHẪN NỘ (Do thủ lĩnh bị chuyển đến buồng giam chất lượng thấp hơn)
+research_CCTVImprovement			Cải tiến camera giám sát
+researchtooltip_CCTVImprovement		Cải thiện việc tận dụng thiết bị camera giám sát của ông. Cho phép ông nhìn thấy các hình nón tầm nhìn của camera và đánh dấu các tù nhân hành xử sai trái trong trường nhìn của chúng
+
+d11_cctv_cone						Hình nón camera giám sát
+d11_toggle_cctv_cone_detail			Bật/Tắt hình nón tầm nhìn của camera giám sát
+d11_left_click_to_clean				Nhấp chuột trái để dọn dẹp
+
+# ==============================================================
+# Advisor messages
+# ==============================================================
+
+d11_gang_graffiti_message				Các băng đảng đang đánh dấu địa bàn của chúng khiến chúng trở nên hung hãn hơn khi bảo vệมัน. Hãy cử một Nhân viên vệ sinh đến khi khu vực an toàn để xử lý đống hỗn độn đó. Các băng đảng sẽ không vui khi "tác phẩm nghệ thuật" của chúng bị xóa bỏ - chúng có thể trả đũa.
+d11_gangBulkIntake_advisor_onboarding				Ủy ban Nhà tù đang chuyển các tù nhân hay gây rắc rối sang các nhà giam khác có sự quản lý năng nổ hơn, tôi tin rằng ông sẽ có thể xử lý những sự bổ sung mới này một cách dễ dàng. Việc Đánh giá Tù nhân hiện đang được tiến hành trên cơ sở hàng tuần.
+d11_gangBulkIntake_staffAlert						Xe buýt Tiếp nhận thành viên băng đảng đang đến 
+d11_gangdealer_advisor_onboarding		Chúng ta đã xác định được một Đại lý bán hàng trong địa bàn băng đảng. Một số tiền lớn đã bị tịch thu từ chúng.
+
+d11_CI_advisor_onboarding				Hợp tác với các Kẻ chỉ điểm của ông để vạch trần bất kỳ lính canh tha hóa nào. Họ sẽ được gửi đến văn phòng của Trưởng phòng an ninh để chia sẻ những thông tin họ có. Hãy đảm bảo đã tuyển mộ các kẻ chỉ điểm, kiểm tra biểu tượng (?) trên Menu Tình báo để biết thêm thông tin.
+
+d11_LeaderAssassination_advisor_onboarding	Các băng đảng đang trở nên quá hung hãn và đang lên kế hoạch ám sát Thủ lĩnh của băng đảng khác. Nếu chúng thành công, nó sẽ ảnh hưởng đến các địa bàn hiện tại của chúng.
+d11_GangTargetting_advisor_onboarding	Các thành viên băng đảng liên kết với nhau vì chúng có những sở thích tương đồng, đôi khi chúng cũng căm ghét các tội danh hình sự cụ thể và chúng sẽ cố gắng nhắm vào các cá nhân này.	
+
+# ==============================================================
+# Staff Alerts
+# ==============================================================
+
+d11_staffalert_title_making_move		Băng đảng đang hành động.
+d11_staffalert_summary_making_move		Chúng ta có thông tin rằng một Băng đảng đang thực hiện một bước đi lớn.
+d11_staffalert_summary_gangdealer		Một Đại lý bán hàng đã bị phát hiện, ông đã được thưởng $500
+
+d11_staffalert_summary_TerritoryPlacement	Căn phòng này đã bị một Băng đảng chiếm giữ, và quá nguy hiểm cho công nhân của chúng ta. Hãy trục xuất chúng khỏi căn phòng.	
+# ==============================================================
+# Gang Shakedown
+# ==============================================================
+crisisSector_CustomSearchArea					Khu vực khám xét tùy chỉnh
+crisisSector_ScheduleSearch					Lịch trình tùy chỉnh
+
+schedulesearch_menu_TargettedArea				Khu vực mục tiêu
+schedulesearch_menu_StartTime					Thời gian bắt đầu			
+schedulesearch_menu_Frequency					Tần suất
+schedulesearch_menu_ExistingSchedule				Lịch trình hiện có
+schedulesearch_menu_CurrentTime					Thời gian hiện tại
+schedulesearch_menu_CurrentFrequency				Tần suất hiện tại
+
+
+crisisSector_UnlockedOnly					Chỉ mở khóa
+schedulesearch_menu_SaveSelection				Lưu lựa chọn
+
+# ==============================================================
+# Reputations & traits
+# ==============================================================
+reputation_Recruiter					Kẻ tuyển mộ
+reputationtooltip_Recruiter				Tù nhân này nếu là một phần của Băng đảng sẽ có nhiều khả năng lôi kéo các tù nhân khác gia nhập băng đảng của mình hơn.
+reputation_Resourceful					Tháo vát mánh khóe
+reputationtooltip_Resourceful			Tù nhân này sẽ có nhiều khả năng dành thời gian đọc sách hơn, họ cũng sẽ biết hàng cấm ở đâu và có thể chặn đứng nó cho Băng đảng của mình.
+reputation_ExGangMember					Cựu thành viên băng đảng
+reputationtooltip_ExGangMember			Tù nhân này đã quyết định cuộc sống băng đảng không dành cho họ, nhưng Băng đảng không hề hài lòng về điều này.
+reputation_CunninglyBrutal				Tàn bạo mưu mô
+reputationtooltip_CunninglyBrutal		Thành viên băng Vipers sẽ cố gắng tấn công các mục tiêu trong các góc khuất an ninh.
+reputation_SneakThief					Đạo tặc lén lút
+reputationtooltip_SneakThief			Tất cả thành viên băng Jackals đều có khả năng móc túi bất kể đặc điểm tính cách.
+reputation_BattleTendency				Xu hướng huyết chiến
+reputationtooltip_BattleTendency		Nếu băng Jackals đông hơn Lính canh ở một dãy buồng giam của nhà tù, chúng sẽ bạo lực hơn đối với nhân viên ở dãy đó.
+reputation_DisrepectSurroundings		Kẻ phá hoại
+reputationtooltip_DisrepectSurroundings	Thành viên băng Bone Breakers sẽ phá hoại các đồ vật khi một số nhu cầu của chúng không được đáp ứng.
+reputation_UnderCoverDon				Ông trùm ẩn danh
+reputationtooltip_UnderCoverDon			Thủ lĩnh của băng Vipers sẽ được ẩn giấu dưới danh nghĩa một tên lính băng đảng, chỉ bị lộ diện khi bị trừng phạt.
+reputation_Enforcer						Kẻ thực thi
+reputationtooltip_Enforcer				Tù nhân này sẽ đe dọa các tù nhân khác, trừ khi họ thuộc cùng một Băng đảng. Họ cũng rất giỏi khi chiếm lĩnh địa bàn cho các Băng đảng.
+reputation_GymRat						Con nghiện phòng gym
+reputationtooltip_GymRat				Thành viên băng Bone Breakers sẽ dành các khoảng Thời gian tự do của chúng trong Phòng thể chất hoặc Sân chơi.
+reputation_Loyal					Trung thành
+reputationtooltip_Loyal					Tù nhân này sẽ có nhiều khả năng ở lại trong Băng đảng và trở nên nổi điên nếu Thủ lĩnh băng đảng của họ bị trừng phạt
+
+
+traits_violent		Hung hãn
+traits_lethal		Chết chóc
+
+# =============================================================================
+# Expense popups
+# =============================================================================
+finance_cost_gangdealer					Phát hiện đại lý băng đảng
+
+# ==============================================================
+# Free Update - Kimber
+# ==============================================================
+
+ object_PrisonerLetter 					Thư của tù nhân
+ object_LoveLetter 						Thư tình
+ object_LoveLetterOpened 				Thư tình (Đã mở)
+ interface_prisonerWritingLetter		Đang viết thư cho người thân
+ interface_prisonerWritingLoveLetter	Đang viết thư cho một người CỰC KỲ đặc biệt
+
+warden_wardengangsjlocks_name		Thuyền trưởng J. Locks
+warden_wardengangsjlocks_desc		Nhân viên dưới quyền chỉ huy của Locks có thể vượt qua các giới hạn của họ và các tù nhân được nhào nặn thành những tù nhân kiểu mẫu. \n\n- +30% thể lực của nhân viên (Yêu cầu nghỉ ngơi nhiều hơn 10%). \n- -10% tỷ lệ tái phạm của tù nhân.
+warden_wardengangsjlocks_desc_short            - Nhân viên có nhiều thể lực hơn.\n- Tù nhân có tỷ lệ tái phạm thấp hơn 10%.
+
+warden_wardengangscook_name		Dylan Cook
+warden_wardengangscook_desc		Vị quý ông này sẽ nói lời ngọt ngào với bất kỳ ai, ông ấy sẽ xoay sở để có được mức giá tốt nhất cho nhà tù của ông. Ông hoàn toàn có thể tin rằng ông ấy sử dụng phiếu giảm giá ở siêu thị! \n\n- Chi phí thực phẩm giảm 25%. \n- Các chương trình yêu cầu giáo viên bên ngoài tốn ít chi phí hơn 20%.
+warden_wardengangscook_desc_short            - Chi phí thực phẩm giảm 25%.\n- Các chương trình yêu cầu giáo viên bên ngoài tốn ít chi phí hơn 20%.
+
+# ==============================================================
+# Manual Cell Swap
+# ==============================================================
+
+rapsheet_manualCellSwap_hint			Chọn nâng cấp / hạ cấp đơn giản cho tù nhân này với việc họ chuyển đến một Buồng giam mới còn trống hoặc tự tay chọn Buồng giam cụ thể mà họ nên được chuyển đến.
+rapsheet_cellUpgrade					Nâng cấp buồng giam
+rapsheet_cellDowngrade					Hạ cấp buồng giam
+rapsheet_cellChoice						Chọn buồng giam mới
+rapsheet_ChangeCell						Đổi buồng giam
+
+ChangeCellUpgradeSuccessful				Ông đã nâng cấp thành công *X sang một buồng giam tốt hơn.
+ChangeCellDowngradeSuccessful			Ông đã hạ cấp thành công *X sang một buồng giam tồi hơn.
+ChangeCellNoAvailableRooms				Không có phòng trống nào để chuyển *X đến. Ông có muốn sử dụng menu hoán đổi phòng tùy chỉnh không.
+ChangeCellDowngradingGangLeader			Ông chuẩn bị chuyển một thủ lĩnh băng đảng đến một buồng giam có chất lượng thấp hơn, điều này sẽ làm băng đảng của họ tức giận và có thể gây ra rắc rối trong nhà tù của ông.
+
+freeCell_movePrisoner					Nhấp chuột phải để chuyển tù nhân đến buồng giam này.
+occupiedCell_movePrisoner				Nhấp chuột phải để hoán đổi tù nhân với người đang ở buồng giam này.
+occupiedCell_selectablePrisoner			Nhấp chuột phải để chọn tù nhân này nhằm chọn nơi ông muốn chuyển họ đến.
+
+# ==============================================================
+# Kimber Mutator
+# ==============================================================
+mutator_name_NoMinRoomSize				Không giới hạn kích thước phòng
+mutator_tooltip_NoMinRoomSize			Không còn yêu cầu về kích thước phòng nữa! Nhưng ông vẫn cần phải có các vật dụng bắt buộc để phòng hoạt động.
+
+object_KayuMalamTree		Cây Kayu Malam
+buildtoolbar_popup_obj_KayuMalamTree		Một cây đại thụ với màu sắc sẫm tuyệt đẹp. Không phù hợp để đóng giường ngủ
+object_EbonyLog				Gỗ mun tròn
+object_EbonyWood			Gỗ mun xẻ
+object_TreeVines			Cây dây leo
+buildtoolbar_popup_obj_TreeVines		Loại cây này là thứ phải có cho một nhà tù nhiệt đới chuẩn nghĩa.
+# ============================================================== 
+# Missing Action strings
+# ==============================================================
+action_Withdrawal      Vật vã cai nghiện
+action_GangBusiness    Việc riêng băng đảng
+action_GangRecruitment Tuyển mộ băng đảng
+action_GangPromotion   Thăng cấp băng đảng	
+action_ActionHerb      Phá hoại lén lút
+action_LoadBaby	       Bế em bé
+action_WarmUp          Đang khởi động
+
+action_ListenToRadio   Đang nghe đài
+action_GetSnack        Lấy đồ ăn vặt
+action_Drink           Lấy đồ uống
+action_DoPullUps       Hít xà đơn
+action_KneeRaises      Nâng cao đùi
+action_PushUps         Chống đẩy
+
+# ====================================
+# ====================================
+# ----------------------------------- KIMBER BATCH 2 -----------------
+# ====================================
+# ====================================
+
+# ==========================
+# Table Claiming
+# ==========================
+
+d11_tableClaim_title	 Bị kiểm soát bởi *G
+d11_tableClaim_desc 	 Để trục xuất chúng khỏi bàn ăn của chúng, hãy di chuyển hoặc tháo dỡ chúng.
+d11_tableClaim_desc_cont Tuy nhiên điều này sẽ khiến chúng trở nên tức giận.
+
+#Schedule Menu
+schedulesearch_menu_ClearSchedule				Xóa lịch trình
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 1 BATCH 1 -----------------
+# ====================================
+# ====================================
+
+ageCategory_Young					Trẻ tuổi
+ageCategory_Senior					Trung niên
+ageCategory_Elderly 				Cao tuổi
+causeofdeath_naturalcauses			Chết tự nhiên
+codex_option_prisonerAging 			Sự lão hóa của tù nhân
+codex_tooltip_prisonerAging 		Kích hoạt tùy chọn này sẽ cho phép các tù nhân già đi về mặt thể chất theo năm tháng, khiến họ trở nên ít năng nổ và yếu ớt hơn so với thời trẻ của họ.
+
+interfacemode_electricity	Điện lưới
+interfacemode_water			Nguồn nước
+interfacemode_connections	Hệ thống dây mạch
+
+interface_rectangle_cost	Chi phí
+interface_rectangle_width	Chiều rộng
+interface_rectangle_height	Chiều cao
+
+scheduler_prisonerandstaff	Tù nhân và Nhân viên
+
+codex_option_plotGridCoords_title	Vẽ lưới / Tọa độ
+codex_plotGrid						Hiển thị lưới
+codex_plotCoords					Hiển thị tọa độ
+codex_plotGridAndCoords				Kích hoạt cả hai
+
+interfaceplanning_fence			Hàng rào
+
+mutator_name_DailyHearse		Đưa xác chết ra ngoài!
+mutator_tooltip_DailyHearse		Xe tang giờ đây sẽ đến mỗi ngày vào lúc 8 giờ tối, nếu bị từ chối chúng sẽ quay lại vào ngày hôm sau.
+
+security_menu_default							Chọn danh mục
+
+codex_tooltip_DynamicReputations	Tù nhân có cơ hội nhận được hoặc mất đi các Đặc điểm danh tiếng độc nhất trong thời gian họ ở tù, dựa trên các hoạt động và trải nghiệm của họ bên trong.\n\n Thấp - Tỷ lệ tù nhân bắt đầu với Danh tiếng động là cực kỳ thấp và nhận được với tốc độ chậm hơn. Số lượng Tù nhân Huyền thoại bị giảm đi rất nhiều.\n\n Trung bình - Tỷ lệ tù nhân bắt đầu với Danh tiếng động là Thấp. Danh tiếng nhận được ở mức trung bình. Số lượng Tù nhân Huyền thoại ở mức vừa phải.\n\n Cao - Tỷ lệ tù nhân bắt đầu với Danh tiếng động là Vừa phải. Danh tiếng nhận được ở mức trung bình. Số lượng Tù nhân Huyền thoại có tiềm năng được đưa vào là rất cao.
+regime_eatLockdown		Ăn/Khóa buồng
+regime_showerLockdown	Tắm/Khóa buồng
+
+regimetooltip_eatLockdown		Tù nhân phải di chuyển đến nhà ăn được chỉ định của họ để ăn, hoặc sử dụng các cơ sở vật chất khác trong nhà ăn. Sau khi ăn xong, tù nhân bị hạn chế trong buồng giam của họ như khi ở chế độ 'Khóa buồng'.
+regimetooltip_showerLockdown 	Tù nhân đi đến phòng tắm vòi sen để tắm rửa sạch sẽ và sau đó mặc đồng phục sạch, nếu có sẵn. Sau khi tắm xong, tù nhân bị hạn chế trong buồng giam của họ như khi ở chế độ 'Khóa buồng'.
+
+rooms_AllRooms	 	Tất cả các phòng
+
+# ==============================================================
+# SUNSET UPDATE 1 NEW OBJECTS
+# ==============================================================
+
+object_searchlight                  Đèn dò tự động
+buildtoolbar_popup_obj_searchlight  Một ngọn đèn xoay hoạt động vào ban đêm. Giúp ông phát hiện các tù nhân hành xử sai trái trong bóng tối.
+
+material_DarkWoodFloor					Sàn gỗ tối màu
+buildtoolbar_popup_mat_DarkWoodFloor	Sàn làm bằng gỗ đặc, hoàn hảo cho các văn phòng.
+
+buildtoolbar_popup_obj_BarbedWire				Một phụ kiện gai nhọn để giúp các bức tường của ông trông uy nghiêm và an ninh hơn.
+
+object_SofaChairDoubleBrown						Ghế sofa rộng (Nâu)
+buildtoolbar_popup_obj_SofaChairDoubleBrown		Một cấu trúc lớn, mềm mại mang lại sự thoải mái khi ngồi. Thích hợp cho hai người.
+
+# ==============================================================
+# SUNSET UPDATE - Guard Rank
+# ==============================================================
+
+interface_action_rank				Cấp bậc
+rank_title							Cấp bậc
+rank_subtitle						Thay đổi cấp bậc thành:
+rank_senior							Lính canh cấp cao
+rank_officer						Sĩ quan
+rank_specialist						Sĩ quan chuyên trách
+
+rank_popup_text_1					Lính canh cấp cao, Sĩ quan và Sĩ quan chuyên trách sẽ mạnh mẽ hơn và khó bị giết hơn. Tuy nhiên, nếu có cơ hội, họ sẽ ưu tiên các khu vực yên tĩnh hơn của nhà tù.\n\n
+rank_popup_text_2					Tất cả lính canh phải hoàn thành Chứng chỉ súng điện của lính canh để bắt đầu Quy trình thăng tiến. Sĩ quan sẽ cần phải có ít nhất 10 ngày làm việc trong nhà tù, Sĩ quan chuyên trách yêu cầu 20 ngày.\nKhông phải ai cũng có thể được thăng tiến, chỉ 4 trong số 10 Lính canh cấp cao có thể trở thành Sĩ quan và chỉ 1 trong số 3 Sĩ quan có thể trở thành Sĩ quan chuyên trách.
+
+finance_cost_gun					Trang bị: Súng
+
+# ==============================================================
+# SUNSET UPDATE 1 - Updated room strings
+# ==============================================================
+
+buildtoolbar_popup_room_medicalward         Khu vực cho nhân viên y tế của ông làm việc. Tù nhân bất tỉnh sẽ cần nhiều thời gian hơn để hồi phục, nhưng đừng lo lắng, họ đang được chăm sóc tốt.
+buildtoolbar_popup_room_laundry             Nhân viên vệ sinh và tù nhân được chỉ định làm nhiệm vụ giặt là sẽ mang đồng phục bẩn đến đây, giặt sạch, là phẳng, sau đó phân phát lại.
+buildtoolbar_popup_room_visitation          Nơi các tù nhân có thể gặp gỡ gia đình của họ. Hãy cảnh giác, các gia đình có thể lợi dụng việc thăm nuôi như một cách để buôn lậu Hàng cấm vào nhà tù.
+buildtoolbar_popup_room_cleaningcupboard    Lưu trữ các dụng cụ vệ sinh. Cần có tủ đồ vệ sinh trước khi chúng ta có thể chỉ định tù nhân lao động làm nhiệm vụ vệ sinh.
+buildtoolbar_popup_room_armoury             Lính canh vũ trang của ông sẽ ở trong phòng này khi nghỉ ca. Tất cả vũ khí đạn dược được giữ ở đây.
+buildtoolbar_popup_room_staffroom           Các nhân viên mệt mỏi vì công việc có thể thư giãn và giải trí tại đây. Để có hành vi ăn uống đúng cách của nhân viên, Phòng nhân viên phải được đặt thành 'Chỉ dành cho nhân viên' (Phân khu phân bổ) và được kết nối với nhà bếp để thu gom và làm sạch khay ăn. 
+buildtoolbar_popup_room_forestry            Một nơi để trồng cây, cây cối có thể được sử dụng để tạo ra các sản phẩm trong Xưởng để bán.
+buildtoolbar_popup_room_classroom           Một nơi học tập, nơi tù nhân có thể tham gia vào các Chương trình cải tạo giáo dục.
+buildtoolbar_popup_room_exports             Bất kỳ hàng hóa nào do công nhân hoặc tù nhân tạo ra sẽ được mang đến đây để thu gom xuất đi.
+buildtoolbar_popup_room_mailroom            Cho phép tù nhân của ông nhận thư từ. Phòng thư tín cũng được nhân sự bởi các tù nhân.
+buildtoolbar_popup_room_psychiatristoffice  Một khu vực để Bác sĩ tâm thần của ông chẩn đoán những tù nhân tâm thần phạm tội. Mở khóa và đặt thêm các đồ vật trong Phòng bác sĩ tâm thần để cải thiện việc điều trị cho các tù nhân tâm thần phạm tội. Các vật phẩm được mở khóa thông qua việc tù nhân tâm thần tham gia các Chương trình tư vấn tâm thần.
+
+# ==============================================================
+# SunSet EventLogging
+# ==============================================================
+d11_logging_caption					Bật nhật ký nhà tù
+d11_logging_caption_tooltip				Nhật ký trực tiếp về tất cả các sự kiện lớn xảy ra trong nhà tù, từ các ca tử vong & hành vi sai trái cho đến việc trả tự do cho tù nhân.
+d11_logging_header					Nhật ký nhà tù
+
+d11_logging_murder					[*T] *X đã sát hại *Y
+d11_logging_murder_weapon				[*T] *X đã sát hại *Y bằng *Z
+d11_logging_envriomentalDeath				[*T] *X : *Y
+d11_logging_gangFight					[*T] *X của *Y là kẻ hung hăng gây sự trong một trận hỗn chiến băng đảng
+d11_logging_gangTeritory				[*T] *X đã chiếm một địa bàn mới
+d11_logging_joinGang					[*T] *X đã gia nhập *Y
+d11_logging_leaveGang					[*T] *X đã chọn rời khỏi *Y
+d11_logging_newLeader					[*T] *X đã trở thành thủ lĩnh mới của *Y
+d11_logging_leaderKilled				[*T] Thủ lĩnh của *X đã bị giết
+d11_logging_programPass					[*T] *X đã vượt qua *Y
+d11_logging_prisonerRelease				[*T] *X đã được trả tự do khỏi nhà tù
+d11_logging_prisonerReformed				[*T] *X đã được cải tạo thành công
+d11_logging_prisonerReoffended				[*T] *X đã tái phạm và quay trở lại nhà tù
+d11_logging_prisonerEscaped				[*T] *X đã vượt ngục thành công
+d11_logging_misconduct					[*T] *X Hành vi sai trái : *Y
+
+rapsheet_tab_events					Nhật ký tù nhân
+
+# ==============================================================
+# Sunset Create New Prison Overhaul
+# ==============================================================
+
+codex_basegamesettings				Cài đặt cơ bản
+codex_dlcsettings					Cài đặt DLC
+codex_savepreferences				Lưu tùy chọn
+codex_loadpreferences				Tải tùy chọn
+codex_new_gender					Giới tính
+codex_new_uniformpicker				Bộ chọn đồng phục
+
+codex_new_fakebuttonleft			<
+codex_new_fakebuttonright			>
+
+uniform_color_33					Đỏ ngoại tươi (Magenta)
+
+Uniform_Picker_Selection			Chọn tùy chọn này sẽ thay thế gói đồng phục hiện tại.
+Uniform_Picker_DLCRequired			Yêu cầu phải có *X để mở khóa gói đồng phục này
+
+uniformPack_Default					Đồng phục cổ điển
+uniformPack_Default_desc			Thay đổi đồng phục của Phạm nhân và Nhân viên game gốc thành trang phục nhà tù mặc định.
+
+# ==============================================================
+# Equipment Names
+# ==============================================================
+equipment_GarbageBag Túi rác
+equipment_SafetyGoggles	Kính bảo hộ
+
+# ==============================================================
+# SunSet Objects
+# ==============================================================
+
+material_DarkWoodFloor                    Sàn gỗ tối màu
+buildtoolbar_popup_mat_DarkWoodFloor    Sàn làm bằng gỗ đặc, hoàn hảo cho các văn phòng.
+
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 1 BATCH 2 -----------------
+# ====================================
+# ====================================
+
+mainMenu_upsell						Mua ngay!
+
+equipment_crate						Thùng thưa
+equipment_logPile					Đống gỗ tròn
+equipment_box						Thùng hộp
+equipment_brick						Gạch xây
+equipment_mailUnsorted				Túi thư chưa phân loại
+equipment_export					Hàng xuất khẩu
+equipment_food						Thức ăn
+equipment_waterBucket				Xô nước
+
+dlc_name_qol1						Miễn phí trọn đời (Free for Life)
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 2 ZOMBIES -----------------
+# ====================================
+# ====================================
+
+warden_wardenzombieskeller_name		Jerome Keller
+warden_wardenzombieskeller_desc		Một người đàn ông tốt luôn đi đầu làm gương và truyền cảm hứng cho người khác. Cựu mục sư được kính trọng bởi người sống... và cả người chết.  \n- -15% Tốc độ đi bộ của Xác sống \n- +10% Sát thương gây ra cho Xác sống \n- Tăng giá trị Khoản thanh toán hàng ngày đối với Xác sống được quản thúc an toàn  
+warden_wardenzombieskeller_desc_short            - Tốc độ đi bộ của Xác sống giảm 15% \n- Sát thương gây ra cho Xác sống tăng 10% \n- Tăng giá trị Khoản thanh toán hàng ngày đối với Xác sống được quản thúc an toàn   
+object_zombie						Xác sống
+interface_zombieTier				Cấp bậc Xác sống :  
+status_effect_StatusRunningInFear	Chạy trốn trong sợ hãi
+status_effect_infected    			Bị nhiễm bệnh
+
+material_TaintedFloor					Bị ô uế
+buildtoolbar_popup_mat_TaintedFloor		Dường như không có gì có thể mọc được ở đây.
+material_FenceWall						Tường hàng rào
+buildtoolbar_popup_mat_FenceWall		Những bức tường này mang lại cảm giác đặc biệt kỳ quái.
+
+material_YellowStraightLineTiles		Gạch bê tông (Thẳng)
+material_YellowCornerLineTiles			Gạch bê tông (Góc)
+buildtoolbar_popup_mat_Rotatable		Có thể xoay được
+
+quickbuild_Security					An ninh
+quickbuild_Parole					Tha bổng trước thời hạn
+quickbuild_Kennel					Chuồng chó nghiệp vụ
+
+finances_category_zombiepayments	Khoản thanh toán Xác sống
+
+dlc_name_graveyardShift				Undead (Xác sống)
+codex_new_theUndead					Xác sống!
+codex_tooltip_theUndead				Một đợt bùng phát? Đây không phải là loại virus thông thường của ông, hãy hy vọng ông có thể tận tay chặt đứt tận gốc cái ác này.\n\nVô hiệu hóa - Hãy để người chết yên nghỉ.\n\nThấp – Dễ dàng và có thể quản lý.\n\nTrung bình – Thêm một chút thử thách.\n\nCao – Chế độ ác mộng, với các chỉ số, tỷ lệ xuất hiện cao hơn, đồng thời cho phép Xác sống có khả năng hồi máu khi tấn công các đơn vị không có khả năng tự vệ.
+
+event_infect_entities				Một số người của chúng ta dường như đang hành động hơi kỳ lạ, họ trở nên chậm chạp, nhìn chằm chằm vào khoảng không và người họ cũng dính đầy vết máu đỏ.
+
+equipment_Crowbar                   Xà bẻ xà cầy 
+equipment_BarbedWireBat             Gậy quấn dây kẽm gai
+equipment_ModifiedHandgun           Súng ngắn cải tiến
+equipment_ModifiedAssaultRifle      Súng trường tấn công cải tiến
+equipment_ChainsawWeapon            Cưa máy
+
+interfacecallout_BountyHunters		Thợ săn tiền thưởng
+object_BountyHunter					Thợ săn tiền thưởng
+object_BountyHunterTrike			Xe ba bánh thợ săn tiền thưởng
+d11_staffalert_title_BountyHunter	Nhà tù đang bị quá tải, chúng ta cần sự trợ giúp để xử lý đám xác sống này, nhanh lên.
+
+object_ZombieChum					Mồi nhử xác sống
+buildtoolbar_popup_obj_ZombieChum   Đặt một miếng mồi nhử xuống để dụ xác sống tránh xa quần thể nhà tù. Chắc chắn không phải làm từ não đâu... nhưng sẽ chữa lành vết thương cho bất kỳ xác sống nào bị thương.
+
+object_ornamentalgravestone                 Bia mộ trang trí
+buildtoolbar_popup_obj_ornamentalgravestone	Một vật lưu niệm dành cho những người đã khuất.
+
+room_graveyard                      Nghĩa tào
+quickbuild_graveyard               Nghĩa tào
+buildtoolbar_popup_room_graveyard   Nơi an nghỉ cuối cùng cho một số cư dân của chúng ta. Liệu họ có muốn tiếp tục yên nghỉ hay không lại là một chuyện khác.
+
+room_empty                      Phòng trống
+buildtoolbar_popup_room_empty	Ông không còn cần những bức tường và cánh cửa để phân tách các khu vực của mình nữa. Hãy sử dụng căn phòng trống này để tạo ra các khu vực mới cho việc phân bổ và chỉ định các phân khu an ninh.
+
+d11_graveyard_advisor_onboarding    Có... một kiểu chuyển động nào đó trong Nghĩa tào... dường như người chết đang bước đi trên mặt đất vì không còn chỗ trống.
+
+
+object_DistractionContraption						Thiết bị gây nhiễu phân tâm
+buildtoolbar_popup_obj_DistractionContraption		Một thiết bị âm thanh được sử dụng để làm phân tâm bất kỳ đơn vị nhiễm bệnh nào trong phạm vi trong một khoảng thời gian ngắn, chỉ có thể sử dụng 24 tiếng một lần. Khuyến nghị sử dụng vật phẩm này khi gần nửa đêm, nhưng không bắt buộc.
+d11_cooldown_name_DistractionContraption			Thời gian hồi:
+d11_cooldown_hours_DistractionContraption			*X giờ
+
+object_Gate								Cổng
+buildtoolbar_popup_obj_Gate				Một chiếc cổng tối màu.
+
+object_DoubleGate						Cổng đôi
+buildtoolbar_popup_obj_DoubleGate		Một chiếc cổng đôi tối màu.
+
+object_SiberianHusky					Ghost
+buildtoolbar_popup_obj_SiberianHusky	Mang vẻ ngoài siêu thực huyền ảo. Có xu hướng liếm cả mặt chủ lẫn mặt mình, nhưng không phải lúc nào cũng theo thứ tự đó.
+object_Corgi							Monarch
+buildtoolbar_popup_obj_Corgi			Dễ thương và đáng yêu. Gầm thấp giúp tăng tính khí động học. Nhanh nhẹn một cách đáng ngạc nhiên.
+
+interface_action_LockPosition			Khóa vị trí
+interface_action_UnlockPosition			Mở khóa vị trí
+
+action_BabySleep					[Em bé] Ngủ
+action_BabyPlay						[Em bé] Chơi
+
+casueofdeath_drowned				Bị chết đuối
+causeofdeath_staffKill				Bị nhân viên tiêu diệt.
+
+graph_label_timeFrame               Khung thời gian
+graph_allTime						Toàn thời gian
+graph_lastFive						5 ngày qua
+graph_lastTen						10 ngày qua
+graph_lastTwenty					20 ngày qua
+
+
+d11_logging_zombified		[*T] *X đã biến thành Xác sống.
+d11_logging_infection		[*T] Một đợt nhiễm bệnh Xác sống đang lây lan.
+d11_logging_graveZombie		[*T] Một Xác sống đã trỗi dậy từ nấm mồ.
+
+codex_new_zombieOverlay				Lớp phủ Xác sống
+codex_new_overlay_only				Chỉ hiển thị lớp phủ 
+codex_new_overlay_all				Kích hoạt hoàn toàn
+codex_tooltip_zombieOverlay			Áp dụng một lớp phủ để hỗ trợ bầu không khí của trò chơi và cũng cung cấp một hiệu ứng biến dạng hình ảnh để nêu bật các sự kiện lớn trong trò chơi.
+
+damage_eaten 						Đã bị ăn mất *X%
+uniformPack_GraveyardShift			Đồng phục Xác sống
+uniformPack_GraveyardShift_desc		Thay đổi đồng phục của Nhân viên game gốc để hiển thị các dấu hiệu rách nát và hao mòn.
+
+d11_zombie_advisor_onboarding		Có điều gì đó kỳ lạ đang xảy ra... người ở đằng kia trông có ổn với ông không?
+
+d11_prioritise_monitoring			Ưu tiên giám sát
+d11_prioritise_monitoring_tooltip	Nếu được kích hoạt, lính canh sẽ ưu tiên vận hành các thiết bị an ninh như màn hình camera giám sát hơn các công việc khác.
+
+objective_undeadCount				Đám xác sống
+objective_undeadCount_infections	Đơn vị bị nhiễm bệnh:
+objective_undeadCount_undead		Đơn vị Xác sống:
+objective_undeadCount_low			Bậc thấp:
+objective_undeadCount_mid			Bậc trung:
+objective_undeadCount_high			Bậc cao:
+
+objective_undeadCount_description	Mặc dù những sinh vật xác sống gây hại này có thể gây ra một chút rắc rối, hãy lưu ý rằng ông sẽ được trao một khoản thanh toán cho mỗi xác sống mà ông giam giữ dựa trên bậc của chúng, tất nhiên là với điều kiện ông đã quản thúc chúng đúng cách. 
+
+reports_privilegesPolicy_tooltip_Main	Sử dụng chính sách này để hạn chế những hoạt động hoặc cơ sở vật chất mà mỗi mức độ an ninh được quyền tiếp cận, nếu một tùy chọn được đánh dấu bằng dấu chéo thì có nghĩa là họ có quyền tiếp cận nó, nếu không quyền hạn này sẽ bị hạn chế.
+
+victory_adviserwarning_UndeadEscapes1   Tôi vừa nhìn thấy vài tên 'vượt ngục'... ông cần phải ngừng việc để cho những... những thứ này... rời khỏi khuôn viên nhà tù. Không thể biết điều gì sẽ xảy ra nếu có thêm nhiều tên trốn thoát thoát ra ngoài.
+victory_advisernotice_UndeadEscapes1    Có... quá nhiều tên trong số chúng... chúng ở khắp mọi nơi. Ông đã có cơ hội để ngăn chặn điều này và bây giờ ông sẽ phải tự mình nếm trải nỗi đau mà ông đã gây ra.
+victory_UndeadEscapes                   Xác sống đã vượt ngục
+victory_warning_UndeadEscapes           Ông sẽ phải chịu trách nhiệm hoàn toàn về việc này
+victory_UndeadEscapes_units             Số lượng trốn thoát
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 3 FUTURETECH BATCH 1 -----------------
+# ====================================
+# ====================================
+# ==============================================================
+# Near Future
+# ==============================================================
+d11_nearFuture_advisor_onboarding	Hãy cân nhắc trang bị cho một số tù nhân tinh quái của ông một chiếc đai định vị theo dõi. Chúng ta sẽ theo dõi hành tung của họ thông qua Phòng An ninh.
+object_TrackingMonitor			Màn hình định vị theo dõi
+buildtoolbar_popup_uts_TrackingMonitor	Yêu cầu bắt buộc đối với Menu Định vị.\n\n Được vận hành bởi một Lính canh bên trong phòng An ninh để giám sát bất kỳ tù nhân nào đeo Đai định vị theo dõi. Kết nối với Bộ định tuyến để mở rộng phạm vi quan sát.
+object_HealthMonitor			Màn hình giám sát sức khỏe
+buildtoolbar_popup_uts_HealthMonitor	Yêu cầu bắt buộc đối với Menu Định vị.\n\n Theo dõi tình trạng sức khỏe và trạng thái của các phạm nhân nếu họ được trang bị Đai định vị theo dõi. Lắp đặt bên trong bệnh xá.
+object_Router				Bộ định tuyến
+buildtoolbar_popup_uts_Router		Yêu cầu bắt buộc đối với Menu Định vị.\n\n Khi được kết nối với Màn hình định vị theo dõi, vật phẩm này định vị theo dõi bất kỳ tù nhân nào được trang bị trong phạm vi của chúng. Phạm vi có thể được kiểm tra riêng lẻ hoặc thông qua Menu Định vị để có vùng phủ sóng đầy đủ.
+object_VideoCallBooth			Buồng gọi điện video
+buildtoolbar_popup_uts_VideoCallBooth	Cho phép tù nhân nhìn thấy những người thân yêu của họ, ngay cả khi họ không thể đến thăm nuôi trực tiếp.
+object_advancedsearchlight                  Đèn dò tiên tiến
+buildtoolbar_popup_uts_advancedsearchlight  Một thiết bị giám sát tiên tiến được thiết kế để phát hiện và ngăn chặn các tù nhân vượt ngục, sử dụng công nghệ nhận diện khuôn mặt. \n\nÔng phải kết nối một Màn hình camera giám sát với đồ vật này để nó hoạt động
+
+object_MedicalBox			Hộp thiết bị y tế định vị
+buildtoolbar_popup_obj_MedicalBox	Yêu cầu bắt buộc đối với Menu Định vị.\n\n Chứa 5 Đai định vị theo dõi.
+object_TrackingBelt			Đai định vị theo dõi
+
+interfacecontraband_tracking		Định vị theo dõi
+job_GiveTrackingBelt				Phát đai định vị theo dõi cho tù nhân
+uniformPack_future					Đồng phục tương lai
+uniformPack_future_desc				Thay đổi đồng phục của Nhân viên và Tù nhân của ông sang một thiết kế mang tính tương lai hơn.
+policy_staffbreakguards		Lính canh: *P%
+policy_staffbreakworkmen	Công nhân: *P%
+policy_staffbreakcook		Đầu bếp: *P%
+policy_staffbreakother		Tất cả nhân viên khác: *P%
+policy_staffbreaks 			Giờ nghỉ của nhân viên
+object_Subwoofer Loa siêu trầm 
+buildtoolbar_popup_obj_Subwoofer Kỳ quan nhân tạo này nhanh hơn và nhìn tốt hơn một chú chó bình thường. Tiếc là nó không bền bỉ bằng.
+object_Byte Byte
+buildtoolbar_popup_obj_Byte Xu hướng mới nhất trong công nghệ phát hiện hàng cấm. Mặc dù nó yếu hơn các loài chó khác nhưng các giác quan nhạy bén của nó đã bù đắp lại điều đó. 
+object_RobotDogDoo	Chất thải chó robot
+
+material_GlassWall						Tường kính
+buildtoolbar_popup_mat_GlassWall		Nếu ông không thể mạo hiểm để nhà tù của mình không được giám sát, đây là loại tường tốt nhất.
+
+quickbuild_GlassCell					Buồng giam kính
+buildtoolbar_popup_room_GlassCell		Một ngôi nhà thiếu đi sự riêng tư dành cho các tù nhân của ông.
+
+material_ElectrifiedFence	Hàng rào điện
+buildtoolbar_popup_mat_ElectrifiedFence Một biện pháp răn đe điện áp cao. \nYêu cầu đi dây cáp dưới mỗi ô vuông.
+
+interface_action_Rotate	Xoay
+equipment_keycard			Thẻ từ
+object_KeycardDoor			Cửa thẻ từ
+buildtoolbar_popup_obj_KeycardDoor	Lính canh có thẻ từ hoặc các phạm nhân đeo Đai định vị theo dõi có thể đi qua cánh cửa này, mặc dù quyền truy cập của tù nhân có thể bị hủy độc lập đối với từng cánh cửa.
+object_KeycardDoorLarge			Cửa thẻ từ lớn
+buildtoolbar_popup_obj_KeycardDoorLarge Lính canh có thẻ từ hoặc các phạm nhân đeo Đai định vị theo dõi có thể đi qua cánh cửa này, mặc dù quyền truy cập của tù nhân có thể bị hủy độc lập đối với từng cánh cửa.
+entity_carryingkeycard			Đang mang thẻ từ
+material_HexagonalTiles			Gạch lục giác
+buildtoolbar_popup_mat_HexagonalTiles	Những ô vuông đã là chuyện của quá khứ, hãy đón nhận tương lai Lục giác.
+material_TriangularTiles		Gạch tam giác
+buildtoolbar_popup_mat_TriangularTiles	Những ô vuông đã là chuyện của quá khứ, hãy đón nhận tương lai tam giác.
+
+schedule_zone_visitoronly               Chỉ dành cho khách thăm nuôi
+interfacedeployment_visitoronlyzone     Khu vực chỉ dành cho khách thăm nuôi
+buildtoolbar_deployment_visitoronlyzone  Một khu vực được ưu tiên bởi khách thăm nuôi và dân thường, chỉ có họ và nhân viên được phép tiến vào khu vực này.
+
+action_videocall			Đang gọi điện về nhà
+
+warden_WardenAlexisLin_name		Alexis Lin
+warden_WardenAlexisLin_desc		Tin rằng công nghệ là tương lai. Được đồng nghiệp kính trọng, bị phạm nhân khiếp sợ. \n\n- Tốc độ giảm hiệu ứng trấn áp chậm hơn 60%. \n- Kẻ kích động không làm tăng khả năng gây rắc rối của các phạm nhân lân cận. \n- Giảm 50% tần suất hành xử sai trái của các tù nhân Cực kỳ bất ổn.
+warden_WardenAlexisLin_desc_short	- Tốc độ giảm trấn áp chậm hơn 60% so với bình thường.\n- Kẻ kích động không làm tăng khả năng gây rắc rối của các phạm nhân lân cận.\n- Giảm 50% tần suất hành xử sai trái của các tù nhân Cực kỳ bất ổn.
+
+#Tracking Menu
+prisonerTracking_Title 						Menu Định vị theo dõi
+interfacecontraband_PrisonerTracking		Menu Định vị theo dõi
+buildtoolbar_contraband_PrisonerTracking	Cho phép ông giám sát tù nhân của mình để đảm bảo rằng họ khỏe mạnh và không hành xử sai trái. Kiểm tra phần trợ giúp để biết thêm thông tin
+
+prisonerTracking_AllPrisoners			Tất cả tù nhân
+prisonerTracking_TrackedPrisoners		Tù nhân đang định vị theo dõi
+prisonerTracking_FlightRisk				Nguy cơ vượt ngục cao
+prisonerTracking_Misconduct				Hành vi sai trái
+prisonerTracking_SubstanceAbuse			Lạm dụng chất kích thích
+prisonerTracking_Virus					Virus/Bệnh tật
+trackingmenu_ViewRange					Bật/Tắt phạm vi
+interface_action_refuseBeltAccess		Hủy quyền truy cập đai định vị 
+
+prisonerTracking_PrisonersLists			Tất cả tù nhân\nThay đổi nhóm tù nhân sẽ lọc danh sách tù nhân kỹ hơn.\n\nNguy cơ vượt ngục cao\nNhững tù nhân này đang cân nhắc hoặc đã lên kế hoạch vượt ngục.\n\nHành vi sai trái\nBất kỳ tù nhân nào đã thực hiện hành vi sai trái trong vòng 48 giờ qua.\n\nLạm dụng chất kích thích\nTù nhân đã bị nghiện chất kích thích và do đó có nguy cơ bị sốc thuốc.\n\nVirus/Bệnh tật\nNhững người gặp tình trạng sức khỏe tiêu cực và có thể tự gặp nguy hiểm nếu không nói là gây nguy hiểm cho người khác.
+
+d11_trackingMenu_locked					Để sử dụng, menu này yêu cầu phải có: \n - Một Bác sĩ \n - Một Màn hình giám sát sức khỏe \n - Một Hộp thiết bị y tế định vị \n - Một Màn hình định vị theo dõi và Bộ định tuyến
+
+buildtoolbar_popup_help_PrisonerTracking_1		Menu tình báo định vị theo dõi liệt kê tất cả các tù nhân trong nhà tù, để sử dụng nó yêu cầu phải có một Bác sĩ, một Bệnh xá được trang bị cả Màn hình giám sát sức khỏe lẫn Hộp thiết bị y tế định vị và một Phòng An ninh có Màn hình định vị theo dõi cùng Bộ định tuyến.\n 
+buildtoolbar_popup_help_PrisonerTracking_2		Các danh sách này có thể được thay đổi thành bất kỳ thông tin nào mà người chơi muốn truy cập nhanh, họ có thể chuyển đổi giữa Tất cả, Nguy hiểm vượt ngục, Hành vi sai trái, Lạm dụng chất kích thích và Virus/Bệnh tật khác.\n\n
+buildtoolbar_popup_help_PrisonerTracking_3		~Chọn tù nhân ông muốn giám sát và nhận thông báo nếu anh ta đi đến một khu vực không được phép của nhà tù hoặc nếu anh ta gặp nguy hiểm. Một dấu hiệu phía trên đầu họ sẽ giúp hiển thị vị trí của họ.\n\n
+buildtoolbar_popup_help_PrisonerTracking_4		^Mẹo
+buildtoolbar_popup_help_PrisonerTracking_5		- Đảm bảo nhà tù của ông được an ninh nghiêm ngặt. Loại bỏ và khống chế các nguồn hàng cấm để giảm thiểu cơ hội vượt ngục hoặc gây thương tích cho các tù nhân khác và nhân viên.\n
+buildtoolbar_popup_help_PrisonerTracking_6		- Tạo các chương trình cải tạo và có đủ bác sĩ để giữ cho các tù nhân lạm dụng chất kích thích được an toàn.\n\n
+
+prisonerTracking_confirm_equip 			Gửi tù nhân đến Bệnh xá để trang bị Đai định vị theo dõi?
+prisonerTracking_confirm_unequip		Gửi tù nhân đến Bệnh xá để tháo Đai định vị theo dõi?
+
+trackingMenu_unequipPrisoner		Tháo thiết bị tù nhân
+
+codex_options_clocktype_undead				Xác sống (Cơ học)
+codex_options_clocktype_future				Tương lai (Cơ học)
+graph_axis_EscapedUndead	Xác sống đã vượt ngục
+graph_axis_TotalEscapedUndead	Tổng số Xác sống đã vượt ngục
+
+#Stun Baton
+equipment_stunbaton					Dùi cui điện
+finance_cost_stunbaton				Trang bị: Dùi cui điện
+d11_stun_baton_caption				Trang bị Dùi cui điện
+d11_stun_baton_tooltip				Tùy chọn này sẽ cho phép lính canh của ông được trang bị dùi cui điện, cung cấp cho họ sự hỗ trợ thêm để giúp khống chế bất kỳ tù nhân ngỗ ngược nào, yêu cầu phải có một Phòng vũ khí và tốn $*X cho mỗi lính canh. Cùng với Lính canh tiêu chuẩn, Lính canh bạo động cũng sẽ được trang bị những chiếc dùi cui mới này mà không tốn thêm chi phí dịch vụ của họ.
+
+dlc_name_futureTech				Future Tech
+
+roomgrading_Cell_HasGlassWalls			[*E] Được bao bọc bởi tường kính
+roomgrading_Dormitory_HasGlassWalls		[*E] Được bao bọc bởi tường kính
+roomgrading_Canteen_HasGlassWalls		[*E] Được bao bọc bởi tường kính
+roomgrading_Gymnasium_HasGlassWalls		[*E] Được bao bọc bởi tường kính
+roomgrading_CommonRoom_HasGlassWalls		[*E] Được bao bọc bởi tường kính
+roomgrading_Classroom_HasGlassWalls		[*E] Được bao bọc bởi tường kính
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 3 FUTURETECH BATCH 2 
+# ====================================
+# ====================================
+
+d11_staffalert_title_ArmouryPlaced		Dùi cui điện
+d11_staffalert_summary_ArmouryPlaced		Nếu ông nghĩ rằng Lính canh của mình cần thêm một chút năng lượng sốc điện, ông có thể kích hoạt Chính sách nhà tù để trang bị cho họ Dùi cui điện
+
+#ONBOARDING GRANT
+objective_Grant_TrackerPilot				Đề án thí điểm thiết bị định vị
+objective_Grant_TrackerPilot_description			Một công ty công nghệ lớn đang thí điểm một thiết bị 'An sinh' mới cho tù nhân. Họ đang cung cấp một Quỹ tài trợ cho bất kỳ nhà tù nào sẵn sàng thử nghiệm áp lực thiết bị và chia sẻ dữ liệu thu thập được.
+objective_Grant_Tracker_Infirmary				Xây dựng một Bệnh xá
+objective_Grant_Tracker_Doctor				Thuê một Bác sĩ
+objective_Grant_Tracker_MedicalBox			Lắp đặt một Hộp thiết bị y tế định vị trong bệnh xá
+objective_Grant_Tracker_HealthMonitor			Lắp đặt một Màn hình giám sát sức khỏe trong bệnh xá
+objective_Grant_Tracker_Router				Đặt (các) Bộ định tuyến để tăng phạm vi định vị theo dõi tù nhân
+objective_Grant_Tracker_TrackingMonitor			Lắp đặt và kết nối một Màn hình định vị theo dõi trong phòng An ninh
+objective_Grant_Tracker_TrackingBelt			Chỉ định Đai định vị theo dõi cho 3 tù nhân thông qua Tình báo > Menu Định vị theo dõi
+objective_Grant_Tracker_SecurityRoom			Xây dựng một phòng An ninh
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 4 JUNGLE BATCH 1 -----------------
+# ====================================
+# ====================================
+
+object_Toby					Toby
+buildtoolbar_popup_obj_Toby			Bắt tội phạm là niềm vui lớn của chàng trai Sunshine của chúng ta
+
+object_cinemascreen                     Màn chiếu phim
+buildtoolbar_popup_obj_cinemascreen	    Một tấm bạt trắng lớn để hiển thị phim. Kết hợp nó với Máy chiếu để chiếu phim cho các tù nhân của ông.
+object_cinemaprojector                  Máy chiếu phim
+buildtoolbar_popup_obj_cinemaprojector  Mỗi phòng chiếu phim đều cần một máy chiếu. Phải nằm trong phạm vi 10 ô vuông tính từ Màn chiếu để chiếu phim.
+
+deploymentscheduler_slot_caption    Các khối thời gian phân bổ
+deploymentscheduler_description     Sử dụng các khối thời gian phân bổ để tạo thói quen phân bổ lính canh cho các giờ khác nhau trong ngày. Trước khi chỉ định các thay đổi đối với việc phân bổ nhân viên của mình, trước tiên ông phải di chuyển mũi tên thời gian đến giờ chế độ sinh hoạt mong muốn của mình. Sau đó, ông có thể chọn một trong các Khối thời gian để chỉ định một thói quen phân bổ cụ thể cho thời gian đó, nếu không thì việc phân bổ này sẽ được áp dụng cho tất cả các giờ.
+codex_options_clocktype_jungle		Rừng rậm (Cơ học)
+
+
+room_visitorreception							Sảnh tiếp đón khách thăm nuôi
+buildtoolbar_popup_room_visitorreception		Khu vực để khách thăm nuôi làm thủ tục kiểm tra và có khả năng bị khám xét để đảm bảo họ không gây nguy hiểm cho nhà tù, thông qua hàng cấm hoặc tình trạng sức khỏe của họ.
+
+room_cinema                      Phòng chiếu phim
+quickbuild_Cinema					Phòng chiếu phim
+buildtoolbar_popup_room_Cinema		Đèn lên, Máy quay, Diễn! Tù nhân của ông giờ đây có thể thưởng thức các tác phẩm kinh điển như "The Great Intake", "Blue Mile", "It's Wednesday My Dudes", và nhiều bộ phim khác.
+
+object_BambooGuardTower				Tháp canh (Bằng gỗ)
+buildtoolbar_popup_obj_BambooGuardTower				Một tháp canh mà từ đó các lính bắn tỉa của ông (được thuê riêng) có thể canh gác nhà tù của ông.\n\nHọ sẽ chỉ bị ẩm ướt hơn trong tòa tháp này.
+
+material_WeatheredStoneFlooring						Đá phong hóa
+buildtoolbar_popup_mat_WeatheredStoneFlooring		Một sàn đá phong hóa lâu năm, làm cho ngôi đền rừng rậm của ông cảm giác chân thực hơn.
+
+material_ColouredStoneTiles							Gạch đá màu
+buildtoolbar_popup_mat_ColouredStoneTiles			Với tay nghề thủ công tuyệt vời như vậy, sẽ không ai biết những thứ này thực ra mới được làm gần đây bởi Clive ở Kent.
+
+material_JunglePath									Đường mòn rừng rậm
+buildtoolbar_popup_mat_JunglePath					Con đường cũ kỹ và mòn vẹt này mang lại cảm giác thoải mái đến ngạc nhiên cho đôi bàn chân.
+
+material_ConcreteMossFlooring						Bê tông (Phủ rêu)
+buildtoolbar_popup_mat_ConcreteMossFlooring			Tự nhiên đã phủ xanh sàn bê tông này.
+
+material_ConcreteLeavesFlooring						Bê tông (Phủ lá)
+buildtoolbar_popup_mat_ConcreteLeavesFlooring		Tự nhiên đã phủ đầy lá lên sàn bê tông này.
+
+material_RustyFenceConcrete							Hàng rào gỉ sét (Đế bê tông)
+buildtoolbar_popup_mat_RustyFenceConcrete			Các phân đoạn hàng rào với loại hàng rào gỉ sét này.
+
+material_RustyFenceGrass							Hàng rào gỉ sét (Trên nền cỏ)
+buildtoolbar_popup_mat_RustyFenceGrass				Các phân đoạn hàng rào với loại hàng rào gỉ sét này.
+
+material_RustyFenceLongGrass						Hàng rào gỉ sét (Trên nền cỏ cao)
+buildtoolbar_popup_mat_RustyFenceLongGrass			Các phân đoạn hàng rào với loại hàng rào gỉ sét này.
+
+material_MurkyWater									Nước đục
+buildtoolbar_popup_mat_MurkyWater					Tạo ra các dòng suối, sông và các khu vực nước không thể băng qua được.
+
+material_MurkyWaterLarge							Nước đục (Diện tích lớn)
+buildtoolbar_popup_mat_MurkyWaterLarge				Tạo ra các vùng nước lớn, hồ và đại dương.
+
+material_MurkyWaterShallow							Nước đục (Nông)
+buildtoolbar_popup_mat_MurkyWaterShallow			Tạo ra các khu vực nước nông để tạo ra các đường bờ biển đẹp hơn, nằm giữa sàn Cát và sàn Nước. Những ô này có thể đi bộ qua được không giống như loại Nước tiêu chuẩn
+
+object_CctvCamo                                     Camera giám sát (Ngụy trang)
+buildtoolbar_popup_uts_CctvCamo                     Hãy để mắt đến nhà tù của ông mà không cần lính canh phải túc trực khắp nơi cùng một lúc. Camera này có họa tiết ngụy trang quân đội. \n\nÔng phải kết nối một Màn hình camera giám sát với camera này để nó hoạt động.
+
+object_JungleTable                                  Bàn tre
+buildtoolbar_popup_obj_JungleTable                  Dùng để ăn uống. Kết hợp tuyệt vời với Ghế băng tre.
+object_JungleBench                                  Ghế băng tre
+buildtoolbar_popup_obj_JungleBench                  Dùng để ngồi. Kết hợp tuyệt vời với Bàn tre.
+object_JungleServingTable                           Bàn tiếp thực bằng tre
+buildtoolbar_popup_obj_JungleServingTable           Phục vụ thức ăn cho các tù nhân của ông.
+
+object_jaildoorrusty								Cửa nhà giam (Gỉ sét)
+buildtoolbar_popup_obj_jaildoorrusty				Cánh cửa nhà giam gỉ sét cũng sẽ giữ tù nhân của ông ở đúng nơi họ nên ở, chỉ là trông nó sẽ không được đẹp mắt bằng.
+object_jaildoorlargerusty							Cửa nhà giam lớn (Gỉ sét)
+buildtoolbar_popup_obj_jaildoorlargerusty			Cánh cửa nhà giam lớn gỉ sét cũng sẽ giữ nhiều tù nhân của ông ở đúng nơi họ nên ở, chỉ là trông nó sẽ không được đẹp mắt bằng.
+
+codex_option_tropicalFever	Sốt nhiệt đới
+dlc_name_jungle			Jungle Pack
+codex_tooltip_tropicalFever 	Mặc dù khí hậu nhiệt đới có thể không phù hợp với tất cả mọi người, nhưng đó không phải là mối nguy hiểm duy nhất. Bất cứ thứ gì hoặc bất cứ ai mới đến nhà tù đều có cơ hội lây lan căn bệnh này, hãy để mắt đến các chuyến hàng giao và khách thăm nuôi của ông.
+
+warden_WardenKarrHide_name		Karr Hide
+warden_WardenKarrHide_desc		Một người đàn ông dày dạn kinh nghiệm, người đã dành nhiều thời gian trong rừng rậm hơn là ở ngoài. Tự mô tả mình là một thợ săn thú lớn và sở hữu những kỹ năng xứng tầm với lời tuyên bố đó.\n\n- Cải thiện phạm vi của lính bắn tỉa \n- Cải thiện hiệu ứng "trấn áp" của lính bắn tỉa
+warden_WardenKarrHide_desc_short	- Cải thiện phạm vi của lính bắn tỉa.\n- Cải thiện hiệu ứng "trấn áp" của lính bắn tỉa.
+
+uniformPack_jungle					Đồng phục rừng rậm
+uniformPack_jungle_desc				Thay đổi đồng phục của Nhân viên và Tù nhân của ông sang một thiết kế hoang dã hơn.
+
+object_FirePit				Hố lửa trại
+buildtoolbar_popup_obj_FirePit		Một cấu trúc đá sẽ tạo ra ánh sáng mà không cần bất kỳ nguồn điện nào, đồng thời giúp xua đuổi côn trùng tránh xa các tù nhân của ông. Đã bao gồm nhiên liệu gỗ.
+
+buildtoolbar_popup_obj_bookshelf	Một chiếc kệ đựng sách. Việc đọc sách văn học rất thỏa mãn.
+
+object_CampBed				Giường xếp dã ngoại
+buildtoolbar_popup_obj_CampBed		Nó thoải mái hơn vẻ bề ngoài (thật lòng đấy).
+object_NettedBed			Giường xếp dã ngoại (Có màn chống muỗi)
+buildtoolbar_popup_obj_NettedBed	Thứ phải có trong bất kỳ khí hậu nhiệt đới nào. Cung cấp một lượng nhỏ sự thoải mái và giữ côn trùng tránh xa.
+
+reformprogram_TropicalFeverTreatmentProgram			Vắc-xin sốt nhiệt đới
+reformprogram_TropicalFeverTreatmentProgram_text	Một liệu trình điều trị liên tục được thiết kế để chống lại căn bệnh sốt nhiệt đới khét tiếng, phổ biến ở các vùng rừng rậm và khí hậu nhiệt đới. Tù nhân sẽ có khả năng kháng bệnh trong 21 ngày, và sẽ phải quay lại một lần nữa sau khi khoảng thời gian đó kết thúc để giữ an toàn.
+
+object_WoodDrain				Máng thoát nước bằng gỗ
+buildtoolbar_popup_obj_WoodDrain		Loại bỏ nước trên sàn nhà.
+
+job_CheckVisitorFever			Kiểm tra sốt khách thăm nuôi
+
+tropicalfever_contaminated	Sốt nhiệt đới - Bị ô nhiễm
+tropicalfever_ill			Sốt nhiệt đới - Bị bệnh
+tropicalfever_early			Sốt nhiệt đới - Giai đoạn đầu
+tropicalfever_mid			Sốt nhiệt đới - Giai đoạn giữa
+tropicalfever_late			Sốt nhiệt đới - Giai đoạn cuối
+tropicalfever_immune		Sốt nhiệt đới - Miễn dịch tạm thời
+tropicalfever_Dead		Sốt nhiệt đới
+
+event_tropicalfever_onboarding_contaminatedobject	We've chúng ta đã tìm thấy một vật phẩm bị ô nhiễm, vật phẩm này cần phải được loại bỏ càng sớm càng tốt. Bất kỳ vật phẩm nào bị ô nhiễm như thế này đều có thể lây lan mầm bệnh sang bất kỳ tù nhân nào không nghi ngờ đi đến quá gần.
+event_tropicalfever_onboarding_afflictedprisoner	Một số tù nhân của chúng ta đã mắc phải một căn bệnh sốt nguy hiểm, chúng ta cần cung cấp cho họ sự chăm sóc y tế mà họ cần. Chúng ta nên thiết lập các chương trình tiêm chủng vắc-xin để giữ cho các tù nhân của mình được an toàn trong tương lai.
+
+
+action_WatchCinema				Đang xem phim
+
+material_MurkyWaterBed			Đệm nước đục
+
+buildtoolbar_popup_help_CropDistribution_1 		Kiểm soát phòng nào nông sản thu hoạch được chuyển đến, ông cũng có thể thay đổi tỷ lệ phần trăm phân phối thông qua cửa sổ Quản lý phân phối.
+buildtoolbar_popup_help_DeliveryTargeting_1		Liên kết các khu vực Giao hàng, Rác thải và Xuất khẩu với Bãi đáp trực thăng, Bến cảng và Đường bộ. Làm như vậy cho phép ông kiểm soát nơi nhận hàng giao và cách hàng xuất khẩu rời khỏi nhà tù của ông.
+buildtoolbar_popup_help_VehiclePurpose_1		Kiểm soát dịch vụ nào sẽ được xử lý bởi các Bến cảng, Bãi đáp trực thăng hoặc Đường bộ cụ thể. Làm như vậy cho phép ông tiếp nhận các loại hàng hóa hoặc tù nhân cụ thể đến các vị trí khác nhau quanh nhà tù của ông, bằng đường biển và đường hàng không.
+buildtoolbar_popup_help_LabourManagement_1 		Menu này cung cấp cho ông quyền kiểm soát đối với các phạm nhân được phép lao động tại đây, thời gian lao động, cùng với các tùy chọn triển khai phân bổ lính canh nhanh chóng.
+buildtoolbar_Logistics_Jobs				Chế độ xem Lao động cải tạo hiển thị cho ông những phòng nào có thể chỉ định tù nhân làm việc và số lượng tù nhân hiện đang được chỉ định ở đó.
+buildtoolbar_Logistics_TargettingLaundry 		Chế độ xem Phân phối giặt là hiển thị cho ông các khu buồng giam, phòng ngủ tập thể và sảnh tiếp đón nào đang được nhắm mục tiêu bởi phòng giặt là nào.
+buildtoolbar_Logistics_TargettingFood			Chế độ xem Phân phối thực phẩm hiển thị cho ông các khu buồng giam nào đang được phục vụ bởi các nhà ăn nào, và nhà ăn nào đang được cung cấp bởi nhà bếp nào. Ông cũng có thể xem cung và cầu hiện tại của các nhà bếp và nhà ăn đang hoạt động (việc nấu nướng bắt đầu 4 tiếng trước chế độ sinh hoạt Ăn tiếp theo).
+buildtoolbar_Logistics_RoomQuality			Chế độ xem Chất lượng phòng hiển thị cho ông xếp hạng chất lượng của tất cả các phòng có thể nâng cấp trong nhà tù của ông. Số càng cao, chất lượng càng tốt. Di chuột qua một phòng sẽ hiển thị cho ông các yếu tố cấu thành để xác định chất lượng của nó và những gì ông có thể thêm vào để tăng chất lượng đó.
+buildtoolbar_Logistics_CellStatus			Chế độ xem Trạng thái buồng giam hiển thị cho ông các buồng giam đã có người ở (cam), thuộc băng đảng (đỏ) và còn trống (xanh lá).
+
+# ====================================
+# ====================================
+# ----------------------------------- SUNSET UPDATE 5 SUNSET -----------------
+# ====================================
+# ====================================
+
+mutator_name_SuperDogs			Siêu chó nghiệp vụ
+mutator_tooltip_SuperDogs		Người bạn tốt nhất của con người vừa được nâng cấp lên một tầm cao mới. Chúng to hơn, khỏe hơn, nhanh hơn và ít khi cần phải đánh một giấc ngủ trưa.
+
+material_WallDeathRowSec                Tường (Phân khu Tử tù)
+material_WallSuperMaxSec                Tường (Phân khu An ninh cực cao)
+buildtoolbar_popup_mat_WallDeathRowSec  Xây dựng các bức tường màu để biểu thị một phân khu an ninh nhất định của nhà tù.
+buildtoolbar_popup_mat_WallSuperMaxSec  Xây dựng các bức tường màu để biểu thị một phân khu an ninh nhất định của nhà tù.
+
+object_powercapacitorMaxPlus                         	Tụ điện Max Plus
+buildtoolbar_popup_uts_powercapacitorMaxPlus		Tụ điện Max Plus có hiệu suất hoạt động gấp đôi so với phiên bản tiền nhiệm của nó.
+
+object_RemoteDoorMaroon						Cửa điều khiển từ xa (Đỏ hạt dẻ)
+buildtoolbar_popup_obj_RemoteDoorMaroon 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+
+object_RemoteDoorBlack						Cửa điều khiển từ xa (Đen)
+buildtoolbar_popup_obj_BlackRemoteDoor 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+
+uniformPack_desert	Đồng phục sa mạc
+uniformpack_desert_desc Thay đổi đồng phục của Tù nhân và Lính canh của ông sang một thiết kế mang chủ đề Sa mạc.
+		
+buildtoolbar_popup_obj_dogcrate				Một chiếc chuồng ấm cúng cho những chú chó K-9 làm việc chăm chỉ của ông ngủ bên trong.
+buildtoolbar_popup_uts_phonebooth			Cho phép tù nhân trò chuyện với gia đình của họ, đáp ứng Nhu cầu 'Gia đình' của họ.
+buildtoolbar_popup_obj_LaundryMachine		Cần thiết để vận hành một Phòng giặt là và giặt sạch những bộ đồng phục bẩn thỉu của tù nhân.
+buildtoolbar_popup_obj_LaundryBasket		Tù nhân lao động và Nhân viên vệ sinh sẽ mang đồng phục bẩn đến Phòng giặt là và mang đồng phục sạch trở lại khu buồng giam.
+buildtoolbar_popup_obj_IroningBoard			Cần thiết để vận hành một Phòng giặt là, dùng để là phẳng đồng phục sạch trước khi chúng được gửi trả lại cho tù nhân.
+buildtoolbar_popup_obj_VisitorTable			Một chiếc bàn nơi tù nhân có thể ngồi đối diện với gia đình của họ. Chiếc bàn này cũng được sử dụng cho các buổi điều trần tha bổng trước thời hạn của tù nhân.
+buildtoolbar_popup_uts_visitortablesecure	Ngăn chặn hàng cấm bị buôn lậu vào thông qua việc Thăm nuôi, nhưng chỉ có hiệu quả bằng một nửa trong việc đáp ứng Nhu cầu 'Gia đình' so với Bàn thăm nuôi thông thường. Các buồng thăm nuôi chỉ có thể chặn hàng cấm nếu cả hai bên của buồng được chặn lại bởi một bức tường hoặc một Buồng thăm nuôi khác.
+buildtoolbar_popup_obj_WorkshopSaw			Một dụng cụ Xưởng được tù nhân sử dụng để biến các khúc gỗ thành các tấm ván gỗ hoặc các tấm tôn kim loại thành các biển số xe.
+buildtoolbar_popup_obj_WorkshopPress		Một dụng cụ Xưởng được tù nhân sử dụng để dập chữ lên các biển số xe.
+buildtoolbar_popup_obj_CarpenterTable		Một dụng cụ Xưởng được tù nhân sử dụng để biến các khúc gỗ thành một chiếc Giường cao cấp.
+buildtoolbar_popup_obj_GuardLocker			Một yêu cầu bắt buộc đối với Phòng vũ khí. Mỗi Lính canh vũ trang phải có tủ đồ cá nhân riêng của họ.
+buildtoolbar_popup_obj_DrinkMachine			Yêu cầu bắt buộc cho bất kỳ Phòng nhân viên cơ bản nào. Cũng chứa các thành phần nguyên liệu cho đồ uống có cồn do tù nhân sản xuất.
+buildtoolbar_popup_obj_librarybookshelf		Một chiếc kệ lớn đựng sách. Ông sẽ cần một vài chiếc kệ này trong Thư viện của mình.
+buildtoolbar_popup_obj_ShopShelf			Các đơn vị kệ cao, được sử dụng để lưu trữ hàng hóa trong kho cho cửa hàng.
+buildtoolbar_popup_obj_ShopFront			Đặt Quầy cửa hàng trên một bức tường nằm giữa Cửa hàng và một khu vực mà khách hàng có thể tiếp cận. Tù nhân sẽ đến gần Quầy cửa hàng nếu họ muốn mua hàng hóa.
+
+# ============================================================== 
+# End of File (do not remove new line at the end)
+# ==============================================================
