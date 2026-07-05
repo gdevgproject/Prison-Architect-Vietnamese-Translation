@@ -1,4 +1,4 @@
-﻿# =============================================================================
+﻿﻿# =============================================================================
 # Basic dialog strings
 # =============================================================================
 
@@ -236,7 +236,7 @@ interfaceclone_cancel                           Hủy xây nhanh
 interfaceclone_clone                            Sao chép
 
 interfacetopbar_todo							Việc cần làm
-interfacetopbar_balance							Bank *B
+interfacetopbar_balance							Ngân hàng *B
 interfacetopbar_budget							Dòng tiền *C
 interfacetopbar_income							Thu nhập *I
 interfacetopbar_expenses						Chi phí *C
@@ -350,13 +350,10 @@ interfacecontrol_grading_tooltip                Mở màn hình Đánh giá nhà
 interfacecontrol_graphs                         Biểu đồ
 interfacecontrol_graphs_tooltip                 Mở màn hình Biểu đồ, cho phép bạn so sánh biểu đồ về các khía cạnh khác nhau của nhà tù.
 interface_confirmlandbuy                        Bạn có chắc chắn muốn mua mảnh đất này với giá $*X không?
-interface_loadconfirm                           Bạn có chắc chắn muốn tải bản đồ này không?
-All unsaved progress will be lost.              Mọi tiến trình chưa lưu sẽ bị mất.
-interface_saveconfirm                           Bạn có chắc chắn muốn lưu với tên tệp này không?
-Existing data will be overwritten.              Dữ liệu hiện tại sẽ bị ghi đè.
+interface_loadconfirm                           Bạn có chắc chắn muốn tải bản đồ này không? Mọi tiến trình chưa lưu sẽ bị mất.
+interface_saveconfirm                           Bạn có chắc chắn muốn lưu với tên tệp này không? Dữ liệu hiện tại sẽ bị ghi đè.
 
-interface_landbuylabel                          *Xm x *Ym.
-Total area *A sq metres. *C                     Tổng diện tích *A mét vuông. *C
+interface_landbuylabel                          *Xm x *Ym. Tổng diện tích *A mét vuông. *C
 
 interface_action_dismantle                      Tháo dỡ
 interface_action_dump                           Vứt bỏ
@@ -612,7 +609,7 @@ buildtoolbar_popup_help_targettingfood_4    ^Mẹo
 buildtoolbar_popup_help_targettingfood_5    - Nếu bạn thấy một phân khu phòng giam hoặc nhà bếp không nhắm mục tiêu đến nhà ăn như bạn mong đợi, hãy thử Nhấp chuột phải vào nó để buộc đặt lại.
 buildtoolbar_popup_help_targettingfood_6    - Nếu bạn nhận thấy Nguồn cung cho một nhà ăn không lấp đầy hoàn toàn trong một phiên Ăn, đó là một dấu hiệu rõ ràng cho thấy nó đang quá tải và bạn cần có khả năng nấu nhiều thức ăn hơn.
 buildtoolbar_popup_help_targettinglaundry_1 Chế độ xem Phân phối đồ giặt hiển thị cho bạn biết những phân khu phòng giam, phòng tập thể và khu tiếp nhận nào đang được nhắm mục tiêu bởi phòng giặt là nào.\n\n
-buildtoolbar_popup_help_targettinglaundry_2 ~Nhấp chuột trái vào một phòng giặt là và sau đó Nhấp chuột trái vào một phân khu phòng giam, phòng tập thể hoặc khu tiếp nhận để khiến phòng giặt là phục vụ phòng đó.\n\nHold Shift để nhắm mục tiêu đến nhiều phòng.
+buildtoolbar_popup_help_targettinglaundry_2 ~Nhấp chuột trái vào một phòng giặt là và sau đó Nhấp chuột trái vào một phân khu phòng giam, phòng tập thể hoặc khu tiếp nhận để khiến phòng giặt là phục vụ phòng đó.\n\nGiữ Shift để nhắm mục tiêu đến nhiều phòng.
 buildtoolbar_popup_help_targettinglaundry_3 ~Nhấp chuột phải vào một phòng giặt là sẽ khiến mục tiêu của nó đặt lại về mặc định.
 buildtoolbar_popup_help_targettinglaundry_4 ^Mẹo
 buildtoolbar_popup_help_targettinglaundry_5 Các phòng giặt là có thể nhắm mục tiêu đến nhiều phòng khác nhau tùy ý bạn, nhưng chúng bị giới hạn về tốc độ hoạt động (dựa trên kích thước của chúng và số lượng tù nhân hoặc quản kho làm việc ở đó).\n\nViệc để một phòng giặt là duy nhất phục vụ toàn bộ nhà tù lớn có thể hoạt động được, nhưng mỗi phòng sẽ nhận được quần áo sạch của họ rất thất thường.
