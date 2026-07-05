@@ -1,4 +1,4 @@
-﻿﻿# =============================================================================
+﻿# =============================================================================
 # Basic dialog strings
 # =============================================================================
 
@@ -366,7 +366,7 @@ interface_action_searchtoilets                  Khám xét bồn cầu
 interface_action_sack                           Sa thải
 interface_action_dooropen                       Mở cửa
 interface_action_doormodenormal                 Chế độ cửa: Bình thường
-interface_action_doorimplockedshut              Khóa chặt
+interface_action_doormodelockedshut              Khóa chặt
 interface_action_doormodelockedopen             Khóa mở
 interface_action_switchon                        Bật lên
 interface_action_switchoff                      Tắt đi
@@ -1221,8 +1221,8 @@ punish_lockdown_perm                     Phong tỏa (Vĩnh viễn)
 punish_solitary                         Biệt giam
 punish_lockdown                         Phong tỏa
 punish_none                             Không có
-punish_timer                            *X giờ *Y phút
-punish_timer_minutes                    *X phút
+punish_timer                            *Xh giờ *Ym phút
+punish_timer_minutes                    *Xm phút
 punish_active                           ĐANG HOẠT ĐỘNG
 punish_permanent                        (Vĩnh viễn)
 punish_end                              Chấm dứt hình phạt
@@ -1827,8 +1827,7 @@ contraband_log_arranged                 Được sắp xếp *X giờ trước
 gangs_guards                            LÍNH CANH *X
 gangs_soldiers                          BINH LÍNH *X / *Y TỐI ĐA
 gangs_evict                             TRỤC XUẤT
-gangs_status                            *X Thành viên .
-gangs_status_kills                      *Y Ca mạng . $*Z
+gangs_status                            *X Thành viên . *Y Lượt giết . $*Z
 
 schedule_zone_shared                    Chung
 schedule_zone_minseconly                Chỉ an ninh thấp
@@ -2252,6 +2251,7 @@ objective_grant_advancedsecurity_cctvcameras        Đặt các Camera an ninh t
 
 objective_grant_prisonerworkforce                    Sự thích nghi và Gắn kết của Tù nhân 
 objective_grant_prisonerworkforce_description       Việc để tù nhân làm việc trong nhà tù của bạn là một cách tốt để tích hợp họ vào môi trường đồng thời cắt giảm chi phí. Hoàn thành khóa đào tạo cần thiết và xây dựng các cơ sở vật chất cần thiết để đưa tù nhân của bạn vào làm việc.
+objective_grant_prisonerworkforce_research          Mở khóa Lao động tù nhân thông qua Đề án quản lý
 objective_grant_prisonerworkforce_cleaning          Xây dựng một Phòng công cụ vệ sinh
 objective_grant_prisonerworkforce_laundry           Xây dựng một Phòng giặt là
 objective_grant_prisonerworkforce_kitchenclass      Có ba tù nhân hoàn thành chương trình An toàn và Vệ sinh nhà bếp
@@ -3073,7 +3073,7 @@ prisoner_cellerror_nosolitary           Tù nhân này yêu cầu phòng biệt 
 
 group_all_staff                         Tất cả nhân viên
 staff_onbreak                           Trong giờ nghỉ
-staff_onbreakremaining					Trong giờ nghỉ (*X phút)
+staff_onbreakremaining					Trong giờ nghỉ (*Xm)
 staff_breaktime                         Thời gian nghỉ :  
 
 banner_tooltip                          Nhấp vào biểu ngữ để hỗ trợ @WarChildUK
