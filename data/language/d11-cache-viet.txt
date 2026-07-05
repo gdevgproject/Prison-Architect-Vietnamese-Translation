@@ -1432,7 +1432,7 @@ transfer_behaviour_murders					Không phạm tội giết người
 transfer_behaviour_murdersStuff				(nhân viên & tù nhân)
 transfer_behaviour_escapeAttempts			Không có mưu đồ vượt ngục
 transfer_behaviour_contraband				Không có hàng cấm nguy hiểm
-transfer_behaviour_gangMembers				Loại bỏ thành viên băng đẳng
+transfer_behaviour_gangMembers				Loại bỏ thành viên băng đảng
 
 transfer_behaviour_tooltip_staffAssaults	Tù nhân đủ điều kiện chuyển trại phải không hành hung bất kỳ nhân viên nào trong số ngày được chỉ định. Số ngày cao hơn sẽ loại bỏ những tù nhân liên tục bạo lực.
 transfer_behaviour_tooltip_murders			Tù nhân đủ điều kiện chuyển trại phải không giết hại bất kỳ nhân viên hoặc tù nhân nào trong số ngày được chỉ định. Số ngày cao hơn sẽ loại bỏ những tù nhân nguy hiểm nhất của bạn.
