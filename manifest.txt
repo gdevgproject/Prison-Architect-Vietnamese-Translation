@@ -1,7 +1,7 @@
-Name "Vietnamese Language Pack"
-Author "Vu Duc Minh"
-Description "Ban dich Tieng Viet day du cho Prison Architect"
-Version "1.0"
-Date "06/07/2026"
-IsTranslation true
-ContinueSupported true
+Name                 "Vietnamese Language Pack"
+Author               "Vu Duc Minh"
+Description          "Ban dich Tieng Viet day du cho Prison Architect"
+Version              1.0
+Date                 06/07/2026
+IsTranslation        true
+ContinueSupported    true
