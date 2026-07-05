@@ -1,0 +1,5 @@
+Name        "Tieng Viet"
+Author      "Vu Duc Minh"
+Date        06/07/2026
+Description "Ban dich tieng Viet day du cho Prison Architect"
+ThumbnailSprite vietnamese
