@@ -1,4 +1,4 @@
-# June27th Update
+﻿# June27th Update
 
 # =============================================================================
 # Codex
@@ -545,7 +545,8 @@ quickbuild_PsychiatristOffice								Phòng bác sĩ tâm thần
 interfacedeployment_insaneseczone                  Chỉ phân khu Tâm thần
 interfacetopbar_PrisonerCells_insaneSecOnly	Sức chứa Tâm thần Hình sự: *X
 
-roomgrading_PsychiatristOffice_info				Mở khóa và đặt thêm các vật thể trong Phòng bác sĩ tâm thần để cải thiện hiệu quả điều trị cho các tù nhân tâm thần hình sự.\nVật phẩm được mở khóa thông qua việc tù nhân tâm thần hình sự tham gia các Chương trình Tư vấn Tâm thần.
+roomgrading_PsychiatristOffice_info				Mở khóa và đặt thêm các vật thể trong Phòng bác sĩ tâm thần để cải thiện hiệu quả điều trị cho các tù nhân tâm thần hình sự.\n
+												Vật phẩm được mở khóa thông qua việc tù nhân tâm thần hình sự tham gia các Chương trình Tư vấn Tâm thần.
 roomgrading_PsychiatristOffice_Item				Vật phẩm : *X
 roomgrading_PsychiatristOffice_Quality			Năng lực Bác sĩ tâm thần: *Q
 roomgrading_PsychiatristOffice_Upgrade			Nâng cấp Phòng bác sĩ tâm thần để cải thiện năng lực của họ.
@@ -4599,11 +4600,11 @@ finance_cost_gangdealer					Phát hiện đại lý băng đảng
 # Free Update - Kimber
 # ==============================================================
 
- object_PrisonerLetter 					Thư của tù nhân
- object_LoveLetter 						Thư tình
- object_LoveLetterOpened 				Thư tình (Đã mở)
- interface_prisonerWritingLetter		Đang viết thư cho người thân
- interface_prisonerWritingLoveLetter	Đang viết thư cho một người CỰC KỲ đặc biệt
+object_PrisonerLetter 					Thư của tù nhân
+object_LoveLetter 						Thư tình
+object_LoveLetterOpened 				Thư tình (Đã mở)
+interface_prisonerWritingLetter		Đang viết thư cho người thân
+interface_prisonerWritingLoveLetter	Đang viết thư cho một người CỰC KỲ đặc biệt
 
 warden_wardengangsjlocks_name		Thuyền trưởng J. Locks
 warden_wardengangsjlocks_desc		Nhân viên dưới quyền chỉ huy của Locks có thể vượt qua các giới hạn của họ và các tù nhân được nhào nặn thành những tù nhân kiểu mẫu. \n\n- +30% thể lực của nhân viên (Yêu cầu nghỉ ngơi nhiều hơn 10%). \n- -10% tỷ lệ tái phạm của tù nhân.
@@ -5273,7 +5274,7 @@ object_RemoteDoorMaroon						Cửa điều khiển từ xa (Đỏ hạt dẻ)
 buildtoolbar_popup_obj_RemoteDoorMaroon 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
 
 object_RemoteDoorBlack						Cửa điều khiển từ xa (Đen)
-buildtoolbar_popup_obj_BlackRemoteDoor 	Cánh cửa này được thiết kế để truy cập bằng một động cơ servo đang hoạt động. Hãy đảm bảo ông có đủ lính canh để kiểm soát việc vào ra cho các loại cửa này hoặc lắp đặt các tấm cảm ứng áp lực.
+buildtoolbar_popup_obj_RemoteDoorBlack 	Cánh cửa này được thiết kế để truy cập bằng động cơ đẩy cửa. Đảm bảo bạn có đủ lính canh để kiểm soát lối ra vào cho loại cửa này hoặc lắp đặt các tấm cảm biến áp suất.
 
 uniformPack_desert	Đồng phục sa mạc
 uniformpack_desert_desc Thay đổi đồng phục của Tù nhân và Lính canh của ông sang một thiết kế mang chủ đề Sa mạc.
