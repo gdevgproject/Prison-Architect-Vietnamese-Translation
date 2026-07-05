@@ -23,6 +23,10 @@ Bản dịch tiếng Việt hoàn chỉnh 100% dành cho tựa game mô phỏng 
 3. Khởi động game **Prison Architect**, vào **Extras** -> **Mods**, tích chọn **Vietnamese Language Pack** của tác giả **Vu Duc Minh**, nhấn **Apply**.
 4. Vào **Settings** -> **Language** và chọn **Tieng Viet** để trải nghiệm game bằng tiếng Việt hoàn chỉnh!
 
+## ⚠️ Lưu ý quan trọng (Lỗi Engine)
+Do một lỗi hiển thị cố hữu trong Engine của game Prison Architect đối với các ngôn ngữ đặc thù (như tiếng Việt), ký tự **`à`** (dấu huyền) và **`á`** (dấu sắc) có thể bị hiển thị hoán đổi (ngược) dấu cho nhau ở một số văn bản hiển thị trên giao diện (ví dụ: *nhà* hiển thị dấu sắc, *thoát* hiển thị dấu huyền). 
+Đây là giới hạn kết xuất của engine game gốc đối với font bitmap và không phải lỗi dịch thuật hay lỗi file font.
+
 ---
 
 ## 🤝 Thông tin tác giả & Đóng góp
@@ -30,3 +34,4 @@ Bản dịch tiếng Việt hoàn chỉnh 100% dành cho tựa game mô phỏng 
 * **Cộng đồng đóng góp:** AI & Community
 * **Phiên bản:** 1.0 (Cập nhật ngày 06/07/2026)
 * **Bảng mã:** UTF-8 BOM chuẩn game.
+
