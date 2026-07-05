@@ -1,7 +1,7 @@
-Name        "Vietnamese"
-Author      "AI & Community"
-Date        "05/07/2026"
-Description "Bản dịch tiếng Việt hoàn chỉnh cho Prison Architect bao gồm toàn bộ DLCs và Campaign."
-ThumbnailSprite english
-isTranslation true
+Name "Vietnamese Language Pack"
+Author "Vũ Đức Minh"
+Description "Bản dịch Tiếng Việt đầy đủ cho Prison Architect"
+Version "1.0"
+Date "06/07/2026"
+IsTranslation true
 ContinueSupported true
