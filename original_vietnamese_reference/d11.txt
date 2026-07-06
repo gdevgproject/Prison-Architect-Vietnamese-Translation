@@ -2033,3 +2033,1092 @@ buildtoolbar_popup_obj_SellFlooring					Bán các ô gạch lát sàn không cò
 
 
 buildtoolbar_popup_uts_quickconnect				Nhanh chóng kết nối bất kỳ hệ thống giám sát hoặc tự động hóa nào với vật phẩm tiếp nhận gần nhất của chúng.
+
+# =============================================================================
+# Interface
+# =============================================================================
+
+#pc only
+d11_hover_alert_water							Cần nước
+d11_hover_alert_electricity						Cần điện
+
+
+interfacemode_objectPack_filter_all					Tất cả gói mở rộng
+dlc_name_psychWard				Psych Ward
+dlc_name_prisonWing				Cleared For Transfer
+dlc_name_seaAirLand				Island Bound
+dlc_name_greenMachine				Going Green
+interfacemode_objectPack_filter_caption					Lọc số lượng vật thể hiển thị dựa trên gói mở rộng tương ứng của chúng.
+
+interfacemode_objectType_filter_all					Tất cả loại			
+interfacemode_objectType_filter_requiresWater				Hệ thống nước
+interfacemode_objectType_filter_requiresElectricity			Thiết bị điện tử
+interfacemode_objectType_filter_entertainment				Giải trí
+interfacemode_objectType_filter_rest					Nghỉ ngơi
+interfacemode_objectType_filter_exercise				Vận động
+interfacemode_objectType_filter_decoration				Trang trí
+interfacemode_objectType_filter_foliage					Cây cối
+interfacemode_objectType_filter_signs					Biển báo
+interfacemode_objectType_filter_security				An ninh				
+interfacemode_objectType_filter_catering				Ăn uống
+interfacemode_objectType_filter_misc					Khác
+interfacemode_objectType_filter_caption					Lọc số lượng vật thể hiển thị dựa trên loại của các vật thể này.	
+
+
+# =============================================================================
+# Green energy
+# =============================================================================
+d11_powerstation_overloaded						Quá tải, hãy gỡ bớt thiết bị điện hoặc thêm Tụ điện
+d11_powerstation_overloaded_two_stations		Quá tải, các Trạm điện không được kết nối với nhau
+
+
+buildtoolbar_deployment_PrioritizeFarmer	Sử dụng tùy chọn này để ưu tiên Nông dân thực hiện công việc tại các khu vực cụ thể trước các khu vực khác xung quanh nhà tù của bạn. Nếu thiếu nhân sự, Nông dân sẽ cố gắng hoàn thành các khu vực ưu tiên trước. Chỉ định 1, 2 hoặc 3 Nông dân để ưu tiên một khu vực.
+interfacetopbar_tooltip_totalFarmers		*X tổng số nông dân
+interfacetopbar_tooltip_farmer				Số lượng nông dân sẵn sàng làm việc trong trại giam của bạn.
+
+#
+
+d11_hover_alert_green_electricity				Cần Năng lượng Xanh
+d11_powerstation_overloaded_green				Quá tải, hãy gỡ bớt thiết bị điện hoặc thêm nguồn năng lượng xanh
+d11_powerstation_overloaded_two_transformers	Quá tải, các Máy biến áp không được nằm trên cùng một mạch điện
+d11_powerstation_overloaded_merged_power		Quá tải, Năng lượng Xanh không được trộn lẫn với Năng lượng Tiêu chuẩn
+
+d11_transformer_input_power					Sản lượng điện: *X đơn vị
+d11_transformer_output_power				Lượng điện tiêu thụ: *X đơn vị
+d11_transformer_spare_power					Lượng điện dư hiện tại: *X đơn vị
+
+d11_powerstation_power_prouduction          Sản lượng điện hiện tại: *X đơn vị
+d11_powerstation_max_capacity                Sản lượng điện tối đa: *X đơn vị
+
+d11_powerexportmeter_sell_desc				Xuất khẩu điện: 
+finances_category_power_export				Xuất khẩu điện
+d11_powerexportmeter_powertosell			Tiền thu về từ xuất khẩu: $*X
+
+d11_battery_charge_text						Mức sạc hiện tại: *X %
+d11_battery_charging						Đang sạc
+d11_battery_discharging						Đang xả
+
+d11_greenpower_positive_weather_effect      Sản lượng điện được tác động tích cực bởi thời tiết hiện tại.
+d11_greenpower_negative_weather_effect      Sản lượng điện bị tác động tiêu cực bởi thời tiết hiện tại.
+
+# =============================================================================
+# Farming/Recycling
+# =============================================================================
+
+d11_continuous_planting_tooltip				Tùy chọn này sẽ tự động hóa việc trồng lại cùng một loại cây trồng sau khi thu hoạch, tương tự như cơ chế trong Khu trồng rừng.
+
+d11_plant_crop								Trồng cây giống
+d11_plant_crop_location						Trồng cây giống tại *X
+d11_crop_time_to_yield						Thời gian thu hoạch: *X giờ
+d11_fertilized								Đã bón phân
+d11_tampered								Đã bị can thiệp
+d11_needsWater								Cây trồng cần được tưới nước để tiếp tục phát triển
+d11_hover_compostbin						Đã thu gom chất thải
+
+misconduct_reporttype_ProducedNarcotics		Sản xuất ma túy
+contraband_Produced							Ma túy tự sản xuất
+contraband_Ingredient						Nguyên liệu rượu lậu
+contraband_Kicker							Chất kích rượu lậu
+contraband_StashLocation					Vị trí giấu đồ
+
+d11_crop_stage_seedling						Mầm cây
+d11_crop_stage_sapling						Cây non
+d11_crop_stage_immature						Chưa trưởng thành
+d11_crop_stage_mature						Trưởng thành
+d11_crop_stage_ripe							Chín
+d11_continuous_planting						Trồng liên tục
+
+d11_farm_search_freq_caption					Tần suất khám xét trang trại
+d11_farm_search_freq_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét đột xuất, hãy dùng tùy chọn này để quyết định xem có tiến hành khám xét thường kỳ trong các phòng này hay không.
+d11_crop_types_caption						Loại cây trồng
+d11_crop_types_tooltip						Chọn cây trồng tự động mua là loại tự nhiên hay biến đổi gen (GMO). Cây trồng biến đổi gen giảm 50% thời gian phát triển nhưng giá xuất khẩu cũng giảm một nửa và mất đi hiệu ứng tăng nhu cầu khi tù nhân ăn chúng.
+d11_farm_search_target_caption					Mục tiêu khám xét trang trại
+d11_farm_search_target_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét đột xuất, hãy dùng tùy chọn này để quyết định vật thể hoặc đối tượng nào sẽ bị khám xét thông qua tùy chọn Tần suất khám xét.
+d11_continuous_fertilizer_caption				Bón phân liên tục
+d11_continuous_fertilizer_tooltip				Chọn xem bạn có muốn tự động mua phân bón hay không, cùng với mức chất lượng của nó.
+reports_farmingpolicytitle					Chính sách nông nghiệp
+
+d11_farm_search_freq_option_never				Không bao giờ
+d11_farm_search_freq_option_daily				Hằng ngày		
+d11_farm_search_freq_option_3days				Mỗi 3 ngày
+d11_farm_search_freq_option_5days				Mỗi 5 ngày
+d11_farm_search_freq_option_weekly				Hằng tuần
+d11_farm_search_target_option_crops				Chỉ cây trồng
+d11_farm_search_target_option_labourers				Tù nhân lao động
+d11_farm_search_target_option_everything			Tất cả mọi thứ
+d11_crop_type_option_natural					Cây trồng tự nhiên
+d11_crop_type_option_GMO					Cây trồng biến đổi gen
+d11_plant_flower									Trồng hoa
+d11_plant_flower_location							Trồng hoa tại *X
+
+Ingredients_UsageCaption			Tỷ lệ:
+Ingredients_UsageCaption_tooltip		Kiểm soát tỷ lệ giữa nông sản tự trồng trong trại và nguyên liệu được giao đến dùng cho các bữa ăn; nguyên liệu sẽ được đặt hàng nếu lượng lưu kho không đủ.
+finance_cost_recycling								Tái chế
+
+research_farming							Nông nghiệp
+research_RecyclingIncentive					Khuyến khích tái chế
+researchtooltip_farming						Mở khóa các kỹ thuật và thiết bị Nông nghiệp tiên tiến, cùng các loại cây trồng đắt giá hơn.
+
+d11_wiltedCrop								Cây héo úa
+d11_wiltedCropDesc							Cây này không được tưới nước trong *X ngày và không còn khả năng phục hồi, nó sẽ bị chuyển đến thùng rác gần nhất, dù là Thùng rác thông thường hay Thùng ủ phân để biến thành phân bón
+
+d11_check_ingredients_menu					Kiểm tra thực đơn Nguyên liệu để biết thêm chi tiết
+d11_meal_cost_per_meal						$*X / bữa ăn
+d11_meal_cost_total							Tổng giá
+d11_meal_estimated_price					Giá ước tính
+d11_meal_quantity_description				Điều chỉnh số lượng nguyên liệu mà mỗi tù nhân có thể tiêu thụ trong các bữa ăn, từ 1 đến 3. Tùy chọn này kiểm soát số lượng nguyên liệu được giao dựa trên cài đặt đã chọn, số lượng tù nhân và nguồn cung thực phẩm hiện tại.
+d11_meal_variety_description				Tùy chọn này kiểm soát số lượng loại nguyên liệu được gửi đến trại giam khi có đợt giao thực phẩm. Thay đổi tùy chọn này không ảnh hưởng đến số lượng nguyên liệu được đặt hàng, mà chỉ ảnh hưởng đến sự đa dạng của nguyên liệu và do đó ảnh hưởng đến chi phí của chúng.
+
+#ingredient menu
+d11_meal_system_description					Hệ thống thực phẩm của Trại giam dựa trên 4 yếu tố: các tùy chọn bữa ăn (Độ đa dạng và Số lượng), số lượng tù nhân hiện tại, số bữa ăn mỗi ngày và số lượng nguyên liệu lưu kho. Khác với nguyên liệu nhập khẩu chứa đầy chất bảo quản, nông sản tự trồng trong trại mang lại nhiều lợi ích hơn khi ăn và do đó sẽ được các đầu bếp ưu tiên. Số liệu thống kê liên quan đến nguyên liệu và hệ thống thực phẩm của trại giam có thể được tìm thấy bên dưới.
+d11_fresh_ingredients						Nguyên liệu tươi sạch
+d11_imported_ingredients					Nguyên liệu nhập khẩu
+d11_meal_ingredients_count_per_meal			Nguyên liệu mỗi bữa ăn
+d11_meal_ingredients_count_per_day			Nguyên liệu mỗi ngày
+d11_crops_per_day							Sản lượng thu hoạch mỗi ngày
+d11_imported_ingredients_cost				Chi phí nguyên liệu nhập khẩu
+d11_crop_cost								Chi phí cây trồng
+
+#Ingredient hints
+d11_IngredientRatio_hint					Hiển thị số lượng hiện tại của cả hai loại nguyên liệu trong kho
+d11_meal_ingredients_count_per_meal_hint	Số lượng nguyên liệu cần thiết để phục vụ số lượng tù nhân hiện tại cho một bữa ăn duy nhất, dựa trên các tùy chọn bữa ăn đã chọn
+d11_meal_ingredients_count_per_day_hint		Tổng số lượng nguyên liệu cần thiết để phục vụ số lượng tù nhân hiện tại trong ngày hôm nay, dựa trên các tùy chọn bữa ăn đã chọn
+d11_crops_per_day_hint						Số lượng cây trồng được mua trong 24 giờ qua.
+d11_imported_ingredients_cost_hint			Tổng chi phí cho tất cả nguyên liệu được mua và bàn giao trong 24 giờ qua
+d11_crop_cost_hint							Tổng chi phí cho cây trồng được mua trong 24 giờ qua
+d11_meal_cost_per_meal_hint					Chi phí trung bình để nuôi một tù nhân, lấy các tùy chọn bữa ăn và đặc quyền được chọn làm tham chiếu
+d11_meal_cost_total_hint					Tổng chi phí cần thiết để nuôi mọi tù nhân mỗi bữa ăn, lấy các tùy chọn bữa ăn và số lượng tù nhân hiện tại làm tham chiếu
+d11_meal_estimated_price_hint				Tổng chi phí ước tính cần thiết để nuôi mọi tù nhân. Giá trị này chỉ có thể được ước tính do có nhiều yếu tố bên ngoài ảnh hưởng - bao gồm tỷ lệ rơi hạt giống, thời gian cây phát triển và sản lượng thu hoạch thay đổi.	
+
+#different on console
+researchtooltip_RecyclingIncentive			Tận dụng sáng kiến 'Going Green' của Chính phủ, thưởng cho Trại giam của bạn $10 mỗi ngày cho mỗi túi rác tái chế được thu gom.
+#
+# =============================================================================
+# Jobs
+# =============================================================================
+
+job_WaterCrop								Đang tưới nước cho cây
+job_HarvestCrop								Đang thu hoạch cây trồng
+job_TendCrop								Đang chăm sóc cây trồng
+job_SellUtility								Đang bán tiện ích
+job_WaterFlower										Đang tưới nước cho hoa
+job_TendFlower										Đang chăm sóc hoa
+
+
+job_failed_routetomaterial_blocked			Đường đi giữa Nguyên liệu và Công việc bị chặn
+
+# =============================================================================
+# Grants
+# =============================================================================
+objective_grant_greenMachine						Green Machine
+objective_grant_greenMachine_description			Đã đến lúc ngành công nghiệp nhà tù tham gia vào làn sóng năng lượng xanh, hãy mua một số nguồn năng lượng xanh để giúp quảng bá hình ảnh.
+objective_grant_greenMachine_solar					Mua và lắp đặt một tấm Pin mặt trời.
+objective_grant_greenMachine_wind					Mua và lắp đặt một Tuabin gió.
+objective_grant_greenMachine_hybrid					Mua và lắp đặt hệ thống Lai Pin mặt trời/Tuabin gió.
+
+objective_grant_ecoFriendly							Eco Friendly
+objective_grant_ecoFriendly_description				Đã đến lúc tất cả chúng ta phải nhìn nhận nghiêm túc về dấu chân carbon của mình, do đó ngân hàng sẽ thưởng cho bạn vì đã từ bỏ các trạm điện tiêu chuẩn và sử dụng các nguồn năng lượng xanh thay thế.
+objective_grant_ecoFriendly_days					Chỉ sử dụng các nguồn năng lượng xanh để cấp điện cho trại giam của bạn thay vì Trạm điện trong vòng năm ngày.
+
+objective_grant_givingSomethingBack                 Cống hiến cho cộng đồng
+objective_grant_givingSomethingBack_description     Với lượng điện năng dồi dào mà trại giam của bạn đang sản xuất, ngân hàng sẽ rất biết ơn nếu bạn chia sẻ một phần với mạng lưới điện quốc gia/vùng/địa phương.
+objective_grant_givingSomethingBack_sell            Bán lại 2.500 đơn vị điện cho mạng lưới điện.
+
+objective_grant_basicFarming						Nông nghiệp cơ bản
+objective_grant_basicFarming_description			Chi phí và nguồn cung của các chuyến hàng thực phẩm đang trở thành một mối lo ngại của quốc gia, vui lòng chứng minh rằng một hệ thống thực phẩm tự cung tự cấp là khả thi trong một nhà tù. Việc này hy vọng sẽ giảm bớt phần nào mối lo ngại đó.
+objective_grant_basicFarming_hire					Thuê nhân viên Nông dân.
+objective_grant_basicFarming_veg					Xây dựng chính xác một phòng Vườn rau hoạt động hiệu quả.
+objective_grant_basicFarming_fruit					Xây dựng chính xác một phòng Vườn cây ăn quả hoạt động hiệu quả.
+objective_grant_basicFarming_farm					Xây dựng chính xác một phòng Ruộng ngũ cốc hoạt động hiệu quả.
+objective_grant_basicFarming_plant					Trồng 5 cây thuộc bất kỳ loại nào trong mỗi phòng.
+
+objective_grant_selfSustaining						Tự cung tự cấp
+objective_grant_selfSustaining_description			Đã đến lúc chứng minh hoàn toàn rằng các nhà tù có thể tự cung tự cấp, vui lòng bán bất kỳ nông sản dư thừa nào như một sự đóng góp cho vấn đề nguồn cung thực phẩm.
+objective_grant_selfSustaining_hire					Thuê 5 nhân viên Nông dân.
+objective_grant_selfSustaining_buy					Mua 10 túi Phân hữu cơ ủ hoai.
+objective_grant_selfSustaining_harvest				Thu hoạch 50 cây trồng nông nghiệp thuộc bất kỳ loại nào.
+objective_grant_selfSustaining_sell					Bán 50 sản phẩm nông sản thuộc bất kỳ loại nào.
+objective_grant_selfSustaining_collect				Thu thập 5 hạt giống thuộc bất kỳ loại nào từ việc thu hoạch cây trồng.
+
+objective_grant_AdvancedFarming					Nông nghiệp nâng cao
+objective_grant_AdvancedFarming_description		Bây giờ là lúc xem liệu các nhà tù có thể sản xuất hàng loạt nông sản tươi sạch hay không, để không chỉ tự cung tự cấp mà còn trở thành nhà cung cấp cốt lõi cho các cơ sở khác.
+objective_grant_AdvancedFarming_research		Nghiên cứu nhiệm vụ Hành chính Nông nghiệp.
+objective_grant_AdvancedFarming_assign			Bố trí 10 tù nhân lao động trong Phòng Nông nghiệp.
+objective_grant_AdvancedFarming_buy1			Mua vật thể Thùng ủ phân.
+objective_grant_AdvancedFarming_produce			Sản xuất 10 Phân hữu cơ ủ hoai.
+objective_grant_AdvancedFarming_harvest			Thu hoạch 500 cây trồng đã chín thuộc bất kỳ loại nào.
+
+objective_grant_overProduction						Sản xuất dư thừa
+objective_grant_overProduction_description			Vì việc sản xuất hàng loạt đã được chứng minh, vui lòng hoàn thành các đơn đặt hàng thực phẩm này thường xuyên nhất có thể, chúng sẽ được làm mới sau mỗi 5 ngày.
+objective_grant_overProduction_carrot				Bán 50 nguyên liệu Cà rốt đã thu hoạch.
+objective_grant_overProduction_potato				Bán 50 nguyên liệu Khoai tây đã thu hoạch.
+objective_grant_overProduction_cabbage				Bán 50 nguyên liệu Bắp cải đã thu hoạch.
+objective_grant_overProduction_tomato				Bán 50 nguyên liệu Cà chua đã thu hoạch.
+objective_grant_overProduction_apple				Bán 50 nguyên liệu Táo đã thu hoạch.
+objective_grant_overProduction_orange				Bán 50 nguyên liệu Cam đã thu hoạch.
+objective_grant_overProduction_peach				Bán 50 nguyên liệu Đào đã thu hoạch.
+objective_grant_overProduction_banana				Bán 50 nguyên liệu Chuối đã thu hoạch.
+
+reformProgram_solarpaneldevelopment					Phát triển Pin mặt trời
+reformProgram_solarpaneldevelopment_text			Chương trình được thiết kế nhằm cung cấp cho tù nhân các kỹ năng làm việc hữu ích khi họ mãn hạn tù, những phạm nhân vượt qua kỳ kiểm tra sẽ nhận được Chứng nhận Ngành Năng lượng Xanh.
+reformprogram_solarTrained							Đạt chứng nhận: Pin mặt trời
+reform_program_multirequirements					- Mỗi *X tù nhân cần một *Y
+
+status_effect_healthy								Khỏe mạnh
+status_effect_StatusSmelly                          Có mùi
+
+report_grants_reset_tt								Có sẵn sau: 
+
+reformProgram_FarmTraining							An toàn lao động trang trại
+reformProgram_FarmTraining_text						Bất kỳ tù nhân nào hoàn thành xuất sắc khóa học an toàn này sẽ có thể được bố trí lao động trong các phòng “Vườn rau”, “Vườn cây ăn quả”, hoặc “Ruộng ngũ cốc” theo diện lao động tù nhân.
+
+reputation_Dealer									Kẻ buôn bán lậu
+reputationtooltip_Dealer							Tù nhân này có tiền sử liên quan đến Ma túy, họ luôn có thể giành được thỏa thuận tốt nhất từ bất kỳ hoạt động giao dịch hàng cấm nào.	
+reputation_Supplier									Kẻ cung cấp
+reputationtooltip_Supplier							Tù nhân này có tiền sử liên quan đến Ma túy, họ có khả năng sản xuất ma túy dễ dàng hơn nhiều so với các tù nhân khác.
+
+reputation_GreenThumb								Tay mát trồng cây
+reputationtooltip_GreenThumb						Tù nhân này đặc biệt mát tay với cây cối, họ không cần huấn luyện vẫn có thể hỗ trợ Nông dân và có thể làm tăng sản lượng thu hoạch của cây trồng.	
+reputation_Foodie									Tâm hồn ăn uống
+reputationtooltip_Foodie							Tù nhân này thích ăn các bữa ăn thú vị và hữu cơ, họ sẽ cảm thấy tiện nghi khi được ăn nông sản tự trồng trong trại.
+
+interface_action_searchRoom							Khám xét phòng
+
+interface_action_AllSwitchOn                        Bật tất cả công tắc
+interface_action_AllSwitchOff                       Tắt tất cả công tắc
+
+
+d11_utilitylimits_head                              Nguồn điện        
+d11_utilitylimits_body                              Cả nguồn năng lượng xanh (Pin mặt trời, Tuabin gió và hệ thống Lai Pin mặt trời/Tuabin gió) và nguồn điện tiêu chuẩn (Trạm điện và Máy biến áp) đều có giới hạn tối đa là 128 cho mỗi loại. Nếu bạn muốn mua thêm nguồn điện sau khi đạt đến giới hạn này, trước tiên bạn phải thanh lý các nguồn điện hiện có thuộc loại đó.
+
+
+# =============================================================================
+# Crop Distribution
+# =============================================================================
+
+interfacelogistics_CropDistribution			Phân phối cây trồng
+
+d11_manage_crops							Quản lý phân phối - *X
+d11_manageCropsDescription					Tại đây bạn có thể kiểm soát lượng nông sản thu hoạch của *X này được chuyển đến từng phòng kết nối. Bạn có thể kết nối tối đa 8 phòng với mỗi phòng nông nghiệp. *Y
+
+d11_logistics_roomTitle						Phòng
+
+d11_noRoomsConnected						Không có phòng nào được kết nối với *X này nên nó sẽ gửi nông sản đến Kho lạnh, Nhà bếp, Khu xuất hàng và Kho cho đến khi các nơi này đầy.
+d11_noRoomsConnectedField					Không có phòng nào được kết nối với *X này nên nó sẽ gửi nông sản đến Khu xuất hàng và Kho cho đến khi các nơi này đầy.
+
+#pc only
+d11_cropDistributionHint					Click chuột phải: Quản lý phân phối
+
+d11_manageCropsInstructions					Bạn có thể nhấp vào một tỷ lệ phần trăm để khóa nó lại và ngăn các phòng khác thay đổi lượng phân bổ của nó. Nếu không, hãy sử dụng các nút mũi tên để thay đổi tỷ lệ phần trăm với tổng lượng cho mỗi loại cây trồng được giới hạn ở mức 100% trên tất cả các phòng kết nối.
+
+#
+
+
+#===========================================================
+# Quick Rooms
+#===========================================================
+
+quickbuild_grove									Rừng cây nhỏ
+quickbuild_flowerGarden								Vườn hoa
+quickbuild_yard										Sân tù
+quickbuild_hedgeMaze								Mê cung hàng rào
+
+buildtoolbar_quickbuild_flowerGarden						Một khu vực nghỉ ngơi yên bình cho các tù nhân của chúng ta.
+buildtoolbar_quickbuild_grove								Một nhóm cây xanh, được sử dụng để tăng thêm sức sống cho mảnh đất của chúng ta.
+buildtoolbar_quickbuild_hedgeMaze							Một mê cung cơ bản được tạo ra bằng các hàng rào cây, cho các tù nhân của chúng ta khám phá.
+buildtoolbar_quickbuild_yard								Một sân tù tiêu chuẩn với mọi thứ mà tù nhân của chúng ta có thể cần.
+
+# =============================================================================
+# Staff Alert System
+# =============================================================================
+
+
+d11_staffalert_title_MONEY01				Trại giam đang cạn kiệt tiền.
+d11_staffalert_title_PRISONERS02			Cai ngục bị áp đảo về số lượng.
+d11_staffalert_title_CONTRABAND03			Phát hiện lượng lớn hàng cấm.
+d11_staffalert_title_CONTRABAND02			Nguồn cung ma túy trong trại giam đang ở mức cao nguy hiểm.
+d11_staffalert_title_CONTRABAND01			Nguồn cung công cụ và vũ khí trong trại giam đang ở mức cao nguy hiểm.
+d11_staffalert_title_NEEDS04				Quá nhiều tù nhân đang phàn nàn về việc đói bụng.
+d11_staffalert_title_NEEDS03				Quá nhiều tù nhân đang phàn nàn về việc thiếu ngủ.
+d11_staffalert_title_NEEDS01				Quá nhiều tù nhân đang phàn nàn về việc thiếu bồn cầu.
+d11_staffalert_title_NEEDS02				Quá nhiều tù nhân đang phàn nàn về việc thiếu bồn cầu.
+d11_staffalert_title_NEEDS08				Tù nhân của chúng ta không được sạch sẽ cho lắm.
+d11_staffalert_title_OBJECTS04				Trại giam đang thiếu Hệ thống điều khiển cửa.
+d11_staffalert_title_ROOMS01				Một phòng trong trại giam của bạn không đáp ứng các tiêu chuẩn yêu cầu.
+d11_staffalert_title_INFORMANTS01			Một chỉ điểm viên đang gặp nguy hiểm lớn.
+d11_staffalert_title_HOLDINGCELL01			Quá nhiều tù nhân đang bị giữ trong các Phòng tạm giam.
+d11_staffalert_title_NEEDS06				Trại giam rất cần được vệ sinh.
+d11_staffalert_title_NEEDS14				Tù nhân của chúng ta cần có quần áo sạch.
+d11_staffalert_title_NEEDS13				Tù nhân của chúng ta cần Giờ tự do để giữ họ bình tĩnh.
+d11_staffalert_title_NEEDS09				Tù nhân của chúng ta cần vận động.
+d11_staffalert_title_NEEDS10				Tù nhân quá buồn chán đến mức sắp phát điên vì bị giam cầm.
+d11_staffalert_title_NEEDS11				Tù nhân cần nơi nào đó để ngồi trong Giờ tự do.
+d11_staffalert_title_POWER01				Các khu vực của Trại giam đang bị mất điện.
+d11_staffalert_title_WATER01				Các khu vực của trại giam đang không có nước máy.
+d11_staffalert_title_CELLS01				Trại giam đang không hoạt động hết công suất.
+d11_staffalert_title_OBJECTS03				Trại giam đang thiếu một hệ thống camera an ninh toàn diện.
+d11_staffalert_title_OBJECTS01				Chúng ta chưa được trang bị để xử lý hỏa hoạn trong trại giam.
+d11_staffalert_title_POWER02				Một trong các Trạm điện của chúng ta đang bị quá tải.
+d11_staffalert_title_DEATHROW01				Hãy cân nhắc thêm một khu Tử tù vào trại giam.
+d11_staffalert_title_STAFF01				Phần lớn nhân viên của bạn đang kiệt sức.
+d11_staffalert_title_NEEDS12				Tù nhân của chúng ta muốn có chút riêng tư.
+d11_staffalert_title_NEEDS19				Tù nhân của chúng ta thiếu các kỹ năng đọc viết cơ bản.
+d11_staffalert_title_NEEDS05				Số lượng tù nhân nhớ gia đình đang ở mức nguy hiểm.
+d11_staffalert_title_NEEDS07				Tù nhân của chúng ta không cảm thấy an toàn ở đây.
+d11_staffalert_title_NEEDS15				Hãy kiểm soát mức độ nghiện ma túy trong trại giam của bạn.
+d11_staffalert_title_NEEDS16				Hãy kiểm soát mức độ nghiện rượu bia trong trại giam của bạn.
+d11_staffalert_title_NEEDS18				Hướng dẫn tâm linh có tác dụng làm dịu các tù nhân.
+d11_staffalert_title_PRISONERS03			Chất lượng các phòng giam của chúng ta quá thấp.
+d11_staffalert_title_DOCTOR01				Không có ai làm việc trong Trạm y tế.
+d11_staffalert_title_OBJECTS02				Trại giam xử lý rác thải chưa hiệu quả.
+d11_staffalert_details_MONEY01				Trại giam chỉ còn *A trong tài khoản ngân hàng.
+d11_staffalert_details_PRISONERS02			Số lượng tù nhân áp đảo cai ngục của bạn theo tỷ lệ *A:*B.
+d11_staffalert_details_CONTRABAND03			Tìm thấy *A mặt hàng cấm trong 7 ngày qua.
+d11_staffalert_details_CONTRABAND02			Nguồn cung ma túy đang ở mức *A.
+d11_staffalert_details_CONTRABAND01a		Nguồn cung vũ khí đang ở mức *A.
+d11_staffalert_details_CONTRABAND01b		Nguồn cung công cụ đang ở mức *A.
+d11_staffalert_details_NEEDS04a				*A tù nhân đang cực kỳ đói bụng.
+d11_staffalert_details_NEEDS04b				Hãy xây thêm Nhà bếp.
+d11_staffalert_details_NEEDS04c				Hãy thuê thêm Đầu bếp.
+d11_staffalert_details_NEEDS04d				Thêm nhiều khung giờ 'Ăn uống' hơn vào lịch sinh hoạt của bạn.
+d11_staffalert_details_NEEDS03				*A tù nhân cần ngủ nghỉ khẩn cấp.
+d11_staffalert_details_NEEDS01				*A tù nhân cần đi vệ sinh khẩn cấp.
+d11_staffalert_details_NEEDS02				*A tù nhân cần đi vệ sinh khẩn cấp.
+d11_staffalert_details_NEEDS08				*A tù nhân cần cải thiện mức độ vệ sinh của họ.
+d11_staffalert_details_OBJECTS04			Yêu cầu Hệ thống điều khiển cửa và Mô-tơ cửa.
+d11_staffalert_details_ROOMS01				Đảm bảo các phòng có biểu tượng dấu chấm than màu đỏ nhấp nháy đáp ứng đầy đủ các tiêu chí được liệt kê.
+d11_staffalert_details_INFORMANTS01			Các tù nhân nghi ngờ mạnh mẽ rằng *A là một chỉ điểm viên.
+d11_staffalert_details_HOLDINGCELL01		*A tù nhân hiện không có phòng giam riêng.
+d11_staffalert_details_NEEDS06a				Hãy thuê thêm Lao công.
+d11_staffalert_details_NEEDS06b				Hãy xây thêm Tủ vệ sinh.
+d11_staffalert_details_NEEDS06c				Bố trí tù nhân lao động từ các Tủ vệ sinh.
+d11_staffalert_details_NEEDS14a				*A tù nhân cần quần áo sạch.
+d11_staffalert_details_NEEDS14b				Hãy xây một Phòng giặt.
+d11_staffalert_details_NEEDS14c				Hãy lắp đặt một Máy giặt.
+d11_staffalert_details_NEEDS14d				Hãy trang bị một Giỏ đồ giặt.
+d11_staffalert_details_NEEDS13				*A tù nhân muốn có thêm Giờ tự do.
+d11_staffalert_details_NEEDS09				*A tù nhân cần cải thiện thể lực của họ.
+d11_staffalert_details_NEEDS10				*A tù nhân cần các hoạt động giải trí để giữ bình tĩnh.
+d11_staffalert_details_NEEDS11				*A tù nhân đang phàn nàn về việc thiếu chỗ ngồi trong Giờ tự do.
+d11_staffalert_details_POWER01				Kết nối tất cả các vật thể có biểu tượng tia sét nhấp nháy với một Trạm điện.
+d11_staffalert_details_WATER01				Kết nối tất cả các vật thể có biểu tượng giọt nước nhấp nháy với trạm bơm nước.
+d11_staffalert_details_CELLS01a				Chúng ta có thể chứa thêm *A tù nhân an ninh thấp.
+d11_staffalert_details_CELLS01b				Chúng ta có thể chứa thêm *A tù nhân an ninh vừa.
+d11_staffalert_details_CELLS01c				Chúng ta có thể chứa thêm *A tù nhân an ninh cao.
+d11_staffalert_details_CELLS01d				Chúng ta có thể chứa thêm *A tù nhân SuperMax.
+d11_staffalert_details_CELLS01e				Chúng ta có thể chứa thêm *A tử tù.
+d11_staffalert_details_CELLS01f				Chúng ta có thể chứa thêm *A tù nhân giam bảo hộ.
+d11_staffalert_details_OBJECTS03			Yêu cầu thêm Camera an ninh.
+d11_staffalert_details_OBJECTS01			Trại giam chưa thiết lập hệ thống vòi phun nước cứu hỏa.
+d11_staffalert_details_POWER02				Sản lượng của một Trạm điện trong trại giam của bạn đang ở mức *A.
+d11_staffalert_details_DEATHROW01			Thêm một khu Tử tù vào trại giam sẽ cho phép bạn tiếp nhận các tử tù có giá trị cao.
+d11_staffalert_details_STAFF01				*A nhân viên hiện đang kiệt sức.
+d11_staffalert_details_NEEDS12				*A tù nhân muốn một nơi nào đó để được ở một mình.
+d11_staffalert_details_NEEDS19				*A tù nhân thiếu các kỹ năng đọc viết cơ bản.
+d11_staffalert_details_NEEDS05				*A tù nhân đang rất muốn liên lạc với gia đình họ.
+d11_staffalert_details_NEEDS07				*A tù nhân lo sợ cho tính mạng của mình.
+d11_staffalert_details_NEEDS15				*A tù nhân đang nghiện ma túy.
+d11_staffalert_details_NEEDS16				*A tù nhân gặp vấn đề về nghiện rượu bia.
+d11_staffalert_details_NEEDS18				*A tù nhân muốn được hướng dẫn tâm linh.
+d11_staffalert_details_PRISONERS03			*A tù nhân hiện đang sống trong các phòng giam không đáp ứng mức quyền lợi của họ.
+d11_staffalert_details_DOCTOR01				Chúng ta cần thuê một số bác sĩ để chữa trị cho các tù nhân và cai ngục bị thương.
+d11_staffalert_details_OBJECTS02			Yêu cầu thêm Thùng rác.
+d11_staffalert_details_CELLS01				Chúng ta có thể chứa thêm *A tù nhân.
+d11_staffalert_details_CELLS01Z				Chúng ta có *A phòng giam *B còn trống.
+d11_staffalert_hint_MONEY01					Trại giam đang cạn kiệt tiền, tôi xin đề xuất chúng ta tiếp nhận thêm tù nhân để tăng thu nhập hàng ngày hoặc đáp ứng các điều kiện của một khoản trợ cấp mới nhằm có một đợt bơm tiền lớn.
+d11_staffalert_hint_PRISONERS02				Sẽ không an toàn nếu cai ngục của bạn bị áp đảo quá nhiều về số lượng so với tù nhân, mỗi cai ngục có thể quản lý an toàn khoảng 5 tù nhân.
+d11_staffalert_hint_CONTRABAND03			Hãy kiểm tra báo cáo tình báo về hàng cấm mà tôi đã nộp để xác định nguồn hàng cấm trong 7 ngày qua và ban hành các biện pháp ngăn chặn chúng.
+d11_staffalert_hint_CONTRABAND02			Tù nhân có thể dễ dàng tiếp cận ma túy, điều này rất nguy hiểm. Hãy thuê Người dắt chó và cho họ tuần tra các khu phòng giam hoặc ra lệnh Khám xét đột xuất toàn trại.
+d11_staffalert_hint_CONTRABAND01			Tù nhân có thể dễ dàng tiếp cận công cụ và vũ khí, điều này rất nguy hiểm. Hãy đặt máy dò kim loại gần các nguồn hàng cấm hoặc ra lệnh Khám xét đột xuất toàn trại.
+d11_staffalert_hint_NEEDS04					Tù nhân sẽ đói theo thời gian, hãy đảm bảo có đủ chỗ trong nhà ăn và đủ thời gian phân bổ cho việc ăn uống để mọi người đều được cho ăn.
+d11_staffalert_hint_NEEDS03					Tù nhân cần ngủ để giữ tâm trạng vui vẻ. Họ sẽ làm điều này trong các khoảng thời gian Ngủ được chỉ định hoặc trong Giờ tự do.
+d11_staffalert_hint_NEEDS01					Tù nhân cần được sử dụng bồn cầu, hãy cân nhắc thêm nhiều bồn cầu vào trại giam hoặc tăng thời gian phân bổ cho Giờ tự do.
+d11_staffalert_hint_NEEDS02					Tù nhân cần được sử dụng bồn cầu, hãy cân nhắc thêm nhiều bồn cầu vào trại giam hoặc tăng thời gian phân bổ cho Giờ tự do.
+d11_staffalert_hint_NEEDS08					Vệ sinh cá nhân rất quan trọng trong cuộc sống hàng ngày, trong tù thì nó lại càng thiết yếu. Hãy đảm bảo tù nhân của bạn có nhiều thời gian để đi tắm.
+d11_staffalert_hint_OBJECTS04				Các cai ngục của chúng ta hiện phải dành phần lớn thời gian để mở cửa giam cho mọi người, thời gian của họ quá quan trọng để lãng phí vào việc này! Hãy lắp đặt Hệ thống điều khiển cửa và một cai ngục có thể mở nhiều cửa từ xa.
+d11_staffalert_hint_ROOMS01					Tất cả các phòng đều có một số yêu cầu nhất định mà bạn phải đáp ứng, hãy nhấp vào các phòng có biểu tượng dấu chấm than màu đỏ nhấp nháy để xem những yêu cầu nào bạn chưa đáp ứng.
+d11_staffalert_hint_INFORMANTS01			Chỉ điểm viên của chúng ta sẽ không trụ được lâu ở đây nếu không có sự bảo vệ của chúng ta, tôi khuyên bạn nên đổi mức độ an ninh của họ thành 'Giam bảo hộ' và chuyển họ ra khỏi khu vực chung của tù nhân.
+d11_staffalert_hint_HOLDINGCELL01			Quá nguy hiểm nếu để nhiều tù nhân như thế này trong các Phòng tạm giam về lâu dài. Bạn phải xây thêm Phòng giam để chứa họ càng sớm càng tốt, nếu không họ có thể châm ngòi bạo loạn!
+d11_staffalert_hint_NEEDS06					Trại giam rất bẩn và điều này đang khiến tù nhân của bạn rất không vui, hãy tìm cách dọn dẹp nhanh nhất có thể trước khi họ nổi giận.
+
+d11_staffalert_hint_NEEDS13					Tù nhân đều muốn một điều. Đó là không phải ở trong tù. Mặc dù chúng ta không thể cho họ điều đó, chúng ta có thể làm cho kỳ lưu trú của họ dễ chịu hơn với nhiều Giờ tự do.
+d11_staffalert_hint_NEEDS09					Vận động giúp tù nhân của bạn cân đối, khỏe mạnh và hạnh phúc. Hãy đảm bảo họ dễ dàng tiếp cận các ghế tập tạ.
+d11_staffalert_hint_NEEDS10					Hãy giúp phá vỡ sự đơn điệu hàng ngày bằng cách cho tù nhân của bạn tiếp cận các vật dụng giải trí như Bàn bi-a, Radio và Tivi.
+d11_staffalert_hint_NEEDS11					Thời gian nghỉ ngơi quan trọng với mọi người, nhưng ở trong tù thì lại khó tìm. Cho tù nhân của bạn ghế dài và ghế sofa để ngồi sẽ giúp họ thư giãn.
+d11_staffalert_hint_POWER01					Một số vật thể cần kết nối với Trạm điện để hoạt động, hãy sử dụng dây điện để kết nối tất cả các vật thể có biểu tượng tia sét nhấp nháy với một Trạm điện.
+d11_staffalert_hint_WATER01					Một số vật thể cần kết nối với trạm bơm nước để hoạt động, hãy sử dụng ống nước để kết nối tất cả các vật thể có biểu tượng giọt nước nhấp nháy với trạm bơm nước.
+d11_staffalert_hint_CELLS01					Tiếp nhận thêm tù nhân mang lại cho chúng ta một khoản tiền thưởng trả trước hậu hĩnh, điều đó cũng có nghĩa là chúng ta nhận được nhiều tiền hơn từ tiểu bang mỗi ngày. Chúng ta nên luôn vận hành hết công suất nếu có thể!
+d11_staffalert_hint_OBJECTS03				Camera an ninh cho phép chúng ta giám sát các khu vực trong nhà tù ngay cả khi không có Cai ngục ở đó. Một Màn hình CCTV cho phép một Cai ngục xem được 8 Camera an ninh khác nhau. Quá tiện lợi còn gì!
+d11_staffalert_hint_OBJECTS01				Vào lúc này chúng ta nghiêm túc thiếu trang bị để đối phó với hỏa hoạn trong trại giam. Chúng ta nên lắp đặt hệ thống vòi phun nước cứu hỏa càng sớm càng tốt.
+d11_staffalert_hint_POWER02					Trạm điện của chúng ta đang bị quá tải nghiêm trọng, hãy thêm nhiều tụ điện vào đó hoặc xây một trạm mới để chia sẻ tải trọng. Tuy nhiên hãy cẩn thận, các Trạm điện không thể kết nối lại với nhau!
+d11_staffalert_hint_DEATHROW01				Thêm một khu Tử tù vào Trại giam là điều mạo hiểm vì việc hành hình cần được xử lý hết sức cẩn thận để chúng ta đáp ứng tất cả các yêu cầu pháp lý... Nhưng, chúng ta có thể kiếm được rất nhiều tiền, vì vậy nó có thể đáng để mạo hiểm!
+d11_staffalert_hint_STAFF01					Nhân viên của bạn không thể làm việc hiệu quả nếu họ kiệt sức, hãy xây cho họ một phòng nghỉ nhân viên để họ thư giãn hoặc thuê thêm nhân viên dự phòng để giảm bớt gánh nặng cho họ.
+d11_staffalert_hint_NEEDS12					Đôi khi, tù nhân chỉ cần một khoảng thời gian ở một mình, tuy nhiên lý do “không phải tại anh, tại tôi” thường không mấy suôn sẻ trong tù. Hãy đảm bảo tù nhân có quyền sử dụng phòng giam riêng của họ.
+d11_staffalert_hint_NEEDS19					Một người đọc sách sống cả ngàn cuộc đời trước khi chết, kẻ không bao giờ đọc chỉ sống một cuộc đời duy nhất. Hãy để tù nhân của bạn 'vượt ngục' vào một cuốn sách hay bằng cách cho họ tiếp cận thư viện.
+d11_staffalert_hint_NEEDS05					Tù nhân có thể trở nên tức giận nếu không được phép giao tiếp với gia đình họ. Hãy xây một Phòng thăm nuôi, một Phòng thư tín hoặc các Buồng điện thoại để xua tan nỗi buồn trong tù.
+d11_staffalert_hint_NEEDS07					Nếu mức độ nguy hiểm của trại giam quá cao, nhiều tù nhân sẽ bắt đầu cảm thấy không an toàn và sợ hãi. Hãy hạ thấp mức độ nguy hiểm bằng cách đáp ứng các nhu cầu khác của tù nhân.
+d11_staffalert_hint_NEEDS15					Một số phạm nhân vào tù với thói quen nghiện ngập. Nếu họ không thể vượt qua cơn nghiện của mình, họ sẽ bắt đầu nổi giận, hoặc họ có thể bắt đầu giao dịch hàng cấm để thỏa mãn cơn thèm thuốc. Hãy sử dụng các chương trình cải tạo để giúp họ phục hồi.
+d11_staffalert_hint_NEEDS16					Một số phạm nhân vào tù với chứng nghiện rượu. Nếu họ không thể vượt qua cơn nghiện, họ sẽ bắt đầu nổi giận, hoặc họ có thể bắt đầu giao dịch hàng cấm để thỏa mãn cơn thèm. Hãy sử dụng các chương trình cải tạo để giúp họ phục hồi.
+d11_staffalert_hint_NEEDS18					Tham gia các chương trình hướng dẫn tâm linh sẽ có tác dụng làm dịu tù nhân của bạn, họ cũng sẽ lan tỏa sự bình tĩnh này đến các tù nhân khác.
+d11_staffalert_hint_PRISONERS03				Tất cả tù nhân của chúng ta đều có quyền được hưởng một phòng giam có mức chất lượng nhất định dựa trên hành vi của họ. Hãy cải thiện chất lượng phòng giam bằng cách sử dụng màn hình Hậu cần.
+d11_staffalert_hint_DOCTOR01				Chúng ta không thể chữa trị cho bất kỳ ai trong Trạm y tế trừ khi bạn thuê một số Bác sĩ. Bác sĩ có thể sử dụng trạm y tế để điều trị bất kỳ chấn thương nào xảy ra với nhân viên hoặc tù nhân.
+d11_staffalert_hint_OBJECTS02				Thùng rác cho phép chúng ta chứa rất nhiều rác trước khi cần đổ, điều này có nghĩa là số lần phải đi đến khu rác sẽ ít đi rất nhiều. Hãy thêm thùng rác vào nhà bếp và đặt chúng gần máy dò kim loại để tăng hiệu suất.
+d11_staffalert_tooltip_MONEY01				Chấp nhận một Trợ cấp mới [[*X]]
+d11_staffalert_tooltip_PRISONERS02			Thuê Cai ngục [[*X]]
+d11_staffalert_tooltip_CONTRABAND03			Xem Báo cáo Tình báo [[*X]]
+d11_staffalert_tooltip_CONTRABAND02			Thuê Người dắt chó [[*X]]
+d11_staffalert_tooltip_CONTRABAND01			Lắp đặt Máy dò kim loại [[*X]]
+d11_staffalert_tooltip_NEEDS04				Thuê Đầu bếp [[*X]]
+d11_staffalert_tooltip_NEEDS03				Sửa đổi Lịch sinh hoạt [[*X]]
+d11_staffalert_tooltip_NEEDS01				Thêm nhiều bồn cầu [[*X]]
+d11_staffalert_tooltip_NEEDS02				Thêm nhiều bồn cầu [[*X]]
+d11_staffalert_tooltip_NEEDS08				Sửa đổi Lịch sinh hoạt [[*X]]
+d11_staffalert_tooltip_OBJECTS04			Xây dựng Hệ thống điều khiển cửa [[*X]]
+d11_staffalert_tooltip_ROOMS01				Kiểm tra Yêu cầu [[*X]]
+d11_staffalert_tooltip_INFORMANTS01			Chuyển sang Giam bảo hộ [[*X]]
+d11_staffalert_tooltip_HOLDINGCELL01		Xây thêm Phòng giam [[*X]]
+d11_staffalert_tooltip_NEEDS06				Thuê Lao công [[*X]]
+d11_staffalert_tooltip_NEEDS14				Xây một Phòng giặt [[*X]]
+d11_staffalert_tooltip_NEEDS13				Sửa đổi Lịch sinh hoạt [[*X]]
+d11_staffalert_tooltip_NEEDS09				Lắp đặt Ghế tập tạ [[*X]]
+d11_staffalert_tooltip_NEEDS10				Lắp đặt Radio [[*X]]
+d11_staffalert_tooltip_NEEDS11				Lắp đặt Ghế dài [[*X]]
+d11_staffalert_tooltip_POWER01				Lắp đặt Dây điện [[*X]]
+d11_staffalert_tooltip_WATER01				Lắp đặt Ống nước [[*X]]
+d11_staffalert_tooltip_CELLS01				Tăng Tiếp nhận Tù nhân [[*X]]
+d11_staffalert_tooltip_OBJECTS03			Lắp đặt Camera an ninh [[*X]]
+d11_staffalert_tooltip_OBJECTS01			Lắp đặt Vòi phun nước [[*X]]
+d11_staffalert_tooltip_POWER02				Tăng Nguồn cấp điện [[*X]]
+d11_staffalert_tooltip_DEATHROW01a			Xây một khu Tử tù [[*X]]
+d11_staffalert_tooltip_DEATHROW01b			Nghiên cứu Tử tù [[*X]]
+d11_staffalert_tooltip_STAFF01				Xây một Phòng nghỉ nhân viên [[*X]]
+d11_staffalert_tooltip_NEEDS12				Tạo thêm Phòng giam [[*X]]
+d11_staffalert_tooltip_NEEDS19				Xây một Thư viện [[*X]]
+d11_staffalert_tooltip_NEEDS05				Lắp đặt Buồng điện thoại [[*X]]
+d11_staffalert_tooltip_NEEDS07				Xem Nhu cầu Tù nhân [[*X]]
+d11_staffalert_tooltip_NEEDS15				Bắt đầu Cai nghiện bằng thuốc [[*X]]
+d11_staffalert_tooltip_NEEDS16				Bắt đầu Trị liệu nhóm cai rượu [[*X]]
+d11_staffalert_tooltip_NEEDS18				Bắt đầu chương trình Hướng dẫn tâm linh [[*X]]
+d11_staffalert_tooltip_PRISONERS03			Cải thiện Phòng giam [[*X]]
+d11_staffalert_tooltip_DOCTOR01				Thuê Bác sĩ [[*X]]
+d11_staffalert_tooltip_OBJECTS02			Lắp đặt Thùng rác [[*X]]
+d11_staffalert_summary_MONEY01				Chúng ta đang sắp hết tiền mặt.
+d11_staffalert_summary_PRISONERS02			Chúng ta nên thuê thêm Cai ngục.
+d11_staffalert_summary_CONTRABAND03			Có mức độ hàng cấm cao trong trại giam.
+d11_staffalert_summary_CONTRABAND02			Quá nhiều tù nhân tiếp cận được với ma túy.
+d11_staffalert_summary_CONTRABAND01			Quá nhiều tù nhân tiếp cận được với công cụ và vũ khí.
+d11_staffalert_summary_NEEDS04				Tù nhân của bạn đang bị đói.
+d11_staffalert_summary_NEEDS03				Tù nhân của chúng ta trông luôn rất mệt mỏi.
+d11_staffalert_summary_NEEDS01				Chúng ta nên xây thêm một số bồn cầu.
+d11_staffalert_summary_NEEDS02				Chúng ta nên xây thêm một số bồn cầu.
+d11_staffalert_summary_NEEDS08				Ồ, tù nhân của chúng ta trông hơi lếch thếch.
+d11_staffalert_summary_OBJECTS04			Chúng ta nên cải thiện hiệu suất bằng cách lắp đặt một Hệ thống điều khiển cửa.
+d11_staffalert_summary_ROOMS01				Một số phòng của bạn không hợp lệ.
+d11_staffalert_summary_INFORMANTS01			Các tù nhân đang rất nghi ngờ một trong các chỉ điểm viên của chúng ta.
+d11_staffalert_summary_HOLDINGCELL01		Chúng ta có quá nhiều tù nhân trong các Phòng tạm giam.
+d11_staffalert_summary_NEEDS06				Trại giam cần được dọn dẹp.
+d11_staffalert_summary_NEEDS14				Hừm, quần áo của tù nhân trông có vẻ hơi... tơi tả.
+d11_staffalert_summary_NEEDS13				Tù nhân của chúng ta muốn có thêm Giờ tự do.
+d11_staffalert_summary_NEEDS09				Tù nhân của chúng ta hơi thiếu vận động.
+d11_staffalert_summary_NEEDS10				Tù nhân của chúng ta đang cảm thấy hơi buồn chán.
+d11_staffalert_summary_NEEDS11				Tù nhân đang phàn nàn về việc thiếu chỗ ngồi trong Giờ tự do.
+d11_staffalert_summary_POWER01				Một số khu vực của Trại giam đang mất điện.
+d11_staffalert_summary_WATER01				Một số khu vực của Trại giam đang thiếu nước.
+d11_staffalert_summary_CELLS01				Chúng ta còn chỗ để tiếp nhận thêm tù nhân.
+d11_staffalert_summary_OBJECTS03			Chúng ta cần lắp đặt Camera an ninh.
+d11_staffalert_summary_OBJECTS01			Chúng ta sẽ gặp rủi ro nếu hỏa hoạn bùng phát.
+d11_staffalert_summary_POWER02				Trạm điện của bạn đã quá tải.
+d11_staffalert_summary_DEATHROW01			Chúng ta có thể kiếm thêm một ít tiền nếu thêm khu Tử tù vào trại giam.
+d11_staffalert_summary_STAFF01				Nhân viên của bạn đang dần kiệt sức.
+d11_staffalert_summary_NEEDS12				Tù nhân của chúng ta muốn có chút riêng tư.
+d11_staffalert_summary_NEEDS19				Quá nhiều tù nhân thiếu các kỹ năng đọc viết cơ bản.
+d11_staffalert_summary_NEEDS05				Tù nhân của chúng ta đang nhớ gia đình họ.
+d11_staffalert_summary_NEEDS07				Tù nhân của chúng ta không cảm thấy an toàn.
+d11_staffalert_summary_NEEDS15				Ôi trời, có vẻ như rất nhiều tù nhân của chúng ta gặp vấn đề về ma túy.
+d11_staffalert_summary_NEEDS16				Có vẻ như khá nhiều tù nhân của chúng ta khá là thích rượu bia.
+d11_staffalert_summary_NEEDS18				Rất nhiều tù nhân của chúng ta đang tìm kiếm sự hướng dẫn tâm linh.
+d11_staffalert_summary_PRISONERS03			Chất lượng chung của các phòng giam của chúng ta quá thấp.
+d11_staffalert_summary_DOCTOR01				Chúng ta nên thuê bác sĩ làm việc trong Trạm y tế.
+d11_staffalert_summary_OBJECTS02			Chúng ta cần mua một số thùng rác.
+d11_staffalert_urgentsummary_MONEY01		Chúng ta đang cạn kiệt tiền mặt một cách nghiêm trọng!
+d11_staffalert_urgentsummary_PRISONERS02	Cai ngục của chúng ta bị áp đảo về số lượng, bạn phải thuê thêm Cai ngục!
+d11_staffalert_urgentsummary_CONTRABAND03	Mức độ hàng cấm trong trại giam đang ngoài tầm kiểm soát!
+d11_staffalert_urgentsummary_CONTRABAND02	Lượng ma túy hiện có trong trại giam của bạn đang ở mức nguy hiểm!
+d11_staffalert_urgentsummary_CONTRABAND01	Lượng công cụ và vũ khí hiện có trong trại giam của bạn đang ở mức nguy hiểm!
+d11_staffalert_urgentsummary_NEEDS04		Bỏ cái bánh quy đó xuống! Tù nhân của chúng ta đang chết đói kìa!
+d11_staffalert_urgentsummary_NEEDS03		Này! Tỉnh dậy đi! Tù nhân của bạn cần ngủ nghỉ!
+d11_staffalert_urgentsummary_NEEDS01		Nghiêm túc đấy! Tôi không đùa đâu. Hãy xây thêm bồn cầu!
+d11_staffalert_urgentsummary_NEEDS02		Nghiêm túc đấy! Tôi không đùa đâu. Hãy xây thêm bồn cầu!
+d11_staffalert_urgentsummary_NEEDS08		Kinh quá, tù nhân của chúng ta thật bẩn thỉu.
+d11_staffalert_urgentsummary_OBJECTS04		Đã đến lúc chúng ta tăng hiệu suất và lắp đặt một Hệ thống điều khiển cửa!
+d11_staffalert_urgentsummary_ROOMS01		Một số phòng của bạn vẫn không hợp lệ!
+d11_staffalert_urgentsummary_INFORMANTS01	Một trong các chỉ điểm viên của chúng ta sắp bị phát hiện, tính mạng của anh ta đang gặp nguy hiểm!
+d11_staffalert_urgentsummary_HOLDINGCELL01	Chúng ta phải giảm số lượng tù nhân trong các Phòng tạm giam!
+d11_staffalert_urgentsummary_NEEDS06		Khiếp quá! Trại giam của chúng ta thật kinh tởm.
+d11_staffalert_urgentsummary_NEEDS14		Trời đất ơi! Chúng ta có một trại giam đầy những kẻ rách rưới!
+d11_staffalert_urgentsummary_NEEDS13		Họ không phải là robot đâu biết không, họ cần Giờ tự do để tiếp tục chịu đựng đấy!
+d11_staffalert_urgentsummary_NEEDS09		Ôi trời, tù nhân của chúng ta rất không khỏe mạnh.
+d11_staffalert_urgentsummary_NEEDS10		Tù nhân của chúng ta đang chán đến tận cổ rồi!
+d11_staffalert_urgentsummary_NEEDS11		Thôi nào, tất cả những gì họ muốn chỉ là một nơi để ngồi.
+d11_staffalert_urgentsummary_POWER01		Một số khu vực của Trại giam vẫn đang mất điện!
+d11_staffalert_urgentsummary_WATER01		Một số khu vực của Trại giam vẫn đang thiếu nước!
+d11_staffalert_urgentsummary_CELLS01		Chúng ta có rất nhiều chỗ trống để tiếp nhận thêm tù nhân!
+d11_staffalert_urgentsummary_OBJECTS03		Chúng ta thực sự cần lắp đặt thêm Camera an ninh!
+d11_staffalert_urgentsummary_OBJECTS01		Chúng ta nghiêm túc gặp nguy hiểm lớn nếu hỏa hoạn bùng phát!
+d11_staffalert_urgentsummary_POWER02		Trạm điện của bạn đang bị quá tải nghiêm trọng!
+d11_staffalert_urgentsummary_DEATHROW01		Chúng ta có thể kiếm được rất nhiều tiền một cách nhanh chóng nếu thêm khu Tử tù vào trại giam.
+d11_staffalert_urgentsummary_STAFF01		Nhân viên của bạn đã kiệt sức, bạn phải giúp họ!
+d11_staffalert_urgentsummary_NEEDS12		Tù nhân của chúng ta đang nổi giận đấy, bạn sẽ không thích nhìn thấy họ khi họ nổi điên đâu.
+d11_staffalert_urgentsummary_NEEDS19		Chúng ta nên xây một căn phòng cho những phạm nhân không thạo việc đọc viết.
+d11_staffalert_urgentsummary_NEEDS05		Hãy có chút lòng thương cảm... bạn phải cho phép tù nhân của chúng ta liên lạc với gia đình họ!
+d11_staffalert_urgentsummary_NEEDS07		Tù nhân của chúng ta không cảm thấy an toàn ở đây. Làm ơn, hãy làm gì đó đi.
+d11_staffalert_urgentsummary_NEEDS15		Quá nhiều tù nhân của chúng ta đang nghiện ma túy. Chúng ta phải làm gì đó thôi!
+d11_staffalert_urgentsummary_NEEDS16		Tù nhân của chúng ta gặp vấn đề nghiêm trọng về nghiện rượu bia!
+d11_staffalert_urgentsummary_NEEDS18		Tù nhân của chúng ta đang yêu cầu được hướng dẫn tâm linh.
+d11_staffalert_urgentsummary_PRISONERS03	Chất lượng chung của các phòng giam cần phải được cải thiện càng sớm càng tốt!
+d11_staffalert_urgentsummary_DOCTOR01		Chúng ta cần thuê Bác sĩ làm việc trong Trạm y tế!
+d11_staffalert_urgentsummary_OBJECTS02		Chúng ta thực sự cần phải mua một số thùng rác!
+
+d11_contraband_found_produced				Sản xuất trong trại giam
+
+#GM Staff Alerts
+d11_staffalert_summary_BasicFarming01			Các phòng nông nghiệp cho phép trồng rau, cây ăn quả và ngũ cốc, những nông sản này có thể đem bán xuất khẩu hoặc dùng làm bữa ăn cho tù nhân.
+d11_staffalert_summary_BasicFarming02			Nông dân sẽ xử lý tất cả các công việc liên quan đến làm ruộng, họ cũng được yêu cầu dạy cho các phạm nhân cách thực hiện những công việc này.
+d11_staffalert_summary_BasicFarming03			Không giống như các loại cây trồng khác, cây ăn quả sẽ cho trái liên tục và do đó cây sẽ không cần phải thay thế sau mỗi mùa thu hoạch.
+d11_staffalert_summary_AdvancedFarming01		Theo mặc định, cây rau và ngũ cốc sẽ được tự động mua lại và trồng lại sau mỗi vụ thu hoạch.
+d11_staffalert_summary_AdvancedFarming02		Phân phối cây trồng cung cấp quyền kiểm soát nơi di chuyển các nguyên liệu tự trồng trong trại giam sau khi được thu hoạch.
+d11_staffalert_summary_AdvancedFarming03		Phân bón có thể được bón vào bất kỳ khu vực nào trong các Phòng Nông nghiệp, việc bổ sung phân bón sẽ cải thiện sự phát triển của cây trồng.
+d11_staffalert_summary_GreenEnergy01			Tất cả các nguồn Năng lượng Xanh cần phải được kết nối với một Máy biến áp trước khi năng lượng của chúng có thể được sử dụng.
+d11_staffalert_summary_GreenEnergy02			Các vật thể Máy biến áp là cần thiết cho cả việc sử dụng năng lượng xanh và sạc pin.
+d11_staffalert_summary_GreenEnergy03			Đồng hồ xuất khẩu điện được sử dụng để gửi bất kỳ lượng điện nào không sử dụng trở lại mạng lưới điện khu vực nhằm thu về lợi ích tài chính.
+
+d11_staffalert_title_BasicFarming01				Hệ thống canh tác
+d11_staffalert_title_BasicFarming02				Nông dân
+d11_staffalert_title_BasicFarming03				Cây ăn quả
+d11_staffalert_title_AdvancedFarming01			Tự động trồng trọt
+d11_staffalert_title_AdvancedFarming02			Phân phối hoa màu
+d11_staffalert_title_AdvancedFarming03			Hệ thống phân bón
+d11_staffalert_title_GreenEnergy01				Sản xuất năng lượng xanh
+d11_staffalert_title_GreenEnergy02				Biến đổi năng lượng xanh
+d11_staffalert_title_GreenEnergy03				Xuất khẩu năng lượng tích trữ
+
+d11_staffalert_details_BasicFarming01			Mỗi phòng canh tác cần phải ở ngoài trời và phải được đặt vật thể nhà kho ở bên trong.
+d11_staffalert_details_BasicFarming02			Nông dân sẽ làm việc như giáo viên dạy tù nhân trong chương trình Đào tạo canh tác.
+d11_staffalert_details_BasicFarming03			Dù cây ăn quả có giá thành cao và thời gian trưởng thành lâu, chúng lại cho sản lượng cao hơn nhiều so với bất kỳ loại cây trồng nào khác.
+d11_staffalert_details_AdvancedFarming01		Tùy chọn Tự động trồng trọt có thể được bật hoặc tắt thông qua menu Chính sách.
+d11_staffalert_details_AdvancedFarming02		Sau khi được mở khóa, tùy chọn này có thể được tìm thấy trong menu Hậu cần.
+d11_staffalert_details_AdvancedFarming03		Nghiên cứu "Canh tác" sẽ mở khóa Thùng ủ phân và 2 loại phân bón.
+d11_staffalert_details_GreenEnergy01			Năng lượng xanh phải truyền theo hướng của các dấu mũi tên hiển thị ở cả hai bên Máy biến áp.
+d11_staffalert_details_GreenEnergy02			Tương tự như Tụ điện và Trạm điện, các vật thể Ắc quy chỉ có thể được đặt cạnh một Máy biến áp.
+d11_staffalert_details_GreenEnergy03			Đồng hồ xuất khẩu điện phải được nối dây vào Máy biến áp có gắn Ắc quy để hoạt động chính xác.
+
+d11_staffalert_hint_BasicFarming01				Không giống như Rau và Trái cây, ngũ cốc chỉ có thể được bán dưới dạng hàng xuất khẩu.
+d11_staffalert_hint_BasicFarming02				Nông dân cũng sẽ thực hiện tất cả các công việc làm vườn trong khu vực canh tác của họ.
+d11_staffalert_hint_BasicFarming03				Cây ăn quả cung cấp nguồn lương thực hiệu quả nhất khi được trồng với số lượng lớn.
+d11_staffalert_hint_AdvancedFarming01			Cơ chế hoạt động này tương tự như Khu trồng rừng.
+d11_staffalert_hint_AdvancedFarming02			Các phòng liên quan đến trồng trọt, sử dụng hoặc lưu trữ thực phẩm có thể được liên kết với nhau, giúp quản lý chi tiết việc phân phối nguyên liệu.
+d11_staffalert_hint_AdvancedFarming03			Thùng ủ phân sẽ chuyển đổi chất thải thực phẩm và thực vật cùng các chất khác thành Phân hữu cơ miễn phí.
+d11_staffalert_hint_GreenEnergy01				Nếu năng lượng xanh thô được kết nối trực tiếp với bất kỳ thiết bị nào, nó sẽ gây ra mất điện cục bộ.
+d11_staffalert_hint_GreenEnergy02				Ắc quy sẽ lưu trữ lượng điện không sử dụng để dùng trong trường hợp khẩn cấp hoặc để Xuất khẩu điện.
+d11_staffalert_hint_GreenEnergy03				Ắc quy có thể được sạc bởi bất kỳ nguồn điện nào kết nối với Máy biến áp, ngay cả Trạm điện.
+
+d11_staffalert_tooltip_BasicFarming01			Mở Phòng [[*X]]
+d11_staffalert_tooltip_BasicFarming02			Mở Thuê nhân viên [[*X]]
+d11_staffalert_tooltip_BasicFarming03			Mở Vật thể [[*X]]
+d11_staffalert_tooltip_AdvancedFarming01		Mở Chính sách [[*X]]
+d11_staffalert_tooltip_AdvancedFarming02		Mở Hậu cần [[*X]]
+d11_staffalert_tooltip_AdvancedFarming03		Mở Vật thể [[*X]]
+d11_staffalert_tooltip_GreenEnergy01			Mở Tiện ích/Điện [[*X]]
+d11_staffalert_tooltip_GreenEnergy02			Mở Tiện ích/Điện [[*X]]
+d11_staffalert_tooltip_GreenEnergy03			Mở Nối dây [[*X]]
+
+# =============================================================================
+# Targets
+# =============================================================================
+
+objective_target_SolarPanels						Mục tiêu năng lượng xanh 1
+objective_target_SolarPanels_description			Mở khóa vật phẩm Tuabin gió.
+objective_target_SolarPanels_task					Mua [3] pin mặt trời.
+objective_target_SolarPanels_reward					Hoàn thành mục tiêu năng lượng xanh 1.
+objective_target_SolarPanels_reward_text			Đã mở khóa Tuabin gió
+
+objective_target_WindTurbine						Mục tiêu năng lượng xanh 2
+objective_target_WindTurbine_description			Mở khóa vật phẩm Tuabin gió năng lượng mặt trời hỗn hợp.
+objective_target_WindTurbine_task					Mua [3] tuabin gió.
+objective_target_WindTurbine_reward					Hoàn thành mục tiêu năng lượng xanh 2.
+objective_target_WindTurbine_reward_text			Đã mở khóa Tuabin gió năng lượng mặt trời hỗn hợp
+
+objective_target_ExportPower1						Mục tiêu năng lượng xanh 3
+objective_target_ExportPower1_description			Giới hạn xuất khẩu điện được tăng lên 1000 đơn vị.
+objective_target_ExportPower1_task					Xuất khẩu 1000 đơn vị điện.
+objective_target_ExportPower1_reward				Hoàn thành mục tiêu năng lượng xanh 3.
+objective_target_ExportPower1_reward_text			Giới hạn xuất khẩu điện tăng lên 1000 đơn vị
+
+objective_target_ExportPower2						Mục tiêu năng lượng xanh 4
+objective_target_ExportPower2_description			Giới hạn xuất khẩu điện được tăng lên 2500 đơn vị.
+objective_target_ExportPower2_task					Xuất khẩu 2500 đơn vị điện.
+objective_target_ExportPower2_reward				Hoàn thành mục tiêu năng lượng xanh 4.
+objective_target_ExportPower2_reward_text			Giới hạn xuất khẩu điện tăng lên 2500 đơn vị
+
+objective_target_ExportPower3						Mục tiêu năng lượng xanh 5
+objective_target_ExportPower3_description			Giới hạn xuất khẩu điện được tăng lên 5000 đơn vị.
+objective_target_ExportPower3_task					Xuất khẩu 5000 đơn vị điện.
+objective_target_ExportPower3_reward				Hoàn thành mục tiêu năng lượng xanh 5.
+objective_target_ExportPower3_reward_text			Giới hạn xuất khẩu điện tăng lên 5000 đơn vị
+
+objective_target_PassReform							Mục tiêu năng lượng xanh 6
+objective_target_PassReform_description				Điểm thưởng phần trăm cho tỷ lệ cải tạo khi hoàn thành chương trình sẽ được tăng lên (hiện tại là 25%).
+objective_target_PassReform_task					Có [25] tù nhân vượt qua chương trình Phát triển pin mặt trời thành công.
+objective_target_PassReform_reward					Hoàn thành mục tiêu năng lượng xanh 6.
+objective_target_PassReform_reward_text				Tăng điểm thưởng phần trăm cho tỷ lệ cải tạo khi hoàn thành chương trình Phát triển pin mặt trời
+
+objective_target_GreenEnergySource					Mục tiêu năng lượng xanh 7
+objective_target_GreenEnergySource_description		Tác động tiêu cực của thời tiết giảm một nửa và tác động tích cực được nhân đôi.
+objective_target_GreenEnergySource_task				Mua [10] pin mặt trời.
+objective_target_GreenEnergySource_task_1			Mua [10] tuabin gió.
+objective_target_GreenEnergySource_task_2			Mua [10] tuabin gió năng lượng mặt trời hỗn hợp.
+objective_target_GreenEnergySource_reward			Hoàn thành mục tiêu năng lượng xanh 7.
+objective_target_GreenEnergySource_reward_text		Tác động tiêu cực của thời tiết giảm một nửa và tác động tích cực được nhân đôi
+
+objective_target_PowerStation						Mục tiêu năng lượng xanh 8
+objective_target_PowerStation_description			1 nguồn năng lượng xanh mỗi loại sẽ được giao đến nhà tù, miễn phí.
+objective_target_PowerStation_task					Người chơi không được sử dụng Trạm điện trong [10] ngày trong game (khi có tù nhân).
+objective_target_PowerStation_reward					Hoàn thành mục tiêu năng lượng xanh 8.
+objective_target_PowerStation_reward_text			1 nguồn năng lượng xanh mỗi loại sẽ được giao đến nhà tù, miễn phí.
+
+objective_target_ChargeBattery						Mục tiêu năng lượng xanh 9
+objective_target_ChargeBattery_description			Sản lượng của tất cả các nguồn năng lượng xanh sẽ được tăng lên gấp [2] lần.
+objective_target_ChargeBattery_task					Sạc đầy [100] ắc quy.
+objective_target_ChargeBattery_reward				Hoàn thành mục tiêu năng lượng xanh 9.
+objective_target_ChargeBattery_reward_text			Sản lượng của tất cả các nguồn năng lượng xanh đã được tăng lên gấp [2] lần.
+
+interface_title_targets								Mục tiêu năng lượng xanh
+
+report_target_rewards								[Phần thưởng]
+report_target_progress								[Tiến độ]
+
+grant_category_WeatherSystem						Thời tiết:
+grant_property_Active								Đã bật
+
+GrantHeaderButton_0									Trợ cấp
+GrantHeaderButton_0_description						Nhận và hoàn thành các khoản trợ cấp liên quan đến nhà tù để nhận phần thưởng tiền mặt.
+GrantHeaderButton_1									Mục tiêu năng lượng xanh
+GrantHeaderButton_1_description						Hoàn thành các mục tiêu cụ thể liên quan đến Năng lượng xanh để nhận các phần thưởng khác nhau.
+
+# =============================================================================
+# New Objectives 
+# =============================================================================
+
+objective_HelpBasicFarming				Canh tác cơ bản
+objective_HelpBasicFarming_child_1			Các phòng canh tác
+objective_HelpBasicFarming_child_1_Description		Có 4 phòng mới liên quan đến canh tác: Vườn rau, Ruộng ngũ cốc, Vườn cây ăn quả và Kho lạnh. \n\n3 phòng đầu tiên lần lượt được yêu cầu để trồng Rau, Ngũ cốc và Cây ăn quả trong khi Kho lạnh là phòng lưu trữ mát cho nông sản sau khi thu hoạch. \n\nMỗi phòng trong số 3 phòng canh tác chính phải được đặt ngoài trời và sẽ yêu cầu một vật thể nhà kho để dùng làm nguồn nước tưới cây thủ công cũng như làm khu vực lưu trữ hạt giống và các vật phẩm tương tự.
+objective_HelpBasicFarming_child_2			Trồng trọt hoa màu
+objective_HelpBasicFarming_child_2_Description		Để trồng hoa màu, trước tiên phải tạo các phòng canh tác và thuê Nông dân để quản lý các công việc liên quan đến các loại cây này. \n\nHoa màu chỉ có thể được trồng trong các phòng đặc thù của chúng và chỉ có thể phát triển trên các loại nền sau: “Đất”, “Bùn”, “Cỏ”, “Góc cỏ” hoặc “Cánh đồng hoa”. \n\nSau chu kỳ tăng trưởng và thu hoạch ban đầu, việc thay thế các loại cây này có thể được tự động hóa thông qua chính sách "Trồng trọt liên tục" \n\nNếu bạn muốn thay thế các loại cây này bằng một loại khác, hãy đảm bảo rằng chính sách này đã bị vô hiệu hóa.
+objective_HelpBasicFarming_child_3			Đặc tính hoa màu
+objective_HelpBasicFarming_child_3_Description		Mỗi loại trong số 3 loại cây trồng chính đều có những đặc tính khác nhau, cả Ngũ cốc và Rau chỉ cho sản lượng một lần và phải trồng lại sau mỗi vụ thu hoạch nhưng cây ăn quả sẽ cho trái liên tục \n\nCả 3 loại cây trồng đều có thể bán dưới dạng hàng xuất khẩu nhưng chỉ có trái cây và rau củ mới có thể dùng làm bữa ăn.
+objective_HelpBasicFarming_child_4			Lợi ích từ hoa màu
+objective_HelpBasicFarming_child_4_Description		Lợi ích chính của việc sử dụng các nguyên liệu được trồng trong tù thay vì các nguyên liệu tiêu chuẩn thường được giao đến là hiệu ứng của chúng khi được tiêu thụ. \n\nTù nhân ăn các nguyên liệu tươi sẽ nhận được hiệu ứng giải tỏa nhu cầu ăn uống cao hơn, trong khi các nhu cầu khác cũng được tăng nhẹ \n\nTù nhân ăn toàn bộ khẩu phần nguyên liệu tươi cũng sẽ có cơ hội nhận được trạng thái "Khỏe mạnh" mới, trạng thái này có tác dụng tương tự như khi tù nhân hoàn thành các buổi trị liệu cai rượu và ma túy.
+objective_HelpBasicFarming_child_5			Lưu trữ nguyên liệu
+objective_HelpBasicFarming_child_5_Description	 	Không giống như các nguyên liệu tiêu chuẩn, nông sản trồng trong tù không có chất bảo quản để ngăn chúng bị hỏng. \n\nDo đó, sau khi thu hoạch, nông sản sẽ cần được chuyển đến một thiết bị làm lạnh hoặc đến kho lạnh luôn được làm mát \n\nNếu không, trong vòng 3 ngày, chúng sẽ hết hạn và cả hiệu ứng khi tiêuthu lẫn giá xuất khẩu của chúng đều sẽ bị giảm xuống. 
+
+objective_HelpAdvancedFarming				Canh tác nâng cao
+objective_HelpAdvancedFarming_child_1			Nghiên cứu canh tác
+objective_HelpAdvancedFarming_child_1_Description	Không phải tất cả các vật phẩm liên quan đến canh tác đều có sẵn ngay từ khi bắt đầu một trò chơi mới. \nNhiệm vụ nghiên cứu hành chính "Canh tác" phải được hoàn thành trước để có quyền truy cập vào tất cả:\n\n-Thêm nhiều loại cây trồng\n-Tùy chọn hậu cần Phân phối hoa màu\n-Phân hữu cơ, Phân bón chất lượng cao & Thùng ủ phân \n-Lao động tù nhân \n-Vật phẩm Tự động tưới nước, Thu hoạch & Thu gom
+objective_HelpAdvancedFarming_child_2			Phân phối hoa màu
+objective_HelpAdvancedFarming_child_2_Description	Tùy chọn hậu cần mới này cho phép người chơi chọn nơi di chuyển nông sản sau khi thu hoạch và tỷ lệ của sự phân phối đó. \n\nNgười chơi cũng có thể chọn các liên kết giữa kho lạnh và nhà bếp, mặc dù nếu không sử dụng hành động này, các liên kết sẽ tự động được tạo dựa trên khoảng cách.
+
+objective_HelpAdvancedFarming_child_3			Phân bón
+objective_HelpAdvancedFarming_child_3_Description	Có hai loại phân bón, Phân hữu cơ và Phân bón chất lượng cao, cả hai đều có thể được sử dụng để cải thiện tốc độ tăng trưởng của cây trồng và tăng cơ hội tạo ra hạt giống sau khi thu hoạch. \n\nPhân bón chất lượng cao có hiệu quả cao hơn phiên bản phân hữu cơ nhưng đắt hơn, trong khi giải pháp thay thế là phân hữu cơ vừa rẻ hơn vừa có thể tự sản xuất bằng cách sử dụng vật thể Thùng ủ phân từ các chất thải thực vật và thực phẩm.
+
+objective_HelpAdvancedFarming_child_4			Canh tác tự động
+objective_HelpAdvancedFarming_child_4_Description	Có 3 công việc canh tác có thể được tự động hóa bằng cách sử dụng các vật phẩm, những công việc này bao gồm tưới nước cho cây, thu hoạch cây và thu gom những nông sản đã thu hoạch này.
+
+
+objective_HelpGreenEnergy 				Năng lượng xanh
+
+objective_HelpGreenEnergy_child_1 			Các loại năng lượng xanh
+objective_HelpGreenEnergy_child_1_description		Có ba nguồn năng lượng xanh mới có thể được sử dụng để thay thế Trạm điện. \n\nTuabin gió \nPin mặt trời \nTuabin gió năng lượng mặt trời hỗn hợp \nBan đầu sẽ chỉ có sẵn các tấm pin mặt trời. \n\nMỗi nguồn năng lượng xanh có các thuộc tính hơi khác nhau bao gồm cả sản lượng điện của chúng, nhưng không giống như các Trạm điện, chúng có thể kết nối với nhau thành một dãy lớn; mặc dù các Máy biến áp có giới hạn về điện năng đầu vào. 
+
+objective_HelpGreenEnergy_child_2 			Tác động của thời tiết
+objective_HelpGreenEnergy_child_2_description		Mỗi nguồn năng lượng có thể bị ảnh hưởng tiêu cực hoặc tích cực đến việc sản xuất điện bởi các loại thời tiết. \n\nCác hiệu ứng này sẽ được biểu thị bằng đồ họa +/- và cả một tooltip khi di chuột qua các nguồn năng lượng này. \n\nVí dụ, pin mặt trời bị ảnh hưởng tích cực bởi cả hai kiểu thời tiết Trong lành và Sóng nhiệt, \nnhưng bị ảnh hưởng tiêu cực bởi các kiểu thời tiết Nhiều mây, Mưa, Mưa xối xả và Sương giá. 
+
+objective_HelpGreenEnergy_child_3 			Máy biến áp & Ắc quy
+objective_HelpGreenEnergy_child_3_description		Do đặc tính của năng lượng xanh thô, mỗi nguồn năng lượng mới phải được kết nối với một vật thể máy biến áp thông qua cáp điện trước khi điện năng của chúng có thể được sử dụng cho các thiết bị điện. \n\nBản thân Máy biến áp không chỉ biến đổi năng lượng xanh thô thành dạng năng lượng có thể sử dụng được mà còn có thể sạc cho bất kỳ vật thể ắc quy lân cận nào. \n\nNăng lượng được lưu trữ trong các vật thể Ắc quy có thể được sử dụng làm nguồn điện khẩn cấp cũng như một mặt hàng xuất khẩu mới thông qua Đồng hồ xuất khẩu điện.
+
+objective_HelpGreenEnergy_child_4 			Xuất khẩu điện
+objective_HelpGreenEnergy_child_4_description		Đồng hồ xuất khẩu điện có thể được kết nối với máy biến áp thông qua hệ thống dây nối, nếu máy biến áp này có gắn ắc quy thì bất kỳ lượng điện nào được lưu trữ bên trong đều có thể được bán dưới dạng xuất khẩu có giới hạn mỗi ngày. \n\nGiới hạn xuất khẩu này có thể được tăng lên bằng cách hoàn thành một số mục tiêu năng lượng xanh nhất định.
+
+objective_HelpGreenEnergy_child_5 			Mục tiêu năng lượng xanh
+objective_HelpGreenEnergy_child_5_description		Một số mục tiêu đối với năng lượng xanh có thể được tìm thấy trong menu Trợ cấp, bằng cách hoàn thành các mục tiêu này, các phần thưởng sẽ nhận được bao gồm: \n\n- Nâng giới hạn xuất khẩu điện hàng ngày \n- Mở khóa thêm các nguồn năng lượng \n- Tăng hiệu suất của bất kỳ nguồn năng lượng xanh nào đã mua.
+
+objective_HelpNarcoticProduction 			Sản xuất ma túy
+
+objective_HelpNarcoticProduction_child_1 		Sản xuất rượu lậu	
+objective_HelpNarcoticProduction_child_1_description	Tù nhân đáp ứng một số điều kiện nhất định có thể tự nấu rượu lậu cho mình. \n\nTrước tiên, họ sẽ lấy các nguyên liệu để nấu từ các phòng canh tác, khu vực nhà bếp hoặc bất kỳ máy bán hàng tự động nào mà họ có quyền tiếp cận. \n\nSau đó, họ sẽ chuẩn bị các nguyên liệu này vào ban đêm trong phòng giam trước khi giấu số rượu lậu đang ủ trong vài ngày để lên men.  
+
+objective_HelpNarcoticProduction_child_2		Sản xuất ma túy
+objective_HelpNarcoticProduction_child_2_description 	Mặt khác, việc sản xuất ma túy sẽ chỉ diễn ra trong một phòng duy nhất, Ruộng ngũ cốc - tù nhân sẽ tìm cách can thiệp vào các loại cây trồng hiện có để giấu các loại ma túy có thể trồng được. \n\nNhững cây bị can thiệp này sẽ có đặc tính bốc mùi và do đó có thể bị phát hiện bởi chó nghiệp vụ, nhưng những khu vực này sẽ không bao giờ được tính trong các cuộc khám xét đột xuất và vì vậy phải đưa ra lệnh khám xét thủ công - mặc dù mỗi lần khám xét sẽ có khả năng làm hư hại hoa màu. \n\nKhi những cây trồng này được thu hoạch, ma túy cũng sẽ được thu hồi, nếu đúng tù nhân đó thực hiện việc thu hoạch. \n\nCác băng đảng cũng có khả năng chiếm quyền kiểm soát các phòng Ruộng ngũ cốc để đảm bảo nắm giữ quyền kiểm soát việc sản xuất ma túy.
+
+objective_GoingGreenInfo				Going Green!
+objective_GoingGreenInfo_child_1			Các tính năng chính của Going Green được liệt kê dưới đây, bằng cách di con trỏ qua từng tiêu đề phụ, một mô tả và giải thích cho từng tính năng sẽ được hiển thị. 
+
+objectiveWindow_FilterButton_0_title			Nhiệm vụ
+objectiveWindow_FilterButton_1_title			Going Green
+objectiveWindow_FilterButton_0_tooltip			Nhiệm vụ đang diễn ra
+objectiveWindow_FilterButton_1_tooltip			Tuyển tập thông tin mô tả và giải thích các tính năng chính của Going Green
+
+# =============================================================================
+# Mutators
+# =============================================================================
+
+mutator_name_Noir							Noir
+mutator_tooltip_Noir						Một bộ lọc tối tăm và bụi bặm giúp loại bỏ hầu hết màu sắc khỏi nhà tù của bạn.
+mutator_name_RoofView						Chế độ xem mái
+mutator_tooltip_RoofView					Áp dụng một hiệu ứng tương tự như sương mù chiến tranh, nhưng hiển thị mái của các tòa nhà ở những khu vực có tầm nhìn thấp thay vì 'sương mù'.
+
+# =============================================================================
+# Miscellaneous
+# =============================================================================
+
+finances_other							Giao dịch khác
+interfacetopbar_tension_activeeliteops				+ *X đặc vụ tinh nhuệ đang có mặt
+interfacetopbar_budget_othermoneyin				Thu nhập khác: $*M /ngày
+interfacetopbar_budget_othermoneyout				Chi phí khác: $*M /ngày
+escapemode_info_board						Lên phà
+
+d11_expireIn								Hết hạn sau *X ngày
+
+reformProgram_flowertherapy							Trị liệu bằng hoa
+reformProgram_flowertherapy_text					Các buổi này sẽ dựa trên ý tưởng làm dịu và thư giãn các tù nhân bằng cách trao cho họ một thứ gì đó để quan tâm và chăm sóc.
+
+job_group_hovering_expand					Nhấp để mở rộng các loại công việc tương tự
+job_group_hovering_collapse					Nhấp để thu gọn các loại công việc tương tự
+
+reports_ingredients_usageTitle			Tỷ lệ sử dụng nguyên liệu tươi / nhập khẩu	
+
+
+# =============================================================================
+# Stings Missed from localisation 13/11/20  - Any strings added after this day, place here
+# =============================================================================
+
+
+objective_HelpEnvironmentallyFriendly						Thân thiện với môi trường
+
+objective_HelpEnvironmentallyFriendly_child_1					Tái chế
+objective_HelpEnvironmentallyFriendly_child_1_description			Một phương pháp thân thiện với môi trường mới để loại bỏ chất thải đã được giới thiệu bởi hệ thống tái chế. \n\nBằng cách mua vật thể Thùng tái chế và Nghiên cứu nhiệm vụ Hành chính "Khuyến khích tái chế", tất cả chất thải được tái chế thay vì đổ bỏ như rác thải sẽ thưởng cho bạn $10 cho mỗi túi.
+
+objective_HelpEnvironmentallyFriendly_child_2					 Làm vườn giải trí
+objective_HelpEnvironmentallyFriendly_child_2_description			Bằng cách nghiên cứu nhiệm vụ Hành chính "Chăm sóc cảnh quan", tù nhân sẽ có thể chăm sóc cây cối trong phòng Vườn hoa mới. \n\nHoa không thể thu hoạch hoặc xuất khẩu giống như nông sản, nhưng chúng không chỉ giúp cải thiện tính thẩm mỹ của nhà tù mà còn giúp xoa dịu bất kỳ tù nhân nào chăm sóc chúng.
+
+equipment_WateringCan							Bình tưới nước	
+
+
+interfacemode_objectPack_filter_all					Tất cả các gói
+
+# =============================================================================
+# Stings Missed from localisation 02/12/20  - Any Green Machine strings added after this day, place here
+# =============================================================================
+
+codex_options_staffalertscaption						Cảnh báo nhân viên
+
+reform_program_and	và
+
+# ==========================================================================================================
+# Chinese New Year update
+# ==========================================================================================================
+
+
+# =============================================================================
+# Objects (inc. descriptions)
+# =============================================================================
+
+object_OxStatue								Tượng trâu
+object_PaperDragonHead						Đầu rồng (giấy)
+object_PaperDragonBody						Thân rồng (giấy)
+object_PaperDragonTail						Đuôi rồng (giấy)
+object_PaperLantern							Đèn lồng giấy 
+object_CoupletBanner						Biểu ngữ câu đối
+object_FoodTrayPack							Gói khay đựng thức ăn
+
+buildtoolbar_popup_obj_OxStatue				Một bức tượng con giáp đại diện cho loài Trâu mạnh mẽ
+buildtoolbar_popup_obj_PaperDragonHead		Một mô hình cắt giấy dưới hình dạng đầu rồng
+buildtoolbar_popup_obj_PaperDragonBody		Một mô hình cắt giấy dưới hình dạng thân rồng
+buildtoolbar_popup_obj_PaperDragonTail		Một mô hình cắt giấy dưới hình dạng đuôi rồng
+buildtoolbar_popup_obj_PaperLantern			Một chiếc đèn lồng giấy màu đỏ trang trí để mang lại ánh sáng cho nhà tù của bạn
+buildtoolbar_popup_obj_CoupletBanner		Một biểu ngữ trang trí có viết các câu đối chữ Hán trên đó
+buildtoolbar_popup_obj_FoodTrayPack			Một gói gồm 40 khay đựng thức ăn
+
+buildtoolbar_popup_help_farmer_1           Nông dân sẽ xử lý hầu hết các công việc liên quan đến các phòng canh tác, từ trồng trọt và thu hoạch hoa màu cho đến lưu trữ bất kỳ vật phẩm cần thiết nào trong các vật thể Nhà kho phù hợp.\n\n
+buildtoolbar_popup_help_farmer_2           ^Mẹo
+buildtoolbar_popup_help_farmer_3           - Hầu hết các công việc do Nông dân thực hiện cũng có thể được thực hiện bởi các tù nhân lao động, ngoại trừ những công việc yêu cầu phải ra ngoài nhà tù.
+buildtoolbar_popup_help_farmer_4           - Một số công việc cũng có thể được tự động hóa bằng cách sử dụng các vật thể mới, chẳng hạn như tưới nước và thu hoạch hoa màu.
+
+
+# =============================================================================
+# Objectives
+# =============================================================================
+
+#PC only
+objective_intake_closedriot				Việc tiếp nhận không khả dụng trong thời gian xảy ra bạo loạn nhà tù
+
+#==========GM bugs 15/02======= 
+reputation_swimmer_high						Bơi giỏi
+
+# =========================================================================================================================================================
+# 																Shelby DLC
+# =========================================================================================================================================================
+
+# =============================================================================
+# Materials (inc. descriptions)
+# =============================================================================
+
+# =============================================================================
+# Objects (inc. descriptions)
+# =============================================================================
+
+object_TherapyAnimal							Thú trị liệu 
+object_TherapyAnimalContainer					Lồng chứa thú trị liệu
+object_AnimalTherapist							Nhà trị liệu thú
+object_RestaurantCustomer               		Khách hàng dân sự
+object_DisplayCounter                  		Tủ trưng bày
+object_RehabilitatedPrisoner					Tù nhân hoàn lương
+object_Oven                                     Lò nướng
+object_DoughMixer                               Máy trộn bột
+object_Dough                                    Bột nhào
+object_BreadLoaf                                Ổ bánh mì
+object_BreadBun                                 Bánh mì tròn
+object_Cake                                     Bánh ngọt
+object_Cupcake                                  Bánh cupcake
+object_Baguette                                 Bánh mì baguette
+object_CivilianChild							Kẻ ngỗ nghịch
+object_RestaurantMeal                           Bữa ăn nhà hàng
+object_RestaurantIngredientsCooking            Bữa ăn nhà hàng (Đang nấu)
+object_RestaurantPlateDirty                     Đĩa (Bẩn)
+object_CakeStand								Kệ bánh ngọt
+object_GrassBridge								Cầu đường phủ cỏ
+object_DiningTableLarge							Bàn ăn (Lớn)
+object_DiningTableSmall							Bàn ăn (Nhỏ)
+object_DinerBooth								Buồng ghế ăn
+object_DiningChair								Ghế ăn
+object_SaloonDoor								Cửa quán rượu (đôi)
+object_OrnateLantern							Đèn lồng hoa văn
+object_Chandelier								Đèn chùm
+object_WallPanel								Vách ngăn (Đỏ)
+object_WallPanelWood							Vách ngăn (Gỗ)
+object_WallPanelStone							Vách ngăn (Đá)
+object_WallPanelCorner_A						Góc vách ngăn loại A (Đỏ)
+object_WallPanelWoodCorner_A					Góc vách ngăn loại A (Gỗ)
+object_WallPanelStoneCorner_A					Góc vách ngăn loại A (Đá)
+object_WallPanelCorner_B						Góc vách ngăn loại B (Đỏ)
+object_WallPanelWoodCorner_B					Góc vách ngăn loại B (Gỗ)
+object_WallPanelStoneCorner_B					Góc vách ngăn loại B (Đá)
+object_ShopCounter								Quầy hàng
+object_NoEntrySign								Biển báo (Cấm vào)
+object_GymSign									Biển báo (Phòng gym)
+object_PhoneSign								Biển báo (Điện thoại)
+object_RestaurantSign							Biển báo (Nhà hàng)
+object_BakerySign								Biển báo (Tiệm bánh)
+object_VisitationSign							Biển báo (Phòng thăm nuôi)
+object_BakeryRawProduct                         Sản phẩm tiệm bánh thô
+object_BakeryCookedProduct                      Sản phẩm tiệm bánh đã nướng
+object_Flour                                    Bột mì
+
+buildtoolbar_popup_obj_DisplayCounter			Một thiết bị phục vụ, dùng để lưu trữ các loại bánh nướng. 
+buildtoolbar_popup_obj_Oven						Một thiết bị nấu nướng chuyên dụng dùng để nướng các loại bánh.
+buildtoolbar_popup_obj_DoughMixer				Biến đổi bột mì (và các nguyên liệu bí mật khác) thành bột nhào cho các loại bánh nướng.
+buildtoolbar_popup_obj_CakeStand				Một kệ trưng bày để trình bày những món ngọt thơm ngon
+buildtoolbar_popup_obj_GrassBridge				Một chiếc cầu phủ cỏ cho phép đi lại an toàn qua các con đường.
+buildtoolbar_popup_obj_DiningTableLarge			Một chiếc bàn chất lượng cao sẽ mang lại đẳng cấp cao hơn cho bất kỳ bữa ăn nào.
+buildtoolbar_popup_obj_DiningTableSmall			Một chiếc bàn chất lượng cao sẽ mang lại đẳng cấp cao hơn cho bất kỳ bữa ăn nào.
+buildtoolbar_popup_obj_DinerBooth				Một buồng ghế ngồi theo phong cách của các quán ăn cổ điển kiểu Mỹ.  
+buildtoolbar_popup_obj_DiningChair				Một chiếc ghế chất lượng cao sẽ mang lại đẳng cấp cao hơn cho bất kỳ bữa ăn nào.
+buildtoolbar_popup_obj_SaloonDoor				Cửa gỗ đôi theo phong cách của một quán rượu cổ xưa
+buildtoolbar_popup_obj_OrnateLantern			Một chiếc đèn lồng treo tường chất lượng cao sẽ mang lại đẳng cấp cao hơn cho bất kỳ khu vực nào.
+buildtoolbar_popup_obj_Chandelier				Một chiếc đèn chùm trần chất lượng cao sẽ mang lại đẳng cấp cao hơn cho bất kỳ khu vực nào.
+buildtoolbar_popup_obj_NoEntrySign				Một biển báo treo tường có biểu tượng Cấm vào trên đó.
+buildtoolbar_popup_obj_GymSign					Một biển báo treo tường có biểu tượng Phòng gym trên đó.
+buildtoolbar_popup_obj_PhoneSign				Một biển báo treo tường có biểu tượng Điện thoại trên đó.
+buildtoolbar_popup_obj_RestaurantSign			Một biển báo treo tường có biểu tượng Nhà hàng trên đó.
+buildtoolbar_popup_obj_BakerySign				Một biển báo treo tường có biểu tượng Tiệm bánh trên đó.
+buildtoolbar_popup_obj_VisitationSign			Một biển báo treo tường có biểu tượng Phòng thăm nuôi trên đó.
+buildtoolbar_popup_obj_WallPanel				Các tấm vách ngăn riêng lẻ ngắn được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelWood			Các tấm vách ngăn riêng lẻ ngắn được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelStone			Các tấm vách ngăn riêng lẻ ngắn được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelCorner_A		Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelWoodCorner_A	Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelStoneCorner_A	Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelCorner_B		Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelWoodCorner_B	Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_WallPanelStoneCorner_B	Các mảnh góc riêng lẻ cho vách ngăn, được sử dụng để tạo ra các khu vực tách biệt mà không cần xóa các ô phòng.
+buildtoolbar_popup_obj_ShopCounter				Một quầy phục vụ cho các giao dịch thương mại, không yêu cầu phải đặt dựa vào tường. 
+
+# =============================================================================
+# Rooms (inc. descriptions)
+# =============================================================================
+room_Restaurant                         Nhà hàng
+room_Bakery                             Tiệm bánh
+room_TherapyRoom                        Phòng trị liệu
+
+
+d11_restaurant_work                     Nhà hàng
+d11_restaurant_work_desc                Phân công tù nhân làm việc trong một trong các Nhà hàng của chúng tôi để nấu ăn và phục vụ các khách hàng dân sự. Tuy nhiên, họ phải có kinh nghiệm làm việc trong lĩnh vực nấu ăn hoặc dịch vụ khách hàng.
+d11_bakery_work                         Tiệm bánh
+d11_bakery_work_desc                    Phân công tù nhân làm việc trong một trong các Tiệm bánh của chúng tôi để làm các món bánh nướng cho khách hàng dân sự. Tuy nhiên, họ phải có kinh nghiệm làm việc trong lĩnh vực nấu ăn hoặc dịch vụ khách hàng.
+
+buildtoolbar_popup_room_TherapyRoom     Một "không gian an toàn" dành cho các buổi Trị liệu thú và các cuộc thảo luận với cựu tù nhân.
+buildtoolbar_popup_room_Restaurant		Tù nhân có kinh nghiệm nấu ăn hoặc dịch vụ khách hàng có thể chuẩn bị và phục vụ thức ăn cho các khách hàng dân sự.
+buildtoolbar_popup_room_Bakery 		Tù nhân có kinh nghiệm nấu ăn hoặc dịch vụ khách hàng có thể nướng bánh mì và bánh ngọt để bán cho các khách hàng dân sự.
+
+# =============================================================================
+# Quick Build Room
+# =============================================================================
+	
+quickbuild_Therapy                              Phòng trị liệu
+quickbuild_Restaurant                           Nhà hàng
+quickbuild_Bakery                               Tiệm bánh
+
+#Already translated
+quickbuild_Reception					Phòng tiếp nhận 	
+# =============================================================================
+# Reform Programs (inc. descriptions)
+# =============================================================================
+
+reformprogram_AnimalTherapy             Trị liệu thú
+reformprogram_AnimalTherapy_text        Tù nhân thường gặp khó khăn trong việc kiểm soát tính khí hoặc các suy nghĩ tiêu cực khác. Qua những buổi học này và sự gắn kết hình thành từ đó, hy vọng các tù nhân sẽ học được cách giữ bình tĩnh và xoa dịu mọi tình huống họ gặp phải trước khi nó trở nên bạo lực.
+
+reformProgram_ConflictResolution		Giải quyết xung đột
+reformProgram_ConflictResolution_text	Một cựu tù nhân hiện đã hoàn lương sẽ đến để chia sẻ về những khó khăn có thể gặp phải khi được trả tự do. Các tình huống rắc rối khác nhau sẽ được đóng vai để tù nhân học cách tránh dùng đến bạo lực.
+
+reformProgram_ReformedPrisonerConsultation				Tham vấn từ tù nhân hoàn lương
+reformProgram_ReformedPrisonerConsultation_text			Ý tưởng của chương trình này là thay đổi tư duy của những người hiện đang bị giam giữ, bằng cách để một cựu tù nhân đã hoàn lương nói về những trải nghiệm và cuộc sống mới của họ.
+
+reformProgram_juvenilecorrection						Chương trình Ba lỗi
+reformProgram_juvenilecorrection_text					Cho phép tù nhân và những "kẻ ngỗ nghịch" dân sự tương tác với nhau sẽ mang lại tác động tích cực cho cả hai bên, miễn là tù nhân đã được đào tạo hoặc có mức độ kinh nghiệm dịch vụ khách hàng phù hợp để tương tác với các "kẻ ngỗ nghịch" này.
+
+reformProgram_socialtraining							Đào tạo Ba lỗi
+reformProgram_socialtraining_text						Việc cho phép tù nhân tương tác với những người dân thường không có mối quan hệ gì với họ có thể là mối lo ngại của nhiều người, vì vậy chương trình này dạy những hành vi nào được phép và không được phép; đồng thời nâng cao kinh nghiệm dịch vụ khách hàng của tù nhân.
+
+reformProgram_RehabilitatedPrisoner_text	Cựu tù nhân này đã hoàn lương thành một công dân kiểu mẫu và cùng với công việc hiện tại của mình, họ đã tự nguyện dành thời gian để giúp đỡ những người khác đang chật vật cải tạo, với tư cách là một cố vấn nhà tù.
+reformProgram_Occupation					Nơi làm việc:
+
+# =============================================================================
+# Sentence Reductions & Extensions (inc. descriptions)
+# =============================================================================
+
+report_Sentences						Điều chỉnh mức án
+
+sentences_tooltip_onOff					Chuyển đổi tùy chọn này để bật hoặc tắt các điều chỉnh mức án TẮT/BẬT.
+sentences_tooltip_resetCriteria			Đặt lại các tiêu chí điều chỉnh về giá trị đề xuất của nhà tù.
+sentences_tooltip_extensionValue		Chọn khoảng thời gian mà mức án của tù nhân sẽ bị kéo dài thêm sau khi họ đáp ứng các tiêu chí bắt buộc.
+sentences_tooltip_reductionValue		Chọn khoảng thời gian mà mức án của tù nhân sẽ được giảm bớt sau khi họ đáp ứng các tiêu chí bắt buộc.
+
+sentences_description					Thiết lập các tiêu chí để điều chỉnh mức án của tù nhân, dù là giảm án do cải tạo tốt hay tăng án do vi phạm.\nViệc gia tăng và giảm mức án đều có thể diễn ra trong cùng một tuần, nhưng cả hai loại điều chỉnh đều có thời gian hồi là 7 ngày.
+sentences_unavailable					N/A
+
+reduction_caption						Giá trị giảm án
+extension_caption						Giá trị tăng án
+
+adjustment_criteria						Tiêu chí điều chỉnh
+
+goodBehaviour_DaysInLabour				Số ngày lao động
+goodBehaviour_LoweredRate				Giảm tỷ lệ tái phạm
+
+sentences_resetCriteria					Đặt lại tiêu chí
+
+misconduct_tooltip_InjuredStaff			Tù nhân sẽ đủ điều kiện bị tăng án nếu họ hành hung bất kỳ nhân viên nào đủ số lần quy định.
+misconduct_tooltip_InjuredPrisoner		Tù nhân sẽ đủ điều kiện bị tăng án nếu họ hành hung các tù nhân khác đủ số lần quy định.
+misconduct_tooltip_SeriousInjury		Tù nhân sẽ đủ điều kiện bị tăng án nếu họ gây thương tích nghiêm trọng đủ số lần quy định.
+misconduct_tooltip_Murder				Tù nhân sẽ đủ điều kiện bị tăng án nếu họ phạm tội giết người trong tù đủ số lần quy định.
+misconduct_tooltip_EscapeAttempt		Tù nhân sẽ đủ điều kiện bị tăng án nếu họ cố gắng vượt ngục đủ số lần quy định.
+
+goodBehaviour_tooltip_NoIncident		Tù nhân sẽ đủ điều kiện được giảm án nếu họ không báo cáo sự cố nào trong số ngày quy định.
+goodBehaviour_tooltip_ProgramsPassed	Tù nhân sẽ đủ điều kiện được giảm án nếu họ đã vượt qua một số lượng chương trình quy định.
+goodBehaviour_tooltip_DaysInLabour		Tù nhân sẽ đủ điều kiện được giảm án nếu họ liên tục tham gia lao động tù nhân trong số ngày quy định.
+goodBehaviour_tooltip_LoweredRate		Tù nhân sẽ đủ điều kiện được giảm án nếu tỷ lệ tái phạm của họ được giảm theo mức quy định.
+
+sentences_tooltip_criteriaMet			Điều chỉnh giá trị này để quyết định tù nhân phải đáp ứng bao nhiêu tiêu chí để được điều chỉnh mức án.
+
+# =============================================================================
+# Work stuffs
+# =============================================================================
+
+# Menu title for the menu that show a prisoner work and education information
+work_and_education						Lao động & Đào tạo
+d11_work_experience						Kinh nghiệm lao động
+
+# These are title for prisoner's experiences in certain work field
+experience_WorkCook						Kinh nghiệm nấu ăn
+experience_WorkCleaner					Kinh nghiệm dọn dẹp
+experience_WorkCraftsman				Kinh nghiệm chế tác
+experience_WorkLabourer					Kinh nghiệm lao động chân tay
+experience_WorkRCS						Kinh nghiệm dịch vụ khách hàng
+
+experience_WorkReform                    Hoàn thành chương trình này sẽ tăng 50% kinh nghiệm lao động của tù nhân trong lĩnh vực *X.
+
+# These are tooltips for each specific experience type 
+
+experience_WorkCook_desc				Tù nhân có 50% kinh nghiệm trong lĩnh vực này có thể trực tiếp làm việc trong nhà bếp, nhà hàng hoặc tiệm bánh. Kinh nghiệm cao hơn cũng tăng hiệu suất của họ trong các công việc liên quan.
+experience_WorkCleaner_desc				Tù nhân có thêm kinh nghiệm trong lĩnh vực này sẽ tăng hiệu suất của họ trong các công việc liên quan đến dọn dẹp.
+experience_WorkCraftsman_desc			Tù nhân có 50% kinh nghiệm trong lĩnh vực này có thể trực tiếp làm việc trong xưởng lao động, kinh nghiệm sâu hơn cũng tăng hiệu suất của họ.
+experience_WorkLabourer_desc			Tù nhân có thêm kinh nghiệm trong lĩnh vực này sẽ tăng hiệu suất của họ trong các công việc lao động chân tay.
+experience_WorkRCS_desc					Tù nhân có 50% kinh nghiệm trong lĩnh vực này có thể trực tiếp tham gia chương trình Ba lỗi và công việc phục vụ, kinh nghiệm sâu hơn cũng tăng hiệu suất của họ trong các công việc liên quan đến dịch vụ khách hàng.
+
+# Name of prisoner's previous jobs before going to jail
+d11_cleaner								Lao công
+d11_craftsman							Thợ thủ công
+d11_labourer							Lao động chân tay
+d11_RACS								Dịch vụ khách hàng
+
+# Hover tip explain prisoner's total work experience percentage *X will be replaced by a number .e.g 50
+experiencefactor_FactorWorkExperience	Có *X% kinh nghiệm lao động trên tất cả các chuyên môn
+
+# =============================================================================
+# Reform Menu
+# =============================================================================
+
+# Reform Menu Misc. Hints
+d11_reform_reformation								Sự cải tạo
+
+# Reform Menu Statistic Subtitles
+d11_reform_average_reoffending_rate_x_days			% Tái phạm trung bình (-*X ngày)
+d11_reform_average_punishment_grade					Điểm trừng phạt trung bình
+d11_reform_average_health_grade						Điểm sức khỏe trung bình
+d11_reform_average_security_grade					Điểm an ninh trung bình
+d11_reform_average_exp_grade						Điểm kinh nghiệm lao động trung bình
+d11_reform_average_reform_grade						Điểm cải tạo trung bình
+d11_reform_progrom_live								Chương trình cải tạo đang diễn ra
+d11_reform_program_places							Chỗ trống chương trình cải tạo
+d11_reform_program_attendance						Lượt tham gia chương trình cải tạo
+d11_reform_program_pass_rate						Tỷ lệ vượt qua chương trình cải tạo
+
+# Design Info
+d11_reform_released_prisoners_design_info			Sau khi một tù nhân được trả tự do khỏi nhà tù của bạn, bạn sẽ được thông báo về các hành động tiếp theo của họ, tùy thuộc vào việc họ tái phạm hay đã cải tạo và tìm được việc làm thành công. Nhà tù của bạn sẽ lần lượt bị phạt tiền hoặc nhận phần thưởng tương ứng.
+
+# Released Prisoners Page
+d11_reform_prisoners_action_reformed				ĐÃ CẢI TẠO!
+d11_reform_prisoners_action_reoffended				ĐÃ TÁI PHẠM!
+d11_reform_prisoners_action_reoffended_returned		*X đã bị đưa trở lại nhà tù của bạn.
+d11_reform_prisoners_outcome_reformed				Họ đã tìm được việc làm tại *X của thị trấn.
+d11_reform_prisoners_outcome_reoffended				Họ đã bị bắt và sẽ trở lại nhà tù.
+d11_reform_prisoners_outcome_reoffended_returned	Hãy cẩn thận vì tù nhân sẽ trở nên nguy hiểm hơn sau mỗi lần vào tù tăng thêm.
+d11_reform_reformed_prisoner_rewards				Phần thưởng tù nhân cải tạo (Hôm qua)
+d11_reform_reformed_reoffending_prisoner_fines		Tiền phạt tù nhân tái phạm (Hôm qua)
+
+#PC only
+d11_reform_reoffending_stats_title				Thống kê % tái phạm
+
+d11_reform_initial_reoffending_chance				% Tái phạm ban đầu:
+d11_reform_current_reoffending_chance				% Tái phạm hiện tại
+d11_reform_reoffending_chance_delta					Thay đổi % tái phạm:
+
+# Outcomes
+d11_reform_job_outcome_cook							Nhà hàng
+d11_reform_job_outcome_cleaner						Công ty dọn dẹp
+d11_reform_job_outcome_craftsman					Nhà máy
+d11_reform_job_outcome_labourer						Công ty xây dựng
+d11_reform_job_outcome_RAC							Trung tâm thương mại
+d11_reform_job_outcome_default						Bưu điện
+
+# Reform Menu Misc.
+d11_reform_required_reoffending_rate_title			% Giới hạn tạm tha: 
+d11_reform_no_prisoners_found						Không tìm thấy tù nhân nào!
