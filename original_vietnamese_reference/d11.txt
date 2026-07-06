@@ -4233,3 +4233,302 @@ buildtoolbar_popup_help_BoilingPoint_5			- Đầu tư vào các chương trình 
 buildtoolbar_popup_help_BoilingPoint_6			- Tù nhân thuộc diện An ninh thấp sẽ có mức độ chịu đựng cao hơn, vì họ có thời hạn chấp hành án ngắn hơn.
 
 boilingpoint_advisor_onboarding					Tù nhân này đang quấy phá, họ dường như đã đạt đến ngưỡng phẫn nộ. Có lẽ chúng ta chưa làm đủ cho các tù nhân của mình, hãy đảm bảo nhu cầu của họ được thỏa mãn, cải thiện điều kiện sống và cho họ việc gì đó để làm. Kiểm tra Menu Tình báo Boiling Point để biết thêm thông tin.
+
+# ==============================================================
+# Security Menu strings
+# ==============================================================
+
+interfacecontraband_SecurityMenu				Menu An ninh
+buildtoolbar_contraband_SecurityMenu			Xem danh sách tất cả tù nhân được coi là nguy hiểm hoặc đang gặp nguy hiểm và áp dụng các biện pháp an ninh cho những người cần quản lý thêm.
+
+securitymenu_header								Menu An ninh
+
+securitymenu_popup_prisonerSelect				Chuột trái để chọn Tù nhân
+securitymenu_popup_dangerousReputations			Tiếng tăm Nguy hiểm: 
+securitymenu_popup_dangerousTraits				Đặc tính Nguy hiểm: 
+securitymenu_popup_crimesCommitted				Tội danh: 
+securitymenu_popup_recentMisconduct				Vi phạm Gần đây: 
+
+securitymenu_PrisonerType						Loại Tù nhân: 
+securitymenu_PrisonerTypeDefault				Mặc định
+securitymenu_PrisonerTypeDangerous				Nguy hiểm
+securitymenu_PrisonerTypeVulnerable				Yếu thế
+
+securitymenu_MarkingTypeUnmarked				Không đánh dấu
+securitymenu_SelectArea							Chọn Khu vực
+securitymenu_SelectAreaCancel					Bỏ chọn Khu vực
+
+securitymenu_RestrictAccess						Hạn chế Qua lại:
+securitymenu_TransferPrisoners					Chuyển Tù nhân: 
+securitymenu_transferSecurityLevel				Mức độ An ninh
+securitymenu_GuardAssignment					Phân công Cai ngục: 
+securitymenu_MarkPrisoner						Đánh dấu Tù nhân: 
+securitymenu_RemovePrisoner						Loại bỏ Tù nhân:
+securitymenu_RemovePrisonerButton				Loại bỏ Tù nhân
+securitymenu_RemovedPrisoner					Đã loại bỏ Tù nhân
+
+securitymenu_RemovePrisoner_message				Loại bỏ Tù nhân\n\nĐây là biện pháp cuối cùng để xử lý những kẻ vi phạm tồi tệ nhất. Chịu một khoản phí đắt đỏ, bạn sẽ có thể gửi tù nhân này đến một cơ sở khác. Hành động này chỉ có thể thực hiện 5 ngày một lần.
+
+securitymenu_RestrictAccess_tooltip				Chặn lối vào các khu vực cụ thể, không cho phép (các) tù nhân được chọn qua lại nếu không có cai ngục khống chế họ. Không thể hạn chế thành viên băng đảng khỏi các khu vực / lãnh thổ của riêng chúng.
+securitymenu_TransferPrisoner_tooltip			Chuyển các tù nhân được chọn sang một hệ thống an ninh cụ thể để giúp quản lý họ.
+securitymenu_MarkPrisoner_tooltip				Đánh dấu trực quan lên các tù nhân được chọn, giúp bạn dễ dàng để mắt tới những cá nhân nguy hiểm hơn hoặc chính họ đang gặp nguy hiểm.
+
+rapsheet_assignguard							Phân công Cai ngục
+rapsheet_assignguard_end						Hủy phân công Cai ngục
+
+job_PrisonerAssignment							Phân công cho Tù nhân
+assignment_confirm_message						Bạn có muốn phân công một cai ngục không?
+assignment_description_message					Nếu muốn để mắt đến tù nhân này, bạn có thể phân công một cai ngục đi theo họ. Vui lòng đảm bảo bạn có đủ số lượng cai ngục sẵn sàng.
+assignment_error_message						Hiện không thể phân công cai ngục cho tù nhân này. Vui lòng thử lại sau.\n\nHọ có thể vừa mới đến, đang bị còng tay, hoặc đang bị phong tỏa.
+
+buildtoolbar_popup_help_securitymenu_1        Menu an ninh liệt kê tất cả các thành viên trong trại giam được coi là nguy hiểm hoặc yếu thế trong cộng đồng tù nhân. Thông qua menu này, có thể áp dụng các hành động nhất định cho tù nhân để cung cấp thêm hỗ trợ và cho phép quản lý họ tốt hơn.\n\n
+buildtoolbar_popup_help_securitymenu_2        ~Theo mặc định, cả tù nhân nguy hiểm và yếu thế đều được liệt kê cùng nhau nhưng tùy chọn "loại tù nhân" cho phép bạn áp dụng hành động cho các nhóm cụ thể.\n\n
+buildtoolbar_popup_help_securitymenu_3        ~Một số hành động có thể được áp dụng cho một nhóm trong khi những hành động khác chỉ có thể áp dụng cho các cá nhân được chọn, hãy làm nổi bật và nhấp chuột trái vào một tù nhân để chọn họ.\n\n
+buildtoolbar_popup_help_securitymenu_4        ^Mẹo
+buildtoolbar_popup_help_securitymenu_5        - Tùy chọn phân công Cai ngục sẽ giúp giữ an toàn cho tù nhân khỏi những người khác đồng thời để mắt đến những kẻ khác nhằm giúp ngăn chặn mọi vi phạm xảy ra. Cai ngục sẽ không ở bên cạnh tù nhân trong thời gian riêng tư của họ như khi ngủ nghỉ và tắm rửa.
+buildtoolbar_popup_help_securitymenu_6        - Nếu một tù nhân gây ra quá nhiều vấn đề trong nhà tù của bạn và quá khó đối phó, tùy chọn Loại bỏ Tù nhân sẽ đưa họ đi nơi khác. Hành động này có thời gian hồi và không thể thực hiện mỗi ngày, đồng thời nó cũng tiêu tốn một khoản tiền.
+
+# ==============================================================
+# Kimber todo list help objectives
+# ==============================================================
+objectiveWindow_FilterButton_4_title 				Về Băng đảng
+objectiveWindow_FilterButton_4_tooltip				Mọi thứ bạn cần biết về Băng đảng 
+
+objective_HelpGangBehaviourAndType				Hành vi Băng đảng
+objective_HelpGangBehaviourAndType_Description			Các băng đảng mới đã được bổ sung, mỗi băng đảng có cách hành xử hơi khác nhau.
+objective_HelpGangBehaviourAndType_child_1			Vipers
+objective_HelpGangBehaviourAndType_child_1_Description		Vipers là một nhóm xảo quyệt tập trung vào việc đầu độc nhà tù bằng ma túy mà chúng kiểm soát, đồng thời bản thân mỗi thành viên đều là những kẻ vô cùng nguy hiểm.
+objective_HelpGangBehaviourAndType_child_2			Bone-Breakers
+objective_HelpGangBehaviourAndType_child_2_Description		Bone-Breakers có thể được coi là những tên du côn cơ bắp, chúng tập trung vào bạo lực và phá hoại hơn bất cứ thứ gì khác.
+objective_HelpGangBehaviourAndType_child_3			Jackals
+objective_HelpGangBehaviourAndType_child_3_Description		Jackals là băng đảng tháo vát nhất, chúng tập trung vào việc kiểm soát lãnh thổ và bán hàng cấm để gia tăng sức mạnh tài chính.
+
+objective_HelpGangActivities					Hoạt động Băng đảng
+objective_HelpGangActivities_Description			Hoạt động của băng đảng bao gồm từ việc điều hành và quản lý lãnh thổ riêng, thực hiện các phi vụ lớn nhằm vào các thành viên cộm cán của nhà tù, đưa ra yêu sách với người chơi và các hành động tương tự.
+objective_HelpGangActivities_child_1				Hoạt động Chuyên biệt
+objective_HelpGangActivities_child_1_Description		Mỗi băng đảng sẽ tham gia vào các hoạt động chuyên biệt tùy thuộc vào đặc tính khác nhau của chúng, Vipers tập trung vào sản xuất và bán ma túy, Bone-breakers tập trung vào ẩu đả và phá hoại, còn Jackals tập trung nhiều hơn vào lãnh thổ và kiếm tiền.
+objective_HelpGangActivities_child_2				Hoạt động Lãnh thổ
+objective_HelpGangActivities_child_2_Description		Lãnh thổ mới đi kèm với các hành vi mới. Các băng đảng giờ đây sẽ "bảo kê" mọi khu vực mà chúng kiểm soát, đảm bảo rằng các tù nhân khác phải biết điều và trả tiền để sử dụng bất kỳ đồ vật nào bên trong, ngay cả trong giờ lao động của họ. Các thành viên băng đảng cũng sẽ thu thập lượng lớn hàng cấm dựa trên căn phòng mà chúng kiểm soát, với các "kẻ buôn lậu" xuất hiện để bán những món đồ này cho các tù nhân khác.
+objective_HelpGangActivities_child_3				Yêu sách Băng đảng
+objective_HelpGangActivities_child_3_Description		Khi một băng đảng giành đủ quyền lực và sự tự tin trong nhà tù, chúng sẽ bắt đầu đưa ra những yêu sách nhất định. Những yêu sách này có thể từ việc đòi thêm trang thiết bị mới cho đến việc đòi thêm thời gian ra sân hoặc giờ tự do, người chơi sẽ có một khoảng thời gian nhất định để giải quyết (các) yêu sách này. Nếu người chơi không đáp ứng được, hậu quả sẽ lập tức ập đến, băng đảng thường sẽ gây ra phá hoại hoặc bạo lực. 
+
+objective_HelpCrookedGuards					Cai ngục Biến chất
+objective_HelpCrookedGuards_Description				Mặc dù chúng ta muốn nghĩ rằng đội ngũ nhân viên dũng cảm của mình là những người trong sạch và kiên định, nhưng đáng buồn thay, thực tế không phải lúc nào cũng vậy.
+objective_HelpCrookedGuards_child_1				Hối lộ Cai ngục
+objective_HelpCrookedGuards_child_1_Description			Các cai ngục bình thường có thể bị hối lộ để nhắm mắt làm ngơ trước một số vi phạm nhất định trong 48 giờ, cho phép tù nhân giữ hàng cấm ngay cả khi bị phát hiện và tạo điều kiện cho các băng đảng dễ dàng chiếm đoạt lãnh thổ. May mắn là thông qua việc sử dụng chỉ điểm viên, những cai ngục đáng ngờ có thể bị vạch mặt, cho người chơi cơ hội sa thải bất kỳ cai ngục nào đã bị tha hóa.
+objective_HelpCrookedGuards_child_2				Cai ngục Tha hóa
+objective_HelpCrookedGuards_child_2_Description			Một số cai ngục có thể bị tha hóa do tiếp xúc quá nhiều với thành viên băng đảng, họ được trả tiền để tuồn hàng cấm cho các băng đảng. Chỉ điểm viên có thể đánh dấu các cai ngục đáng ngờ cho bạn, trong khi máy dò hàng cấm và chó nghiệp vụ cũng có thể đánh hơi thấy số hàng cấm này khi chúng vẫn còn nằm trên người họ.
+
+objective_HelpGangIntelligence					Tình báo Băng đảng
+objective_HelpGangIntelligence_Description			Với rất nhiều nguy cơ vi phạm tiềm ẩn trong nhà tù, tình báo luôn là chìa khóa để giữ an toàn cho cơ sở của bạn. Menu tình báo băng đảng sẽ cung cấp thông tin về từng băng đảng trong nhà tù, liệt kê số lượng thành viên của mỗi băng, quỹ tiền của chúng, và cũng liệt kê số liệu cơ bản về các vi phạm mà chúng đã thực hiện trong quá trình bị giam giữ. Menu này cũng hiển thị bất kỳ động thái hoặc hoạt động nào mà băng đảng tham gia để giúp bạn thấy được mức nguy hiểm của từng băng đảng.
+
+objective_HelpSecurityOptions					Tùy chọn An ninh
+objective_HelpSecurityOptions_Description			Một danh sách "tù nhân quan trọng" sẽ được liệt kê trong một menu mới, bao gồm tất cả các tù nhân được coi là đang gặp nguy hiểm từ người khác hoặc bản thân chúng là một mối nguy hiểm. Với menu này, những tù nhân cần được chú ý đặc biệt có thể được đánh dấu để dễ dàng theo dõi hơn trong quá trình chơi bình thường. Ngoài ra còn có các hành động khác như hạn chế quyền qua lại của tù nhân vào các khu vực nhất định, chuyển các nhóm sang các mức độ an ninh cụ thể và thậm chí là loại bỏ những tù nhân gây rối bằng cách gửi chúng đến một cơ sở khác, mặc dù làm như vậy sẽ phải trả một khoản phí phạt đắt đỏ.
+
+objective_HelpPrograms						Chương trình
+objective_HelpPrograms_Description				Để giúp bảo vệ an ninh và hỗ trợ tù nhân, các cai ngục giờ đây có thể nhận khóa huấn luyện mới giúp họ dễ dàng tước vũ khí của tù nhân. Tù nhân cũng sẽ có các chương trình mới dành cho họ, bao gồm các chương trình giải trí để giúp cải tạo, làm dịu tâm trạng hoặc giúp họ xả stress, cũng như các chương trình phục hồi nhân phẩm giúp hướng tù nhân tránh xa cuộc sống băng đảng và cho phép họ hoàn thành bản án của mình theo một cách bình yên và mang tính xây dựng hơn.
+
+# =============================================================================
+# Grants
+# =============================================================================
+objective_grant_positiveEnergyGrant					Năng lượng Tích cực
+objective_grant_positiveEnergyGrant_Description				Thành viên Băng đảng cần tập trung tâm trí (và năng lượng) của chúng vào việc vận động thay vì bạo lực. Nghiên cứu đã chỉ ra rằng việc vận động sẽ làm giảm các hành động này. Hãy lắp đặt một số thiết bị tập thể dục ngoài trời ở sân tù.
+objective_grant_positiveEnergyGrant_yard				Xây dựng một Sân tù
+objective_grant_positiveEnergyGrant_bench				Thêm một Ghế tập tạ
+
+objective_grant_advancedProtectionGrant					Bảo vệ Nâng cao
+objective_grant_advancedProtectionGrant_Description			Bảo vệ nhân viên là tối quan trọng khi đối phó với các băng đảng có tổ chức. Chúng ta cần đảm bảo nhân viên được huấn luyện đến mức cao nhất vì sự an toàn của chính họ.
+objective_grant_advancedProtectionGrant_training			Đào tạo thành công 20 Cai ngục lấy Chứng chỉ Tước vũ khí.
+
+objective_grant_gangWelfareGrant					Phúc lợi Băng đảng
+objective_grant_gangWelfareGrant_Description				Biến Chiến tranh Băng đảng thành Phúc lợi Băng đảng là một ưu tiên hàng đầu. Các thành viên băng đảng có cơ hội tốt để cải tạo khi được đưa vào các chương trình giúp chúng thoát khỏi cuộc sống đó.
+objective_grant_gangWelfareGrant_exGangMembers				Cải tạo thành công 15 Thành viên Băng đảng thành Cựu Thành viên Băng đảng.
+
+objective_grant_exGangProtectionGrant					Chương trình Bảo vệ Cựu Thành viên Băng đảng
+objective_grant_exGangProtectionGrant_Description			Chính phủ đang cung cấp tài trợ để xây dựng một khu Giam bảo hộ nhằm bảo vệ các cựu thành viên băng đảng trên con đường phục hồi nhân phẩm.	
+objective_grant_protectionCells						Xây dựng 10 Phòng giam trong một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionShower					Xây dựng một Phòng tắm trong một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionCanteen					Xây dựng một Nhà ăn trong một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionKitchen					Xây dựng một Nhà bếp trong một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionYard						Xây dựng một Sân tù trong một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionGuards					Phân công một Cai ngục vào một Khu vực chỉ dành cho Giam bảo hộ
+objective_grant_protectionExGang					Phân công 1 Cựu thành viên Băng đảng vào Mức độ An ninh Giam bảo hộ
+
+grant_category_adminHired						Đã Thuê Quản trị viên:
+
+# =============================================================================
+# Reform Programs
+# =============================================================================
+
+reformprogram_TattooRemovalProgram			Chương trình Xóa xăm
+reformprogram_TattooRemovalProgram_text		Nếu tù nhân của bạn hối hận vì đã xăm hình băng đảng, bạn có thể tạo điều kiện cho quá trình phục hồi nhân phẩm của họ bằng cách cung cấp các buổi xóa xăm. Hoàn thành chương trình này sẽ biến họ thành một mục tiêu.
+
+reformprogram_HandToHandCombat				Chứng chỉ Tước vũ khí
+reformprogram_HandToHandCombat_text			Khi tình hình trở nên khó khăn, chúng ta phải cứng rắn hơn. Huấn luyện Cai ngục của bạn các kỹ thuật nâng cao để tước vũ khí của tù nhân.
+
+reformprogram_GangRehabilitation			Phục hồi nhân phẩm Băng đảng
+reformprogram_GangRehabilitation_text			Nếu một thành viên băng đảng gây ra quá nhiều rắc rối trong nhà tù, hãy cố gắng để chúng hoàn thành chương trình này. Đây là bước đầu tiên để cắt đứt quan hệ với băng đảng và làm lại cuộc đời. Hoàn thành chương trình này sẽ biến chúng thành một mục tiêu. Dạng Chỉ định: Bạo lực và Phá hoại.
+reform_program_intake_ReferralGangViolenceDestruction	Lý do tham gia: Bạo lực và Phá hoại. Chỉ dành cho Băng đảng.
+reform_program_intake_GangOnly				Chỉ dành cho Băng đảng
+
+reformprogram_FaithProgram					Chương trình Đức tin
+reformprogram_FaithProgram_text				Tù nhân tham gia chương trình chuyên sâu này sẽ sẵn sàng hơn trong việc từ bỏ lối sống tồi tệ và đón nhận một cuộc sống tốt đẹp hơn. Nếu đã hoàn thành chương trình này, họ có thể sẽ muốn cắt đứt quan hệ với Băng đảng của mình.
+
+reformprogram_BreatheProgram				Trị liệu Hô hấp
+reformprogram_BreatheProgram_text			Dạy tù nhân của bạn cách hít thở và thư giãn. Sau mỗi buổi học, tù nhân sẽ cảm thấy bình tĩnh hơn nhiều, họ thậm chí có thể sẽ cân nhắc cư xử tốt hơn.
+
+
+reformprogram_FightClub					Câu lạc bộ Đấu võ
+reformprogram_FightClub_text			Những buổi tập luyện này nhằm hướng năng lượng phá hoại của tù nhân vào việc chiến đấu trong một môi trường được kiểm soát. Chúng có thể sẽ quá mệt mỏi để đánh nhau sau đó. Chờ đã… quy tắc đầu tiên là gì ấy nhỉ?
+
+reform_program_properties_TeacherUsesSameEquipment		Giáo viên yêu cầu một *X
+reform_program_properties_GangMemberCanAttend			Thành viên băng đảng có thể tham gia
+reform_program_properties_RequiresAllStudentsPresent		Yêu cầu tất cả học viên có mặt
+
+object_KayuMalamTree		Cây Kayu Malam
+buildtoolbar_popup_obj_KayuMalamTree		Một thân cây hùng vĩ với màu sẫm tuyệt đẹp. Không thích hợp để đóng giường
+object_EbonyLog				Khúc gỗ Mun
+object_EbonyWood			Gỗ Mun
+object_TreeVines			Cây (Dây leo)
+buildtoolbar_popup_obj_TreeVines		Loại cây này là một thứ bắt buộc phải có cho một nhà tù nhiệt đới đúng nghĩa.
+# ============================================================== 
+# Gang Demands 
+# ==============================================================
+gang_vipers				The Vipers
+gang_bonebreakers		The Bone Breakers
+gang_jackals			The Jackals
+gang_red				Đỏ
+gang_blue				Xanh dương
+gang_green				Xanh lá
+gang_yellow				Cựu Thành viên Băng đảng
+
+# ==============================================================
+# Gang Demands 
+# ==============================================================
+objective_GangDemand			   Yêu sách Băng đảng
+objective_GangDemand_description   Những tên trùm băng đảng táo tợn sẽ đưa ra một số yêu sách để cải thiện chất lượng cuộc sống trong nhà tù. Việc không tuân thủ các yêu sách này có thể dẫn đến bạo loạn, hãy đảm bảo rằng nếu điều đó xảy ra, nhà tù của bạn đã được chuẩn bị sẵn sàng.
+GangDemand_announcement      	   Các thành viên băng đảng sẽ gây ra rất nhiều rắc rối nếu chúng ta không nhượng bộ yêu sách của chúng.
+
+# - G refers to gang name, X is a numerical value. Separate strings due to plurals etc
+# - Escalated appears as own string but will be filtered out by tool. 
+
+objective_Gang_ContrabandToolsPunishment_child 				*G - Giảm mức trừng phạt cho tội Tàng trữ Công cụ xuống còn *X giờ. 
+objective_Gang_ContrabandToolsPunishment_Escalated_child 	*G - Bãi bỏ trừng phạt cho tội Tàng trữ Công cụ.
+
+objective_Gang_MurderPunishment_child 			 *G - Giảm mức trừng phạt cho Tội Giết người xuống còn *X giờ. 
+objective_Gang_MurderPunishment_Escalated_child  *G - Giảm mức trừng phạt cho Tội Giết người xuống còn *X giờ. 
+
+objective_Gang_MoreYardTime_child 				*G - Tăng lịch sinh hoạt Ra sân lên *X giờ. 
+objective_Gang_MoreYardTime_Escalated_child     *G - Tăng lịch sinh hoạt Ra sân lên *X giờ. 
+
+objective_Gang_PullUpBars_child  				*G - Có *X Xà đơn. 
+objective_Gang_PullUpBars_Escalated_child 		*G - Có *X Xà đơn. 
+
+objective_Gang_TyreApparatus_child  			*G - Có *X Dụng cụ Lốp xe. 
+objective_Gang_TyreApparatus_Escalated_child 	*G - Có *X Dụng cụ Lốp xe. 
+
+objective_Gang_PunchBag_child  					*G - Có *X Bao cát. 
+objective_Gang_PunchBag_Escalated_child 		*G - Có *X Bao cát. 
+
+objective_Gang_PushUpStones_child  				*G - Có *X Khối đá Hít đất.
+objective_Gang_PushUpStones_Escalated_child		*G - Có *X Khối đá Hít đất.
+
+# - X in this case will refer to a room name
+objective_Gang_RequireYard_child  						*G - Yêu cầu có một *X.
+objective_Gang_RequireYard_Escalated_child 		*G - Yêu cầu có một *X.
+
+objective_Gang_RequireLibrary_child  				*G - Yêu cầu có một *X.
+objective_Gang_RequireLibrary_Escalated_child 	*G - Yêu cầu có một *X.
+
+objective_Gang_RequireMailRoom_child  			*G - Yêu cầu có một *X.
+objective_Gang_RequireMailRoom_Escalated_child  *G - Yêu cầu có một *X.
+
+d11_gangdemand_success 				Chúng ta đã nhận được một khoản tiền nhờ xử lý tình huống này.
+d11_gangdemand_fail 				Hãy đảm bảo tình huống này không lặp lại nữa.
+d11_gangCompensation				Tiền bồi thường từ Băng đảng
+
+# ==============================================================
+# Gang Menu 
+# ==============================================================
+d11_gang_goal					Mục tiêu Băng đảng:
+d11_gang_bonebreakers_goal			Phá hoại
+d11_gang_jackals_goal				Kiểm soát Nhà tù
+
+d11_gang_traits					Đặc tính Băng đảng:
+d11_gang_officer				Sĩ quan Băng đảng:
+d11_gang_territories				Lãnh thổ:
+d11_gang_misconduct				Vi phạm:
+d11_gang_kills					Án mạng Băng đảng:
+
+# ==============================================================
+# Gang Menu : HeatMap
+# ==============================================================
+d11_heatmap_gang			Băng đảng Liên quan:
+d11_heatmap_deaths			Số người chết:
+d11_heatmap_day				Ngày Xảy ra:
+d11_heatmap_time			Thời gian Xảy ra:
+
+d11_gang_event_pr.gf			Ẩu đả Băng đảng
+d11_gang_event_g.tc			Thay đổi Lãnh thổ
+# ==============================================================
+# Gang Segregation
+# ==============================================================
+
+gangSegregationMessage			Chọn băng đảng nào thường được phép vào các khu vực nhất định.
+interfacedeployment_GangSegregation		Phân khu Băng đảng
+buildtoolbar_deployment_GangSegregation Để cung cấp một mức độ kiểm soát đối với việc phân bổ băng đảng, các băng đảng có thể được chỉ định vào các không gian sống khác nhau, cho phép chúng tránh xa nhau để tránh mọi sự kích động không cần thiết.
+
+# ==============================================================
+# Crooked Guards
+# ==============================================================
+
+research_StaffVetting				Thẩm tra Nhân viên
+researchtooltip_StaffVetting		Giảm khả năng các Cai ngục mới bị tha hóa. Mở khóa Điều tra Cai ngục, cho phép bạn đánh hơi các Cai ngục Biến chất bằng Chỉ điểm viên.
+
+buildtoolbar_GuardInvestigation				Điều tra Cai ngục
+buildtoolbar_tooltip_GuardInvestigation		Làm việc với Chỉ điểm viên và Trưởng an ninh để điều tra các cai ngục và đánh hơi sự tham nhũng. Chỉ điểm viên đang hoạt động của bạn có phạm vi theo dõi càng rộng, bạn càng vạch trần được nhiều Cai ngục Biến chất. Trưởng an ninh không được đang dẫn dắt một chương trình hoặc tham dự một buổi hành hình.
+buildtoolbar_CI_requirement			Cần ít nhất một Chỉ điểm viên
+
+guardinvestigation_underway			ĐANG ĐIỀU TRA CAI NGỤC
+guardinvestigation_investigated		Đã điều tra *A/*B cai ngục
+
+informant_investigating				Đang điều tra
+crookedguard_fired_reward			Đã Sa thải Cai ngục Biến chất
+crookedguard_advisor_onboarding		Chúng tôi đã phát hiện một Cai ngục Biến chất cấu kết với băng đảng. Tôi đã đánh dấu họ trong tab Nhân viên trên Báo cáo của bạn. Hãy đảm bảo sa thải họ.
+
+buildtoolbar_popup_staff_doghandler				Người dắt chó và người bạn đồng hành 4 chân của họ có thể phát hiện hàng cấm trên người tù nhân khi đi ngang qua ở khoảng cách gần.
+buildtoolbar_popup_staff_kimber_doghandler		Người dắt chó và người bạn đồng hành 4 chân của họ có thể phát hiện hàng cấm trên người tù nhân và cai ngục biến chất khi đi ngang qua ở khoảng cách gần.
+# ==============================================================
+# Prisoner Intake
+# ==============================================================
+d11_prisoner_replacement			Thay thế Tù nhân
+d11_prisoner_replacement_tooltip	Lượng dân số tù nhân sẽ được bổ sung lên đến con số mong muốn với tỷ lệ các mức độ an ninh được giữ nguyên nếu có thể. Bất kỳ sự dư thừa tù nhân nào sẽ được yêu cầu theo hệ thống tiêu chuẩn.
+
+# ==============================================================
+# Interface
+# ==============================================================
+
+interface_action_CleanGraffiti		Dọn dẹp
+job_cleanupobject					Dọn dẹp *X
+interfacetopbar_tension_angrygangmembersgraffiti		+ *X THÀNH VIÊN BĂNG ĐẢNG ĐANG NỔI ĐIÊN (Đã xóa hình vẽ bậy)
+interfacetopbar_tension_angrygangmembersleadercell		+ *X THÀNH VIÊN BĂNG ĐẢNG ĐANG NỔI ĐIÊN (Trùm bị chuyển đến phòng giam chất lượng thấp hơn)
+research_CCTVImprovement			Cải tiến Camera an ninh
+researchtooltip_CCTVImprovement		Cải thiện việc sử dụng thiết bị Camera an ninh của bạn. Cho phép bạn nhìn thấy góc nhìn của Camera an ninh và đánh dấu các tù nhân vi phạm trong phạm vi quan sát của chúng.
+
+d11_cctv_cone						Góc nhìn Camera an ninh
+d11_toggle_cctv_cone_detail			Bật/tắt phạm vi quan sát của Camera an ninh
+d11_left_click_to_clean				Chuột trái để Dọn dẹp
+
+# ==============================================================
+# Advisor messages
+# ==============================================================
+
+d11_gang_graffiti_message				Các băng đảng đang đánh dấu lãnh thổ của chúng, khiến chúng trở nên hung hãn hơn khi bảo vệ nó. Hãy cử một Lao công đến khi đã an toàn để dọn dẹp đống lộn xộn. Các băng đảng sẽ không vui vẻ gì khi "nghệ thuật" của chúng bị xóa bỏ - chúng có thể sẽ trả đũa.
+d11_gangBulkIntake_advisor_onboarding				Ủy ban Quản lý Trại giam đang thuyên chuyển những tù nhân rắc rối đến các cơ sở có năng lực quản lý tốt hơn. Tôi tin rằng bạn sẽ dễ dàng xử lý những nhân tố mới này. Việc Đánh giá Tù nhân hiện đang được tiến hành hàng tuần.
+d11_gangBulkIntake_staffAlert						Xe buýt Tiếp nhận Thành viên Băng đảng đang đến 
+d11_gangdealer_advisor_onboarding		Chúng ta đã xác định được một Kẻ buôn lậu trong lãnh thổ băng đảng. Một số tiền lớn đã bị tịch thu từ hắn.
+
+d11_CI_advisor_onboarding				Hãy hợp tác với các Chỉ điểm viên để khai quật bất kỳ cai ngục tha hóa nào. Họ sẽ được gửi đến văn phòng của Trưởng an ninh để chia sẻ những thông tin họ có. Đảm bảo đã chiêu mộ các Chỉ điểm viên, hãy kiểm tra biểu tượng (?) trên Menu Tình báo để biết thêm thông tin.
+
+d11_LeaderAssassination_advisor_onboarding	Các băng đảng đang trở nên quá hung hãn và đang lên kế hoạch ám sát Trùm băng đảng khác. Nếu chúng thành công, điều này sẽ ảnh hưởng đến lãnh thổ hiện tại của chúng.
+d11_GangTargetting_advisor_onboarding	Các thành viên băng đảng tụ tập với nhau vì chúng có cùng sở thích, đôi khi chúng cũng không thích một số tội danh cụ thể và chúng sẽ cố gắng nhắm mục tiêu vào những cá nhân này.
