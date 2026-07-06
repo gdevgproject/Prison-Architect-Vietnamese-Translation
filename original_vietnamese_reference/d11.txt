@@ -3828,9 +3828,9 @@ buildtoolbar_popup_obj_BoomBoxRoundHouse		Cho phép các tù nhân của bạn n
 # Calamity weather
 # ==============================================================
 
-weather_DeepFreeze                      Deep Freeze
-weather_LightningStorm                  Lightning Storm
-weather_CalamityHeatwave                Heatwave
+weather_DeepFreeze                      Đóng Băng Cực Độ
+weather_LightningStorm                  Bão Sét
+weather_CalamityHeatwave                Sóng Nhiệt
 
 weather_any								Bất kỳ
 
@@ -4052,7 +4052,7 @@ dryness_level_1				Khô
 dryness_level_2				Rất khô
 dryness_level_3				Cực kỳ khô 
 
-codex_new_ratinfestation			Rat Infestation
+codex_new_ratinfestation			Dịch Chuột Hoành Hành
 status_effect_calamitycold			Giá rét
 
 object_BareTree					Cây trơ trụi	
@@ -4083,7 +4083,7 @@ object_DoubleStaffDoorOrange							Cửa đôi nhân viên (Cam)
 buildtoolbar_popup_obj_DoubleStaffDoorOrange			Một cánh cửa đôi có thể sử dụng bởi nhân viên.
 
 d11_staffalert_summary_CalamityHeatwave01		Ở đây đang nóng lên phải không? Đảm bảo tù nhân và cây cối của bạn có đủ nước
-d11_staffalert_title_CalamityHeatwave01			Heatwave
+d11_staffalert_title_CalamityHeatwave01			Sóng Nhiệt
 d11_staffalert_details_CalamityHeatwave01		Có một vài vấn đề có thể phát sinh trong một đợt sóng nhiệt. Kim loại có thể trở nên cực kỳ nóng, vì vậy hãy cẩn thận với bất kỳ vật thể và cánh cửa bằng kim loại nào. Ngoài ra, hãy đảm bảo giữ cho tù nhân và nhân viên của bạn đủ nước uống vì họ có thể trở nên chậm chạp. 
 d11_staffalert_hint_CalamityHeatwave01			Một đám cháy đi kèm với gió lớn có thể chứng minh là một thảm họa, hãy chắc chắn ngăn chặn nó và chuẩn bị sẵn sàng.
 
@@ -4209,10 +4209,10 @@ codex_tooltip_AllDogs				    Chọn tùy chọn này sẽ bật tất cả các 
 codex_tooltip_RandomWardens				Chọn tùy chọn này sẽ chọn ngẫu nhiên một Giám đốc trại cho bạn.
 
 # Boiling Point
-interfacecontraband_BoilingPoint				Boiling Point
+interfacecontraband_BoilingPoint				Điểm Sôi
 buildtoolbar_contraband_BoilingPoint			Hiển thị các khía cạnh cần cải thiện cho những tù nhân không hạnh phúc.
 
-boilingpoint_header								BOILING POINT
+boilingpoint_header								ĐIỂM SÔI
 boilingpoint_OverallTemperature					Mức nhiệt tổng thể
 boilingpoint_Needs								Nhu cầu
 boilingpoint_ProgramCompletion					Chương trình đã hoàn thành
@@ -5152,7 +5152,7 @@ material_WeatheredStoneFlooring						Đá phong hóa
 buildtoolbar_popup_mat_WeatheredStoneFlooring		Sàn bằng đá phong hóa, giúp cho ngôi đền trong rừng của bạn có cảm giác chân thực hơn.
 
 material_ColouredStoneTiles							Gạch đá màu
-buildtoolbar_popup_mat_ColouredStoneTiles			With such superb craftmanship, no one will ever know these were actually made recently by Clive in Kent.
+buildtoolbar_popup_mat_ColouredStoneTiles			Với tay nghề thủ công tuyệt vời như thế này, sẽ không một ai biết rằng chúng thực chất mới được làm gần đây bởi Clive ở Kent.
 
 material_JunglePath									Đường mòn rừng
 buildtoolbar_popup_mat_JunglePath					Con đường mòn cũ kỹ và mòn lối này lại êm ái cho đôi chân đến bất ngờ.
