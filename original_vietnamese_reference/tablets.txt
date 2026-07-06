@@ -1,1 +1,15 @@
-﻿
+﻿interfacecontrol_mainmenu               Menu Chính
+interfacecontrol_mainmenu_tooltip       Bật/tắt menu chính (Tạo mới/Tải/Lưu, v.v.)
+
+object_firemen_hosehelp                 Nhấn và giữ chuột để di chuyển. Nhấn giữ vào ngọn lửa để tự nhắm vòi phun nước.
+
+click_to_continue                       Nhấp chuột để Tiếp tục...
+gameover_caption                        Mở Menu để Tiếp tục
+
+adviser_deathrow_explain5               Trong lúc chờ đợi, hãy nhìn quanh xem sao. Kéo chuột để di chuyển góc nhìn, và cuộn chuột để phóng to/thu nhỏ.
+
+adviser_deathrow_internaldoors2         Bạn có thể xoay vật thể trước khi đặt bằng cách nhấp vào nút Xoay ở bên phải màn hình
+
+objective_deathrow_buildinternaldoors   Xây cửa nội bộ
+
+objective_food_extinguishflames_description  Khi đã chọn lính cứu hỏa, bạn có thể nhấn và giữ chuột vào ngọn lửa để nhắm vòi phun nước, nhưng ngọn lửa phải cách xa dưới 15 ô.
