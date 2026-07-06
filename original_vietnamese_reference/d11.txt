@@ -3122,3 +3122,564 @@ d11_reform_job_outcome_default						Bưu điện
 # Reform Menu Misc.
 d11_reform_required_reoffending_rate_title			% Giới hạn tạm tha: 
 d11_reform_no_prisoners_found						Không tìm thấy tù nhân nào!
+
+# =============================================================================
+# Wage rating
+# =============================================================================
+
+d11_all_prisoner_wages					Toàn bộ tiền lương tù nhân
+d11_report_policy_wage_hint				Mức lương cao hơn giúp khuyến khích tù nhân tham gia lao động và các chương trình cải tạo liên quan đến công việc.
+d11_wage								Tiền lương
+d11_adjust_wage_description				Tù nhân được trả lương khi tham gia các công việc trong nhà tù. Tiền lương có thể được điều chỉnh riêng lẻ hoặc toàn cục cho từng loại công việc. Mức lương cao hơn giúp khuyến khích tù nhân tham gia lao động tù nhân và các chương trình cải tạo liên quan đến công việc.
+# =============================================================================
+# Custom Intake
+# =============================================================================
+
+d11_intake_arrival_caption				Giờ tiếp nhận tù nhân
+d11_intake_arrival_tooltip				Thời gian tiếp nhận đợt tù nhân mới mặc định là 8 giờ sáng, tùy chọn này cho phép bạn thay đổi khung giờ sao cho phù hợp với nhu cầu của nhà tù.
+
+d11_intake_restrictions_caption			Bỏ hạn chế tiếp nhận
+d11_intake_restrictions_tooltip			Các sự cố nghiêm trọng như bạo loạn tù nhân hoặc nhân viên đình công thường sẽ chặn việc tiếp nhận tù nhân cho đến ngày tiếp theo. Tùy chọn này cho phép nhà tù tiếp nhận tù nhân trong mọi hoàn cảnh, miễn là khu giao hàng còn chỗ trống).
+
+# =============================================================================
+# Reoffending Prisoners
+# =============================================================================
+
+#Reoffendering Prisoners
+rapsheet_stint							Thời gian thụ án
+reform_reward 							Phần thưởng cải tạo tù nhân
+help_warning_prisonerreleased					Các chương trình cải tạo là chìa khóa giúp tù nhân tái hòa nhập cộng đồng thành công. Một số người phạm tội sẽ làm lại cuộc đời thành công, trong khi những người khác lại ngựa quen đường cũ và tái phạm. Tù nhân cải tạo tốt sẽ mang lại phần thưởng tiền mặt bổ sung, nhưng những kẻ tái phạm có thể sẽ quay trở lại nhà tù của bạn. Khi đó, bạn không chỉ bị phạt tiền vì cải tạo thất bại, mà chúng còn có thể nhiễm thêm nhiều thói hư tật xấu khác từ thế giới bên ngoài.
+finances_category_reformed					Tù nhân cải tạo thành công
+finances_category_reoffended					Tiền phạt tù nhân tái phạm
+finances_category_prisonerbonus					Tiền thưởng trợ cấp tù nhân
+
+# =============================================================================
+# Labour Management Menu
+# =============================================================================
+
+d11_labour_management					Quản lý lao động
+d11_LabourManagementDescription         Menu này giúp bạn kiểm soát những tù nhân được phép làm việc tại đây, thời gian lao động, cùng với các tùy chọn bố trí cai ngục nhanh.
+d11_HighestSecurityLevel				Mức an ninh cao nhất
+
+d11_LabourManagement_RegimeActivity_hint          Chọn các khung giờ trong lịch sinh hoạt mà khách hàng được phép đến, gồm giờ Lao động, Giờ tự do hoặc cả hai.
+d11_LabourManagement_HighestSecurityLevel_hint    Mức an ninh tối đa của tù nhân được phép làm việc tại đây, không thể ghi đè lên phân khu an ninh của phòng.
+d11_LabourManagement_MealType_hint                Khách hàng sẽ trả nhiều tiền hơn cho món ăn chất lượng cao và cũng sẽ hài lòng hơn, nhưng món ăn chất lượng cao đòi hỏi thời gian nấu lâu hơn.
+d11_LabourManagement_GuardDeployment_hint          Cách nhanh chóng để phân công cai ngục trực tại khu vực khi có thường dân xuất hiện.
+
+
+# =============================================================================
+# Miscellaneous
+# =============================================================================
+
+#quantity per hour
+d11_dollar_per_hour						$*X/ Giờ
+
+d11_incomplete							Chưa hoàn thành
+
+d11_restaurant_payment_desc              Thương mại dân sự
+finances_category_civilian_commerce      Thương mại dân sự
+
+d11_mealquality                           Chất lượng bữa ăn
+
+policy_staff_keys						Cấp chìa khóa cho nhân viên
+d11_report_policy_staffKeys_hint		Nếu bật, toàn bộ nhân viên được thuê sẽ mang theo chìa khóa. \nMặc dù tùy chọn này giúp nâng cao hiệu suất làm việc trong nhà tù, \nnhưng nó cũng làm tăng rủi ro an ninh khi có quá nhiều chìa khóa được lưu thông.  
+
+# PC - Only 
+codex_new_uniformColour                  Màu đồng phục
+codex_new_defaultColour					Màu mặc định: 
+
+# =============================================================================
+# Uniform Colours - PC - Non Console translations only. 
+# =============================================================================
+uniform_color_1								Xám
+uniform_color_2								Cam
+uniform_color_3								Đỏ
+uniform_color_4								Vàng
+uniform_color_5								Đỏ đô
+uniform_color_6								Đen
+uniform_color_7								Trắng
+uniform_color_9								Hồng
+uniform_color_10							Nâu
+uniform_color_11							Xanh lá
+uniform_color_12							Xanh dương
+uniform_color_13							Xanh da trời
+uniform_color_14							Màu cá hồi
+uniform_color_15							Màu nhung
+uniform_color_16							Tím
+uniform_color_17							Xanh chanh
+uniform_color_18							Hồng cánh sen
+uniform_color_19							Xanh nước biển
+uniform_color_20							Màu xám thép
+uniform_color_21							Màu cát
+uniform_color_22							Đỏ rượu vang
+uniform_color_23							Xám sệt
+uniform_color_24							Xanh acid
+uniform_color_25							Xám bão
+uniform_color_26							Tím violet
+uniform_color_27							Màu đất
+uniform_color_28							Màu thép
+uniform_color_29							Tím tử đinh hương
+uniform_color_30							Màu vỏ trứng
+uniform_color_31							Xanh đại dương
+uniform_color_32							Màu cháo loãng
+
+# =============================================================================
+# In Game Messaging for Shelby
+#
+#	Localization notes:
+#	- objective_.. (IE: objective_WorkCredentials) is the same as objective_WorkCredentials_x_SubTitle
+#		- only exception to this is the NewRooms ones, which for PC is a concatenation of for example, "objective_NewRooms_1_SectionTitle" + " - " + "objective_NewRooms_1_Subtitle"
+#	- objective_WorkCredentials_1_Description on console is identical to objective_WorkCredentials_child_1_Description and objective_WorkCredentials_2_Description is identical to objective_WorkCredentials_child_2_Description
+#	- d11_tooltip_.. on console is not used on PC
+#
+# =============================================================================
+
+# Same as d11_todo_title_shelby on Console
+objectiveWindow_FilterButton_2_title				Về Second Chances
+
+objectiveWindow_FilterButton_2_toolTip				Trợ giúp và thông tin liên quan đến DLC Second Chances mới.
+
+
+# Work Experience
+
+objective_WorkExperience							Kinh nghiệm làm việc
+
+objective_WorkExperience_child_1					Giới thiệu về Kinh nghiệm làm việc
+objective_WorkExperience_child_1_Description		Tù nhân giờ đây sẽ được ghi nhận kinh nghiệm làm việc, điều này có thể giúp họ cải tạo thành những công dân kiểu mẫu và hỗ trợ đắc lực khi ở trong tù. Ví dụ: sau khi tích lũy kinh nghiệm trong một lĩnh vực cụ thể, tù nhân sẽ thực hiện công việc liên quan hiệu quả hơn hẳn trước đây. Tù nhân đạt 50% kinh nghiệm về Nấu ăn, Tay nghề thủ công hoặc Dịch vụ khách hàng có thể đảm nhận bất kỳ công việc liên quan nào mà không cần hoàn thành khóa huấn luyện tương ứng. Tù nhân cũng sẽ được giảm tỷ lệ tái phạm khi đạt mốc 50% và 100% kinh nghiệm ở bất kỳ lĩnh vực nào.   
+
+objective_WorkExperience_child_2					Cách tích lũy Kinh nghiệm làm việc
+objective_WorkExperience_child_2_Description		Có 3 cách để tù nhân tích lũy kinh nghiệm làm việc: \n\nChứng chỉ công việc có sẵn - Tù nhân đạt mức An ninh cao trở xuống có thể sở hữu sẵn kinh nghiệm làm việc nhờ vào các nghề nghiệp trước đây của họ. \n\nChương trình huấn luyện - Tù nhân hoàn thành 1 trong 3 chương trình huấn luyện (An toàn xưởng, An toàn bếp ăn hoặc Huấn luyện Ba cảnh cáo) sẽ nhận được 50% kinh nghiệm yêu cầu trong lĩnh vực tương ứng (lần lượt là Nấu ăn, Thợ thủ công hoặc Dịch vụ khách hàng). \n\nLao động tù nhân - Bất kỳ tù nhân nào tham gia các công việc lao động sẽ tích lũy kinh nghiệm trong lĩnh vực liên quan sau mỗi giờ làm việc.
+
+# New Rooms
+
+objective_NewRooms									Phòng mới
+
+objective_NewRooms_child_2							Phòng mới - Tù nhân phù hợp
+objective_NewRooms_child_2_Description				Tù nhân sở hữu kinh nghiệm yêu cầu về Dịch vụ khách hàng hoặc nấu ăn sẽ có thể làm việc bên trong Tiệm bánh hoặc Nhà hàng. Mức kinh nghiệm yêu cầu cho cả hai lĩnh vực là 50%, tù nhân có thể đạt được mức này bằng cách hoàn thành chương trình huấn luyện phù hợp.
+
+objective_NewRooms_child_3							Phòng mới - Quản lý các phòng này
+objective_NewRooms_child_3_Description				Quản lý lao động là một menu phụ nằm trong Hậu cần lao động tù nhân. \n\nSử dụng menu phụ này cho phép người chơi thiết lập giờ làm việc cho phòng, quy định mức an ninh của các tù nhân được phép làm việc trong khuôn viên, chất lượng và tốc độ sản xuất cùng số lượng cai ngục được bố trí cho phòng. Do có thể có một lượng lớn tù nhân và thường dân cùng xuất hiện, tù nhân có nguy cơ trở nên bạo lực trong một số tình huống nhất định.
+
+objective_NewRooms_child_9							Phòng Nhà hàng - Sự hài lòng của khách hàng
+objective_NewRooms_child_9_Description				Số lượng khách hàng ghé thăm dựa trên mức độ hài lòng của nhóm khách trước đó. Những khách hàng không được phục vụ sẽ có mức độ hài lòng thấp, các bữa ăn chất lượng thấp mang lại mức độ hài lòng trung bình, và các bữa ăn chất lượng cao sẽ khiến khách hàng cực kỳ hài lòng.
+
+# Juvenile Correction Program
+
+objective_ScaredStraight							Chương trình Ba cảnh cáo
+
+objective_ScaredStraight_child_1					Cách chương trình hoạt động
+objective_ScaredStraight_child_1_Description		Chương trình đưa những người dân đang nhận cảnh cáo cuối cùng từ pháp luật vào nhà tù để lắng nghe chia sẻ trực tiếp từ các tù nhân về thực tế cuộc sống lao lý. Tù nhân phải vượt qua chương trình huấn luyện trước khi được phép chia sẻ kiến thức của mình với các nhóm thường dân. Vì Ba cảnh cáo là một chương trình xã hội, bất kỳ tù nhân nào đã sở hữu sẵn kinh nghiệm cần thiết về 'Dịch vụ khách hàng' đều có thể tham gia ngay mà không cần qua huấn luyện. Một Cai ngục sẽ giám sát để các buổi sinh hoạt nhóm diễn ra suôn sẻ và trật tự.
+
+objective_ScaredStraight_child_3					Lợi ích khi hoàn thành chương trình
+objective_ScaredStraight_child_3_Description		Tù nhân sẽ được giảm một phần Tỷ lệ tái phạm và tăng mức Kinh nghiệm làm việc tương ứng khi hoàn thành xuất sắc chương trình. Ngoài ra, tù nhân cũng giảm được điểm bùng phát, đồng thời giải tỏa bớt nhu cầu Gia đình và/hoặc Tự do.
+
+# Behavioural Programs
+
+objective_BehaviouralPrograms						Chương trình hành vi mới
+
+objective_BehaviouralPrograms_child_1				Chương trình trị liệu bằng động vật
+objective_BehaviouralPrograms_child_1_Description	Trị liệu bằng động vật tương tự như các chương trình hiện có khác nhưng mang lại những hiệu ứng thúc đẩy bổ sung cho các tù nhân hoàn thành xuất sắc khóa học. \n\nChương trình được chia thành nhiều buổi. Tù nhân tham gia và hoàn thành sẽ được giảm tỷ lệ tái phạm, giảm điểm bùng phát, nhận được một cú hích nhỏ cho các nhu cầu Tiện nghi, Tự do và Xa xỉ phẩm - cũng như có cơ hội xóa bỏ bất kỳ Tiếng tăm tiêu cực nào hiện có.
+
+objective_BehaviouralPrograms_child_2				Chương trình giải quyết xung đột
+objective_BehaviouralPrograms_child_2_Description	Mục tiêu của Giải quyết xung đột là giáo dục tù nhân cách tốt nhất để đối phó với các tình huống khó khăn trong thế giới thực mà không cần dùng đến bạo lực. Chương trình này được hướng dẫn bởi các cựu tù nhân, giúp buổi học diễn ra cởi mở và mang tính xây dựng hơn. Chương trình được chia thành nhiều buổi. Khi hoàn thành xuất sắc, tù nhân sẽ giảm được điểm bùng phát cũng như có cơ hội xóa bỏ các Tiếng tăm liên quan đến bạo lực.
+
+objective_BehaviouralPrograms_child_3				Tham vấn từ cựu tù nhân
+objective_BehaviouralPrograms_child_3_Description	Các cựu tù nhân đã cải tạo thành công sau khi ra tù được mời quay lại để nói chuyện với tư cách là khách mời đối với những người hiện đang bị giam giữ. Tù nhân có sự đồng cảm lớn hơn khi những lời chia sẻ đến từ 'một người trong số họ' và sẵn sàng cởi mở, chia sẻ suy nghĩ của mình với một người hướng dẫn từng ở cùng hoàn cảnh. \n\nChương trình được chia thành nhiều buổi. Khi hoàn thành xuất sắc, tù nhân sẽ giảm được tỷ lệ tái phạm, cải thiện hoặc giảm bớt các Nhu cầu cụ thể như Gia đình, Tự do và An toàn cũng như có cơ hội xóa bỏ các Tiếng tăm tiêu cực về hành vi.
+
+# Sentence Reductions
+
+objective_SentenceReductions						Giảm án & Gia hạn hình phạt
+
+objective_SentenceReductions_child_1				Cộng thêm & Giảm bớt thời gian thụ án của tù nhân thông qua hành vi của họ
+objective_SentenceReductions_child_1_Description	Hành vi của tù nhân có thể ảnh hưởng trực tiếp đến thời hạn chấp hành án còn lại của họ. \n\nNếu tuân thủ các tiêu chí đề ra cho Hành vi tốt, tù nhân sẽ được thưởng một khoảng thời gian giảm án. \n\nNgược lại, những tù nhân vi phạm kỷ luật và không tuân thủ tiêu chí có thể bị tăng thời gian thụ án. Trong khi các lỗi nhỏ có thể được bỏ qua, các tội danh nghiêm trọng sẽ khiến thời hạn chấp hành án bị kéo dài.
+
+# Released Prisoners
+
+objective_ReleasedPrisoners				Tù nhân được trả tự do
+
+objective_ReleasedPrisoners_child_1				Phần thưởng & Hình phạt cho việc Cải tạo & Tái phạm 
+objective_ReleasedPrisoners_child_1_Description			Tù nhân được trả tự do sẽ bắt đầu cuộc sống mới hoặc quay lại thói quen cũ và trở lại tù. \n\nVới mỗi tù nhân cải tạo thành công, một khoản tiền thưởng sẽ được chi trả. \n\nVới mỗi tù nhân tái phạm và trở lại nhà tù, một khoản tiền phạt sẽ được đưa ra vì việc cải tạo thất bại.
+
+objective_ReleasedPrisoners_child_2			Tù nhân quay trở lại
+objective_ReleasedPrisoners_child_2_Description			Tù nhân được tự do tái phạm và quay trở lại nhà tù có thể nhiễm thêm các thói hư tật xấu khác khi ở bên ngoài. \n\nTù nhân có thể quay lại với một tiếng tăm bổ sung hoặc cấp độ nâng cấp của một tiếng tăm hiện có - chẳng hạn như là 'Khỏe mạnh' khi ra tù và 'Cực kỳ khỏe mạnh' khi quay lại. Có thể phát hiện những tù nhân này qua một biểu tượng trên đầu họ, và cũng có thể tìm thấy họ thông qua một thông báo trong menu Tù nhân được trả tự do.
+
+# Prison Labour Wages
+
+objective_LabourWages 			Tiền lương lao động tù nhân
+
+objective_LabourWages_child_1				Điều chỉnh tiền lương lao động và các tác động  
+objective_LabourWages_child_1_Description				Mỗi công việc lao động được thực hiện sẽ trả cho tù nhân mức lương theo giờ. Tiền lương có thể được điều chỉnh cho từng loại lao động thông qua menu tài chính. Mức lương cao hơn sẽ khuyến khích tù nhân tham gia lao động tù nhân và các chương trình liên quan đến công việc.\n Việc tăng lương cho nhà bếp sẽ làm tăng sự quan tâm đến chương trình an toàn bếp ăn, tăng lương cho các Tiệm bánh và Nhà hàng sẽ làm tăng sự quan tâm đến chương trình An toàn bếp ăn và huấn luyện Ba cảnh cáo, trong khi tăng lương cho các công việc ở Xưởng lao động và Thư viện sẽ lần lượt làm tăng sự quan tâm đối với các chương trình An toàn xưởng và giáo dục phổ thông.      
+
+
+# Prisoner Grant Bonus
+
+objective_PrisonerGrantBonus 		Tiền thưởng trợ cấp tù nhân
+
+objective_PrisonerGrantBonus_child_1			Lợi ích của tỷ lệ tái phạm thấp 
+objective_PrisonerGrantBonus_child_1_Description			Các nhà tù có chương trình cải tạo thành công sẽ được công nhận tỷ lệ tái phạm thấp bằng cách tăng số tiền chi trả cho mỗi tù nhân mỗi ngày. Tỷ lệ này càng thấp thì tiền thưởng hàng ngày càng cao.\nKhoản thu nhập bổ sung này có thể được tìm thấy trong Menu Tài chính dưới tên gọi Tiền thưởng trợ cấp tù nhân.
+
+objective_PrisonerGrantBonus_child_2			Các khoản thanh toán cụ thể 
+objective_PrisonerGrantBonus_child_2_Description			Các khoản thanh toán hàng ngày sẽ được cung cấp tùy thuộc vào mức độ an ninh của tù nhân và việc các tù nhân này có tỷ lệ tái phạm thấp hơn 30%, 20% và 10% hay không. Đối với An ninh Thấp, các khoản tiền thưởng này sẽ lần lượt là $10, $20 và $50; đối với An ninh Vừa là $20, $30 và $50; đối với An ninh Cao là $30, $50 và $100; và đối với SuperMax là $40, $60 và $100.
+		
+
+# Drug Bust / Narcotic Search
+crisisToolbarTitle_DrugBust							Khám xét ma túy
+buildtoolbar_DrugBust                                   Khám xét ma túy
+buildtoolbar_tooltip_DrugBust                           Gửi lệnh đến tất cả những người dắt chó hiện có để khám xét nhà tù nhằm tìm kiếm bất kỳ hàng cấm ma túy nào được cất giấu.
+drug_bust_underway                                      ĐANG TIẾN HÀNH KHÁM XÉT MA TÚY
+
+# =============================================================================
+# Grants
+# =============================================================================
+
+objective_grant_bakeryProduction                        Kỹ năng sản xuất tiệm bánh
+objective_grant_bakeryProduction_description            Nướng và bán các sản phẩm có hương vị tuyệt hảo cho những khách hàng trả tiền vừa là một kỹ năng vừa là một thành tựu đối với các tù nhân đang tìm kiếm một con đường sự nghiệp tiềm năng sau khi ra tù.\n\nTù nhân sẽ kiếm được tiền lương và Nhà tù sẽ thu được doanh thu. 
+objective_grant_bakeryProduction_bakery                  Xây một Tiệm bánh
+objective_grant_bakeryProduction_bakedGoods             Bán 25 sản phẩm bánh nướng cho khách hàng   
+
+objective_grant_restaurantService                        Kế hoạch dịch vụ nhà hàng
+objective_grant_restaurantService_description            Cho phép tù nhân có cơ hội kiếm tiền lương và cung cấp dịch vụ cho thường dân đến thăm là một cách tuyệt vời để mang lại sự bình thường trở lại cho cuộc sống của tù nhân.\n\nNhà tù cũng sẽ được hưởng lợi từ doanh thu tạo ra thông qua các sản phẩm được bán.
+objective_grant_restaurantService_restaurant             Xây một Nhà hàng
+objective_grant_restaurantService_serveCustomers         Phục vụ 30 Thường dân
+
+objective_grant_reformedPrisoner                         Sáng kiến cải tạo tù nhân
+objective_grant_reformedPrisoner_description             Chính phủ đang tập trung vào lợi ích của việc đầu tư vào tù nhân và muốn tôn vinh thành công của các nhà tù cải tạo tù nhân thành công. \n\nCác chương trình Cải tạo tù nhân đóng vai trò quan trọng trong việc giúp tù nhân hoàn lương sau khi ra tù. Hãy trao cho tù nhân cơ hội tốt nhất để thay đổi cuộc đời họ.  
+objective_grant_reformedPrisoner_reformedPrisoners       Đạt 100 tù nhân cải tạo thành công sau khi ra tù
+
+objective_grant_prisonerReoffendRate                     Tỷ lệ tái phạm của tù nhân
+objective_grant_prisonerReoffendRate_description         Giảm tỷ lệ tái phạm của tù nhân là điều tốt cho tất cả những ai liên quan. Khả năng tái phạm của tù nhân sẽ giảm xuống khi họ được chăm sóc tốt về mặt y tế, được trao cơ hội học kỹ năng sống cùng các chương trình cải tạo và được giữ an toàn khỏi bị tổn hại bằng các biện pháp an ninh đầy đủ.
+objective_grant_prisonerReoffendRate_reduceRate          Giảm tỷ lệ tái phạm trung bình xuống 30%
+
+objective_grant_reformProgramResearch                     Nghiên cứu chương trình cải tạo
+objective_grant_reformProgramResearch_description         Các nghiên cứu sơ bộ đã chỉ ra rằng những chương trình có khả năng làm giảm khuynh hướng bạo lực và giảm thiểu xung đột sẽ mang lại một trong những cơ hội tốt nhất để tù nhân tái hòa nhập cộng đồng thành công.\n\nHãy thiết lập một loạt các Chương trình cải tạo để điều tra những tác động tích cực của chúng.
+
+objective_grant_reformProgramResearch_enrollAnimalTherapy                Ghi danh 10 tù nhân vào khóa Trị liệu bằng động vật
+objective_grant_reformProgramResearch_passAnimalTherapy                  1 Tù nhân hoàn thành khóa Trị liệu bằng động vật
+
+objective_grant_reformProgramResearch_enrollJuvenileCorrection          Ghi danh 10 tù nhân vào Chương trình Ba cảnh cáo
+objective_grant_reformProgramResearch_passJuvenileCorrection            1 Tù nhân hoàn thành Chương trình Ba cảnh cáo
+
+objective_grant_reformProgramResearch_enrollPrisonerConsultation        Ghi danh 10 tù nhân vào khóa Tham vấn từ cựu tù nhân
+objective_grant_reformProgramResearch_passPrisonerConsultation          1 Tù nhân hoàn thành khóa Tham vấn từ cựu tù nhân
+
+grant_category_ReformPassed                                              Ít nhất một tù nhân đã hoàn thành
+
+
+# =============================================================================
+# Shelby Batch 2
+# =============================================================================
+
+dlc_name_shelby								Second Chances
+
+# =============================================================================
+# Halloween Items
+# =============================================================================
+
+object_JackOLantern						Đèn bí ngô Jack-o'-lantern
+object_DecoratedTree					Cây trang trí (ma quái)
+object_CoffinBed						Giường quan tài
+object_SpiderWeb						Mạng nhện
+
+buildtoolbar_popup_obj_JackOLantern		Nguồn sáng rùng rợn và có thể ăn được.
+buildtoolbar_popup_obj_DecoratedTree	Một cái cây già kỳ quái với các đồ trang trí phù hợp.
+buildtoolbar_popup_obj_CoffinBed		Một chiếc giường rùng rợn nhưng khá thoải mái dành cho tù nhân.
+buildtoolbar_popup_obj_SpiderWeb		Để thêm một chút yếu tố đáng sợ lên những bức tường của bạn.
+
+# =============================================================================
+# Reform Menu Tooltips - PC Only
+# =============================================================================
+
+d11_reform_design_info						Khả năng tái phạm càng thấp thì cơ hội cải tạo thành công của tù nhân càng lớn.
+
+# Prisoners Popup
+# Reads "%" on console due to lack of space, but "chance" on PC
+
+d11_reform_punishment_grade_tooltip_title			Xếp hạng trừng phạt trung bình
+d11_reform_punishment_grade_tooltip				Các biện pháp trừng phạt nghiêm khắc giúp giữ tù nhân vào khuôn khổ và duy trì luật pháp bên trong nhà tù. 
+
+d11_reform_reform_grade_tooltip_title				Xếp hạng cải tạo trung bình
+d11_reform_reform_grade_tooltip					Những tù nhân tham gia và hoàn thành các Chương trình cải tạo hiện có dành cho họ sẽ có cơ hội hoàn lương tốt hơn sau khi ra tù.
+
+d11_reform_work_exp_grade_tooltip_title				Xếp hạng kinh nghiệm làm việc trung bình
+d11_reform_work_exp_grade_tooltip				Kỹ năng sống là một phần quan trọng của việc cải tạo. Trao cho tù nhân công việc bên trong nhà tù sẽ cải thiện Xếp hạng kinh nghiệm làm việc trung bình.
+
+d11_reform_security_grade_tooltip_title				Xếp hạng an ninh trung bình
+d11_reform_security_grade_tooltip				Giữ tù nhân an toàn khỏi bị tổn hại bên trong nhà tù sẽ làm tăng Xếp hạng an ninh tổng thể.	
+
+d11_reform_health_grade_tooltip_title				Xếp hạng sức khỏe trung bình
+d11_reform_health_grade_tooltip					Chăm sóc sức khỏe thể chất và tinh thần chung của tù nhân cũng như điều trị chứng nghiện ngập sẽ cải thiện xếp hạng Sức khỏe trung bình trong nhà tù.
+
+d11_reform_reoffending_chance_tooltip_title			% Tái phạm trung bình
+d11_reform_reoffending_chance_tooltip				Phần trăm càng cao thì khả năng tái phạm xảy ra càng lớn.
+
+# =============================================================================
+# Misc.
+# =============================================================================
+score_tooltip_WorkExperience					Tù nhân giờ đây sẽ được ghi nhận kinh nghiệm làm việc, điều này có thể giúp họ cải tạo thành những công dân kiểu mẫu và hỗ trợ đắc lực khi ở trong tù. Ví dụ: sau khi tích lũy kinh nghiệm trong một lĩnh vực cụ thể, tù nhân sẽ thực hiện công việc liên quan hiệu quả hơn hẳn trước đây. Tù nhân đạt 50% kinh nghiệm về Nấu ăn, Tay nghề thủ công hoặc Dịch vụ khách hàng có thể đảm nhận bất kỳ công việc liên quan nào mà không cần hoàn thành khóa huấn luyện tương ứng. Tù nhân cũng sẽ được giảm tỷ lệ tái phạm khi đạt mốc 50% và 100% kinh nghiệm ở bất kỳ lĩnh vực nào.
+d11_on	BẬT
+d11_off	TẮT
+
+# ====================================
+# SHELBY BATCH 3
+# ======================================
+
+d11_work_credentials					Chứng chỉ công việc
+
+d11_staffalert_hint_NEEDS14				Một bộ đồng phục mới và sạch sẽ có thể tạo ra sự khác biệt lớn đối với chất lượng cuộc sống của tù nhân. Dịch vụ giặt ủi là điều cần thiết để đáp ứng nhu cầu 'Quần áo' của tù nhân.
+d11_shakedown_searched						Đã khám xét *A/*B địa điểm
+
+equipment_whisk							Cây đánh trứng
+equipment_rollingpin					Cây cán bột
+
+# ====================================
+# SHELBY BATCH 4
+# ======================================
+
+interfacetopbar_timesincetransaction	[*X giây trước]
+
+# ====================================
+# ====================================
+# ----------------------------------- POLLY BATCH 1 -----------------
+# ======================================
+# ====================================
+
+dlc_name_polly							Perfect Storm
+
+event_rollingblackout					Các trận bão đang tàn phá lưới điện địa phương. Việc lắp đặt máy phát dự phòng là một biện pháp bảo hiểm an toàn tốt. Chúng ta phải cố gắng duy trì nguồn điện cho nhà tù ngay cả trong các tình huống khẩn cấp.
+event_frozenpeople_cold                 Tôi nghĩ không nên để bất kỳ ai ở ngoài trời trong thời tiết lạnh giá này. Phải đưa mọi người vào trong ngay, nếu không chúng ta sẽ có người chết mất!
+event_frozenpeople_die                  Đã có người chết cóng ở ngoài trời! Đây là một bi kịch hoàn toàn có thể tránh được. Quản lý phúc lợi của tù nhân và nhân viên trong khu vực này là trách nhiệm của bạn. Tuyệt đối không ai được phép ra ngoài trong điều kiện thời tiết như thế này.
+event_frozensmallpipe_frozenvalve        Các đoạn đường ống đã bị đóng băng cứng. Nếu chúng không có lớp cách nhiệt, chúng có khả năng bị đóng băng nhanh hơn nhiều khi nhiệt độ giảm xuống.
+event_damage_cable_advisor				Có vẻ như chúng ta đang có một số đường dây điện bị lỗi. Lắp đặt cáp chịu tải cao sẽ là một ý tưởng hay, nhưng bất kỳ ai có huấn luyện phù hợp đều có thể sửa chữa chúng.
+event_rat_droppings_advisor				Tôi vừa nhìn thấy một con chuột... có lẽ chúng ta nên nghĩ đến việc đầu tư vào một số hình thức răn dhoe?
+event_rat_stealFood_advisor				Tôi vừa thấy một con chuột chạy lăng xăng với một ít thức ăn. Chắc chắn chúng đang đột kích các nhà bếp...
+event_rat_chewFence_advisor				Một cuộc kiểm tra định kỳ đã phát hiện ra rằng lũ chuột đang gặm nhấm tạo ra các lỗ thủng trên hàng rào. Không cần phải nói, điều này đặt ra một rủi ro an ninh tiềm ẩn
+event_rat_illnessWarning_advisor		Vấn đề về chuột hiện đã trở thành một nạn dịch hại. Nếu số lượng của chúng không được giảm bớt, việc chúng truyền bệnh sang cho tù nhân chỉ là vấn đề thời gian.
+event_rat_illnessOutbreak_advisor		Có vẻ như một vài tù nhân đang bị nhiễm bệnh do sự xuất hiện của lũ chuột. Chúng ta nên xem xét điều trị cho những người bị nhiễm và tôi khuyên nên làm vệ sinh kỹ lưỡng, đặc biệt là nhà bếp hoặc các khu vực chuẩn bị đồ ăn.
+event_rat_escapeTunnels_advisor			Có những tin đồn đến từ khu giam giữ rằng các tù nhân đang quan sát lũ chuột để tìm những khu vực có thể dễ đào hầm hơn.
+
+event_deepfreeze_flu_outbreak			Có các báo cáo cho thấy một vài tù nhân có thể đã bị cúm, có thể cần phải thực hiện hành động để kiểm soát tình hình!
+event_deepfreeze_flu_onboarding			Thời tiết lạnh giá mang theo nguy cơ tù nhân mắc bệnh cúm mùa. Điều quan trọng là phải cố gắng giữ các tù nhân bị nhiễm bệnh cách ly khỏi phần còn lại của tổng số tù nhân và nếu có thể, hãy đưa họ đến trạm y tế để điều trị.
+
+event_deepfreeze_construction_onboarding		Các điều kiện bên ngoài đang rất khó khăn. Với các điều kiện mặt đất bị đóng băng, tốc độ xây dựng sẽ bị chậm lại.
+event_deepfreeze_gardening_onboarding			Mặt đất đã bị đóng băng cứng, rất khó để trồng bất cứ thứ gì vào lúc này.
+event_deepfreeze_frozentunnel_onboarding		Điểm tốt duy nhất của thời tiết này là nó sẽ làm chậm bất kỳ ai đang có kế hoạch đào đường hầm thoát khỏi đây.
+event_deepfreeze_frozenpump_onboarding			Trạm bơm nước bị đóng băng đang chặn dòng chảy của nước. Nếu không có bất kỳ lớp cách nhiệt nào, các vật phẩm có khả năng bị đóng băng nhiều hơn khi nhiệt độ giảm xuống.
+event_pipe_burst_onboarding						Đang có ngập lụt nghiêm trọng do vỡ ống nước. Tôi không thấy tình trạng này sớm dịu đi, trừ khi bạn gọi ai đó đến để bơm nước ra ngoài. 
+event_heatwave_meltingroad_onboarding			Các con đường đang trở nên nguy hiểm. Bất kỳ phương tiện nào đi ngang qua nhà tù sẽ phải di chuyển chậm hơn nhiều cho đến khi điều kiện được cải thiện. Bạn nên thuê dịch vụ bảo trì khẩn cấp để cải thiện tình hình.
+event_deepfreeze_sprinklers				Trong điều kiện lạnh giá như vậy, các vòi cứu hỏa của nhà tù có thể bị đóng băng, đe dọa đến mạng sống của mọi người. Hãy chắc chắn rằng bạn có nhân sự được huấn luyện phòng cháy chữa cháy đầy đủ trong trường hợp xảy ra kịch bản như vậy. Một hồ sơ An toàn Phòng cháy kém sẽ không mang lại bất kỳ lợi ích nào cho tiếng tăm của nhà tù.
+event_deepfreeze_road					Các con đường đang trở nên nguy hiểm. Bất kỳ phương tiện nào đi ngang qua nhà tù sẽ phải di chuyển chậm hơn nhiều cho đến khi điều kiện được cải thiện. Bạn nên thuê dịch vụ bảo trì khẩn cấp để cải thiện tình hình.
+event_heatwave_heatstroke				Cái nóng dữ dội này có thể gây ra những tác động nguy hiểm cho con người, chẳng hạn như gây say nắng. Chúng ta phải đảm bảo rằng mọi người được cung cấp đủ nước và có nhân viên y tế túc trực.
+event_heatwave_SwollenDoors				Cái nóng này đã làm cho các cửa kim loại của chúng ta bị giãn nở. Chúng ta phải bảo thợ xây làm mát chúng, nếu không chúng ta sẽ không thể sử dụng chúng.
+
+
+objective_fluoutbreak					Bùng phát dịch cúm 
+objective_fluoutbreak_child				Số lượng tù nhân bị cúm:
+objective_heatstroke					Nạn nhân say nắng 
+objective_heatstroke_child				Số lượng tù nhân bị say nắng:
+objective_foodpoisoning					Nạn nhân ngộ độc thực phẩm 
+objective_foodpoisoning_child			Số lượng tù nhân bị Ngộ độc thực phẩm:
+objective_RatInfestation				Nạn chuột hại
+objective_RatInfestation_child			Số lượng chuột ước tính trong nhà tù: ≈
+
+event_buildingmaterialdeliverysurplus	Do một số lỗi hậu cần, chúng ta đang nhận được thêm vật tư.
+event_ingredientsdeliverysurplus		Do một số lỗi hậu cần, chúng ta đang nhận được thêm vật tư.
+event_prisoneruniformdeliverysurplus	Do một số lỗi hậu cần, chúng ta đang nhận được thêm vật tư.
+
+event_tunnelreveal						Sự sụt lún đã để lộ ra một đường hầm mà một tù nhân đang đào.
+
+weather_popup_title				Thời tiết - Dự báo
+weather_current_title			Thời tiết hiện tại
+weather_predicted_title			Thời tiết dự kiến
+weather_topbar_hover_hint		Nhấp để truy cập Dự báo thời tiết chi tiết
+weather_warning_title			Cảnh báo thời tiết đã được phát ra
+weather_forcasted_title			Thời tiết được dự báo:
+weather_temp_range_title		Phạm vi nhiệt độ:
+weather_precipitation_title		Lượng mưa:
+weather_windspeed_title			Tốc độ gió:
+weather_visibility_title		Tầm nhìn:
+weather_deepfreeze_1			Bão tuyết nhẹ
+weather_deepfreeze_2			Bão tuyết
+weather_deepfreeze_3			Bão tuyết dữ dội
+weather_lightningstorm_1		Bão yếu
+weather_lightningstorm_2		Bão giông
+weather_lightningstorm_3		Bão giông dữ dội
+weather_calamityheatwave_1		Đợt nóng
+weather_calamityheatwave_2		Sóng nhiệt
+weather_calamityheatwave_3		Sóng nhiệt dữ dội
+weather_windspeed_mph			MPH
+weather_windspeed_ms			m/s
+weather_level					Cấp độ *X
+weather_north					Bắc
+weather_south					Nam
+weather_west					Tây
+weather_east					Đông
+weather_northwest				Tây Bắc
+weather_northeast				Đông Bắc
+weather_southwest				Tây Nam
+weather_southeast				Đông Nam
+weather_duration				Thời lượng:
+weather_data_calamity_active	Không thể dự báo thời tiết tương lai trong thời gian xảy ra thiên tai, vui lòng kiểm tra lại sau khi các điều kiện đã dịu xuống.
+weather_data_no_predictions		Không thể đưa ra dự báo thời tiết nào với cấp độ hiện tại của các thiết bị phát hiện thời tiết.
+
+# Weather Visibility
+weather_vis_good				Tốt
+weather_vis_okay				Ổn
+weather_vis_poor				Kém
+weather_vis_severe				Nghiêm trọng
+weather_vis_mild				Nhẹ
+
+# New renamed weather types?
+weather_Clear						Trong lành
+weather_Cloudy						Nhiều mây
+weather_PartialSun					Hửng nắng
+weather_Sun							Có nắng
+weather_LightShowers				Mưa rào nhẹ     
+weather_HeavyRain					Mưa to
+weather_ThunderStorm				Bão kèm sấm sét
+weather_SnowShowers					Mưa tuyết rào
+weather_HeavySnow					Tuyết rơi dày
+
+# We have loc strings that are similar, but some countries might use other terms then category in the context of weather, e.g Sweden uses "Class X Warning"
+weather_severity_category		Cấp: *X
+
+
+interfacecallout_pestcontrol						Kiểm soát dịch hại
+interfacecallout_airpestcontrol						Kiểm soát dịch hại đường không
+interfacecallout_reconstructionspecialists			Thợ sửa chữa
+interfacecallout_airreconstructionspecialists		Thợ sửa chữa đường không
+interfacecallout_drainagespecialists				Thợ sửa ống nước
+interfacecallout_airdrainagespecialists				Thợ sửa ống nước đường không
+
+mutator_name_DoggieDoo                  Phân cún!
+mutator_tooltip_DoggieDoo                Chó giờ đây sẽ có một "sự cố" nhỏ của riêng chúng, cung cấp thêm công việc cho lao công và tác động một phần nhỏ đến nhu cầu Vệ sinh ở các khu vực có tù nhân. Cả chó nghiệp vụ lẫn chó từ các chương trình đều có thể đi bậy!
+
+d11_prisoner_programs			Chương trình tù nhân
+d11_staff_programs				Chương trình nhân viên
+
+
+# ==============================================================
+# Objects
+# ==============================================================
+
+object_PestControlTruck			Xe kiểm soát dịch hại
+object_PestControlWorker		Nhân viên kiểm soát dịch hại
+equipment_PoisonWand			Bình xịt côn trùng
+equipment_FirstAidKit			Bộ sơ cứu
+
+object_damagedelectricalcable	Dây điện bị hỏng
+
+object_Rat							Chuột
+object_RatTrap 						Bẫy chuột
+object_RatDroppings					Phân chuột
+object_DogDoo						Phân chó
+object_BackupGenerator				Máy phát dự phòng
+object_SonicDeterrent				Máy đuổi chuột bằng sóng âm
+object_FirstAidStation				Trạm sơ cứu
+object_WeatherMachine				Máy thời tiết
+object_Sprinkler               Vòi phun cứu hỏa
+object_FireAlarm					Hệ thống báo cháy
+interface_action_range				Phạm vi
+
+object_PipeSmallLagged				Lớp cách nhiệt ống nước (Nhỏ)
+object_PipeHotLagged				Lớp cách nhiệt ống nước (Nóng)
+object_PipeValveLagged				Lớp cách nhiệt van ống nước
+object_WaterStationLagged			Lớp cách nhiệt trạm bơm nước
+object_WaterBoilerLagged			Lớp cách nhiệt bình đun nước
+object_CropSprinkler				Vòi phun ngoài trời
+object_LightningRod					Thanh thu lôi
+object_HeavyDutyElectricalCable		Máng bảo vệ cáp
+object_TrainingElectricalCable		Dây điện bị hỏng dùng để thực hành
+object_GritBin						Thùng cát sỏi chống đông
+object_mysterycrate					Hòm bí ẩn
+
+object_ConstructionVan				Xe thợ sửa chữa
+object_ConstructionHeli				Trực thăng thợ sửa chữa
+object_Repairman					Thợ sửa chữa
+
+object_DrainageVan					Xe thợ sửa ống nước
+object_DrainageHeli					Trực thăng thợ sửa ống nước
+object_Waterman						Thợ sửa ống nước
+object_waterman_hosehelp_intro		Thợ sửa ống nước sẽ hút sạch nước ở gần đó
+object_waterman_hosehelp			Nhấn H để tăng tốc độ
+
+object_BorderPlantA					Cây viền vườn A 
+object_BorderPlantB					Cây viền vườn B
+object_BorderPlantC					Cây viền vườn C
+
+object_EntityDeliveryMan				Người giao hàng
+object_birthdayPresent					Quà sinh nhật
+
+buildtoolbar_popup_uts_PipeSmallLagged Một lớp cách nhiệt giúp bảo vệ hệ thống đường ống không bị đóng băng nhanh chóng trong điều kiện dưới 0 độ.
+buildtoolbar_popup_uts_PipeHotLagged   Một lớp cách nhiệt giúp bảo vệ hệ thống đường ống nước nóng không bị đóng băng nhanh chóng trong điều kiện dưới 0 độ.
+buildtoolbar_popup_uts_PipeValveLagged Giữ cho chức năng của Van hoạt động trôi chảy trong điều kiện dưới 0 độ.
+buildtoolbar_popup_uts_WaterStationLagged Lớp cách nhiệt để chịu được điều kiện dưới 0 độ. Áp dụng cho Trạm bơm nước hiện có để bảo vệ chống đóng băng trong tương lai.	
+buildtoolbar_popup_uts_WaterBoilerLagged  Lớp cách nhiệt để chịu được điều kiện dưới 0 độ. Áp dụng cho Bình đun nước hiện có để bảo vệ chống đóng băng trong tương lai.	
+buildtoolbar_popup_obj_CropSprinkler     Tự động phun nước lên khu vực để tưới cỏ, cây cối và tán lá.
+buildtoolbar_popup_obj_LightningRod              Vật phẩm này sẽ đổi hướng và hấp thụ các tia sét một cách an toàn.
+
+
+buildtoolbar_popup_obj_RatTrap             Nếu nhân viên đã hoàn thành chương trình Diệt trừ dịch hại, họ sẽ có thể thiết lập các bẫy này và loại bỏ một cách nhân đạo bất kỳ "cư dân" nào bị bắt.
+buildtoolbar_popup_uts_BackupGenerator      Tích trữ năng lượng mặt trời để tự động cấp điện khi xảy ra sự cố mất điện nếu được kết nối với hệ thống dây điện của nhà tù. Mỗi mạch điện chỉ có thể lắp đặt tối đa một Máy phát dự phòng.
+double_click                         NHẤP ĐÚP CHUỘT:  
+buildtoolbar_popup_obj_SonicDeterrent        Phát ra tần số cao giúp ngăn chặn chuột xâm nhập vào khu vực đặt thiết bị.
+buildtoolbar_popup_uts_WeatherMachine        Máy thời tiết cung cấp dự báo thời tiết nâng cao. Nó sẽ dự đoán thời lượng, nhiệt độ, lượng mưa, tốc độ gió và điều kiện tầm nhìn. Ngoài ra, nó sẽ đưa ra thời gian đếm ngược cho bất kỳ sự kiện thời tiết đáng lo ngại nào sắp diễn ra.		
+object_WeatherAntenna					Ăng-ten thời tiết
+buildtoolbar_popup_obj_WeatherAntenna	Ăng-ten thời tiết cung cấp một dự báo thời tiết xuất sắc. Nó sẽ dự đoán thời lượng, nhiệt độ, lượng mưa, tốc độ gió và điều kiện tầm nhìn.
+
+buildtoolbar_popup_obj_WindSock						Ống báo gió đưa ra cảnh báo trước 1 giờ về một Sự cố sắp đến và hiển thị hướng/tốc độ gió.
+
+object_DrinkingFountain								Một vòi nước uống công cộng
+buildtoolbar_popup_obj_DrinkingFountain				Một vòi nước gắn tường giúp tù nhân và nhân viên của bạn luôn được giải khát và cung cấp đủ nước.
+
+buildtoolbar_popup_obj_FireAlarm					Phát cảnh báo cho bạn và các đơn vị lân cận khi phát hiện hỏa hoạn ở khu vực xung quanh.
+buildtoolbar_popup_uts_HeavyDutyElectricalCable		Khi lắp Máng bảo vệ cáp lên trên hệ thống dây điện hiện có, các dây cáp phân phối điện quanh nhà tù sẽ có khả năng chống hư hại do chuột gặm nhấm hoặc do quá tải điện áp đột ngột.
+
+buildtoolbar_popup_obj_GritBin						Nhân viên đã qua huấn luyện có thể rải cát sỏi xung quanh để giữ cho sương giá tránh xa các con đường, lối đi và các khu vực ngoài trời khác.
+buildtoolbar_popup_obj_FirstAidStation				Nếu nhân viên đã hoàn thành khóa Huấn luyện Sơ cứu, họ sẽ có thể lấy các bộ sơ cứu từ đây để chữa trị các vết thương nhỏ và ổn định những người trong tình trạng nguy kịch.
+
+buildtoolbar_popup_obj_BorderPlantA			Một loài hoa trang trí mà bạn có thể dùng để làm hàng rào cho một khu vườn nhỏ.
+buildtoolbar_popup_obj_BorderPlantB			Một loài hoa trang trí mà bạn có thể dùng để làm hàng rào cho một khu vườn nhỏ.
+buildtoolbar_popup_obj_BorderPlantC			Một loài hoa trang trí mà bạn có thể dùng để làm hàng rào cho một khu vườn nhỏ.
+
+buildtoolbar_popup_obj_birthdayPresent			Một món quà để kỷ niệm ngày sinh nhật của tù nhân.
+
+equipment_GritBucket						Xô đựng cát sỏi
+
+# ==============================================================
+# Reinforcement
+# ==============================================================
+
+material_RebarReinforcement					Gia cố bằng thanh cốt thép
+buildtoolbar_popup_mat_RebarReinforcement	Áp dụng biện pháp gia cố này sẽ làm tăng tính toàn vẹn cấu trúc của các bức tường và móng nhà, giảm khả năng xảy ra bất kỳ hư hại nào từ các sự kiện.
+
+subsidence_tooltip_Damaged					Bị hư hại do Sụt lún/Chuột
+
+#ROOMS
+room_WeatherCentre				Trạm thời tiết
+buildtoolbar_popup_room_WeatherCentre		Một căn phòng có thiết bị dự báo thời tiết, giúp đưa ra cảnh báo sớm về các sự kiện thời tiết cực đoan.
+room_TrainingRoom				Phòng huấn luyện 
+buildtoolbar_popup_room_TrainingRoom		Nơi học tập để các nhân viên tích lũy các kỹ năng mới.
+
+#QuickRooms
+quickbuild_WeatherCentre			Trạm thời tiết
+buildtoolbar_quickbuild_WeatherCentre		Một căn phòng có thiết bị dự báo thời tiết, giúp đưa ra cảnh báo sớm về các sự kiện thời tiết cực đoan.
+
+
+# duplicated stirng with pest control worker but the localization should filter this out and deal with duplication
+object_pestcontrolteacher			Nhân viên kiểm soát dịch hại
+
+
+d11_generator_charge_text			Bộ sạc máy phát: *X%
+
+event_SubsidenceFirstTime			Có vẻ như nhà tù đang gặp một số vấn đề về sụt lún. Hãy chắc chắn đặt một số thanh cốt thép gia cố lên các cấu trúc của bạn để giữ chúng không bị đổ hoặc thuê Thợ sửa chữa.
+
+object_FireExtinguisher						Bình chữa cháy
+equipment_FireExtinguisher					Bình chữa cháy
+buildtoolbar_popup_obj_FireExtinguisher		Chúng ta không khơi mào đám cháy, nhưng chúng ta có thể giúp dập tắt nó với chương trình An toàn Phòng cháy.
+
+object_FireSafetyTeacher					Giáo viên An toàn Phòng cháy	
+
+codex_tooltip_ratInfestation			Một nhà tù bẩn thỉu sẽ thu hút chuột, hãy đảm bảo nhà tù của bạn được giữ sạch sẽ nếu không chúng sẽ đến và tàn phá. Nạn chuột hại có thể bắt đầu một khi bạn đã thuê Lao công đầu tiên của mình và có 20 tù nhân.
+
+job_EmptyRatTrap					Thả chuột 
+job_FixSwollenDoor					Làm mát cửa
