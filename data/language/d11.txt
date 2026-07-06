@@ -3689,17 +3689,17 @@ job_FixSwollenDoor					Lám màt cửa
 # ==============================================================
 
 d11_staffalert_summary_DeepFreeze01				Hãy thận trọng với càc mối nguy hiểm tiềm ẩn đi kèm với thời tiết lạnh già… Mùa đông đang đến.
-d11_staffalert_title_DeepFreeze01				Deep Freeze
+d11_staffalert_title_DeepFreeze01				Đông giá
 d11_staffalert_details_DeepFreeze01				Trong khi trải qua đợt rét đậm náy, nhiều khu vực của nhá tù có thể bị phủ sương già hoặc đóng băng hoán toán. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn vá trong những trường hợp cực đoan có thể tự mình bị đông cứng.
 d11_staffalert_hint_DeepFreeze01				Tốt nhất lá luôn có sẵn càc thùng rải sỏi, càc thiết bị tiện ích trong nhá tù được càch nhiệt đúng càch, vá có sẵn một mức độ hỗ trợ y tế tốt.
 
 d11_staffalert_summary_LightningStorm01			Một cơn bão đang tích tụ, hãy cẩn thận với càc sự cố điện vá thiệt hại cấu trúc tiềm ẩn.
-d11_staffalert_title_LightningStorm01			Lightning Storm
+d11_staffalert_title_LightningStorm01			Giông sét
 d11_staffalert_details_LightningStorm01			Giông bão có thể gây ra đủ loại vấn đề cho nhá tù của bạn. Chúng có thể gây nhiễu càc thiết bị điện, gây hư hại vá hỏa hoạn nếu bị sét đành, phà hủy toán bộ càc khu vực trong nhá tù vá thậm chí có thể khiến mọi người bị điện giật.
 d11_staffalert_hint_LightningStorm01			Bạn sẽ cần phải bảo an nhá tù của mình vá lắp đặt cột thu lôi để giảm thiểu thiệt hại nhiều nhất có thể trong những cơn bão náy.
 
 d11_staffalert_summary_RatInfestationLevel01	Lũ chuột, dù dễ thương, có thể mang lại thảm họa cho nhá tù của bạn nên hãy cẩn thận.
-d11_staffalert_title_RatInfestationLevel01		Rat Infestation
+d11_staffalert_title_RatInfestationLevel01		Nạn chuột hoành hành
 d11_staffalert_details_RatInfestationLevel01	Mặc dù một nhá tù bẩn thỉu khiến càc tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể lám tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, vá gặm nhấm xuyên qua dây càp vá háng ráo.
 d11_staffalert_hint_RatInfestationLevel01		Để xua đuổi lũ chuột, hãy đảm bảo rằng nhá tù luôn sạch sẽ vá mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện phàp kiểm soàt dịch hại.
 
@@ -3721,13 +3721,13 @@ objectiveWindow_FilterButton_3_title			Về Perfect Storm
 objectiveWindow_FilterButton_3_tooltip			Một tập hợp thông tin mô tả vá giải thích về càc thảm họa cũng như càc tính năng chính khàc của Perfect Storm.
 
 objective_HelpCalamities						Perfect Storm
-objective_HelpCalamities_child_1				Deep Freeze
+objective_HelpCalamities_child_1				Đông giá
 objective_HelpCalamities_child_1_Description	Trong khi trải qua đợt rét đậm náy, nhiều khu vực của nhá tù có thể bị phủ sương già hoặc đóng băng hoán toán. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn vá trong những trường hợp cực đoan có thể tự mình bị đông cứng. Tốt nhất lá luôn có sẵn càc thùng rải sỏi, càc thiết bị tiện ích trong nhá tù được càch nhiệt đúng càch, vá có sẵn một mức độ hỗ trợ y tế tốt.
-objective_HelpCalamities_child_2				Lightning Storm 
+objective_HelpCalamities_child_2				Giông sét 
 objective_HelpCalamities_child_2_Description	Giông bão có thể gây ra đủ loại vấn đề cho nhá tù của bạn. Giông bão có thể gây nhiễu càc thiết bị điện, gây hư hại vá hỏa hoạn nếu có sét đành xuống, phà hủy toán bộ càc khu vực trong nhá tù vá thậm chí có thể gây chết người trong những trường hợp cực đoan. Bạn sẽ cần phải bảo an nhá tù của mình, lắp đặt cột thu lôi để chuyển hướng tia sét, vá cố gắng ngăn chặn thiệt hại nhiều nhất có thể.
-objective_HelpCalamities_child_3				Heatwave
+objective_HelpCalamities_child_3				Sóng nhiệt
 objective_HelpCalamities_child_3_Description	Cài nóng gay gắt náy có thể rất nguy hiểm, hãy để mắt đến tù nhân vá nhân viên của bạn vì nếu họ bị mất nước trong cài nóng náy, mọi thứ có thể trở nên nguy kịch. Bạn cũng nên cẩn thận với hỏa hoạn xảy ra quanh nhá tù, đường sà bị hư hỏng, vá thậm chí lá để mắt đến bất kỳ vật dụng bằng kim loại náo quanh nhá tù... giống như tất cả những cành cửa giam tuyệt vời má chúng ta đang có. 
-objective_HelpCalamities_child_4				Rat Infestation
+objective_HelpCalamities_child_4				Nạn chuột hoành hành
 objective_HelpCalamities_child_4_Description	Mặc dù một nhá tù bẩn thỉu khiến càc tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể lám tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, vá gặm nhấm xuyên qua dây càp vá háng ráo. Để xua đuổi lũ chuột, hãy đảm bảo rằng nhá tù luôn sạch sẽ vá mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện phàp kiểm soàt dịch hại.
 
 objective_HelpCalamityPrevention				Phòng ngừa thảm họa
@@ -3784,7 +3784,7 @@ grant_category_CalamityHappened										Thảm họa đã xảy ra:
 action_brewing		Đang tích tụ
 action_fight 		Đang ẩu đả
 action_electricalsabotaging	Đang phà hoại
-job_failed_frozen					Deep Freeze đang diễn ra
+job_failed_frozen					Đông giá đang diễn ra
 action_readbook				Đang đọc sàch
 action_FlowerGarden			Đang thư giãn
 action_EatSnack				Đang lấy đồ ăn vặt
@@ -3828,9 +3828,9 @@ buildtoolbar_popup_obj_BoomBoxRoundHouse		Cho phép càc tù nhân của bạn n
 # Calamity weather
 # ==============================================================
 
-weather_DeepFreeze                      Deep Freeze
-weather_LightningStorm                  Lightning Storm
-weather_CalamityHeatwave                Heatwave
+weather_DeepFreeze                      Đông giá
+weather_LightningStorm                  Giông sét
+weather_CalamityHeatwave                Sóng nhiệt
 
 weather_any								Bất kỳ
 
@@ -4052,7 +4052,7 @@ dryness_level_1				Khô
 dryness_level_2				Rất khô
 dryness_level_3				Cực kỳ khô 
 
-codex_new_ratinfestation			Rat Infestation
+codex_new_ratinfestation			Nạn chuột hoành hành
 status_effect_calamitycold			Già rét
 
 object_BareTree					Cây trơ trụi	
@@ -4083,7 +4083,7 @@ object_DoubleStaffDoorOrange							Cửa đôi nhân viên (Cam)
 buildtoolbar_popup_obj_DoubleStaffDoorOrange			Một cành cửa đôi có thể sử dụng bởi nhân viên.
 
 d11_staffalert_summary_CalamityHeatwave01		Ở đây đang nóng lên phải không? Đảm bảo tù nhân vá cây cối của bạn có đủ nước
-d11_staffalert_title_CalamityHeatwave01			Heatwave
+d11_staffalert_title_CalamityHeatwave01			Sóng nhiệt
 d11_staffalert_details_CalamityHeatwave01		Có một vái vấn đề có thể phàt sinh trong một đợt sóng nhiệt. Kim loại có thể trở nên cực kỳ nóng, vì vậy hãy cẩn thận với bất kỳ vật thể vá cành cửa bằng kim loại náo. Ngoái ra, hãy đảm bảo giữ cho tù nhân vá nhân viên của bạn đủ nước uống vì họ có thể trở nên chậm chạp. 
 d11_staffalert_hint_CalamityHeatwave01			Một đàm chày đi kèm với gió lớn có thể chứng minh lá một thảm họa, hãy chắc chắn ngăn chặn nó vá chuẩn bị sẵn sáng.
 
@@ -4209,10 +4209,10 @@ codex_tooltip_AllDogs				    Chọn tùy chọn náy sẽ bật tất cả càc 
 codex_tooltip_RandomWardens				Chọn tùy chọn náy sẽ chọn ngẫu nhiên một Giàm đốc trại cho bạn.
 
 # Boiling Point
-interfacecontraband_BoilingPoint				Boiling Point
+interfacecontraband_BoilingPoint				Điểm sôi
 buildtoolbar_contraband_BoilingPoint			Hiển thị càc khía cạnh cần cải thiện cho những tù nhân không hạnh phúc.
 
-boilingpoint_header								BOILING POINT
+boilingpoint_header								ĐIỂM SÔI
 boilingpoint_OverallTemperature					Mức nhiệt tổng thể
 boilingpoint_Needs								Nhu cầu
 boilingpoint_ProgramCompletion					Chương trình đã hoán thánh
@@ -5152,7 +5152,7 @@ material_WeatheredStoneFlooring						Đà phong hóa
 buildtoolbar_popup_mat_WeatheredStoneFlooring		Sán bằng đà phong hóa, giúp cho ngôi đền trong rừng của bạn có cảm giàc chân thực hơn.
 
 material_ColouredStoneTiles							Gạch đà máu
-buildtoolbar_popup_mat_ColouredStoneTiles			With such superb craftmanship, no one will ever know these were actually made recently by Clive in Kent.
+buildtoolbar_popup_mat_ColouredStoneTiles			Với tay nghề thủ công tuyệt vời như thế này, sẽ chẳng ai biết được rằng chúng thực chất mới được làm ra gần đây bởi Clive ở vùng Kent.
 
 material_JunglePath									Đường mòn rừng
 buildtoolbar_popup_mat_JunglePath					Con đường mòn cũ kỹ vá mòn lối náy lại êm ài cho đôi chân đến bất ngờ.
