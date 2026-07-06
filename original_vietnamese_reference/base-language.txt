@@ -497,3 +497,525 @@ buildtoolbar_popup_room_office			Khu vực để nhân viên hành chính của 
 buildtoolbar_popup_room_morgue			Nơi bạn gửi các tù nhân và nhân viên đã chết đến.
 buildtoolbar_popup_room_commonroom		Cho phép tù nhân của bạn có một số thời gian rảnh để thư giãn.
 buildtoolbar_popup_room_kennel          Nơi chó của bạn sống.
+buildtoolbar_popup_room_chapel          Điều gì xảy ra khi một ủy ban hành chính họp lại và thiết kế giải pháp cho nhu cầu tâm linh của tù nhân? Một 'Phòng cầu nguyện đa tôn giáo', chính là nó. Chúng ta gọi đó là Nhà nguyện.
+buildtoolbar_popup_room_paroleroom      Tù nhân của bạn sẽ đủ điều kiện để xét tạm tha sau khi chấp hành xong 50% và 75% thời hạn án phạt. Số phận của họ sẽ được quyết định tại căn phòng này, cùng với Giám đốc trại và Trưởng an ninh.\n\nLưu ý: Nên tăng cường an ninh. Thực tế cho thấy tù nhân có thể trở nên rất kích động khi bị từ chối tạm tha.
+buildtoolbar_popup_room_library         Nhà tù của bạn sẽ nhận được các thùng sách cũ và sách thanh lý từ khắp nơi trên cả nước. Tù nhân sẽ cần phân loại số sách đó lên các kệ sách.
+buildtoolbar_popup_room_intake          Nơi tù nhân của bạn được đưa đến đầu tiên khi họ vừa đặt chân tới.
+buildtoolbar_popup_room_nursery         Phòng sinh hoạt dành cho các tù nhân có con nhỏ. 
+buildtoolbar_popup_room_shop            Căn tin mang đến cho tù nhân một nơi để tiêu những đồng tiền mồ hôi nước mắt nhằm thỏa mãn nhu cầu xa xỉ phẩm. Nơi này cũng giúp cải thiện nhu cầu vệ sinh, ăn uống và giải trí. Bạn sẽ nhận được tiền từ mỗi lượt mua cộng với tiền hoa hồng mỗi ngày dựa trên tổng lượng hàng hóa bán ra.
+
+buildtoolbar_popup_obj_bed				Không quá mềm, không quá cứng, vừa vặn hoàn hảo. À mà thực ra, nó rất cứng và quá nhỏ.
+buildtoolbar_popup_obj_toilet			Một quyền con người cơ bản, nếu bạn tin vào lời của mấy kẻ gàn dở đó.
+buildtoolbar_popup_obj_table			Kết hợp xuất sắc với một chiếc ghế.
+buildtoolbar_popup_obj_chair			Kết hợp tuyệt vời với một chiếc bàn.
+buildtoolbar_popup_obj_bench			Để ngồi.
+buildtoolbar_popup_obj_electricchair	Để thực thi 2000V công lý.
+buildtoolbar_popup_obj_jaildoor			Giữ tù nhân của bạn ở đúng nơi họ nên ở.
+buildtoolbar_popup_obj_jaildoorlarge	Giữ số lượng lớn tù nhân ở đúng nơi họ nên ở.
+buildtoolbar_popup_obj_door				Một chiếc cửa đơn giản.
+buildtoolbar_popup_obj_solitarydoor		Một chiếc cửa dày nặng để ngăn chặn ngay cả những tù nhân khỏe nhất vượt ngục.
+buildtoolbar_popup_obj_staffdoor		Một chiếc cửa khóa có thể mở bởi bất kỳ nhân viên nào, không chỉ riêng Cai ngục.
+buildtoolbar_popup_obj_window			Để hé nhìn ánh mặt trời.
+buildtoolbar_popup_obj_windowlarge		Để tha hồ ngắm nhìn ánh mặt trời.
+buildtoolbar_popup_obj_tree				Hành động chống lại sự nóng lên toàn cầu là trách nhiệm của tất cả chúng ta.
+buildtoolbar_popup_obj_light			Đảm bảo bạn có thể quan sát tù nhân của mình vào mọi thời điểm trong ngày.
+buildtoolbar_popup_obj_cooker			Mang đến cho tù nhân cuộc sống xa hoa với đồ ăn nóng sốt.
+buildtoolbar_popup_obj_fridge			Giữ cho nguồn lương thực của bạn không bị ôi thiu.
+buildtoolbar_popup_obj_bin				Sự ngăn nắp là rất quan trọng khi nói đến hàng cấm.
+buildtoolbar_popup_obj_sink				Tất cả nhân viên đều được yêu cầu phải rửa tay. Sẽ hoạt động nhanh hơn nếu được nối với nước nóng.
+buildtoolbar_popup_obj_servingtable		Chia khẩu phần ăn cho các tù nhân của bạn.
+buildtoolbar_popup_obj_showerhead		Giữ cho tù nhân sạch sẽ và sẽ cải thiện xếp hạng chất lượng của phòng giam. Đừng quên lắp thêm cống thoát nước. 
+buildtoolbar_popup_obj_officedesk		Nhân viên của bạn cần ghi chép rất nhiều thứ. Hãy cho họ một chiếc bàn làm việc bóng loáng để làm điều đó.
+buildtoolbar_popup_obj_filingcabinet	Nhân viên của bạn cần sắp xếp những thứ họ viết một cách gọn gàng.
+buildtoolbar_popup_obj_medicalbed		Được sử dụng để chữa trị cho nhân viên và tù nhân bị thương. Giường bệnh cũng là một nguồn tuồn Hàng cấm.
+buildtoolbar_popup_obj_morgueslab		Đảm bảo người chết có một nơi yên nghỉ trang nghiêm trước khi di chuyển.
+buildtoolbar_popup_obj_drain			Thoát nước trên sàn nhà.
+buildtoolbar_popup_obj_sprinkler		Tự động phun nước ra khu vực xung quanh khi xảy ra hỏa hoạn.
+buildtoolbar_popup_obj_metaldetector	Tìm hàng cấm trên người những tù nhân đi qua đây. Sẽ yêu cầu một cai ngục đứng gần đó để tịch thu hàng cấm.
+buildtoolbar_popup_obj_weightsbench		Cho phép tù nhân của bạn vận động, giúp họ luôn vui vẻ.
+buildtoolbar_popup_obj_phonebooth		Tù nhân có thể muốn trò chuyện với gia đình họ, và những buồng điện thoại tiện lợi này sẽ giúp họ làm điều đó.
+buildtoolbar_popup_obj_tv				Xoa dịu tù nhân của bạn bằng những chương trình giải trí tầm thường tẻ nhạt. Đòi hỏi phải có chỗ cho tù nhân ngồi phía trước Tivi.
+buildtoolbar_popup_obj_largetv			Cho phép nhiều tù nhân của bạn cùng chia sẻ trải nghiệm mụ mị đầu óc. Đòi hỏi phải có chỗ cho tù nhân ngồi phía trước Tivi.
+buildtoolbar_popup_obj_radio            Cho phép tù nhân của bạn nghe các nhóm nhạc nam yêu thích của họ trong khi thực hiện các công việc hàng ngày. 
+buildtoolbar_popup_obj_pooltable		Xua tan sự đơn điệu của cuộc sống ngục tù bằng một ván bi-a. 
+buildtoolbar_popup_obj_dismantleobject	Gỡ bỏ một vật thể khỏi nhà tù của bạn.
+buildtoolbar_popup_obj_altar            Chuyển lời cầu nguyện của bạn trực tiếp đến đấng tối cao mà bạn lựa chọn.
+buildtoolbar_popup_obj_pews             Chỗ ngồi cho các tín đồ. Được làm từ loại gỗ cứng nhất và không hề có đệm lót.
+buildtoolbar_popup_obj_prayermat        Bảo vệ tù nhân khỏi sàn nhà bẩn thỉu trong khi họ làm lễ cầu nguyện.
+buildtoolbar_popup_obj_guardtower       Một ngọn tháp nơi các xạ thủ của bạn (thuê riêng) có thể canh gác nhà tù.\n\nChọn một Tháp canh để xem phạm vi tầm nhìn của Xạ thủ nếu được bố trí ở đó. 
+buildtoolbar_popup_obj_roadbarrier      Một rào chắn đường kiên cố có thể chặn đứng cả những chiếc xe tải đang lao nhanh. Chỉ đóng lại khi Phong tỏa.
+
+buildtoolbar_popup_staff_workman		Sẽ xây dựng nhà tù cho bạn dựa trên các bản thiết kế bạn cung cấp. Thợ xây cũng sẽ tháo dỡ hoặc phá dỡ bất kỳ cấu trúc hay vật thể nào, và bốc dỡ các chuyến giao hàng.
+buildtoolbar_popup_staff_guard			Được sử dụng để kiểm soát tù nhân của bạn và giữ họ không gây rắc rối.
+buildtoolbar_popup_staff_armedguard     Được trang bị một khẩu súng săn, tù nhân sẽ phải suy nghĩ kỹ trước khi tấn công anh bạn này.\n\nLưu ý: Mỗi cai ngục vũ trang cần một tủ khóa riêng trong Kho vũ khí.
+buildtoolbar_popup_staff_doctor			Tự động chữa trị cho tất cả những người bị thương ở gần, cho dù họ là cai ngục hay tù nhân.
+buildtoolbar_popup_staff_cook			Nuôi sống tù nhân của bạn bằng những bữa ăn do họ chuẩn bị.
+buildtoolbar_popup_staff_gardener		Giữ cho khuôn viên nhà tù luôn đẹp đẽ và gọn gàng.
+buildtoolbar_popup_staff_janitor		Giữ cho bên trong nhà tù luôn đẹp đẽ và sạch sẽ. Cũng có thể giúp đỡ trong phòng giặt của nhà tù.
+buildtoolbar_popup_staff_warden			Người giám sát tối cao của nhà tù. Giám đốc trại sẽ mở khóa cây Hành chính, cho phép bạn thuê các nhân viên cấp cao, từ đó mở ra các tùy chọn trợ cấp, lao động, an ninh và phòng thủ mới.\n\nThuê một Giám đốc trại cũng sẽ mở khóa Lịch sinh hoạt của Nhà tù. 
+buildtoolbar_popup_staff_chief			Một nhân viên cấp cao giúp tiếp cận các tùy chọn an ninh quan trọng bao gồm Kho vũ khí, Bố trí, Tình báo và Giám sát. Trưởng an ninh sẽ mở khóa khả năng thuê Cai ngục vũ trang và Xạ thủ.
+buildtoolbar_popup_staff_foreman		Một nhân viên cấp cao cho phép bạn tiếp cận Lao công và Người làm vườn cũng như tạo ra các tùy chọn Lao động tù nhân mới.
+buildtoolbar_popup_staff_psychologist	Một nhân viên cấp cao cho phép bạn thấu hiểu tâm trí của tù nhân bằng cách mở khóa báo cáo Nhu cầu, hiển thị mức độ hài lòng của tù nhân. 
+buildtoolbar_popup_staff_accountant		Một nhân viên cấp cao giúp tiếp cận các báo cáo tài chính của bạn. Kế toán sẽ cho phép bạn vay ngân hàng, giảm số thuế phải nộp và mở rộng mảnh đất của bạn nếu cần thêm không gian.
+buildtoolbar_popup_staff_lawyer			Một nhân viên cấp cao giúp bạn lách một số quy định để kiểm soát nhà tù tốt hơn. Luật sư có thể giảm thiểu hậu quả của việc vận hành kém hoặc vi phạm chuyên môn. Cần có một Luật sư đối với các tù nhân Tử tù.
+buildtoolbar_popup_staff_sniper         Một tay súng bắn tỉa được đào tạo chuyên sâu, sẽ tự động đến đóng chốt tại Tháp canh còn trống nếu có sẵn. Sẽ bắn một vài phát súng cảnh cáo vào những tù nhân gây rối trong khuôn viên nhà tù trước khi hạ gục mục tiêu.\n\nXạ thủ có thể sử dụng vũ lực gây chết người nếu họ phát hiện tù nhân đang cố gắng vượt ngục. Việc Bật/Tắt Cho bắn tự do sẽ thay đổi mức độ vũ lực được sử dụng trong một số tình huống nhất định. 
+buildtoolbar_popup_uts_powerstation		Tạo ra điện để sử dụng trong nhà tù của bạn, cũng có thể kết nối với Máy biến áp để xuất khẩu điện.
+buildtoolbar_popup_uts_capacitor		Tăng lượng điện tạo ra khi được đặt cạnh trạm điện.
+buildtoolbar_popup_uts_electricalcable	Phân phối điện xung quanh nhà tù của bạn.
+buildtoolbar_popup_uts_powerswitch		Bật/tắt việc cấp điện cho bất kỳ đường dây nào được kết nối với nó.\n\nNhấp chuột phải để bật hoặc tắt.
+buildtoolbar_popup_uts_waterpumpstation	Cung cấp nguồn nước cho nhà tù của bạn.
+buildtoolbar_popup_uts_pipevalve		Bật/tắt việc cấp nước cho bất kỳ đường ống nào được kết nối với nó.
+buildtoolbar_popup_uts_pipelarge		Phân phối một lượng nước lớn xung quanh nhà tù của bạn dưới áp suất cao. Chắc là đủ rộng để ai đó bò đến tự do qua năm trăm mét đường ống hôi thối nồng nặc mùi phân.\n\nLưu ý: Thường không dùng để kết nối trực tiếp với bồn rửa, vòi sen v.v. - áp suất quá cao. Hãy dùng ống nhỏ cho việc đó.
+buildtoolbar_popup_uts_pipesmall		Được sử dụng để kết nối các vật dụng như bồn cầu, vòi sen, bồn rửa v.v. vào mạng lưới ống lớn của bạn. Áp suất thấp hơn nhiều, vì vậy chiều dài của ống nhỏ có giới hạn trước khi áp suất trở nên quá thấp.
+buildtoolbar_popup_uts_cctv				Mắt thần canh gác nhà tù của bạn mà không cần cai ngục phải có mặt ở khắp mọi nơi cùng một lúc.\n\nBạn phải Kết nối một Màn hình CCTV với camera này để nó hoạt động.
+buildtoolbar_popup_uts_cctvmonitor		Được thiết kế để xây dựng trong Phòng an ninh và được vận hành bởi một Cai ngục. Giám sát từ xa các camera an ninh xung quanh nhà tù của bạn.\n\nSử dụng công cụ Kết nối để nối màn hình này với các camera an ninh của bạn.\n\nLưu ý: Có thể xem tối đa tám camera cùng một lúc. Nếu bạn kết nối nhiều hơn tám camera, màn hình sẽ chuyển đổi luân phiên qua từng camera, dẫn đến việc giám sát chỉ mang tính bán phần.
+buildtoolbar_popup_uts_DoorControlSystem  Được thiết kế để xây dựng trong Phòng an ninh và được vận hành bởi một Cai ngục. Có thể được sử dụng để mở cửa từ xa xung quanh nhà tù của bạn.\n\nSử dụng công cụ Kết nối để nối hệ thống này với các Mô-tơ cửa của bạn. Mô-tơ cửa nên được xây đè lên những cánh cửa bạn muốn điều khiển từ xa.\n\nLưu ý: Bạn có thể kết nối hệ thống này với bao nhiêu Mô-tơ tùy thích, tuy nhiên Cai ngục vận hành hệ thống chỉ có thể mở tối đa hai cánh cửa mỗi giây.
+buildtoolbar_popup_uts_phonemonitor     Được thiết kế để xây dựng trong Phòng an ninh và vận hành bởi một Cai ngục. Cho phép bạn giám sát tất cả các cuộc gọi điện thoại ra bên ngoài của tù nhân, mang lại những thông tin tình báo quan trạng về các hoạt động bất hợp pháp đang được lên kế hoạch.\n\nSử dụng công cụ Kết nối để nối hệ thống này với các Buồng điện thoại của bạn.
+buildtoolbar_popup_uts_Servo            Đặt một mô-tơ đè lên cánh cửa bạn muốn điều khiển từ xa. Đảm bảo bánh răng động cơ nằm ngay phía trên cửa.\n\nSau khi lắp đặt, cửa sẽ được mở khi chính Mô-tơ được kích hoạt - thông thường là bởi Hệ thống điều khiển cửa hoặc Hẹn giờ cửa.\n\nCác mô-tơ có thể được liên kết chuỗi với nhau, để khi cái đầu tiên mở, nó sẽ kích hoạt các cái tiếp theo.
+buildtoolbar_popup_uts_LogicCircuit     Chỉ dành cho các kiến trúc sư nâng cao.\n\nMột hộp mạch đơn giản thực hiện một phép toán logic dựa trên các đầu vào của nó và thiết lập đầu ra tương ứng.\n\nCác phép toán có sẵn: And / Or / Not / Nand / Nor / Xor\n\nNhấp chuột phải để chuyển đổi qua lại giữa các phép toán logic.
+buildtoolbar_popup_uts_LogicBridge      Chỉ dành cho các kiến trúc sư nâng cao.\n\nNhận tín hiệu đầu vào và bắc cầu nó vào Dây điện được lắp đặt trong cùng một ô vuông. Dây điện đó sẽ truyền tín hiệu đến bất kỳ Mạch logic nào khác được lắp đặt trên cùng đường Dây điện đó.\n\nCó thể được sử dụng để 'phát sóng' một tín hiệu chung trên khắp nhà tù của bạn, ví dụ: Rất hữu ích để truyền tín hiệu Đồng hồ chung.
+buildtoolbar_popup_uts_DoorTimer        Có thể được sử dụng để tự động mở cửa vào những thời điểm nhất định trong ngày.\n\nSử dụng công cụ Kết nối để nối bộ hẹn giờ này với các Mô-tơ cửa của bạn.
+buildtoolbar_popup_uts_Wire             Kết nối các hệ thống truy cập từ xa của bạn lại với nhau.
+buildtoolbar_popup_uts_showallwires		Hiển thị tất cả các đường dây kết nối trong nhà tù của bạn.
+buildtoolbar_popup_uts_remotedoor        Một cánh cửa kim loại kiên cố không thể mở bằng chìa khóa (Chỉ có thể mở từ xa). Hãy sử dụng loại cửa này để ngăn chặn các sự cố vượt ngục hàng loạt khi một tù nhân chiếm được Chìa khóa giam.
+buildtoolbar_popup_uts_dismantleutility	Gỡ bỏ một vật thể tiện ích khỏi nhà tù của bạn.
+buildtoolbar_popup_uts_pressurepad      Gửi tín hiệu đến các vật thể được kết nối bất cứ khi nào có thứ gì đó đứng trên tấm cảm áp.
+buildtoolbar_popup_uts_statuslight      Sáng lên màu đỏ hoặc màu xanh lá cây, tùy thuộc vào tín hiệu mà nó nhận được. 
+
+buildtoolbar_popup_autolights_name      Đèn tự động
+buildtoolbar_popup_autolights            Tự động đặt đèn
+buildtoolbar_popup_autolights_desc      Khi được chọn, đèn sẽ tự động được bố trí khắp các tòa nhà mới xây của bạn ngay sau khi chúng hoàn thành.
+
+buildtoolbar_contraband_source          Hiển thị tất cả các vị trí xung quanh nhà tù của bạn mà hàng cấm có thể bị đánh cắp từ đó.
+buildtoolbar_contraband_day              Hiển thị tất cả hàng cấm bị tịch thu trong 24 giờ qua. Các biểu tượng hiển thị nơi hàng cấm bị tịch thu.
+buildtoolbar_contraband_week             Hiển thị tất cả hàng cấm bị tịch thu trong 7 ngày qua. Các biểu tượng hiển thị nơi hàng cấm bị tịch thu.
+buildtoolbar_contraband_alltime          Hiển thị tất cả hàng cấm bị tịch thu trong lịch sử nhà tù của bạn. Các biểu tượng hiển thị nơi hàng cấm bị tịch thu.
+buildtoolbar_contraband_stolenfrom		Hiển thị tất cả hàng cấm trong 7 ngày qua. Các biểu tượng hiển thị nơi hàng cấm bị lấy cắp, hoặc được buôn lậu vào nhà tù.
+buildtoolbar_contraband_informants      Hiển thị thông tin thu thập được từ các chỉ điểm viên của bạn.
+buildtoolbar_contraband_gangs            Hiển thị thông tin về các băng đảng trong nhà tù của bạn.
+
+
+buildtoolbar_deployment_SharedZone      Tất cả tù nhân sẽ được phép vào khu vực này.
+buildtoolbar_deployment_MinSecZone      Chỉ những tù nhân an ninh thấp mới được phép vào khu vực này.
+buildtoolbar_deployment_MedSecZone      Chỉ những tù nhân an ninh vừa mới được phép vào khu vực này.
+buildtoolbar_deployment_MaxSecZone      Chỉ những tù nhân an ninh cao mới được phép vào khu vực này.
+buildtoolbar_deployment_ProtectedZone   Chỉ những tù nhân 'giam bảo hộ' mới được phép vào khu vực này. Nếu nhu cầu của tù nhân không được đáp ứng trong khu vực này, họ sẽ sử dụng các phòng thuộc khu vực dùng chung. Chỉ định tù nhân vào khu vực này bằng cách đổi mức độ an ninh của họ thành Giam bảo hộ trong tab Tiểu sử của tù nhân.
+buildtoolbar_deployment_SuperMaxZone    Chỉ những tù nhân an ninh 'SuperMax' mới được phép vào khu vực này.
+buildtoolbar_deployment_DeathRowZone    Chỉ những tù nhân 'tử tù' mới được phép vào khu vực này.
+buildtoolbar_deployment_StaffOnlyZone   Chỉ nhân viên mới được phép vào khu vực này.
+buildtoolbar_deployment_UnlockedZone    Bất kỳ ai cũng được phép vào khu vực này, và tất cả các cửa sẽ được mở khóa.
+buildtoolbar_deployment_accessonly		Mọi người sẽ cố gắng tránh các khu hạn chế qua lại nếu có thể, ưu tiên chọn các lối đi khác xung quanh nhà tù của bạn.
+buildtoolbar_deployment_prisonerdirection Nhấp và kéo để sơn biển báo trên sàn.\n\nĐiều này gợi ý cho tù nhân của bạn biết nên đi theo hướng nào.\nGiúp kiểm soát luồng di chuyển của mọi người trong nhà tù.
+buildtoolbar_deployment_staffdirection  Nhấp và kéo để sơn biển báo trên sàn.\n\nĐiều này gợi ý cho những người không phải tù nhân biết nên đi theo hướng nào.\nGiúp kiểm soát luồng di chuyển của mọi người trong nhà tù.
+
+buildtoolbar_quickbuild_clone           Công cụ Nhân bản cho phép bạn chọn một khu vực trong nhà tù để sao chép, và sau đó đặt lại khu vực đó ở nơi khác. Khi công cụ Nhân bản được chọn, giữ nút Chuột phải và kéo qua khu vực bạn muốn sao chép. Sau đó, Nhấp chuột trái vào một nơi khác trong nhà tù để xếp hàng xây dựng một bản sao của khu vực đó. Các khu vực được chọn có thể được lưu thành các ô tùy chỉnh. 
+
+# The ~ and ^ characters in front of some of the lines in the buildtoolbar_popup_help section are colour codes and should be preserved during translation
+
+buildtoolbar_popup_help_targettingfood_1    Chế độ xem Phân phối đồ ăn cho bạn biết khối phòng giam nào đang được phục vụ bởi nhà ăn nào, và nhà ăn nào đang được cung cấp bởi nhà bếp nào. Bạn cũng có thể xem cung và cầu hiện tại của các nhà bếp và nhà ăn đang hoạt động (việc nấu nướng bắt đầu trước 4 giờ tính đến lịch sinh hoạt Ăn tiếp theo).
+buildtoolbar_popup_help_targettingfood_2    ~Nhấp chuột trái vào một khối phòng giam, sau đó Nhấp chuột trái vào một nhà ăn để ép khối phòng giam đã chọn sử dụng Nhà ăn đó. Bạn cũng có thể thay đổi nhà bếp nào cung cấp cho nhà ăn nào theo cách tương tự. Nhấp chuột phải vào một khu vực sẽ khiến việc chỉ định của nó đặt lại về mặc định.\n\n
+buildtoolbar_popup_help_targettingfood_3    ~Giữ Shift trong khi Nhấp chuột trái sẽ cho phép bạn chỉ định nhiều phòng cùng lúc.\n\n
+buildtoolbar_popup_help_targettingfood_4    ^Mẹo
+buildtoolbar_popup_help_targettingfood_5    - Nếu bạn thấy một Khối phòng giam hoặc Nhà bếp không chỉ định đến một nhà ăn như bạn mong đợi, hãy thử Nhấp chuột phải vào nó để ép nó đặt lại.
+buildtoolbar_popup_help_targettingfood_6    - Nếu bạn nhận thấy Nguồn cung cho một nhà ăn không được lấp đầy hoàn toàn trong suốt giờ Ăn, đó là dấu hiệu rõ ràng cho thấy nhà ăn đó đang quá tải và bạn cần phải nấu nhiều thức ăn hơn.
+
+buildtoolbar_popup_help_targettinglaundry_1 Chế độ xem Phân phối giặt ủi cho bạn biết khối phòng giam, phòng giam tập thể và phòng tiếp nhận nào đang được phục vụ bởi phòng giặt nào.\n\n
+buildtoolbar_popup_help_targettinglaundry_2 ~Nhấp chuột trái vào một Phòng giặt rồi Nhấp chuột trái vào một khối phòng giam, phòng giam tập thể hoặc phòng tiếp nhận để phòng giặt phục vụ căn phòng đó. Giữ Shift để chỉ định nhiều phòng.
+buildtoolbar_popup_help_targettinglaundry_3 ~Nhấp chuột phải vào một Phòng giặt sẽ khiến việc chỉ định của nó đặt lại về mặc định. \n\n
+buildtoolbar_popup_help_targettinglaundry_4 ^Mẹo
+buildtoolbar_popup_help_targettinglaundry_5 Phòng giặt có thể phục vụ bao nhiêu căn phòng khác nhau tùy bạn muốn, nhưng chúng bị giới hạn về tốc độ vận hành (dựa trên kích thước của chúng và số lượng Tù nhân hoặc Lao công làm việc tại đó). Để một phòng giặt duy nhất phục vụ toàn bộ một nhà tù lớn có thể vẫn chạy được, nhưng mỗi căn phòng sẽ nhận được quần áo sạch một cách rất thất thường. 
+
+buildtoolbar_popup_help_roomquality_1       Chế độ xem Chất lượng phòng hiển thị cho bạn xếp hạng chất lượng của tất cả các phòng có thể nâng cấp trong nhà tù của bạn. Số càng cao, chất lượng càng tốt. Di chuột qua một căn phòng sẽ cho bạn thấy các yếu tố cấu thành nên chất lượng của nó, và những gì bạn có thể thêm vào để tăng chất lượng đó lên.\n\n
+buildtoolbar_popup_help_roomquality_2		Khi CHUYỂN TRẠI TÙ NHÂN được BẬT
+buildtoolbar_popup_help_roomquality_3		- Chất lượng phòng cũng sẽ đóng góp vào xếp hạng chung cho Phân khu an ninh đó. 
+buildtoolbar_popup_help_roomquality_4		- Tù nhân sẽ mong muốn được chuyển sang một Phân khu an ninh thấp hơn, nếu nơi đó tốt hơn (có xếp hạng cao hơn) so với Phân khu an ninh hiện tại của họ.\n\n
+buildtoolbar_popup_help_roomquality_5       XẾP HẠNG PHÒNG GIAM
+buildtoolbar_popup_help_roomquality_6       - Tù nhân có quyền được hưởng một phòng giam chất lượng cao hơn nếu có hành vi tốt theo thời gian. Có sẵn các phòng giam chất lượng cao hơn là một cách tốt để khuyến khích hành vi tốt.
+buildtoolbar_popup_help_roomquality_7       - Điều quan trọng là phải giữ một số phòng giam chất lượng thấp trong nhà tù của bạn, vì những tù nhân mới đến sẽ cần một nơi để vào, và nếu tất cả các phòng giam có sẵn đều có chất lượng quá cao, họ có thể sẽ phải nằm ở phòng tạm giam.
+buildtoolbar_popup_help_roomquality_8       - Tù nhân có thể được xếp vào một phòng giam có chất lượng cao hơn mức họ xứng đáng hưởng nếu không còn khoảng trống nào khác, nhưng điều này có thể khiến các tù nhân khác không vui...
+
+buildtoolbar_popup_help_jobs_1              Chế độ xem Lao động tù nhân hiển thị cho bạn những phòng nào có thể phân công tù nhân làm việc, và có bao nhiêu tù nhân hiện đang được chỉ định ở đó.\n\n
+buildtoolbar_popup_help_jobs_2              ~Nhấp chuột trái vào một căn phòng để thêm một vị trí làm việc vào đó. Mỗi vị trí làm việc có khả năng được lấp đầy bởi một tù nhân trong lịch sinh hoạt lao động. Nhấp chuột phải vào căn phòng để xóa một vị trí.\n\n
+buildtoolbar_popup_help_jobs_3              ^Mẹo
+buildtoolbar_popup_help_jobs_4              - Một số công việc, chẳng hạn như làm việc trong nhà bếp hoặc xưởng lao động, yêu cầu nhà tù phải tổ chức khóa đào tạo trước. Bạn có thể vận hành các khóa học này từ tab Chương trình trong cửa sổ báo cáo của mình.
+buildtoolbar_popup_help_jobs_5              - Tù nhân lao động được trả một khoản tiền nhỏ cho mỗi giờ họ làm việc. Phân bổ số lượng công việc tối đa chưa chắc đã là ý hay; tù nhân vẫn được trả lương ngay cả khi không có việc gì cho họ làm.
+buildtoolbar_popup_help_jobs_6				- Khu trồng rừng phải được bao quanh bằng rào chắn hoặc tường để tù nhân có thể được phân công làm việc ở đó, và để ngăn chặn việc vượt ngục
+
+buildtoolbar_popup_help_source_1           Chế độ xem Mức nguy hiểm hiển thị những hàng cấm mà một tù nhân có thể đánh cắp từ mỗi căn phòng trong nhà tù của bạn. Ngoài ra, bạn có thể thấy cung và cầu của từng loại hàng cấm ở phía bên phải. Nếu nhu cầu của một loại hàng cấm cụ thể cao hơn nguồn cung, tù nhân sẽ có nhiều khả năng cố gắng đánh cắp nó hơn, đặc biệt nếu bản thân họ đang rơi vào tình trạng thiếu thốn trầm trọng một thứ gì đó.\n\n
+buildtoolbar_popup_help_source_2           ^Mẹo
+buildtoolbar_popup_help_source_3           - Không phải tất cả các phòng có nguồn tuồn hàng cấm đều cần cho tù nhân ra vào, và quyền truy cập của họ vào những phòng đó có thể bị hạn chế hoặc chặn hoàn toàn.
+buildtoolbar_popup_help_source_4           - Mặc dù điều này cho bạn thấy những căn phòng nào trong nhà tù mà hàng cấm có thể bị lấy cắp, nhưng các căn phòng không phải là cách duy nhất để tù nhân có được thứ họ cần...
+
+buildtoolbar_popup_help_contraband_title    Hàng cấm  
+buildtoolbar_popup_help_contraband_1        Chế độ xem Hàng cấm hiển thị cho bạn tất cả các mặt hàng cấm đã được tìm thấy trong nhà tù của bạn, trong ngày qua hoặc tuần qua, và nơi chúng được tìm thấy.\n\n
+buildtoolbar_popup_help_contraband_2        ~Di chuột qua một món hàng cấm cụ thể để xem lịch sử của nó, bao gồm cả cách nó được tù nhân thu thập ban đầu và nơi nó đi qua trước khi bị phát hiện.\n\n
+buildtoolbar_popup_help_contraband_3        ^Mẹo
+buildtoolbar_popup_help_contraband_4        - Nếu bạn nhận thấy có rất nhiều hàng cấm đến từ một số ít địa điểm, có lẽ đã đến lúc tăng cường an ninh ở những khu vực đó.
+buildtoolbar_popup_help_contraband_5        - Các loại hàng cấm khác nhau được phát hiện theo những cách khác nhau. Ví dụ, Chó nghiệp vụ rất giỏi trong việc phát hiện những thứ có mùi mạnh.
+
+buildtoolbar_popup_help_informants_1        Chế độ xem Chỉ điểm viên hiển thị cho bạn danh sách các Chỉ điểm viên hiện tại của bạn. Ngoài ra, các CI tiềm năng được đánh dấu bằng màu vàng, thường là trong các phòng Biệt giam của bạn.\n\n
+buildtoolbar_popup_help_informants_2        ~Để tuyển dụng một Chỉ điểm viên, hãy tìm một CI tiềm năng, đi tới tab Quá trình của hồ sơ phạm tội của họ và nhấp vào nút Tuyển dụng chỉ điểm viên.\n\n
+buildtoolbar_popup_help_informants_3        ~Để kích hoạt một chỉ điểm viên, hãy nhấp vào nút có chữ Chờ (nó sẽ nhấp nháy chữ Hoạt động khi bạn rê chuột vào), và đợi họ được áp giải đến Văn phòng an ninh. Sau đó, họ sẽ hiển thị cho bạn một lượng hàng cấm đang được cất giấu, tiếng tăm của các tù nhân và các mục tiêu có nguy cơ bị ám sát tiềm năng, dựa trên phạm vi nắm bắt thông tin của họ.\n\n
+buildtoolbar_popup_help_informants_4        ^Mẹo
+buildtoolbar_popup_help_informants_5        - Việc kích hoạt một chỉ điểm viên, và thực hiện các cuộc khám xét dựa trên thông tin họ cung cấp, sẽ làm tăng mức độ nghi ngờ đối với họ. Nếu mức độ này quá cao, họ có thể sẽ gặp rắc rối lớn...
+buildtoolbar_popup_help_informants_6        - Bạn có thể sa thải một chỉ điểm viên bằng cách nhấp vào dấu 'X' bên cạnh nút kích hoạt của họ.
+
+buildtoolbar_popup_help_utilities_1         Chế độ xem Tiện ích hiển thị cho bạn các kết nối khác nhau đang diễn ra bên dưới bề mặt nhà tù của bạn. Bạn có thể tạo dây điện và ống nước, đồng thời kết nối các vật dụng khác nhau bằng dây nối.\n\n
+buildtoolbar_popup_help_utilities_2         ~Khi tạo dây điện hoặc ống nước, hãy giữ nút Chuột trái và kéo giữa 2 điểm bạn muốn kết nối. Nhấp chuột phải sẽ hủy bỏ bất kỳ tác vụ đặt dây điện hoặc ống nước hiện có nào.\n\n
+buildtoolbar_popup_help_utilities_3         ~Khi kết nối các vật dụng bằng dây nối (ví dụ: Màn hình CCTV với Camera an ninh), hãy Nhấp chuột trái vào đối tượng đầu tiên, rồi Nhấp chuột trái vào đối tượng bạn muốn kết nối. Giữ phím Shift sẽ cho phép bạn kết nối nhiều đối tượng.\n\n
+buildtoolbar_popup_help_utilities_4         ^Mẹo
+buildtoolbar_popup_help_utilities_5         - Các thiết bị điện nhỏ, như đèn và tivi, sẽ tự động kết nối với nguồn điện miễn là có dây điện ở gần đó. Các thiết bị lớn hơn, chẳng hạn như Máy giặt hoặc Trạm bơm nước, sẽ cần được kết nối trực tiếp vào đường dây điện.
+buildtoolbar_popup_help_utilities_6         - Ống nước lớn có thể dẫn nước đi một khoảng cách dài, nhưng ống nước nhỏ có phạm vi ngắn hơn. Việc đặt một ống nước lớn dẫn đến một tòa nhà hoặc khu vực, rồi kết nối các vật thể riêng lẻ bằng các ống nhỏ hơn là một cách tốt để tiết kiệm tiền.
+buildtoolbar_popup_help_utilities_7         - Chế độ xem Tiện ích có thể có rất nhiều thứ diễn ra, đặc biệt là ở những nhà tù lớn hơn. Nhấp vào một đối tượng cụ thể sẽ làm nổi bật các kết nối liên quan rõ ràng hơn nhiều, giúp bạn dễ nhìn hơn. Ví dụ, nhấp vào dây điện sẽ làm cho tất cả các dây điện và thiết bị điện trong nhà tù của bạn hiển thị rõ nét hơn.
+buildtoolbar_popup_help_utilities_8         - Nếu bạn có nhiều Trạm điện trong nhà tù của mình, chúng sẽ cần phải có các đường Dây điện tách biệt. Nếu Dây điện kết nối với 2 Trạm điện riêng biệt tiếp xúc với nhau, cả hai trạm sẽ bị quá tải và sập nguồn.
+
+buildtoolbar_popup_help_guard_1             Cai ngục là lực lượng lao động chính trong nhà tù của bạn, và sẽ giải quyết mọi việc từ áp giải tù nhân mới đến phòng giam của họ, xử lý các vụ ẩu đả cho đến khám xét hàng cấm.\n\n
+buildtoolbar_popup_help_guard_2             ~Khi chọn một cai ngục, bạn có thể ra lệnh cho họ di chuyển đến bất kỳ vị trí nào trong nhà tù bằng cách Nhấp chuột phải vào vị trí đó. \n\n
+buildtoolbar_popup_help_guard_3             ^Mẹo
+buildtoolbar_popup_help_guard_4             - Cai ngục có thể tìm thấy hầm vượt ngục bằng cách khám xét bồn cầu trong các Phòng giam. Nếu bồn cầu được khám xét một cách đích xác, họ chắc chắn sẽ tìm thấy bất kỳ đường hầm vượt ngục nào.
+buildtoolbar_popup_help_guard_5             - Nếu bạn có một Trưởng an ninh, bạn có thể xem mình có bao nhiêu Cai ngục đang rảnh rỗi trên thanh thông tin ở đầu màn hình. Nếu bạn thường xuyên có 0 Cai ngục sẵn sàng, đó có thể là dấu hiệu cho thấy bạn không có đủ cai ngục để đáp ứng khối lượng công việc hiện tại của họ.
+
+buildtoolbar_popup_help_workman_1           Thợ xây là những người xây dựng nhà tù của bạn, giúp bốc dỡ các chuyến giao hàng và trong một số trường hợp, mang những chuyến giao hàng đó đến các khu vực khác nhau trong nhà tù của bạn.\n\n
+buildtoolbar_popup_help_workman_2           ^Mẹo
+buildtoolbar_popup_help_workman_3           Thợ xây hoạt động phần lớn là tự động, tuy nhiên nếu bạn muốn một công việc xây dựng được hoàn thành nhanh chóng, bạn có thể nhấn Ctrl+Nhấp chuột phải vào công việc đó để đánh dấu nó là Ưu tiên cao. Điều này sẽ khiến Thợ xây gần nhất bỏ dở việc họ đang làm để đi hoàn thành nhiệm vụ của bạn.
+
+buildtoolbar_popup_help_cook_1              Đầu bếp chuẩn bị thức ăn cho tù nhân của bạn, dọn dẹp các khu vực nhà ăn và mang các chuyến giao hàng thực phẩm vào nhà bếp.\n\n
+buildtoolbar_popup_help_cook_2              ^Mẹo
+buildtoolbar_popup_help_cook_3              - Điều quan trọng là phải đảm bảo bạn có đủ Đầu bếp để đáp ứng nhu cầu ăn uống của nhà tù. Nếu bạn không có đủ, họ sẽ không thể chuẩn bị đủ thức ăn và một số tù nhân của bạn sẽ phải chịu đói...
+
+buildtoolbar_popup_help_warden_1            Giám đốc trại là cầu nối của bạn với bộ máy Hành chính liên quan đến việc vận hành một nhà tù. Họ mở khóa cửa sổ Hành chính, cho phép bạn nghiên cứu các tính năng mới khác nhau để sử dụng trong nhà tù của mình. Một khi họ được cấp một Văn phòng, họ sẽ phần lớn tự quản lý công việc của mình.
+
+buildtoolbar_popup_help_armedguard_1        Cai ngục vũ trang được sử dụng để chế ngự những tù nhân đặc biệt nguy hiểm hoặc ngỗ ngược, luôn mang theo một khẩu súng săn bên mình. Họ Trấn áp tất cả các Tù nhân gần đó khiến họ ít có khả năng gây rắc rối hơn nhiều, và nếu tính mạng của họ bị đe dọa, họ sẽ sử dụng súng săn của mình, điều này thường sẽ khiến tất cả các tù nhân khác gần đó ngừng gây rối.\n\n
+buildtoolbar_popup_help_armedguard_2        ~Khi chọn một Cai ngục vũ trang, bạn có thể ra lệnh cho họ di chuyển đến bất kỳ vị trí nào trong nhà tù bằng cách Nhấp chuột phải vào vị trí đó. \n\n
+buildtoolbar_popup_help_armedguard_3        ^Mẹo
+buildtoolbar_popup_help_armedguard_4        - Nếu nút Cho bắn tự do được kích hoạt, Cai ngục vũ trang sẽ không đợi cho đến khi tính mạng của họ gặp nguy hiểm mới sử dụng súng săn. Họ sẽ nổ súng ngay lập tức vào bất kỳ tù nhân nào gây rối. 
+buildtoolbar_popup_help_armedguard_5        - Tù nhân rất khó để hạ gục một Cai ngục vũ trang, nhưng nếu họ làm được, khẩu súng săn của anh ta sẽ nằm ngay trên sàn nhà, sẵn sàng cho bất kỳ ai nhặt lấy...
+
+buildtoolbar_popup_help_doctor_1            Bác sĩ chịu trách nhiệm điều trị các vết thương mà tù nhân và nhân viên gần như chắc chắn sẽ gặp phải trong thời gian họ ở nhà tù của bạn. Họ chữa lành các vết thương, điều trị cho các tù nhân bị sốc thuốc và điều hành các chương trình cai nghiện cho những người nghiện ma túy.\n\n
+buildtoolbar_popup_help_doctor_2            ~Khi chọn một Bác sĩ, bạn có thể ra lệnh cho họ di chuyển đến bất kỳ vị trí nào trong nhà tù bằng cách Nhấp chuột phải vào vị trí đó.
+
+buildtoolbar_popup_help_janitor_1           Lao công chịu trách nhiệm giữ cho nhà tù của bạn sạch sẽ, và cũng giúp vận hành các Phòng giặt.\n\n
+buildtoolbar_popup_help_janitor_2           ^Mẹo
+buildtoolbar_popup_help_janitor_3           - Tất cả các nhiệm vụ do Lao công thực hiện cũng có thể được thực hiện bởi các tù nhân lao động. Với số lượng tù nhân được phân công vào Phòng giặt và Tủ vệ sinh đủ nhiều, bạn hoàn toàn có thể duy trì nhà tù với rất ít hoặc thậm chí không cần Lao công.
+
+buildtoolbar_popup_help_gardener_1          Người làm vườn giữ cho các khu vực ngoài trời của nhà tù luôn gọn gàng, làm sạch cỏ dại và trồng cây.\n\n
+buildtoolbar_popup_help_gardener_2          ^Mẹo
+buildtoolbar_popup_help_gardener_3          - Nếu bạn có một Khu trồng rừng, Người làm vườn sẽ chịu trách nhiệm trồng các cây non mà bạn nhận được. Hãy chắc chắn rằng bạn có đủ người để bắt kịp tiến độ tiếp nhận!
+
+buildtoolbar_popup_help_doghandler_1        Người dắt chó đi cùng với một Chó nghiệp vụ. Chó nghiệp vụ xuất sắc trong việc đánh hơi ra các mặt hàng cấm có mùi mạnh như Ma túy và Rượu bia, đồng thời có thể phát hiện các hầm vượt ngục được che giấu dưới lòng đất.\n\n
+buildtoolbar_popup_help_doghandler_2        ~Khi chọn một Người dắt chó, bạn có thể ra lệnh cho họ di chuyển đến bất kỳ vị trí nào trong nhà tù bằng cách Nhấp chuột phải vào vị trí đó.\n\n
+buildtoolbar_popup_help_doghandler_3        ^Mẹo
+buildtoolbar_popup_help_doghandler_4        - Việc cử một Người dắt chó vào một khu vực sẽ khiến Chó nghiệp vụ cố gắng đánh hơi xem có hàng cấm nào bị giấu gần đó hay không.
+buildtoolbar_popup_help_doghandler_5        - Khi đi qua một hầm vượt ngục ngầm, Chó nghiệp vụ của họ có thể đưa ra tín hiệu cho biết nó ở đó. Một dấu hiệu nhỏ sẽ được để lại để biểu thị điều này. Tuy nhiên, đôi khi con chó có thể phát tín hiệu ngay cả khi chẳng có gì ở đó...
+buildtoolbar_popup_help_doghandler_6        - Nếu Người dắt chó bị giết, Chó nghiệp vụ của họ có thể trở nên điên cuồng dữ dội và cố gắng giết kẻ sát hại chủ nhân của nó trước khi rời khỏi nhà tù.
+
+buildtoolbar_popup_help_sniper_1            Xạ thủ đồn trú trong các Tháp canh mà bạn xây dựng xung quanh nhà tù, tạo ra một sự răn đe mạnh mẽ đối với những tù nhân gây rối, và hoạt động như một phòng tuyến cuối cùng chống lại các tù nhân vượt ngục.\n\n
+buildtoolbar_popup_help_sniper_2            ^Mẹo
+buildtoolbar_popup_help_sniper_3            - Xạ thủ sở hữu một khẩu súng trường tầm xa mạnh mẽ, nhưng chỉ có thể bao quát các khu vực nằm trong tầm nhìn trực tiếp của họ. 
+buildtoolbar_popup_help_sniper_4            - Xạ thủ sẽ bắn các phát súng cảnh cáo vào các tù nhân sai phạm trong khuôn viên nhà tù. Nếu các tù nhân không đầu hàng, họ sẽ bắt đầu bắn trực tiếp vào các tù nhân đó.
+buildtoolbar_popup_help_sniper_5            - Nếu Cho bắn tự do được kích hoạt, hoặc một tù nhân đang ở bên ngoài nhà tù và đang vượt ngục, sẽ không có phát súng cảnh cáo nào được bắn ra.
+
+buildtoolbar_popup_help_chief_1             Trưởng an ninh là người đứng đầu bộ phận an ninh trong nhà tù của bạn. Anh ta cung cấp cho bạn một số liệu tổng thể về tâm trạng trong nhà tù của bạn, hiển thị khả năng tù nhân gây rối, và cũng cho phép bạn theo dõi xem có bao nhiêu cai ngục hiện đang bận rộn trong nhà tù của bạn. Anh ta cũng cho phép bạn nghiên cứu các tính năng an ninh nâng cao hơn như Chó nghiệp vụ hoặc Camera an ninh. Một khi được cấp một văn phòng, họ hầu như tự quản lý mọi việc.
+
+buildtoolbar_popup_help_foreman_1           Đốc công là người đứng đầu bộ phận bảo trì và xây dựng trong nhà tù của bạn, cho phép bạn nghiên cứu và thuê Lao công và Người làm vườn. Ông ấy cũng xử lý vấn đề Lao động tù nhân, và cá nhân giám sát việc đào tạo Tù nhân trong việc sử dụng các công cụ trong Xưởng lao động.\n\n
+buildtoolbar_popup_help_foreman_2           ^Mẹo
+buildtoolbar_popup_help_foreman_3           - Khi bạn đã xây dựng một Xưởng lao động trong Nhà tù của mình, Đốc công sẽ chịu trách nhiệm giảng dạy các chương trình An toàn xưởng, vốn có thể được lên lịch trong tab Chương trình của cửa sổ báo cáo của bạn.
+
+buildtoolbar_popup_help_psychologist_1      Nhà tâm lý chịu trách nhiệm theo dõi sức khỏe tâm thần cho các Tù nhân của bạn. Việc có một Nhà tâm lý sẽ cho phép bạn xem nhu cầu hiện tại của các tù nhân, và họ cũng chịu trách nhiệm điều hành một số chương trình cải tạo cho Tù nhân.\n\n
+buildtoolbar_popup_help_psychologist_2      ^Mẹo
+buildtoolbar_popup_help_psychologist_3      - Với một Nhà tâm lý trong nhà tù của mình, bạn có thể xem nhu cầu của từng tù nhân bằng cách nhấp chọn làm nổi bật họ, hoặc xem chung nhu cầu của tất cả tù nhân trong tab Nhu cầu của cửa sổ Báo cáo của bạn.
+buildtoolbar_popup_help_psychologist_4      - Các nhà tâm lý điều hành các Chương trình cai nghiện rượu nhóm (AA) để điều trị chứng nghiện rượu trong nhà tù của bạn, và cả các chương trình Trị liệu hành vi để cố gắng quản lý những tù nhân hay gây rắc rối hơn của bạn. Vì lý do đó, việc thuê nhiều Nhà tâm lý trong nhà tù của bạn là một lựa chọn hợp lý, nếu bạn cảm thấy cần họ.
+
+buildtoolbar_popup_help_accountant_1        Kế toán quản lý tài chính cho nhà tù của bạn, và mở khóa khả năng xem dòng tiền cùng tổng giá trị của nhà tù của bạn cũng như một số hạng mục nghiên cứu để cải thiện thu nhập của bạn. Một khi được cấp một Văn phòng, họ phần lớn tự quản lý công việc của mình.
+
+buildtoolbar_popup_help_lawyer_1            Luật sư giúp bạn lách qua một số điều luật nhất định vốn có thể gây phiền hà trong việc vận hành nhà tù của bạn, và có thể giúp bạn tránh các trách nhiệm pháp lý đối với bất kỳ điều tồi tệ đặc biệt nghiêm trọng nào có thể xảy ra trong nhà tù của bạn. Họ cũng có thể mở khóa tùy chọn Tử tù cho Nhà tù của bạn. Một khi được cấp một văn phòng, họ sẽ tự quản lý công việc của mình.
+
+buildtoolbar_popup_help_gangs_1             Chế độ xem Băng đảng hiển thị cho bạn tình trạng hiện tại của bất kỳ Băng đảng nào trong nhà tù của bạn. Bạn có thể xem thông tin về từng băng đảng riêng lẻ, cũng như những phòng nào do các băng đảng làm chủ và những tù nhân nào là thành viên băng đảng. Bạn cũng có thể thấy thành viên băng đảng nào là Phó băng đảng, được đánh dấu bằng 2 vòng tròn, và Trùm băng đảng, được đánh dấu bằng 3 vòng tròn.\n\n
+buildtoolbar_popup_help_gangs_2             ~Nếu bạn muốn cưỡng chế trục xuất các băng đảng khỏi một khu vực mà chúng kiểm soát, hãy nhấp chọn làm nổi bật căn phòng và nhấp vào nút Trục xuất xuất hiện sau đó. Tuy nhiên, băng đảng sẽ không hề vui vẻ về điều này đâu...\n\n
+buildtoolbar_popup_help_gangs_3             ^Mẹo
+buildtoolbar_popup_help_gangs_4             - Bạn sẽ không thể thay đổi các khu vực trong nhà tù mà Băng đảng đang kiểm soát. Nếu bạn muốn thêm hoặc bớt bất cứ thứ gì trong những khu vực đó, trước tiên bạn sẽ phải chiếm lại chúng.
+buildtoolbar_popup_help_gangs_5             - Những người không phải thành viên băng đảng sẽ bị tính phí khi sử dụng các cơ sở vật chất nằm trong các khu vực của nhà tù do một Băng đảng kiểm soát. Các thành viên của Băng đảng đối địch sẽ tránh xa những khu vực đó hoàn toàn.
+buildtoolbar_popup_help_gangs_6             - Bạn có thể sử dụng các phòng An ninh để giúp duy trì tầm ảnh hưởng của mình đối với một khu vực. Bất kỳ Cai ngục nào trong Phòng an ninh liền kề với khu vực tiềm năng của Băng đảng sẽ được tính vào quyền kiểm soát của bạn.
+buildtoolbar_popup_help_gangs_7             - Các thành viên băng đảng bảo vệ trùm băng đảng của họ rất nghiêm ngặt. Họ sẽ không để yên nếu có bất kỳ điều gì xảy ra với trùm của mình...
+
+buildtoolbar_popup_help_weathermap_1        Chế độ xem Nhiệt độ hiển thị cho bạn nhiệt độ trên các khu vực khác nhau trong nhà tù của bạn. Nhiệt độ có thể được tăng lên chủ yếu bằng cách sử dụng Máy sưởi. Nếu một khu vực quá lạnh, nhu cầu Sưởi ấm của bất kỳ tù nhân nào ở đó sẽ tăng lên.
+
+buildtoolbar_popup_help_prefabs_1           Menu Xây nhanh chứa các tùy chọn giúp bạn tăng tốc độ xây dựng các căn phòng mà bạn sử dụng nhiều. Công cụ Nhân bản cho phép bạn chọn một khu vực trong nhà tù để sao chép, rồi đặt lại khu vực đó ở nơi khác. Các phòng Xây nhanh cho phép bạn đặt các căn phòng được dựng sẵn vốn sẽ tự động đáp ứng các yêu cầu của chúng.\n\n
+buildtoolbar_popup_help_prefabs_2           ~Công cụ Nhân bản được chọn, hãy giữ nút Chuột phải và kéo qua khu vực bạn muốn sao chép. Sau đó, Nhấp chuột trái vào một nơi khác trong nhà tù để xếp hàng xây dựng một bản sao của khu vực đó.\n
+buildtoolbar_popup_help_prefabs_3           ~Khi một công cụ Xây nhanh được chọn, chỉ cần Nhấp chuột trái vào khu vực trong nhà tù mà bạn muốn xây phòng, và nó sẽ được xây dựng bởi Thợ xây của bạn.\n\n
+buildtoolbar_popup_help_prefabs_4           ^Mẹo
+buildtoolbar_popup_help_prefabs_5           - Công cụ Nhân bản không sao chép các kết nối Tiện ích. Bạn sẽ phải kết nối nguồn điện và nước vào các khu vực mới tạo của mình một cách thủ công.
+
+buildtoolbar_popup_help_zoning_1        Các công cụ Phân khu cho phép bạn kiểm soát tù nhân nào được phép vào những khu vực nào trong nhà tù của bạn, với Khu dùng chung và Khu mở khóa được mở cho tất cả các nhóm tù nhân.\n\n
+buildtoolbar_popup_help_zoning_2        ~Chọn nhóm tù nhân bạn muốn chỉ định cho một khu vực, và Nhấp chuột trái vào khu vực đó. Nhấp chuột phải sẽ đặt lại khu vực đó thành Khu dùng chung.\n\n
+buildtoolbar_popup_help_zoning_3        ^Mẹo
+buildtoolbar_popup_help_zoning_4        - Vì không có tù nhân nào được phép đi vào các khu vực Khu riêng nhân viên, điều này cho phép bạn tạo ra các "khoang đệm" nhằm giữ cho tù nhân ở một số khu vực nhất định không thể tiếp cận các cơ sở vật chất dùng chung khác. Điều này có thể đặc biệt hữu ích nếu, ví dụ, bạn muốn giữ tất cả các tù nhân giam bảo hộ của mình bên trong khu vực riêng của họ, cách ly khỏi Sân tù hoặc Phòng sinh hoạt chung.
+buildtoolbar_popup_help_zoning_5        - Nếu một khu vực được đặt thành Khu mở khóa, tất cả các cửa trong khu vực đó sẽ được khóa ở trạng thái mở. 
+
+buildtoolbar_popup_help_guards_1        Công cụ Cai ngục cho phép bạn bố trí Cai ngục vào các khu vực. Một cai ngục được bố trí sẽ di chuyển ngẫu nhiên quanh khu vực được chỉ định của họ, và sẽ thực hiện bất kỳ nhiệm vụ Cai ngục nào trong khu vực đó, chẳng hạn như mở cửa.\n\n
+buildtoolbar_popup_help_guards_2        ~Nhấp chuột trái để tăng số lượng Cai ngục được bố trí vào một khu vực. Nhấp chuột phải để rút một Cai ngục.\n\n
+buildtoolbar_popup_help_guards_3        ^Mẹo
+buildtoolbar_popup_help_guards_4        - Nếu bạn đã mở khóa Quản lý chi tiết, bạn sẽ có quyền truy cập vào Lịch bố trí. Tính năng này cho phép bạn tạo một thời biểu về thời điểm cai ngục được chỉ định vào các khu vực nhất định. Ví dụ, nếu bạn chỉ muốn Cai ngục được bố trí trong Nhà ăn vào thời gian diễn ra lịch sinh hoạt Ăn, bạn có thể nhấp vào từng khối của Lịch bố trí khớp với lịch sinh hoạt Ăn của mình, sau đó di chuyển thanh trượt thời gian vào khối đó và nhấp vào Nhà ăn của bạn để chỉ định cai ngục.
+buildtoolbar_popup_help_guards_5        - Bạn có sẵn tối đa 7 khối thời gian khác nhau để Lên lịch, cộng với chế độ Luôn hoạt động mặc định, cho phép bạn tạo ra các quy trình bố trí phức tạp phù hợp với nhu cầu của nhà tù của mình. 
+buildtoolbar_popup_help_guards_6        - Nếu bạn không chọn một khối thời gian một cách thủ công khi chỉ định Cai ngục, Lịch bố trí sẽ sử dụng thời gian hiện tại; hãy chắc chắn rằng bạn đã chọn đúng thời gian khi thay đổi việc Bố trí của mình!
+
+buildtoolbar_popup_help_patrols_title   Tuần tra
+buildtoolbar_popup_help_patrols_1       3 công cụ Tuần tra cho phép bạn tạo ra các tuyến đường cụ thể mà bạn muốn được tuần tra, rồi chỉ định Cai ngục thông thường, Người dắt chó hoặc Cai ngục vũ trang (hoặc kết hợp cả 3) để tuần tra chúng. Những đợt tuần tra này có thể băng qua nhiều khu vực khác nhau.\n\n
+buildtoolbar_popup_help_patrols_2       ~Giữ nút Chuột trái và kéo để tạo các tuyến đường tuần tra, và Nhấp chuột trái vào một tuyến đường tuần tra hiện có để thêm một Cai ngục vào đợt tuần tra đó. Nhấp chuột phải vào một Cai ngục trên một tuyến tuần tra để rút họ ra, hoặc giữ nút Chuột phải và kéo để xóa hoàn toàn tuyến đường tuần tra đó.\n\n
+buildtoolbar_popup_help_patrols_3       ^Mẹo
+buildtoolbar_popup_help_patrols_4       - Cai ngục thông thường khi tuần tra sẽ tiếp tục thực hiện các nhiệm vụ Cai ngục như mở cửa hoặc khám xét Tù nhân. Người dắt chó và Cai ngục vũ trang sẽ không làm như vậy. 
+buildtoolbar_popup_help_patrols_5       - Nếu bạn đã mở khóa Quản lý chi tiết, bạn sẽ có quyền truy cập vào Lịch bố trí, vốn hoạt động đối với các đợt Tuần tra theo cùng một cách như đối với việc Bố trí Cai ngục thông thường.
+
+buildtoolbar_popup_help_accessonly_1	Công cụ Khu hạn chế qua lại cho phép bạn đánh dấu các khu vực trong nhà tù của mình vốn nên được tránh đi vào khi di chuyển xung quanh nhà tù. Nó cho phép bạn ngăn mọi người sử dụng các phòng như một lối đi tắt xuyên qua nhà tù, nếu bạn muốn họ đi theo một con đường khác.\n\n
+buildtoolbar_popup_help_accessonly_2	~Nhấp chuột trái vào khu vực bạn muốn đánh dấu là Khu hạn chế qua lại. Điều này có thể được thực hiện bổ sung bên cạnh các thiết lập an ninh thông thường.
+buildtoolbar_popup_help_accessonly_3	~Nhấp chuột phải vào khu vực đó để gỡ bỏ thiết lập Khu hạn chế qua lại.\n\n
+buildtoolbar_popup_help_accessonly_4	^Mẹo
+buildtoolbar_popup_help_accessonly_5	- Khu hạn chế qua lại không phải là một thiết lập tuyệt đối. Nó không ngăn cấm hoàn toàn mọi người đi vào, đặc biệt nếu mục tiêu của họ nằm bên trong khu vực được đánh dấu. Nếu việc đi qua một khu vực Khu hạn chế qua lại ngắn hơn đáng kể so với một lối đi thay thế khác (ví dụ, việc đi vòng quanh toàn bộ nhà tù), mọi người vẫn có thể đi băng qua các khu vực Khu hạn chế qua lại này. 
+
+job_matsassigned                        Vật liệu đã chỉ định
+job_matsavailable                        Vật liệu hiện có
+job_awaitingmaterials                    Đang chờ vật liệu
+job_inprogress                          -Đang thực hiện-
+job_blocked                             -Bị nghẽn-
+job_queued                              -Đã xếp hàng-
+
+job_failed_noroute                      Không có lối đi
+job_failed_nomaterials                  Không có vật liệu
+job_failed_toodangerous                  Quá nguy hiểm
+job_failed_materialsbeingcarried        Vật liệu đang trên đường vận chuyển
+
+job_rightclicktocancel                  - Nhấp chuột phải để Hủy
+job_ftofollow							- Nhấn F để đi theo
+job_makehighpriority					- Ctrl + Nhấp chuột trái để đặt thành Ưu tiên cao
+job_removehighpriority					- Ctrl + Nhấp chuột phải để bỏ Ưu tiên cao
+job_makehighpriority_mac				- Alt + Nhấp chuột trái để đặt thành Ưu tiên cao
+job_removehighpriority_mac				- Alt + Nhấp chuột phải để bỏ Ưu tiên cao
+job_highpriority_tooltip				- KHẨN CẤP
+job_refundamount                        - Số tiền hoàn lại: *X
+
+failuremessage_blocked                  Bị chặn
+failuremessage_cantafford                Không đủ tiền
+failuremessage_cantaffordupkeep          Vượt quá ngân sách hàng ngày
+failuremessage_maximumcountreached      Đã thuê số lượng tối đa
+failuremessage_maxstaff                  Quá nhiều nhân viên
+
+
+# =============================================================================
+# Status Toolbar
+# =============================================================================
+
+statustoolbar_deliveries                 Giao hàng
+statustoolbar_finances                  Tài chính
+statustoolbar_regime                    Lịch sinh hoạt
+statustoolbar_escapemap                  An ninh
+statustoolbar_electricity                Điện năng
+statustoolbar_stats                      Chỉ số
+statustoolbar_danger                    Mức nguy hiểm
+statustoolbar_jobs                      Công việc
+statustoolbar_gangs                      Băng đảng
+statustoolbar_staff                      Nhân viên
+statustoolbar_research                  Nghiên cứu
+
+
+# =============================================================================
+# Sprite Bank Editor + other tools
+# =============================================================================
+
+spritebankeditor_title                  Trình chỉnh sửa ngân hàng tài nguyên ảnh
+spritebankeditor_create                  Tạo
+spritebankeditor_rotate                  Xoay
+spritebankeditor_sort                    Sắp xếp
+spritebankeditor_markermodetitle        Chế độ đánh dấu
+
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_mainmenu                          Menu chính
+codex_campaign                          Chiến dịch
+codex_cutscenes                          Cảnh cắt
+codex_qualifications                    Bằng cấp / Chứng chỉ
+codex_load                              Tải nhà tù
+codex_loadcampaign                      Tải chiến dịch
+codex_save                              Lưu nhà tù
+codex_savecampaign                      Lưu chiến dịch
+codex_performance						Kiểm tra hiệu năng
+codex_developer_load                    (Nhà phát triển) Tải bản đồ
+codex_developer_save                    (Nhà phát triển) Lưu bản đồ
+codex_developer_clearach                (Nhà phát triển) Xóa thành tựu
+codex_contacts                          Danh bạ liên lạc
+codex_materials                          Vật liệu
+codex_play                              Chơi
+codex_play_escape                        Chơi chế độ Vượt ngục
+codex_polaroids                          Ảnh Polaroid
+codex_introduction                      Giới thiệu
+codex_restartintroduction                Khởi động lại phần giới thiệu
+codex_restartchapter                    Khởi động lại chương
+codex_help                              Trợ giúp (Wiki)
+codex_opensavefolder                    Mở thư mục lưu file
+codex_options							Tùy chọn
+codex_nitgs								Tên trong game
+codex_workshop							Chia sẻ nhà tù (Steam)
+codex_steamtrending                      Nhà tù phổ biến nhất (Steam)
+codex_checkforupdates                    Kiểm tra cập nhật
+codex_preorder                          Đặt trước ngay
+codex_termsconditions                    Các điều khoản và điều kiện
+codex_twitter                           Twitter
+codex_extras                            Phần bổ sung
+codex_unlocked                          Đã mở khóa *X/*Y
+codex_mapsettings                        Thiết lập bản đồ
+codex_othergames						Các tựa game khác của Introversion
+codex_mutators                          Hiệu ứng biến đổi
+
+codex_cloudsavedesc                      Lưu lên đám mây
+codex_cloud_enabled						Các file lưu mới sẽ được lưu trữ trên đám mây.
+codex_cloud_notaccount					Steam Cloud đang bị tắt trong phần mềm Steam. Vui lòng bật lại để sử dụng tính năng này.
+codex_cloud_notapp						Các file lưu mới sẽ được lưu trữ trên ổ cứng của bạn.
+codex_saveload_delete					Xóa
+
+codex_load_failed_title                  Tải nhà tù.
+codex_load_failed_message                Không thể tải tệp nhà tù này vì tệp đã bị lỗi dữ liệu.
+
+codex_new                                Tạo nhà tù mới
+codex_new_worldsize                      Kích thước thế giới
+codex_new_small                          Nhỏ
+codex_new_medium                        Vừa
+codex_new_large                          Lớn
+codex_new_selectwarden                  Chọn giám đốc trại của bạn
+codex_new_selectgender                  Chọn giới tính tù nhân
+
+codex_options_graphics					Đồ họa
+codex_options_resolution				Độ phân giải
+codex_options_resolutionauto			Tự động
+codex_options_windowed					Chế độ cửa sổ
+codex_options_highdpi					High DPI
+codex_options_filtering					Lọc hình ảnh
+codex_options_nofiltering				Tắt
+codex_options_multisampled				Khử răng cưa đa mẫu (Multisampled)
+codex_options_supersampled				Khử răng cưa siêu mẫu (Supersampled)
+
+codex_options_audio						Âm thanh
+codex_options_volume					Âm lượng tổng
+codex_options_frequency					Tần số trộn âm
+codex_options_swapstero					Đảo kênh âm thanh nổi (Stereo)
+codex_options_dspenabled				Bật DSP
+codex_options_11khz						11025 Hz
+codex_options_22khz						22050 Hz
+codex_options_44khz						44100 Hz
+
+codex_options_clocktype                  Loại đồng hồ
+codex_options_clocktype_analogue        Đồng hồ kim
+codex_options_clocktype_12h              12 Giờ
+codex_options_clocktype_24h              24 Giờ
+
+codex_options_directions				Hiển thị biển báo trên sàn
+codex_options_dirrender_hidden			Ẩn
+codex_options_dirrender_visible			Hiển thị
+codex_options_dirrender_zoom			Thu phóng
+
+codex_options_tempscale                  Hiển thị nhiệt độ bằng độ C
+
+codex_options_gameplay					Trò chơi
+codex_options_autosave					Thời gian tự động lưu
+codex_options_renderrooms				Ô ca-rô đánh dấu phòng
+codex_options_apply						Áp dụng
+codex_options_v2gui						Giao diện người dùng phiên bản 2.0
+codex_options_zoomtomouse				Phóng to theo vị trí chuột
+codex_options_oneclickrapsheet			Mở hồ sơ phạm tội bằng một cú nhấp
+codex_options_disableanalytics			Tắt phân tích dữ liệu
+codex_tooltip_disableanalytics           Chúng tôi thu thập số liệu thống kê ẩn danh để giúp cải thiện trải nghiệm trò chơi. Dữ liệu chúng tôi thu thập có thể xem được trong tệp metrics.txt
+
+codex_options_language					Ngôn ngữ
+
+codex_options_experimental              Thử nghiệm
+codex_options_enablevbo                  Bật đối tượng bộ đệm đỉnh (VBO)
+codex_options_disableattract            Tắt màn hình chờ khi khởi động
+codex_options_enableturbomode			Bật chế độ Turbo
+
+codex_nitgs_authwarning                  Quan trọng: Nếu bạn vừa mới thay đổi mục nhập Tên trong game của mình, mục đó sẽ cần phải được xác thực trước khi xuất hiện trong danh sách.
+
+codex_nitgs_filtercaption                Bộ lọc
+codex_nitgs_filterall                    Tất cả
+codex_nitgs_filtermen                    Nam giới
+codex_nitgs_filterwomen                  Nữ giới
+
+codex_nitgs_checkingforupdate            Đang kiểm tra cập nhật...
+codex_nitgs_updateavailable              Có bản cập nhật mới
+codex_nitgs_downloading                  Đang tải bản cập nhật...
+codex_nitgs_downloadcomplete             Tải về hoàn tất.
+codex_nitgs_downloadfailed               Tải về thất bại.
+
+codex_enabled                            Đã bật
+codex_disabled                           Đã tắt
+
+codex_option_intake                      Tiếp nhận liên tục
+codex_tooltip_intake                     Nếu được bật, bạn sẽ nhận được một số lượng tù nhân mới ngẫu nhiên mỗi ngày... mãi mãi.\n\nNếu bị tắt, bạn có thể tự chọn khi nào bản thân đã sẵn sàng tiếp nhận tù nhân bằng cách vào phần báo cáo và nhấp vào tab tù nhân.
+codex_option_fogofwar                    Sương mù chiến tranh
+codex_tooltip_fogofwar                   Bạn sẽ mất tầm nhìn bên trong các tòa nhà của nhà tù, trừ khi bạn có Cai ngục tuần tra khu vực đó hoặc có Camera an ninh bao quát khu vực.
+codex_option_lakes                      Tạo hồ nước
+codex_tooltip_lakes                      Các hồ nước ngẫu nhiên sẽ chặn các phân đoạn trên đất của bạn. CẢNH BÁO: Tính năng thử nghiệm.
+codex_option_forests                     Tạo rừng cây
+codex_tooltip_forests                    Các cụm cây xanh sẽ xuất hiện ngẫu nhiên trên đất của bạn.
+codex_option_buildings                   Tạo tòa nhà hoang
+codex_tooltip_buildings                  Các tòa nhà bỏ hoang ngẫu nhiên sẽ được để lại trên đất của bạn, bạn có thể tùy ý sử dụng chúng theo ý muốn.
+codex_option_failure                     Điều kiện thua
+codex_tooltip_failure                    Một thử thách bổ sung! Bạn sẽ bị sa thải và trò chơi sẽ kết thúc nếu bạn để mọi thứ trở nên quá tồi tệ. (Bạo loạn, Phá sản, số lượng Người chết hoặc Vượt ngục quá nhiều, v.v.)
+codex_option_unlimitedfunds              Vô hạn tiền
+codex_tooltip_unlimitedfunds             Chế độ Sandbox thuần túy! Bạn có thể chi tiêu bao nhiêu tiền tùy thích ngay từ đầu, mà không cần phải lo lắng hay chờ đợi để kiếm thêm sau này.
+codex_option_gangs                       Băng đảng
+codex_tooltip_gangs                      Một số tù nhân khi đến nơi sẽ có sẵn sự trung thành với băng đảng của họ, và sẽ tấn công các thành viên của băng đảng đối địch ngay khi nhìn thấy. Thử thách nâng cao.
+codex_option_events                      Sự kiện
+codex_tooltip_events                     Kích hoạt các sự kiện ngẫu nhiên xảy ra trong suốt trò chơi để khiến bạn luôn phải tập trung. Thêm thử thách và yếu tố khó lường. 
+codex_option_weather                     Thời tiết và Nhiệt độ
+codex_tooltip_weather                    Thêm các yếu tố thời tiết thay đổi và nhiệt độ biến động vào nhà tù của bạn, đòi hỏi bạn phải tính toán đến việc sưởi ấm.
+codex_option_enablecheats				Bật công cụ và Mã gian lận
+codex_tooltip_enablecheats				Cho phép sử dụng các công cụ của nhà phát triển và mã gian lận trong nhà tù này. Nếu được chọn, tính năng này sẽ không thể tắt bỏ, các thành tựu sẽ không được trao, và bạn sẽ không thể bán nhà tù này.
+codex_option_staffneeds                  Nhu cầu nhân viên 
+codex_tooltip_staffneeds                 Bật hệ thống Nhu cầu cho các Cai ngục của bạn, nghĩa là họ sẽ yêu cầu đồ ăn, nghỉ ngơi và các tiện nghi khác để có thể thực hiện công việc của mình một cách chuẩn xác. 
+codex_option_escapeplans                 Kế hoạch vượt ngục
+codex_tooltip_escapeplans                Bật thêm nhiều lựa chọn vượt ngục cho tù nhân. Giờ đây họ sẽ cố gắng trèo qua tường của bạn khi tìm cách vượt ngục.
+codex_option_wardenmode                  Chế độ Giám đốc
+codex_tooltip_wardenmode                 Vào vai vị giám đốc trực tiếp làm việc tại hiện trường của nhà tù mà bạn đang xây dựng.
+codex_option_wardenmode_permadeath      Permadeath
+codex_tooltip_wardenmode_permadeath      Nếu bạn chết trong vai Giám đốc, trò chơi sẽ kết thúc ngay lập tức!
+
+codex_option_funds                      Tiền vốn
+codex_tooltip_funds                      Bạn sẽ bắt đầu với số tiền này trong tài khoản ngân hàng của mình. Bán các nhà tù hiện tại của bạn từ màn hình Định giá để bắt đầu with nhiều tiền vốn hơn.
+
+codex_transfer							Chuyển trại
+codex_transferring						Đang chuyển trại
+codex_in_prison							Hiện đang bị giam giữ
+codex_unavailable                        Không khả dụng
+codex_useravatar                        Đây là tôi
+codex_tooltip_useravatar                 Đánh dấu tù nhân này là thực thể đại diện cho chính bạn. Nếu bằng cách nào đó bạn tự kết thúc trong tù, đây là tù nhân sẽ đại diện cho bạn.
+codex_tooltip_flagbio                    Báo cáo tiểu sử này là không phù hợp hoặc gây xúc phạm.
+
+codex_workshop_current					Nhà tù hiện tại
+codex_workshop_publish					Đăng tải nhà tù này
+codex_workshop_update					Cập nhật
+codex_workshop_play						Chơi
+codex_workshop_downloading				Đang tải xuống
+codex_workshop_download_failed			Tải xuống thất bại
+codex_workshop_publishing				Đang đăng tải...
+codex_workshop_new						MỚI
+codex_workshop_title					Tiêu đề
+codex_workshop_desc						Mô tả
+codex_workshop_view_in_workshop			Xem trên Steam Workshop
+codex_workshop_heading_pubed			Các nhà tù đã đăng tải của bạn
+codex_workshop_heading_subed			Các nhà tù đã theo dõi
+codex_workshop_published_by				Được đăng tải bởi *P
+codex_workshop_published_by_you			Được đăng tải bởi bạn
+codex_workshop_published_good			Đã đăng tải nhà tù
+codex_workshop_published_good_msg		Nhà tù của bạn đã được đăng tải thành công.
+codex_workshop_published_bad			Đăng tải nhà tù thất bại
+codex_workshop_published_bad_msg		Nhà tù của bạn gặp lỗi khi đăng tải.
+codex_workshop_published_bad_msg_new	Nhà tù mới của bạn gặp lỗi khi đăng tải. Vui lòng thử lại.
+codex_workshop_busy						Hệ thống đang thực hiện một số thao tác với Steam. Vui lòng đợi tiến trình đó kết thúc rồi thử lại sau.
+codex_workshop_file_exists				Bạn đã đăng tải một nhà tù với tên gọi này rồi. Vui lòng chọn một tên gọi khác.
+codex_workshop_generic_fail				Đăng tải nhà tù thất bại. Vui lòng thử lại.
+codex_workshop_download_bad				Tải xuống nhà tù thất bại
+codex_workshop_pa_workshop				Mở Prison Architect Workshop
+codex_workshop_agreement				Bằng việc gửi vật phẩm này, bạn đồng ý với [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]các điều khoản dịch vụ của workshop[/url].
+codex_workshop_update_warning			Cập nhật nhà tù đã đăng tải
+codex_workshop_update_warning_msg		Việc cập nhật Nhà tù đã đăng tải này sẽ ghi đè lên nhà tù cũ bằng nhà tù đang được tải hiện tại. Thao tác này sẽ xóa nhà tù đã đăng tải trước đó, thay thế vĩnh viễn bằng nhà tù bạn đang chơi. Hành động này không thể hoàn tác.\n\nBạn có chắc chắn muốn tiếp tục không?
