@@ -3689,17 +3689,17 @@ job_FixSwollenDoor					Làm mát cửa
 # ==============================================================
 
 d11_staffalert_summary_DeepFreeze01				Hãy thận trọng với các mối nguy hiểm tiềm ẩn đi kèm với thời tiết lạnh giá… Mùa đông đang đến.
-d11_staffalert_title_DeepFreeze01				Deep Freeze
+d11_staffalert_title_DeepFreeze01				Rét Đậm
 d11_staffalert_details_DeepFreeze01				Trong khi trải qua đợt rét đậm này, nhiều khu vực của nhà tù có thể bị phủ sương giá hoặc đóng băng hoàn toàn. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn và trong những trường hợp cực đoan có thể tự mình bị đông cứng.
 d11_staffalert_hint_DeepFreeze01				Tốt nhất là luôn có sẵn các thùng rải sỏi, các thiết bị tiện ích trong nhà tù được cách nhiệt đúng cách, và có sẵn một mức độ hỗ trợ y tế tốt.
 
 d11_staffalert_summary_LightningStorm01			Một cơn bão đang tích tụ, hãy cẩn thận với các sự cố điện và thiệt hại cấu trúc tiềm ẩn.
-d11_staffalert_title_LightningStorm01			Lightning Storm
+d11_staffalert_title_LightningStorm01			Giông Bão
 d11_staffalert_details_LightningStorm01			Giông bão có thể gây ra đủ loại vấn đề cho nhà tù của bạn. Chúng có thể gây nhiễu các thiết bị điện, gây hư hại và hỏa hoạn nếu bị sét đánh, phá hủy toàn bộ các khu vực trong nhà tù và thậm chí có thể khiến mọi người bị điện giật.
 d11_staffalert_hint_LightningStorm01			Bạn sẽ cần phải bảo an nhà tù của mình và lắp đặt cột thu lôi để giảm thiểu thiệt hại nhiều nhất có thể trong những cơn bão này.
 
 d11_staffalert_summary_RatInfestationLevel01	Lũ chuột, dù dễ thương, có thể mang lại thảm họa cho nhà tù của bạn nên hãy cẩn thận.
-d11_staffalert_title_RatInfestationLevel01		Rat Infestation
+d11_staffalert_title_RatInfestationLevel01		Nạn Chuột Hoành Hành
 d11_staffalert_details_RatInfestationLevel01	Mặc dù một nhà tù bẩn thỉu khiến các tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể làm tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, và gặm nhấm xuyên qua dây cáp và hàng rào.
 d11_staffalert_hint_RatInfestationLevel01		Để xua đuổi lũ chuột, hãy đảm bảo rằng nhà tù luôn sạch sẽ và mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện pháp kiểm soát dịch hại.
 
@@ -3721,13 +3721,13 @@ objectiveWindow_FilterButton_3_title			Về Perfect Storm
 objectiveWindow_FilterButton_3_tooltip			Một tập hợp thông tin mô tả và giải thích về các thảm họa cũng như các tính năng chính khác của Perfect Storm.
 
 objective_HelpCalamities						Perfect Storm
-objective_HelpCalamities_child_1				Deep Freeze
+objective_HelpCalamities_child_1				Rét Đậm
 objective_HelpCalamities_child_1_Description	Trong khi trải qua đợt rét đậm này, nhiều khu vực của nhà tù có thể bị phủ sương giá hoặc đóng băng hoàn toàn. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn và trong những trường hợp cực đoan có thể tự mình bị đông cứng. Tốt nhất là luôn có sẵn các thùng rải sỏi, các thiết bị tiện ích trong nhà tù được cách nhiệt đúng cách, và có sẵn một mức độ hỗ trợ y tế tốt.
-objective_HelpCalamities_child_2				Lightning Storm 
+objective_HelpCalamities_child_2				Giông Bão 
 objective_HelpCalamities_child_2_Description	Giông bão có thể gây ra đủ loại vấn đề cho nhà tù của bạn. Giông bão có thể gây nhiễu các thiết bị điện, gây hư hại và hỏa hoạn nếu có sét đánh xuống, phá hủy toàn bộ các khu vực trong nhà tù và thậm chí có thể gây chết người trong những trường hợp cực đoan. Bạn sẽ cần phải bảo an nhà tù của mình, lắp đặt cột thu lôi để chuyển hướng tia sét, và cố gắng ngăn chặn thiệt hại nhiều nhất có thể.
-objective_HelpCalamities_child_3				Heatwave
+objective_HelpCalamities_child_3				Sóng Nhiệt
 objective_HelpCalamities_child_3_Description	Cái nóng gay gắt này có thể rất nguy hiểm, hãy để mắt đến tù nhân và nhân viên của bạn vì nếu họ bị mất nước trong cái nóng này, mọi thứ có thể trở nên nguy kịch. Bạn cũng nên cẩn thận với hỏa hoạn xảy ra quanh nhà tù, đường sá bị hư hỏng, và thậm chí là để mắt đến bất kỳ vật dụng bằng kim loại nào quanh nhà tù... giống như tất cả những cánh cửa giam tuyệt vời mà chúng ta đang có. 
-objective_HelpCalamities_child_4				Rat Infestation
+objective_HelpCalamities_child_4				Nạn Chuột Hoành Hành
 objective_HelpCalamities_child_4_Description	Mặc dù một nhà tù bẩn thỉu khiến các tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể làm tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, và gặm nhấm xuyên qua dây cáp và hàng rào. Để xua đuổi lũ chuột, hãy đảm bảo rằng nhà tù luôn sạch sẽ và mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện pháp kiểm soát dịch hại.
 
 objective_HelpCalamityPrevention				Phòng ngừa thảm họa
@@ -3784,7 +3784,7 @@ grant_category_CalamityHappened										Thảm họa đã xảy ra:
 action_brewing		Đang tích tụ
 action_fight 		Đang ẩu đả
 action_electricalsabotaging	Đang phá hoại
-job_failed_frozen					Deep Freeze đang diễn ra
+job_failed_frozen					Rét Đậm đang diễn ra
 action_readbook				Đang đọc sách
 action_FlowerGarden			Đang thư giãn
 action_EatSnack				Đang lấy đồ ăn vặt
