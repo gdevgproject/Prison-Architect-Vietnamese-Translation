@@ -3501,3 +3501,179 @@ crime_cartheft                    Trộm xe
 crime_rape                        Hiếp dâm
 crime_grossindecency              Hành vi đồi bại nghiêm trọng
 crime_voyeurism                   Tội nhìn trộm / Quay lén
+
+# =============================================================================
+# Cause of death
+# =============================================================================
+
+causeofdeath_fight                  Bị giết trong cuộc ẩu đả với *X
+causeofdeath_fight_weapon           Bị *X giết bằng *W
+causeofdeath_fight_prisoner         Bị *X sát hại
+causeofdeath_fight_prisoner_weapon  Bị *X sát hại bằng *W
+causeofdeath_fight_actor            Bị giết bằng *W
+causeofdeath_gang                   Bị thành viên băng đảng đối địch giết
+causeofdeath_gang_weapon            Bị thành viên băng đảng đối địch giết bằng *W
+causeofdeath_fire                   Chết cháy
+causeofdeath_escaping               Bị *X giết khi đang cố gắng vượt ngục
+causeofdeath_escaping_weapon        Bị *X giết bằng *W khi đang cố gắng vượt ngục
+causeofdeath_mauled                 Bị chó cắn chết
+causeofdeath_snitch                 Bị giết vì chỉ điểm
+causeofdeath_exlaw                  Bị giết vì là cựu công lực
+causeofdeath_copkiller              Bị cai ngục giết vì là kẻ giết cảnh sát
+causeofdeath_explosion              Chết do nổ
+causeofdeath_electrocution          Chết do điện giật
+causeofdeath_starvation             Chết đói
+causeofdeath_virus                  Chết do nhiễm bệnh
+causeofdeath_overdosed              Sốc thuốc
+causeofdeath_bledout                Chết mất máu 
+causeofdeath_riot                   Chết trong bạo loạn
+causeofdeath_executed               Tử hình ghế điện
+causeofdeath_exposure               Chết cóng
+causeofdeath_unknown_1				Không rõ nguyên nhân tử vong.
+causeofdeath_unknown_2 				Mở khóa Tình báo để xác định.
+
+
+# =============================================================================
+# Mutators
+# =============================================================================
+
+codex_mutators_desc                     Các hiệu ứng biến đổi sẽ thay đổi cách chơi, thêm vào các thử thách hoặc phong cách chơi mới, nhưng không nhất thiết phải cân bằng.
+mutators_random                         Ngẫu nhiên
+
+mutator_name_bigheads                   Chế độ Đầu to
+mutator_name_moreviolentprisoners       Nhiều tù nhân bạo lực hơn 
+mutator_name_noviolentprisoners         Không có tù nhân bạo lực
+mutator_name_fastwalking                Đi bộ nhanh
+mutator_name_biggerfights               Ẩu đả lớn hơn
+mutator_name_morevolatileprisoners      Tù nhân nóng nảy
+mutator_name_endlesswinter              Mùa đông vĩnh cửu
+mutator_name_norevealedreps             Không lộ tiếng tăm
+mutator_name_allrepsrevealed            Lộ toàn bộ tiếng tăm
+mutator_name_indestructabletrees        Khu bảo tồn thiên nhiên
+mutator_name_alllegendary               Đại trại giam
+mutator_name_slowdeliveries             Giao hàng chậm
+mutator_name_fastdeliveries             Giao hàng nhanh
+mutator_name_extremelyneedyprisoners    Tù nhân đòi hỏi
+mutator_name_slowtime                   Thời gian chậm
+mutator_name_burnthedead                Thiêu xác
+mutator_name_gangwarfare                Chiến tranh băng đảng
+mutator_name_massescapes                Cho tôi ra khỏi đây!
+mutator_name_notunnels                  Không có hầm vượt ngục
+mutator_name_morecontraband             Nhiều hàng cấm hơn
+mutator_name_nocontrabandlimits         Không giới hạn hàng cấm
+mutator_name_highdanger                 Khu vực nguy hiểm
+mutator_name_superdrugs                 Hàng chất %$#!
+mutator_name_weirdreputations           Thêm tiếng tăm
+mutator_name_nopausing                  Không tạm dừng
+mutator_name_norelease                  Không phóng thích
+mutator_name_fastrelease                Án tù ngắn
+mutator_name_acidrain                   Mưa axit
+mutator_name_permanentday               Ngày vĩnh cửu
+mutator_name_permanentnight             Đêm vĩnh cửu 
+mutator_name_spreadingtrees             Cây cối lan rộng
+mutator_name_contrabanddetectors        Máy quét hàng cấm
+mutator_name_superguards                Siêu cai ngục
+mutator_name_oldschoolintake            Tiếp nhận kiểu cổ điển
+mutator_name_noclipstaff                Nhân viên bóng ma
+
+mutator_tooltip_bigheads                Khiến đầu của các tù nhân to lên!
+mutator_tooltip_moreviolentprisoners    Tăng đáng kể số lượng tù nhân có xu hướng bạo lực mà bạn sẽ tiếp nhận.
+mutator_tooltip_noviolentprisoners      Chỉ tiếp nhận những tù nhân không có xu hướng bạo lực. 
+mutator_tooltip_fastwalking             Mọi người trong trại giam của bạn đi bộ nhanh gấp đôi.
+mutator_tooltip_biggerfights            Khiến tù nhân dễ tham gia vào các cuộc ẩu đả hơn và ít chịu lùi bước hơn.
+mutator_tooltip_morevolatileprisoners   Khiến khoảng một nửa số tù nhân của bạn có đặc điểm Nóng nảy, làm họ thích gây rắc rối chỉ để cho vui.
+mutator_tooltip_endlesswinter           Mang trạng thái Nhiễm lạnh đáng sợ trở lại, và đẩy thế giới vào một mùa đông băng giá vĩnh cửu. (Không có tác dụng nếu tắt Thời tiết.)
+mutator_tooltip_norevealedreps          Bạn sẽ không biết bất cứ điều gì về tiếng tăm của các tù nhân khi họ xuống xe buýt. 
+mutator_tooltip_allrepsrevealed         Các tù nhân bước xuống xe buýt sẽ luôn hiển thị rõ tiếng tăm của họ.
+mutator_tooltip_indestructabletrees     Luật bảo tồn địa phương quy định không được chặt hạ cây cối trong khu vực này. Bạn sẽ phải xây dựng xung quanh chúng thôi!
+mutator_tooltip_alllegendary            Tất cả tù nhân đều là Huyền thoại. Chúc may mắn!
+mutator_tooltip_slowdeliveries          Mọi thứ bạn mua đều cần được vận chuyển đến bằng xe tải. 
+mutator_tooltip_fastdeliveries          Không còn phải chờ xe tải nữa; mọi thứ sẽ đến thẳng trại giam của bạn miễn là bạn có đủ chỗ chứa.
+mutator_tooltip_extremelyneedyprisoners Nhu cầu của các tù nhân sẽ tăng với tốc độ lớn hơn nhiều. 
+mutator_tooltip_slowtime                Làm đồng hồ trong game chạy chậm hơn, khiến một ngày dài hơn nhiều.
+mutator_tooltip_burnthedead             Bất kỳ ai bị giết trong trại giam của bạn sẽ tự động bốc cháy.
+mutator_tooltip_gangwarfare             Chỉ có các thành viên băng đảng chuyển đến trại giam của bạn. (Không có tác dụng nếu tắt Băng đảng.)
+mutator_tooltip_massescapes             Tù nhân sẽ có xu hướng cố đào đường thoát khỏi trại giam của bạn nhiều hơn, loại bỏ mọi giới hạn thông thường đối với hầm vượt ngục.
+mutator_tooltip_notunnels               Tù nhân không thể đào hầm vượt ngục.
+mutator_tooltip_morecontraband          Nhiều hàng cấm sẽ được buôn lậu vào trại giam hơn, và tù nhân có nhiều khả năng ăn cắp hàng cấm hơn khi có cơ hội. 
+mutator_tooltip_nocontrabandlimits      Loại bỏ giới hạn về các loại hàng cấm có thể tuồn vào trại giam. Súng? Cây lau nhà? Bảng kẹp hồ sơ?! Tất cả đều hợp lệ.
+mutator_tooltip_highdanger              Mức nguy hiểm của trại giam luôn ở mức tối đa, bạn có nhiều khả năng nhận phải các tù nhân bạo lực và họ cũng dễ lao vào các cuộc ẩu đả hơn nhiều. 
+mutator_tooltip_superdrugs              Tù nhân sử dụng ma túy hoặc rượu bia sẽ nhận ngẫu nhiên một đặc điểm tiếng tăm, khiến họ ngày càng khó đối phó hơn.
+mutator_tooltip_weirdreputations        Mở khóa một loạt tiếng tăm mới cho tù nhân, điều này sẽ thay đổi hành vi và cách họ tương tác với trại giam của bạn.
+mutator_tooltip_nopausing               Loại bỏ khả năng tạm dừng đồng hồ game khi đang chơi.
+mutator_tooltip_norelease               Tù nhân không bao giờ được trả tự do; án tù của họ kéo dài mãi mãi và không có tạm tha.
+mutator_tooltip_fastrelease             Tất cả các án tù đều ngắn hơn nhiều, đồng nghĩa với việc các tù nhân sẽ luân chuyển qua trại giam của bạn nhanh hơn nhiều.
+mutator_tooltip_acidrain                Khiến mưa và tuyết gây sát thương cho bất kỳ tù nhân nào ở bên ngoài. (Không có tác dụng nếu tắt Thời tiết.)
+mutator_tooltip_permanentday            Trời không bao giờ tối trong trại giam của bạn; lúc nửa đêm cũng sáng như lúc giữa trưa vậy!
+mutator_tooltip_permanentnight          Mặt trời không bao giờ mọc ở đây. Trại giam của bạn sẽ vĩnh viễn chìm trong bóng tối. 
+mutator_tooltip_spreadingtrees          Cây cối có thể lan rộng và sẽ phát triển nhanh hơn bình thường rất nhiều.
+mutator_tooltip_contrabanddetectors     Máy dò kim loại sẽ phát hiện mọi loại hàng cấm, nhưng cũng sẽ tiêu thụ lượng điện gấp 5 lần. 
+mutator_tooltip_superguards             Cai ngục của bạn là lực lượng tinh nhuệ nhất và họ không hề đùa giỡn. Họ to lớn hơn, khỏe mạnh hơn, nhanh nhẹn hơn và tinh tường hơn.
+mutator_tooltip_oldschoolintake         Đã từng có thời, một chiếc xe buýt đầy ắp tù nhân sẽ xuất hiện tại trại giam của bạn mỗi ngày, dù bạn có muốn hay không. Chào mừng trở lại với phong cách cổ điển! Bạn sẽ nhận được những chuyến xe buýt chở đầy tù nhân, mỗi một ngày, dù bạn có chỗ cho họ hay không.
+mutator_tooltip_noclipstaff             Các nhân viên của bạn có thể đi xuyên qua tường.
+
+mutator_title_extrachallenge            Thử thách bổ sung
+mutator_title_extrachallenge_tooltip    Các hiệu ứng biến đổi này này sẽ làm cuộc sống của bạn khó khăn hơn theo nhiều cách khác nhau. Đôi khi là khó hơn đáng kể đấy!
+mutator_title_lightentheload            Giảm bớt gánh nặng
+mutator_title_lightentheload_tooltip    Các hiệu ứng biến đổi này giúp trại giam của bạn dễ quản lý hơn hoặc giảm bớt độ khó theo một cách nào đó.
+mutator_title_changetherules            Thay đổi luật chơi
+mutator_title_changetherules_tooltip    Các hiệu ứng biến đổi này thay đổi một số luật cơ bản của trò chơi, 
+mutator_title_somethingdifferent        Một chút... khác biệt
+mutator_title_somethingdifferent_tooltip    Đây là những thứ kỳ quái. Chúng có thể không hợp lý, nhưng chúng sẽ khiến cuộc sống thú vị hơn.
+
+# =============================================================================
+# Attract screen
+# =============================================================================
+
+attract_pressanykey                     Nhấn phím bất kỳ...
+
+# =============================================================================
+# Help warnings
+# =============================================================================
+
+help_warning_gangleader                 Thủ lĩnh của một trong các băng đảng trong trại giam hiện đang bị trừng phạt. Tiếp tục thế nào là lựa chọn của bạn, nhưng tất cả các thành viên của băng đảng đó sẽ gây ra rất nhiều rắc rối trong thời gian hình phạt được áp dụng.
+help_warning_deathrow                   Tù nhân tử tù đầu tiên của chúng ta vừa mới tới. Chúng ta cần đảm bảo đã thiết lập chương trình Kháng cáo tử tù trong Phòng xét tạm tha, để họ có thể thực hiện các buổi điều trần kháng cáo của mình. 
+
+# =============================================================================
+# Graphs
+# =============================================================================
+
+graph_title                             Biểu đồ
+
+graph_label_1                           Loại dữ liệu 1
+graph_label_2                           Loại dữ liệu 2
+graph_label_day                         Ngày
+
+graph_axis_none                         Không có
+graph_axis_profit                       Lợi nhuận
+graph_axis_funds                        Ngân sách
+graph_axis_prisonsize                   Diện tích trại giam (m²)
+graph_axis_numprisoners                 Số tù nhân
+graph_axis_numstaff                     Số nhân viên
+graph_axis_releasedprisoners            Tù nhân được thả
+graph_axis_totalreleasedprisoners       Tổng số tù nhân được thả
+graph_axis_escapedprisoners             Tù nhân vượt ngục
+graph_axis_totalescapedprisoners        Tổng số tù nhân vượt ngục
+graph_axis_entitydeath                  Số ca tử vong
+graph_axis_totaldeaths                  Tổng số ca tử vong
+graph_axis_prisonerdeaths               Số tù nhân tử vong
+graph_axis_guarddeaths                  Số cai ngục tử vong
+graph_axis_securitygrading              Xếp hạng an ninh
+graph_axis_healthgrading                Xếp hạng sức khỏe
+graph_axis_reformgrading                Xếp hạng cải tạo
+graph_axis_punishmentgrading            Xếp hạng trừng phạt
+graph_axis_reoffendingrate              Tỷ lệ tái phạm
+graph_axis_prisonvalue                  Giá trị trại giam
+graph_axis_prisonercapacity             Sức chứa tù nhân
+graph_axis_numincidents                 Số sự cố
+graph_axis_totalincidents               Tổng số sự cố
+
+
+# =============================================================================
+# Graphs
+# =============================================================================
+
+
+# =============================================================================
+# New Strings
+# =============================================================================
