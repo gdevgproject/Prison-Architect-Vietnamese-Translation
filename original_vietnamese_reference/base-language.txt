@@ -1019,3 +1019,546 @@ codex_workshop_pa_workshop				Mở Prison Architect Workshop
 codex_workshop_agreement				Bằng việc gửi vật phẩm này, bạn đồng ý với [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]các điều khoản dịch vụ của workshop[/url].
 codex_workshop_update_warning			Cập nhật nhà tù đã đăng tải
 codex_workshop_update_warning_msg		Việc cập nhật Nhà tù đã đăng tải này sẽ ghi đè lên nhà tù cũ bằng nhà tù đang được tải hiện tại. Thao tác này sẽ xóa nhà tù đã đăng tải trước đó, thay thế vĩnh viễn bằng nhà tù bạn đang chơi. Hành động này không thể hoàn tác.\n\nBạn có chắc chắn muốn tiếp tục không?
+
+codex_options_timelapse					Timelapse
+codex_timelapse_record					Ghi hình Timelapse
+codex_timelapse_stop					Dừng ghi Timelapse
+codex_timelapse_camera					Chế độ camera
+codex_timelapse_customresw				Chiều rộng phân giải tùy chỉnh
+codex_timelapse_customresh				Chiều cao phân giải tùy chỉnh
+codex_timelapse_resolution				Độ phân giải
+codex_timelapse_fps						Tốc độ phát lại
+codex_timelapse_interval				Khoảng thời gian chụp
+codex_timelapse_quality					Chất lượng
+codex_timelapse_unsupported				Tính năng này không khả dụng trên phần cứng của bạn.
+codex_timelapse_savesettings			Lưu thiết lập
+
+codex_timelapse_cam_zoom                Thu phóng camera
+codex_timelapse_cam_fitmap              Vừa bản đồ
+codex_timelapse_cam_fitheight           Vừa chiều cao bản đồ
+codex_timelapse_cam_fitwidth            Vừa chiều rộng bản đồ
+codex_timelapse_fps_value                *X FPS
+codex_timelapse_quality_high            Cao
+codex_timelapse_quality_med             Vừa
+codex_timelapse_quality_low             Thấp
+codex_timelapse_interval_value          *X phút trong game
+timelapse_caption                        Thời lượng ghi hình Timelapse *X:*Y, đã ghi *Z khung hình, hàng đợi: *T
+
+codex_performance_running				Đang chạy kiểm tra hiệu năng
+codex_performance_time					Thời gian còn lại: *Ts
+codex_performance_current				Thời gian khung hình hiện tại: *Tms
+codex_performance_min					Thời gian khung hình tối thiểu: *Tms
+codex_performance_avg					Thời gian khung hình trung bình: *Tms
+codex_performance_max					Thời gian khung hình tối đa: *Tms
+codex_performance_numframes				Số khung hình: *T
+
+codex_last_modified						Sửa đổi lần cuối: *T
+codex_sortbydesc						Sắp xếp theo ngày
+codex_sortname							Tên
+codex_sortdate							Ngày
+codex_apply								Áp dụng
+codex_select                            Chọn
+
+codex_mods								Mods
+codex_mod_activetitle					Mod đang kích hoạt
+codex_mod_inactivetitle					Mod khả dụng
+codex_mod_deactivate					Hủy kích hoạt tất cả mod
+codex_mod_wiki							Tìm thêm mod (Wiki)
+codex_mod_openmodsfolder				Mở thư mục Mods
+codex_mod_moresteammods					Tìm thêm mod (Steam Workshop)
+codex_mod_findsteamtranslations         Tìm thêm bản dịch (Steam Workshop)
+codex_authortitle                        Tác giả
+codex_versiontitle                       Phiên bản
+codex_datetitle                          Ngày
+codex_urltitle                           URL
+codex_typetitle							Loại
+codex_mod_graphicsandsound				Hình ảnh và âm thanh
+codex_mod_translation					Bản dịch
+codex_mod_scenario						Kịch bản
+codex_mod_content						Nội dung
+codex_mod_load_scenario					Chơi kịch bản
+codex_publishmod						Đăng mod này
+
+codex_mod_update						Cập nhật mod này
+codex_mod_published_good				Đã đăng mod
+codex_mod_published_good_msg			Mod của bạn đã được đăng thành công.
+codex_mod_published_bad					Đăng mod thất bại
+codex_mod_published_bad_msg				Mod của bạn đăng không thành công.
+codex_mod_modsupdated					Đã cập nhật mod
+codex_mod_modsupdated_msg				Một số mod đang kích hoạt của bạn đã được cập nhật. Nhấn OK để áp dụng các thay đổi mới. Game của bạn sẽ được tự động lưu.
+codex_mod_translationcaption            Đây có phải bản dịch sang ngôn ngữ khác không?
+
+codex_language                          Ngôn ngữ
+codex_language_englishdefault            Tiếng Anh (Mặc định)
+codex_language_default                  Ngôn ngữ mặc định
+codex_language_download                  Tải về
+codex_language_failed_download          Tải bản dịch thất bại
+codex_language_failed_download_msg      Bản dịch bạn chọn đã tải xuống thất bại.
+codex_language_searching_workshop        Đang tìm trên Steam Workshop
+codex_language_community                Bản dịch này được tạo và duy trì bởi cộng đồng - Xin cảm ơn!
+
+codex_polaroids_new                      MỚI
+
+codex_save_confirm                      Bạn có chắc muốn ghi đè lên *X bằng nhà tù hiện tại không?
+codex_researtchapter_confirm            Bạn có chắc muốn khởi động lại chương hiện tại không? Tiến trình chưa lưu sẽ bị mất.
+codex_delete_confirm                    Bạn có chắc muốn xóa vĩnh viễn *X không?
+
+codex_premadeprisons                    Nhà tù xây sẵn
+
+codex_trending_more                      ...
+codex_sortbycaption                      Sắp xếp theo:
+codex_trending_oneday                    Một ngày
+codex_trending_oneweek                   Một tuần
+codex_trending_threemonths              Ba tháng
+codex_trending_sixmonths                Sáu tháng
+codex_trending_oneyear                  Một năm
+codex_trending_alltime                  Toàn thời gian
+codex_trending_failedtogetlist          Lấy danh sách nhà tù thất bại
+codex_trending_failedtogetlist_msg      Không thể lấy danh sách các nhà tù đang thịnh hành.
+
+codex_settings                          Thiết lập bản đồ
+codex_settings_gangs                    Kích hoạt Băng đảng
+codex_settings_events                   Kích hoạt Sự kiện
+codex_settings_weather                  Kích hoạt Thời tiết
+codex_settings_staffneeds                Kích hoạt Nhu cầu nhân viên
+codex_settings_escapeplans              Kích hoạt Kế hoạch vượt ngục
+codex_settings_failureconditions        Kích hoạt Điều kiện thua
+codex_settings_confirm                  Sau khi kích hoạt, thiết lập này không thể tắt đi. Bạn có chắc muốn kích hoạt *X không?
+
+codex_packrects							Sắp xếp hình chữ nhật
+codex_addboxbutton						Thêm hình chữ nhật mới
+codex_setsize							Đặt kích thước không gian
+codex_removeallrects					Xóa tất cả hình chữ nhật
+codex_packrects_widthcaption			Chiều rộng không gian
+codex_packrects_heightcaption			Chiều cao không gian
+codex_packrects_boxwcaption				Chiều rộng hình chữ nhật
+codex_packrects_boxhcaption				Chiều cao hình chữ nhật
+
+mods_downscaled_spritesheet				Sprite Sheet đã bị giảm kích thước
+mods_downscaled_spritesheet_msg			Sprite sheet đã phải giảm kích thước do giới hạn của card đồ họa của bạn. Điều này có thể là do kích hoạt quá nhiều mod. Vui lòng tắt bớt một số mod để cải thiện chất lượng.
+mods_errors_no_memory					Không tải được Mod Sprite nào
+mods_errors_no_memory_msg				Không đủ bộ nhớ đồ họa để tải thêm các sprite của mod. Điều này có thể là do kích hoạt quá nhiều mod. Vui lòng tắt bớt một số mod để sử dụng ít bộ nhớ hơn.
+
+# =============================================================================
+# Graphics Change Confirmation
+# =============================================================================
+
+graphicschange_message					Bạn có muốn giữ các tùy chọn đồ họa này không? Các thay đổi này sẽ hoàn tác trong
+graphicschange_time						giây.
+graphicschange_accept					Chấp nhận
+graphicschange_revert					Hoàn tác
+
+# =============================================================================
+# Script
+# =============================================================================
+
+scriptdebugger_title                    Trình gỡ lỗi tập lệnh (F3)
+script_error_critical                    Đã xảy ra lỗi.
+script_error_critical_msg                Đã xảy ra lỗi trong khi thực thi tập lệnh của game.\n\nNếu bạn đang chạy mod, vui lòng báo cho tác giả mod biết. Nếu không, vui lòng gửi báo cáo lỗi kèm theo tệp debug.txt của bạn.
+
+# =============================================================================
+# Mod Confirmation
+# =============================================================================
+
+modnotification_title                    Phát hiện sự khác biệt về Mod
+modnotification_info                     Các mod này đã được sử dụng khi nhà tù hiện tại được lưu. Chúng tôi khuyên bạn nên tải xuống và kích hoạt chúng trước khi chơi nhà tù này.
+modnotification_playnow                  Chơi ngay
+modnotification_active                   Đang kích hoạt
+modnotification_inactive                 Không kích hoạt
+modnotification_new                      Mới
+modnotification_unknown                  Không rõ
+modnotification_popup_title              Khác biệt về mod
+modnotification_popup_active             Mod này hiện đang kích hoạt. Nhấn để hủy kích hoạt.
+modnotification_popup_inactive           Mod này hiện không kích hoạt. Nhấn để kích hoạt.
+modnotification_popup_new_url            Đây là một mod mới. Nhấn để mở liên kết trong trình duyệt web.
+modnotification_popup_new_steam          Đây là một mod Steam mới. Nhấn để đăng ký và tải xuống mod ngay.
+modnotification_popup_unknown            Chúng tôi không thể xác định nguồn gốc của mod này. Vui lòng tự tìm và cài đặt mod này.
+
+# =============================================================================
+# Biography
+# =============================================================================
+
+biography_search                        Dừng và khám xét
+biography_selected                      ĐÃ CHỌN
+biography_prisoner_name                 *S, *F
+biography_prisoner_number                Tù nhân #*X
+biography_prisoner_age                  Tuổi: *X
+biography_prisoner_traits                Đặc điểm:
+biography_prisoner_convicted            Bị kết án vì tội *C (nhận *P)
+biography_prisoner_sentenced            Bị kết án *X năm tù
+biography_parole_now                    Đủ điều kiện tạm tha bây giờ
+biography_parole_later                  Đủ điều kiện tạm tha sau *X năm
+biography_prisoner_served                Đã thụ án *X năm
+biography_prisoner_priors                Tiền án: 
+
+
+# =============================================================================
+# Rap Sheet
+# =============================================================================
+
+rapsheet_age							Tuổi:
+rapsheet_category						Phân loại:
+rapsheet_traits							Đặc điểm đã biết:
+rapsheet_conviction_text				*C - *Y năm
+rapsheet_found_text						(Nhận tội: *P)
+rapsheet_convictions					Án tích
+rapsheet_misconductstitle				Vi phạm gần đây
+rapsheet_biography                      Tiểu sử
+rapsheet_guilty							Có tội
+rapsheet_notguilty						Không có tội
+rapsheet_served							Đã thụ án
+rapsheet_served_time					Đã thụ án *Y năm
+rapsheet_time							*Y năm
+rapsheet_bio							Bị kết án *Y năm vì tội *A.
+rapsheet_bio_med						Bị kết án *Y năm vì nhiều tội danh bao gồm *A và *B.
+rapsheet_bio_long						Bị kết án *Y năm vì nhiều tội danh bao gồm *A, *B và *C.
+rapsheet_category_minsec				An ninh thấp
+rapsheet_category_normal				An ninh vừa
+rapsheet_category_maxsec				An ninh cao
+rapsheet_category_protected             Giam bảo hộ
+rapsheet_category_supermax              SuperMax
+rapsheet_category_deathrow              Tử tù
+rapsheet_tab_biography                  Tiểu sử
+rapsheet_tab_experience                 Kinh nghiệm
+rapsheet_tab_grading                    Xếp hạng trại
+rapsheet_tab_character                  Nhân vật
+rapsheet_action                         Hành động
+rapsheet_recruit                        Tuyển mộ chỉ điểm viên
+
+rapsheet_timeinside                     *X ngày trong trại của bạn
+rapsheet_timeinside_hours                *X giờ trong trại của bạn
+rapsheet_mood                            Tâm trạng
+rapsheet_activity                        Hoạt động
+rapsheet_condition                      Tình trạng
+rapsheet_program                        Chương trình
+rapsheet_passchance                     Tỷ lệ thành công
+rapsheet_reformhistory                  Lịch sử chương trình cải tạo
+
+rapsheet_reform_success                 Thành công
+rapsheet_reform_successcount            Đã hoàn thành *X lần
+rapsheet_reform_failed                  Thất bại
+rapsheet_reform_failcount               Đã thất bại *X lần
+
+rapsheet_grading_punishment             Trừng phạt
+rapsheet_grading_health                 Sức khỏe
+rapsheet_grading_security                An ninh
+rapsheet_grading_reform                 Cải tạo
+rapsheet_grading_points                 *X điểm: 
+rapsheet_grading_penalties              *X hình phạt: 
+
+rapsheet_scheduleexecution              Lên lịch hành hình
+
+
+punish_lockdown_6                        Phong tỏa (6 giờ)
+punish_lockdown_12                       Phong tỏa (12 giờ)
+punish_lockdown_24                       Phong tỏa (24 giờ)
+punish_solitary_6                        Biệt giam (6 giờ)
+punish_solitary_12                       Biệt giam (12 giờ)
+punish_solitary_24                       Biệt giam (24 giờ)
+punish_solitary_perm                     Biệt giam (Vĩnh viễn)
+punish_lockdown_perm                     Phong tỏa (Vĩnh viễn)
+punish_solitary                         Biệt giam
+punish_lockdown                         Phong tỏa
+punish_none                             Không có
+punish_timer                            *X giờ *Y phút
+punish_timer_minutes                    *X phút
+punish_active                           ĐANG HOẠT ĐỘNG
+punish_permanent                        (Vĩnh viễn)
+punish_end                              Kết thúc trừng phạt
+
+punish_up								Lên
+punish_down								Xuống
+punish_setmin							AN Thấp
+punish_setmed							AN Vừa
+punish_setmax							AN Cao
+punish_setsuper							SuperMax
+
+# =============================================================================
+# Misconducts
+# =============================================================================
+
+misconduct_reporttype_none                  Không có
+misconduct_reporttype_complaint             Khiếu nại
+misconduct_reporttype_destruction           Phá hoại vật chất
+misconduct_reporttype_escapeattempt         Vượt ngục
+misconduct_reporttype_injuredprisoner        Tấn công tù nhân
+misconduct_reporttype_injuredstaff           Tấn công nhân viên
+misconduct_reporttype_seriousinjury         Gây thương tích nghiêm trọng
+misconduct_reporttype_murder                Giết người
+misconduct_reporttype_contrabandweapons     Phát hiện vũ khí
+misconduct_reporttype_contrabandtools       Phát hiện công cụ
+misconduct_reporttype_contrabandnarcotics   Phát hiện ma túy
+misconduct_reporttype_contrabandluxuries    Phát hiện xa xỉ phẩm
+misconduct_reporttype_intoxicated           Sử dụng chất kích thích
+misconduct_title                            =[Vi phạm]=
+misconduct_totalitems						(Cộng thêm *X thứ nữa)
+
+misconduct_report_addiction                 Nghiện *X
+misconduct_report_recoving                  Đang cai nghiện *X
+misconduct_report_alcoholic                 Nghiện rượu
+misconduct_report_recovingalcoholic         Đang cai nghiện rượu
+
+
+# =============================================================================
+# Research Names + Captions
+# =============================================================================
+
+research_required                        Bạn cần một *X để chuẩn bị báo cáo này.
+research_requireunlock                  Bạn cần nghiên cứu '*X' để mở khóa báo cáo này
+research_approved                        ĐÃ PHÊ DUYỆT
+research_cost                            Chi phí: *X
+research_costperitem                    + *X mỗi vật phẩm.
+research_timetounlock                    Thời gian mở khóa: *X giờ
+research_movementpenalty                Phạt tốc độ di chuyển: *X%
+research_protectionbonus                Giáp bảo vệ: *X%
+research_tap_to_authorise                NHẤN ĐỂ ỦY QUYỀN
+
+research_none                            Không có
+research_warden                          Giám đốc trại
+research_maintainance                    Bảo trì
+research_security                        An ninh
+research_legal                           Pháp lý
+research_mentalhealth                    Tâm lý học
+research_finance                         Tài chính
+research_landexpansion                  Mở rộng đất
+research_cctv                            Giám sát
+research_riotguards                      Vệ binh bạo động
+research_health                          Sức khỏe
+research_cleaning                        Vệ sinh
+research_groundskeeping                  Chăm sóc cảnh quan
+research_clone                           Nhân bản
+research_deployment                      Bố trí
+research_patrols                        Tuần tra
+research_dogs                            Chó nghiệp vụ
+research_prisonlabour                    Lao động tù nhân
+research_education                      Giáo dục
+research_contraband                      Tình báo
+research_policy                          Chính sách trại
+research_armoury                        Kho vũ khí
+research_bodyarmour                      Áo giáp
+research_tazers                          Súng điện
+research_tazersforeveryone              Trang bị súng điện
+research_bankloans                      Vay ngân hàng
+research_lowertaxes1                    Giảm thuế
+research_lowertaxes2                    Thiên đường thuế hải ngoại
+research_remoteaccess                    Truy cập từ xa
+research_extragrant                      Trợ cấp thêm
+research_advancedmanagement              Quản lý chi tiết
+research_deathrow                        Tử tù
+research_permanentpunishment            Trừng phạt vĩnh viễn
+research_removemincellsize              Phòng giam nhỏ
+research_reduceexecutionliability        Trách nhiệm hành hình
+research_legalprep                      Chuẩn bị pháp lý
+research_legaldefense                    Biện hộ pháp lý
+research_guardtowers                    Tháp canh
+research_forestrylabour					Lao động trồng rừng
+
+researchtooltip_warden                  Mở khóa Giám đốc trại và toàn bộ hệ thống Hành chính. Thuê ông ấy từ thanh công cụ Nhân viên.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_security                  Mở khóa Trưởng an ninh, người có thể được thuê từ thanh công cụ nhân viên. Trưởng an ninh cho phép bạn truy cập màn hình Bố trí, đồng thời cung cấp báo cáo theo thời gian thực về mức nguy hiểm của nhà tù, thường dự đoán trước các rắc rối trong tương lai.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_maintenance              Mở khóa Đốc công. Thuê ông ấy từ thanh công cụ Nhân viên.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_legal                    Mở khóa Luật sư, người có thể được thuê từ thanh công cụ Nhân viên. Mở khóa một số tùy chọn nghiên cứu để giúp bạn kiểm soát nhà tù tốt hơn.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_deployment              Cho phép bạn bố trí cố định Cai ngục vào các khu vực trong nhà tù của mình.
+researchtooltip_patrols                  Cho phép bạn thiết lập các tuyến tuần tra quanh các khu vực quan trọng của nhà tù (ví dụ: vành đai) và phân công cai ngục đi tuần tra trên các tuyến đó.
+researchtooltip_dogs                    Mở khóa Người dắt chó và Chó nghiệp vụ. Họ xuất sắc trong việc đánh hơi hàng cấm có mùi trong nhà tù của bạn và phát hiện các hầm vượt ngục.\n\nChó nghiệp vụ cũng rất nhanh nhẹn, giúp chúng dễ dàng đuổi theo tù nhân. 
+researchtooltip_cctv                    Mở khóa camera an ninh và màn hình CCTV. Hãy dùng chúng để canh gác những khu vực không có người trực trong nhà tù của bạn.\n\nĐồng thời mở khóa hệ thống Máy nghe lén, cho phép bạn nghe lén các cuộc điện thoại của tù nhân và thu thập thông tin tình báo quan trọng.
+researchtooltip_remoteaccess            Mở khóa các thiết bị công nghệ cao để điều khiển từ xa và tự động hóa các cánh cửa. Cửa có thể được mở từ xa bằng Hệ thống điều khiển cửa (do Cai ngục vận hành), hoặc mở bằng Hẹn giờ cửa vào các thời điểm cụ thể trong ngày.
+researchtooltip_riotguards              (HIỆN TẠI KHÔNG CÓ TÁC DỤNG)\nMở khóa Vệ binh bạo động. Những người này được trang bị giáp và có khả năng đối phó tốt hơn với các tình huống bạo lực.
+researchtooltip_maintainance            Mở khóa Đốc công. Ông ấy cho phép bạn tiến hành nghiên cứu sâu hơn về các vấn đề như Lao động tù nhân, hoặc các nhân viên bổ sung như Người làm vườn.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_clone                    Mở khóa công cụ nhân bản trên thanh công cụ chính. Sử dụng công cụ này để nhanh chóng sao chép các khu vực trong nhà tù của bạn, chẳng hạn như Phòng giam. Để sử dụng, hãy kéo chuột phải để chọn khu vực cần sao chép, sau đó nhấp chuột trái để đóng dấu tạo bản sao.
+researchtooltip_groundskeeping          Mở khóa Người làm vườn. Ông ấy sẽ giữ cho các khu vực ngoài trời của bạn luôn gọn gàng sạch sẽ.
+researchtooltip_cleaning                Mở khóa Lao công. Ông ấy sẽ dọn dẹp tất cả các khu vực trong nhà của nhà tù và cũng có thể hỗ trợ dịch vụ giặt ủi của nhà tù.
+researchtooltip_health                  Mở khóa Bác sĩ, cùng với Trạm y tế và Nhà xác. Tù nhân và nhân viên bị thương sẽ được đưa đến Trạm y tế và các Bác sĩ sẽ chữa trị cho họ.
+researchtooltip_MentalHealth            Mở khóa Nhà tâm lý, giúp bạn luôn có cái nhìn giá trị về trạng thái tâm lý nội tâm của Tù nhân.\n\nGiống như tất cả các Quản trị viên, ông ấy cần một văn phòng để làm việc.  
+researchtooltip_finance                 Mở khóa Kế toán, giúp bạn truy cập báo cáo tài chính của Nhà tù.\n\nĐồng thời cho phép bạn chi tiêu mỗi ngày nhiều hơn mức thu nhập bình thường cho phép, với điều kiện là bạn có quỹ dự trữ.\n\nGiống như tất cả các Quản trị viên, cô ấy cần một văn phòng để làm việc.  
+researchtooltip_landexpansion            Cho phép bạn mua các mảnh đất lân cận, và từ đó mở rộng quy mô nhà tù vượt ra ngoài ranh giới ban đầu của nó.
+researchtooltip_prisonlabour            Cho phép bạn đưa tù nhân vào làm việc quanh nhà tù (Nấu ăn, Lau dọn, v.v.), giúp bạn tiết kiệm tiền lương nhân viên, kiếm thêm tiền, đồng thời dạy cho tù nhân những kỹ năng mới.\n\nĐồng thời mở khóa Xưởng lao động và Phòng giặt.
+researchtooltip_education                Mở khóa khả năng điều hành các chương trình cải tạo giáo dục cho tù nhân của bạn, sử dụng giáo viên thuê từ bên ngoài. 
+researchtooltip_contraband              Huấn luyện cho Cai ngục của bạn để theo dõi và thu hồi hàng cấm tốt hơn. Mở khóa báo cáo Cung và Cầu hàng cấm, lớp phủ Hàng cấm (hiển thị tất cả các vị trí có thể xảy ra trộm cắp trong nhà tù), và theo vết tất cả hàng cấm được thu hồi về tận nơi nó được buôn lậu hoặc lấy trộm.\n\nĐồng thời mở khóa khả năng tuyển mộ tù nhân làm Chỉ điểm viên.\n\nĐồng thời mở khóa chế độ xem tình báo băng đảng.
+researchtooltip_policy                  Mở khóa Báo cáo Chính sách, cho phép bạn tăng hoặc giảm mức hình phạt đối với tất cả các loại vi phạm, cũng như tự động kích hoạt lệnh khám xét tù nhân vi phạm và phòng giam của họ.\n\nĐồng thời cho phép bạn kiểm soát chính sách ăn uống, thay đổi số lượng và sự đa dạng của thức ăn phục vụ cho tù nhân. 
+researchtooltip_armoury                  Mở khóa phòng kho vũ khí, và cho phép bạn bố trí cai ngục vũ trang trên khắp nhà tù của mình.
+researchtooltip_bodyarmour              Trang bị áo giáp cho tất cả Cai ngục, Cai ngục vũ trang và Người dắt chó của bạn. Điều này có thể giúp giảm sát thương nhận vào trong khi ẩu đả, nhưng cai ngục của bạn sẽ di chuyển chậm hơn.\n\nCai ngục phải đến kho vũ khí để nhận trang bị này, và bạn sẽ phải trả phí cho tất cả áo giáp được mua theo cách này.
+researchtooltip_tazers                  Cho phép Cai ngục vũ trang của bạn mang theo Súng điện, một loại vũ khí một phát bắn mạnh mẽ có thể khiến hầu hết các mục tiêu bất tỉnh ngay lập tức. Súng điện chỉ có thể bắn một lần trước khi cần một giờ đầy để sạc lại.\n\nCai ngục vũ trang phải đến kho vũ khí để nhận trang bị này, và bạn sẽ phải trả phí cho mỗi khẩu súng điện được mua theo cách này.
+researchtooltip_tazersforeveryone        Mở rộng chương trình Súng điện để các Cai ngục thông thường của bạn cũng có thể mang theo Súng điện để tự vệ.\n\nHọ phải đến Kho vũ khí để nhận trang bị này, và bạn sẽ phải trả phí cho mỗi khẩu súng điện được mua theo cách này.
+researchtooltip_bankloans                Cho phép bạn vay những khoản tiền lớn từ ngân hàng, đổi lại bằng việc trả lãi hàng ngày. Việc thanh toán hết các khoản vay sẽ tăng điểm tín dụng của bạn và cho phép bạn vay các khoản tiền lớn hơn sau này.
+researchtooltip_lowertaxes1              Tận dụng các ưu đãi thuế của chính phủ và giảm thuế suất Thuế thu nhập doanh nghiệp thực tế của bạn xuống chỉ còn 15%.\n\nBạn sẽ tiết kiệm được $1.500 tiền thuế cho mỗi $10.000 lợi nhuận hàng ngày.
+researchtooltip_lowertaxes2              Kế toán của bạn lách luật đến mức tối đa, và chuyển toàn bộ tài khoản chính thức cũng như quy trình kinh doanh của bạn sang một quốc gia khác có mức thuế suất cực kỳ ưu đãi. Nghĩa vụ thuế doanh nghiệp thực tế của bạn sẽ giảm xuống còn khoảng 1%.\n\nBạn sẽ tiết kiệm được tổng cộng $3.000 tiền thuế cho mỗi $10.000 lợi nhuận hàng ngày.
+researchtooltip_extragrant              Cho phép bạn chấp nhận tối đa ba khoản trợ cấp cùng một lúc thay vì hai.
+researchtooltip_advancedmanagement      Cung cấp cho bạn các công cụ để quản lý chi tiết các khía cạnh trong nhà tù nhằm đáp ứng chính xác các yêu cầu của bạn.\n\nMở khóa Hậu cần đồ ăn, cho phép bạn chỉ định nhà bếp nào nấu cho nhà ăn nào, và tù nhân ở nhà ăn nào sẽ ăn ở đó. Tương tự, Hậu cần giặt ủi cho phép bạn can thiệp xem khối phòng giam nào được phục vụ bởi phòng giặt nào.\n\nĐồng thời mở khóa Lịch bố trí, cho phép bạn tùy chỉnh việc bố trí cai ngục vào các thời điểm khác nhau trong ngày.\n\nMở khóa Lịch trình chương trình cải tạo, cho phép bạn can thiệp thủ công vào lịch trình chương trình hàng ngày.
+researchtooltip_permanentpunishment      Đôi khi chỉ ở trong Nhà tù thôi vẫn chưa đủ nghiêm ngặt. Luật sư của bạn có thể nộp các giấy tờ cần thiết để cho phép bạn giam giữ tù nhân trong phòng giam vĩnh viễn. 
+researchtooltip_removemincellsize        Các phòng giam trong nhà tù của bạn yêu cầu một khoảng không gian nhất định để đáp ứng các yêu cầu pháp lý. Nhưng hãy tưởng tượng xem bạn có thể xếp thêm bao nhiêu phòng giam nữa nếu không có quy định đó! Loại bỏ các yêu cầu về kích thước tối thiểu cho các phòng giam tiêu chuẩn.
+researchtooltip_reduceexecutionliability Luật sư của bạn vận động hành lang để giảm mức độ xác thực cần thiết của bản án trước khi thủ tục xử tử tù có thể được bắt đầu một cách hợp thức. Về cơ bản, điều này làm giảm số lần kháng cáo mà một tù nhân nhận được trước khi bạn có thể lên lịch hành hình họ mà không phải chịu trách nhiệm pháp lý.
+researchtooltip_legalprep                Mỗi nhà tù thỉnh thoảng đều gặp phải rắc rối, và một số rắc rối trong số đó đi kèm với những hậu quả pháp lý khá lớn. Luật sư của bạn sẽ bắt đầu làm thủ tục giấy tờ để giúp giảm bớt áp lực cho bạn nếu có sự cố xảy ra, nhưng việc này cần phải được thực hiện trước.
+researchtooltip_legaldefense            Bạn đang ở trong một tình huống tồi tệ - một điều gì đó diễn ra rất khủng khiếp và bạn đã bị cảnh cáo. Nếu có vẻ như bạn không thể quản lý được tình hình, luật sư của bạn có thể giúp bạn thoát tội. Hoàn thành nghiên cứu này sẽ loại bỏ bất kỳ cảnh cáo hiện tại nào mà nếu không có nó thì bạn có thể đã bị sa thải.
+researchtooltip_guardtowers              Mở khóa Tháp canh và Xạ thủ, cho phép các tay súng bắn tỉa được đào tạo chuyên sâu để mắt đến các khu vực ngoài trời của nhà tù.\n\nXạ thủ sẽ cần phải đến kho vũ khí để lấy súng trường, nếu không họ sẽ không có vũ khí.
+researchtooltip_forestrylabour			Cho phép bạn đưa tù nhân vào lao động tại Khu trồng rừng thông qua menu Hậu cần. Khu vực trồng rừng phải được rào kín để có thể phân công tù nhân làm việc tại đó và ngăn chặn vượt ngục. Hãy lưu ý rằng tù nhân cũng sẽ cần quyền truy cập vào Khu giao hàng để trồng lại cây.
+
+research_legaldefense_adviser1          Có vẻ như luật sư của bạn đã nộp một số giấy tờ giúp bảo vệ bạn khỏi hậu quả của đống hỗn độn này. Tôi đoán điều đó có nghĩa là tôi không thể sa thải bạn. Lần này thôi nhé.
+research_legaldefense_adviser2          Hãy chấn chỉnh lại nhà tù của bạn nhanh lên, và đảm bảo mọi thứ đi vào nề nếp. Chiêu đó sẽ không hiệu quả lần nữa đâu và nó không bảo vệ bạn mãi mãi được đâu.
+
+research_missingadministrator            YÊU CẦU:
+
+
+
+# =============================================================================
+# Room Requirements
+# =============================================================================
+
+roomrequirement_required                 YÊU CẦU:
+roomrequirement_recommended              Khuyến nghị: 
+roomrequirement_minimumsize              Kích thước tối thiểu *W x *H
+roomrequirement_minimumsize_short	Kích thước *W x *H
+roomrequirement_indoor                  Trong nhà
+roomrequirement_outdoor                  Ngoài trời
+roomrequirement_solidground              Mặt đất vững chắc
+roomrequirement_secure                  An toàn (phía sau ít nhất một Cánh cửa)
+roomrequirement_secure_short		An toàn
+roomrequirement_enclosed                 Khép kín (bao quanh bởi tường và cửa)
+roomrequirement_enclosed_short		Khép kín
+requirement_entrance                    Yêu cầu lối vào
+roomrequirement_title                    =[Yêu cầu phòng]=
+roomrequirement_passed                  [ĐẠT] 
+roomrequirement_failed                  [KHÔNG ĐẠT] 
+roomrequirement_adjacentobject          Liền kề với Phòng: *X
+
+# =============================================================================
+# Unlocks
+# =============================================================================
+
+unlock_title                            ĐÃ MỞ KHÓA
+
+unlock_special_electricity              Hệ thống điện
+unlock_special_food                      Chuẩn bị đồ ăn
+unlock_special_officersafety            An toàn nhân viên
+unlock_special_misbehavior              Sai phạm
+unlock_special_accounting                Kế toán
+unlock_special_gangs                    Băng đảng
+
+unlock_electricity_caption              Cho phép xây dựng các trạm điện và dây điện, cung cấp điện cho tất cả các thiết bị yêu cầu điện.
+
+
+# =============================================================================
+# Advisers
+# =============================================================================
+
+click_to_continue                        Nhấp để tiếp tục...
+incoming_call                            Cuộc gọi đến...
+
+adviser_name_unknown                    Không rõ
+adviser_name_ceo                        Tổng giám đốc
+adviser_name_warden                      Giám đốc trại
+adviser_name_governer                    Thống đốc
+adviser_name_chief                      Trưởng an ninh
+adviser_name_doctor                      Bác sĩ
+adviser_name_kingpin                    Trùm sò
+adviser_name_edwardshooter              Edward
+adviser_name_edwardsinner                Edward
+adviser_name_edwardinmate                Edward
+adviser_name_edwardswife                Vợ của Edward, Susan
+adviser_name_priest                      Cha xứ
+adviser_name_newsreader                  Tin tức CNDC
+adviser_name_mayor 						Thị trưởng Calvin Heller
+
+
+# =============================================================================
+# Valuation, Reports etc
+# =============================================================================
+
+report_staff                            Nhân viên
+report_prisoners                        Tù nhân
+report_jobs                             Công việc
+report_needs                            Nhu cầu
+report_threats                          Mối đe dọa
+report_regime                            Lịch sinh hoạt
+report_policy                            Chính sách
+report_grants                            Trợ cấp
+report_finance                          Tài chính
+report_valuation                        Định giá
+report_contraband                        Hàng cấm
+report_programs                        Chương trình
+report_schedule                         Lịch trình
+report_intake                            Tiếp nhận
+
+report_grants_bankloan                  Vay ngân hàng
+report_grants_bankloan_text              Bạn có thể vay một khoản tiền lớn từ ngân hàng. Đổi lại, ngân hàng sẽ tính lãi cho bạn mỗi ngày và bạn phải trả từ dòng tiền của mình.\n\nKhi bạn thanh toán đều đặn, điểm tín dụng của bạn sẽ tăng lên, và ngân hàng sẽ cho phép bạn vay nhiều hơn. Tuy nhiên, nếu bạn trễ hạn thanh toán, điểm tín dụng của bạn sẽ bị hủy hoại và ngân hàng sẽ từ chối cho bạn vay thêm khi bạn cần.\n\nLưu ý: Khoản vay của bạn sẽ không bao giờ được trả hết nếu chỉ dựa vào các khoản thanh toán lãi hàng ngày.  
+report_grants_max1                       Bạn chỉ có thể chấp nhận một khoản trợ cấp tại một thời điểm.\nHãy dùng kế toán của bạn để nâng giới hạn này lên.
+report_grants_max2                       Bạn không thể chấp nhận quá hai khoản trợ cấp cùng một lúc.\nHãy dùng kế toán của bạn để nâng giới hạn này lên.
+report_grants_max3                       Bạn không thể chấp nhận quá ba khoản trợ cấp cùng một lúc.
+report_grants_bankloan_amount            Khoản vay ngân hàng hiện tại: *X
+report_grants_bankloan_interest          Tiền lãi: *X mỗi ngày
+report_grants_bankloan_max              Khoản vay tối đa: *X
+report_grants_creditrating              Điểm tín dụng của bạn: *X
+report_grants_inprogress_tt              (ĐANG TIẾN HÀNH)
+report_grants_completed_tt               (ĐÃ HOÀN THÀNH)
+report_grants_locked_tt                  (ĐÃ KHÓA)
+report_grants_advancepayment            Khoản tạm ứng *X
+report_grants_completionbonus            Tiền thưởng hoàn thành *X
+report_grants_objectives                 [Mục tiêu]
+report_grants_prereqs                    [Điều kiện tiên quyết]
+report_grants_completed                  ĐÃ HOÀN THÀNH
+report_grants_locked                    Đã khóa
+report_grants_inprogress                Đang tiến hành
+report_grants_hidden                    (Ẩn thêm *X mục)
+report_grants_taptoaccept                NHẤN ĐỂ CHẤP NHẬN
+report_grants_cancelfee                  Chi phí hủy bỏ: *X
+
+report_staff_title                      Tổng số nhân viên: *X
+report_prisoners_title                  Tổng số tù nhân: *X
+report_staff_group_builders              Thợ xây
+report_staff_group_guards                Cai ngục
+report_staff_group_staff                Nhân viên
+report_staff_group_administrators        Quản trị viên
+report_staff_group_otherstaff            Khác
+report_staff_group_prisoners            Tù nhân
+report_staff_group_prisoners_protected Giam bảo hộ
+report_staff_group_prisoners_supermax   SuperMax
+report_staff_group_prisoners_deathrow   Tử tù
+
+report_staff_fire                        SA THẢI
+
+report_intake_title                     Tiếp nhận
+report_intake_catheader_cat             Phân loại
+report_intake_catheader_pay             Thanh toán
+report_intake_catheader_available       Hiện có
+report_intake_catheader_amount          Tỷ lệ
+report_intake_next_header               Đợt tiếp nhận tiếp theo: *X
+report_intake_cat_minsec                An ninh thấp
+report_intake_cat_normal                An ninh vừa
+report_intake_cat_maxsec                An ninh cao
+report_intake_cat_deathrow              Tử tù
+report_intake_slider_minsec             Điều chỉnh tỷ lệ tiếp nhận An ninh thấp
+report_intake_slider_normal             Điều chỉnh tỷ lệ tiếp nhận An ninh vừa
+report_intake_slider_maxsec             Điều chỉnh tỷ lệ tiếp nhận An ninh cao
+report_intake_slider_deathrow           Điều chỉnh tỷ lệ tiếp nhận Tử tù
+report_intake_closed                    ĐÃ ĐÓNG
+report_intake_locked                    ĐÃ KHÓA
+report_intakeclosed                     Đã đóng tiếp nhận
+report_intakeclosed_tooltip             Đợt tiếp nhận tù nhân của bạn đang đóng. Bạn sẽ không nhận được bất kỳ tù nhân mới nào cho đến khi mở lại.
+report_intakenumperday                  Tiếp nhận hàng ngày
+report_intakenumperday_tooltip          Tổng số tù nhân bạn muốn được giao trong đợt tiếp nhận tiếp theo. Bạn có thể tăng hoặc giảm số lượng tù nhân bạn muốn nhận trong đợt tiếp nhận tiếp theo.\n\nSố lượng tù nhân từ mỗi danh mục được điều chỉnh bằng các thanh trượt ở trên.
+report_intaketotalprisoners             Tổng số tù nhân
+report_intaketotalprisoners_tooltip     Tổng số tù nhân bạn muốn có trong nhà tù của mình. Đợt tiếp nhận sẽ tự động lấp đầy đến con số này mỗi ngày.\n\nSố lượng tù nhân từ mỗi danh mục được điều chỉnh bằng các thanh trượt ở trên.
+report_intakeallavailable               Tất cả hiện có
+report_intakeallavailable_tooltip       Tất cả các tù nhân hiện có, từ tất cả các nhóm tiếp nhận đang mở, sẽ được giao trong đợt tiếp nhận tiếp theo.
+report_intakefillcapacity               Lấp đầy công suất
+report_intakefillcapacity_tooltip       Nhận càng nhiều tù nhân càng tốt từ các nhóm tiếp nhận hiện có để lấp đầy công suất nhà tù của bạn.\n\nSố lượng tù nhân từ mỗi danh mục được điều chỉnh bằng các thanh trượt ở trên.
+reports_intaketypenone                  Đã đóng
+reports_intaketypefillcapacity          Lấp đầy công suất
+reports_intaketypetotalprisoners         Tổng số tù nhân
+reports_intaketypenumperday              Số lượng mỗi ngày
+reports_intaketypeallavailable          Tất cả hiện có
+report_intakemaxperdaydecr              <<
+report_intakemaxperdayincr              >>
+report_intakemaxperdaynone              Không có
+report_intakemaxperdayall               Tất cả
+reports_intakedelivernow                Giao ngay bây giờ
+report_intakepayment                    Thanh toán
+report_intakeall                        TẤT CẢ
+report_intakefill                        Lấp đầy đến *X
+report_intakefill_mothers                Lấp đầy đến *X (Không tính Phòng giam gia đình)
+report_intake_list_tooltip_title        Các danh mục tiếp nhận
+report_intake_list_tooltip              Danh sách tất cả các danh mục tù nhân bạn có thể yêu cầu giao đến nhà tù của mình.\n\nQuy mô nhóm hiển thị tổng số tù nhân hiện có để giao trong mỗi danh mục. Con số này sẽ tăng lên theo thời gian tùy thuộc vào tỷ lệ của các thanh trượt.\n\nBạn có thể điều chỉnh các thanh trượt để thay đổi tỷ lệ danh mục tù nhân bạn sẽ nhận được trong đợt tiếp nhận tiếp theo.
+report_intake_list_tooltip_dr           \n\nTử tù yêu cầu một phòng giam tử tù được chỉ định cụ thể trước khi họ có thể được chuyển đến nhà tù của bạn. Việc tiếp nhận tử tù cũng chậm hơn nhiều so với tiếp nhận thông thường, và không phải lúc nào nhóm tử tù cũng tăng số lượng. Những tù nhân này rất hiếm khi xuất hiện.
+report_intake_buttons_tooltip_title     Đợt tiếp nhận tiếp theo
+report_intake_buttons_tooltip           Bạn có thể tăng hoặc giảm số lượng tù nhân muốn nhận trong đợt tiếp nhận tiếp theo bằng cách sử dụng phần này.\n\nChọn "Không có" sẽ đóng cửa nhà tù của bạn với các tù nhân mới, trong khi chọn "Tất cả" sẽ lấy toàn bộ số lượng tù nhân hiện có.\n\nSố lượng tù nhân từ mỗi danh mục được điều chỉnh bằng các thanh trượt ở trên.
+report_intake_overview_tooltip_title    Tổng quan tiếp nhận
+report_intake_overview_tooltip          Tại đây bạn có thể xem đợt giao tù nhân tiếp theo của mình và khoản thanh toán bạn sẽ nhận được. Số lượng tù nhân được giao và danh mục của họ có thể được thay đổi bằng các thanh trượt và nút bấm ở trên. Khoản thanh toán dựa trên số lượng tù nhân trong mỗi danh mục.
