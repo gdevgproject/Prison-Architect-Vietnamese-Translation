@@ -3683,3 +3683,553 @@ codex_tooltip_ratInfestation			Một nhà tù bẩn thỉu sẽ thu hút chuột
 
 job_EmptyRatTrap					Thả chuột 
 job_FixSwollenDoor					Làm mát cửa
+
+# ==============================================================
+# Staff alerts
+# ==============================================================
+
+d11_staffalert_summary_DeepFreeze01				Hãy thận trọng với các mối nguy hiểm tiềm ẩn đi kèm với thời tiết lạnh giá… Mùa đông đang đến.
+d11_staffalert_title_DeepFreeze01				Deep Freeze
+d11_staffalert_details_DeepFreeze01				Trong khi trải qua đợt rét đậm này, nhiều khu vực của nhà tù có thể bị phủ sương giá hoặc đóng băng hoàn toàn. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn và trong những trường hợp cực đoan có thể tự mình bị đông cứng.
+d11_staffalert_hint_DeepFreeze01				Tốt nhất là luôn có sẵn các thùng rải sỏi, các thiết bị tiện ích trong nhà tù được cách nhiệt đúng cách, và có sẵn một mức độ hỗ trợ y tế tốt.
+
+d11_staffalert_summary_LightningStorm01			Một cơn bão đang tích tụ, hãy cẩn thận với các sự cố điện và thiệt hại cấu trúc tiềm ẩn.
+d11_staffalert_title_LightningStorm01			Lightning Storm
+d11_staffalert_details_LightningStorm01			Giông bão có thể gây ra đủ loại vấn đề cho nhà tù của bạn. Chúng có thể gây nhiễu các thiết bị điện, gây hư hại và hỏa hoạn nếu bị sét đánh, phá hủy toàn bộ các khu vực trong nhà tù và thậm chí có thể khiến mọi người bị điện giật.
+d11_staffalert_hint_LightningStorm01			Bạn sẽ cần phải bảo an nhà tù của mình và lắp đặt cột thu lôi để giảm thiểu thiệt hại nhiều nhất có thể trong những cơn bão này.
+
+d11_staffalert_summary_RatInfestationLevel01	Lũ chuột, dù dễ thương, có thể mang lại thảm họa cho nhà tù của bạn nên hãy cẩn thận.
+d11_staffalert_title_RatInfestationLevel01		Rat Infestation
+d11_staffalert_details_RatInfestationLevel01	Mặc dù một nhà tù bẩn thỉu khiến các tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể làm tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, và gặm nhấm xuyên qua dây cáp và hàng rào.
+d11_staffalert_hint_RatInfestationLevel01		Để xua đuổi lũ chuột, hãy đảm bảo rằng nhà tù luôn sạch sẽ và mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện pháp kiểm soát dịch hại.
+
+d11_staffalert_title_WeatherDetected			Phát hiện thời tiết khắc nghiệt
+d11_staffalert_details_WeatherDetected			Phát hiện sự kiện thời tiết đang tràn đến...
+
+d11_staffalert_title_ShortCircuit			Máy phát dự phòng đã bị đoản mạch.
+
+d11_staffalert_title_granterror					Lỗi trợ cấp
+d11_staffalert_details_granterror				Do lỗi hành chính, tiền thưởng hoàn thành của chúng ta đã được nhân đôi! 
+
+d11_staffalert_title_MysteryCrate				Rơi từ phía sau xe.
+d11_staffalert_details_MysteryCrate				Có vẻ như một món đồ dành cho một cơ sở khác đã bị rơi khỏi chiếc xe tải đi ngang qua, vì cơ sở đó sẽ được hoàn tiền đầy đủ cho sai sót này nên điều đó có nghĩa là chúng ta đã có một món quà miễn phí. Tôi tự hỏi bên trong có gì nhỉ.  
+
+# ==============================================================
+# Polly todo list help objectives
+# ==============================================================
+objectiveWindow_FilterButton_3_title			Về Perfect Storm
+objectiveWindow_FilterButton_3_tooltip			Một tập hợp thông tin mô tả và giải thích về các thảm họa cũng như các tính năng chính khác của Perfect Storm.
+
+objective_HelpCalamities						Perfect Storm
+objective_HelpCalamities_child_1				Deep Freeze
+objective_HelpCalamities_child_1_Description	Trong khi trải qua đợt rét đậm này, nhiều khu vực của nhà tù có thể bị phủ sương giá hoặc đóng băng hoàn toàn. Tù nhân cũng sẽ có nguy cơ mắc bệnh cao hơn và trong những trường hợp cực đoan có thể tự mình bị đông cứng. Tốt nhất là luôn có sẵn các thùng rải sỏi, các thiết bị tiện ích trong nhà tù được cách nhiệt đúng cách, và có sẵn một mức độ hỗ trợ y tế tốt.
+objective_HelpCalamities_child_2				Lightning Storm 
+objective_HelpCalamities_child_2_Description	Giông bão có thể gây ra đủ loại vấn đề cho nhà tù của bạn. Giông bão có thể gây nhiễu các thiết bị điện, gây hư hại và hỏa hoạn nếu có sét đánh xuống, phá hủy toàn bộ các khu vực trong nhà tù và thậm chí có thể gây chết người trong những trường hợp cực đoan. Bạn sẽ cần phải bảo an nhà tù của mình, lắp đặt cột thu lôi để chuyển hướng tia sét, và cố gắng ngăn chặn thiệt hại nhiều nhất có thể.
+objective_HelpCalamities_child_3				Heatwave
+objective_HelpCalamities_child_3_Description	Cái nóng gay gắt này có thể rất nguy hiểm, hãy để mắt đến tù nhân và nhân viên của bạn vì nếu họ bị mất nước trong cái nóng này, mọi thứ có thể trở nên nguy kịch. Bạn cũng nên cẩn thận với hỏa hoạn xảy ra quanh nhà tù, đường sá bị hư hỏng, và thậm chí là để mắt đến bất kỳ vật dụng bằng kim loại nào quanh nhà tù... giống như tất cả những cánh cửa giam tuyệt vời mà chúng ta đang có. 
+objective_HelpCalamities_child_4				Rat Infestation
+objective_HelpCalamities_child_4_Description	Mặc dù một nhà tù bẩn thỉu khiến các tù nhân của bạn không vui, nhưng nó lại khiến lũ chuột cực kỳ hạnh phúc. Hãy cẩn thận khi chúng chạy lùng sục xung quanh, vì chúng có thể làm tù nhân của bạn bị bệnh, tự ý ăn thức ăn dự trữ của bạn, và gặm nhấm xuyên qua dây cáp và hàng rào. Để xua đuổi lũ chuột, hãy đảm bảo rằng nhà tù luôn sạch sẽ và mọi hầm vượt ngục đều được lấp bỏ nhanh nhất có thể. Nếu không, bạn sẽ cần đến một số biện pháp kiểm soát dịch hại.
+
+objective_HelpCalamityPrevention				Phòng ngừa thảm họa
+objective_HelpCalamityPrevention_Description	Các hệ thống mới hiện đã có sẵn để cảnh báo cho bạn về một số thảm họa nhất định, và chúng tôi khuyên bạn nên sử dụng chúng bất cứ khi nào có thể. Làm như vậy sẽ cho phép bạn di dời những người gặp rủi ro đến khu vực an toàn hơn, và triển khai các kế hoạch để giảm thiểu và có lẽ là ngăn chặn hoàn toàn các sự cố lớn xảy ra.
+objective_HelpEmergencyServices					Dịch vụ khẩn cấp mới
+objective_HelpEmergencyServices_Description		Để hỗ trợ nhà tù của bạn vào những thời điểm cần thiết, các dịch vụ mới hiện đã có sẵn. Chúng có thể giúp giải quyết các vấn đề liên quan đến dịch hại, thiệt hại cấu trúc và điện, tiện ích nước, và chúng cũng có thể bảo trì đường sá của bạn.
+objective_HelpCoveragePlans						Kế hoạch bảo hiểm
+objective_HelpCoveragePlans_Description			Thông qua các khoản thanh toán hàng ngày, bạn có thể tùy chỉnh các kế hoạch bảo hiểm của riêng mình để giúp hỗ trợ nhà tù. Nếu nhà tù gặp nguy hiểm, bạn có thể tự động triệu tập đội phản ứng thích hợp, đồng thời được giảm giá cho các vật phẩm và tiền lương nhân viên để giúp bạn vượt qua những thời điểm khó khăn.
+objective_HelpStafftraining						Huấn luyện và trang bị cho nhân viên
+objective_HelpStafftraining_Description			Nhân viên sẽ có thể học các kỹ năng mới cho phép họ sử dụng các thiết bị chuyên dụng, chẳng hạn như Bình chữa cháy, Thùng rải sỏi, và Bẫy chuột, cũng như sửa chữa Dây điện bị hỏng.
+
+
+# =============================================================================
+# Polly Grants
+# =============================================================================
+
+objective_grant_emergencyProtocols                                      Quy trình khẩn cấp
+objective_grant_emergencyProtocols_description                          Sự an toàn của tù nhân và nhân viên là tối quan trọng trong tình huống khẩn cấp. Bạn phải đảm bảo sự an toàn của những người được bạn chăm sóc bằng cách để họ tránh xa các mối nguy hiểm tiềm ẩn.
+objective_grant_emergencyProtocols_stayIndoor                           Kích hoạt lệnh "Ở trong nhà" 3 lần trong thời gian diễn ra thảm họa để bảo vệ nhân viên và tù nhân của bạn khỏi thời tiết nguy hiểm.
+
+objective_grant_disasterRelief                                      Cứu trợ thiên tai
+objective_grant_disasterRelief_description                          Do những thiệt hại gần đây do thời tiết khắc nghiệt gây ra, Trợ cấp cứu trợ thiên tai đã được cấp cho tất cả các doanh nghiệp địa phương.
+objective_grant_disasterRelief_moneySpent                           Đầu tư tổng cộng $17,500 vào việc nâng cấp nhà tù để chống lại các thảm họa trong tương lai.
+
+objective_grant_heatwaveGrant                                      Trợ cấp sóng nhiệt
+objective_grant_heatwaveGrant_description                          Hỏa hoạn là một mối nguy hiểm lớn đối với bất kỳ cơ sở nào. Chúng ta phải đảm bảo an toàn cho nhân viên và tù nhân bằng cách đầu tư vào An toàn phòng cháy.
+objective_grant_heatwaveGrant_training                             Huấn luyện 10 Nhân viên trong chương trình An toàn phòng cháy.
+objective_grant_heatwaveGrant_build                                Lắp đặt 30 Bình chữa cháy.
+
+objective_grant_advancedStaffTraining                              Huấn luyện nhân viên nâng cao
+objective_grant_advancedStaffTraining_description                  Để hỗ trợ nhà tù của bạn trong các tình huống khẩn cấp, tốt nhất là chuẩn bị cho nhân viên của bạn sẵn sàng ứng phó với mọi tình huống.
+objective_grant_advancedStaffTraining_child                        Cho 5 nhân viên hoàn thành khóa huấn luyện Kiểm soát cái lạnh, Kiểm soát dịch hại hoặc Huấn luyện thợ điện.
+
+objective_grant_subsidence                                         Trợ cấp sụt lún
+objective_grant_subsidence_description                             Sửa chữa bất kỳ thiệt hại nào mà nhà tù phải chịu đối với tường hoặc hàng rào bằng cách sử dụng Trợ cấp sụt lún của chính phủ.
+objective_grant_subsidence_hire                                    Thuê Thợ sửa chữa để khắc phục các bức tường và hàng rào bị hỏng.
+
+objective_grant_utilityretrofit                                    Trợ cấp cải tạo tiện ích
+objective_grant_utilityretrofit_description                        Sự tàn phá của dịch hại có thể dẫn đến các vấn đề nghiêm trọng đối với sản lượng của các doanh nghiệp địa phương. Một khoản trợ cấp đã được cung cấp cho các doanh nghiệp địa phương để bảo vệ nguồn cung cấp Tiện ích của họ.
+objective_grant_utilityretrofit_build                              Lắp đặt 50 ô Bảo vệ cáp.
+
+objective_grant_AdvancedFarming_buy								   Mua một vật phẩm Ống nhỏ giọt hoặc Vòi phun nước ngoài trời.
+
+calamity_grants_onboarding											Thời tiết đã trở nên thất thường hơn trong những năm gần đây. Lần này chúng ta đã may mắn nhưng nhà tù nên được chuẩn bị cho mọi tình huống có thể xảy ra. Một số khoản Trợ cấp được cung cấp cho các doanh nghiệp địa phương sau thời tiết bất lợi. Tôi tin rằng bạn sẽ tận dụng chúng khi chúng có sẵn.
+
+grant_category_CollapsedWallFence									Hàng rào bị sập:
+grant_category_HasObject											Có:
+grant_category_EverHadObject										Có:
+grant_category_CalamityHappened										Thảm họa đã xảy ra:
+
+# ==============================================================
+# Missing Action strings
+# ==============================================================
+action_brewing		Đang tích tụ
+action_fight 		Đang ẩu đả
+action_electricalsabotaging	Đang phá hoại
+job_failed_frozen					Deep Freeze đang diễn ra
+action_readbook				Đang đọc sách
+action_FlowerGarden			Đang thư giãn
+action_EatSnack				Đang lấy đồ ăn vặt
+action_ClimbTyreApparatus	Đang tập thể dục
+action_PassiveBookShelf		Đang đọc sách
+action_PassiveCanvas		Đang thư giãn
+action_ListenToBird			Đang thư giãn
+action_ListenToBirdTwo		Đang thư giãn
+action_PlayTableTennis		Đang chơi game
+action_PlayTableFootball	Đang chơi game
+action_UseDummy				Đang tập thể dục
+
+#================================================================
+# FREE UPDATE - OCTOBER
+#=================================================================
+
+object_StaffDoorBlue						Cửa nhân viên (Xanh dương)
+object_StaffDoorOrange						Cửa nhân viên (Cam)
+object_SofaChairBrown						Ghế sofa (Nâu)
+object_WoodenWindowSmall					Cửa sổ gỗ (Nhỏ)
+object_WoodenWindowLarge					Cửa sổ gỗ (Lớn)
+object_StainGlassWindow						Cửa sổ kính màu
+object_SwivelChair						Ghế xoay
+object_ChairYellow						Ghế (Vàng)
+object_FancyDesk						Bàn làm việc (Cao cấp)
+object_BoomBoxRoundHouse				Loa đài
+
+buildtoolbar_popup_obj_StaffDoorBlue				Một cánh cửa khóa có thể được mở bởi bất kỳ nhân viên nào, không chỉ riêng Cai ngục.
+buildtoolbar_popup_obj_StaffDoorOrange				Một cánh cửa khóa có thể được mở bởi bất kỳ nhân viên nào, không chỉ riêng Cai ngục.
+buildtoolbar_popup_obj_SofaChairBrown				Một cấu trúc mềm mại mang lại sự thoải mái khi ngồi lên.
+buildtoolbar_popup_obj_WoodenWindowSmall			Để nhìn thoáng qua ánh mặt trời. Cửa sổ hướng ra bên ngoài giúp cải thiện mức độ tiện nghi của phòng giam.
+buildtoolbar_popup_obj_WoodenWindowLarge			Để nhìn thoáng qua ánh mặt trời. Cửa sổ hướng ra bên ngoài giúp cải thiện mức độ tiện nghi của phòng giam.
+buildtoolbar_popup_obj_StainGlassWindow				Khiến khung cảnh bên ngoài trông đẹp hơn nhiều so với thực tế. Cửa sổ hướng ra ngoài giúp cải thiện mức độ tiện nghi của phòng giam. Đáp ứng nhu cầu 'Tự do'.
+buildtoolbar_popup_obj_SwivelChair				Một chiếc ghế có thể căn chỉnh phù hợp với vị trí trung tâm của bàn làm việc.
+buildtoolbar_popup_obj_ChairYellow				Kết hợp tuyệt vời với một chiếc bàn và sẽ cải thiện mức độ tiện nghi của phòng giam.
+buildtoolbar_popup_obj_FancyDesk				Nhân viên của bạn cần ghi chép rất nhiều điều, đồng thời chiếc bàn này cũng làm cho văn phòng của họ nổi bật hơn.
+buildtoolbar_popup_obj_BoomBoxRoundHouse		Cho phép các tù nhân của bạn nghe các nhóm nhạc nam yêu thích của họ khi họ trải qua một ngày. Giúp tất cả tù nhân trong cùng một phòng hạnh phúc hơn một chút.
+
+
+# ==============================================================
+# Calamity weather
+# ==============================================================
+
+weather_DeepFreeze                      Deep Freeze
+weather_LightningStorm                  Lightning Storm
+weather_CalamityHeatwave                Heatwave
+
+weather_any								Bất kỳ
+
+# ==============================================================
+# New Training Program strings
+# ==============================================================
+
+reformprogram_ElectricianTraining		Huấn luyện thợ điện
+reformprogram_ElectricianTraining_text	Bằng cách hoàn thành chương trình này, nhân viên sẽ học được cách xử lý hệ thống dây điện bị lỗi. Cho phép họ sửa chữa bất kỳ thiết bị điện nguy hiểm nào.
+reformprogram_FirstAidTraining		Huấn luyện sơ cứu
+reformprogram_FirstAidTraining_text	Bằng cách hoàn thành chương trình này, nhân viên sẽ học được cách thực hiện sơ cứu sau khi tự trang bị tại Trạm sơ cứu. Sơ cứu có thể chữa lành các vết thương nhỏ và ổn định những người trong tình trạng nguy kịch.
+
+reform_program_intake_Workers           Chỉ dành cho Thợ xây
+reform_program_intake_PestControlStaff	Dành cho Lao công, Người làm vườn, và Thợ xây
+
+reformprogram_PestControlTraining		Huấn luyện kiểm soát dịch hại
+reformprogram_PestControlTraining_text	Bằng cách hoàn thành chương trình này, nhân viên sẽ học được cách lắp đặt và dọn sạch các bẫy kiểm soát dịch hại. Học cách chuẩn bị các cơ chế cơ học và xử lý dịch hại sau đó một cách an toàn.
+
+reform_program_intake_GenericStaff      Chỉ dành cho Nhân viên nói chung
+reformprogram_FireSafetyTraining		Huấn luyện an toàn phòng cháy
+reformprogram_FireSafetyTraining_text	Bằng cách hoàn thành chương trình này, nhân viên sẽ học được cách sử dụng bình chữa cháy một cách an toàn và trong trường hợp khẩn cấp sẽ có thể sử dụng chúng để giảm thiểu sự lây lan của bất kỳ đám cháy nào.
+
+
+reform_program_intake_Janitors		Chỉ dành cho Lao công
+reformprogram_ColdControlTraining	Huấn luyện kiểm soát cái lạnh
+reformprogram_ColdControlTraining_text	Bằng cách hoàn thành chương trình này, nhân viên sẽ học được cách xử lý các khu vực bị ảnh hưởng bởi sương giá. Cho phép họ loại bỏ một số khu vực đóng băng và xử lý các vật phẩm bị đóng băng.
+
+# ==============================================================
+# Coverage Menu strings
+# ==============================================================
+
+report_Coverage			Bảo hiểm
+d11_coverage_title		Gói bảo hiểm nhà tù
+d11_coverage_design_info	Mỗi gói yêu cầu các khoản thanh toán hàng ngày, nhưng cung cấp khả năng tự động gọi các dịch vụ khẩn cấp khi nhà tù của bạn cần, cùng với việc giảm giá cho bất kỳ khoản tiền lương nhân viên và vật phẩm nào liên quan đến từng gói. Các khoản giảm giá không được cộng dồn.
+d11_coverage_plan_service_unavailable	Hiện tại không có Dịch vụ khẩn cấp nào khả dụng cho gói này
+
+ArsonAccidentsPlan	Gói hỏa hoạn & tai nạn
+PreservationPlan	Gói bảo toàn nhà tù
+RestorationPlan		Gói khôi phục nhà tù
+HealthSafetyPlan	Gói sức khỏe & an toàn
+PestControlPlan		Gói kiểm soát dịch hại
+
+ArsonAccidentsPlan_hint	Bên cạnh việc tự động yêu cầu các dịch vụ khẩn cấp, gói này còn cung cấp nhiều khoản giảm giá, hạ thấp giá mua Bình chữa cháy, Hệ thống báo động, chi phí cho các buổi An toàn phòng cháy, và cả tiền lương hàng ngày của Thợ xây.
+PreservationPlan_hint	Bên cạnh việc tự động yêu cầu các dịch vụ khẩn cấp, gói này còn cung cấp nhiều khoản giảm giá, hạ thấp giá mua Thùng rải sỏi, chi phí cho các buổi Kiểm soát cái lạnh, và cả tiền lương hàng ngày của Thợ xây.
+RestorationPlan_hint	Bên cạnh việc tự động yêu cầu các dịch vụ khẩn cấp, gói này còn cung cấp nhiều khoản giảm giá, hạ thấp giá mua Dây cáp chịu tải nặng, Thép cây gia cường, chi phí cho các buổi Huấn luyện thợ điện, và cả tiền lương hàng ngày của Thợ xây.
+HealthSafetyPlan_hint	Bên cạnh việc tự động yêu cầu các dịch vụ khẩn cấp, gói này còn cung cấp nhiều khoản giảm giá, hạ thấp giá mua Trạm sơ cứu, chi phí cho các buổi Huấn luyện sơ cứu & súng điện, và cả tiền lương hàng ngày cho Bác sĩ & Hộ lý.
+PestControlPlan_hint	Bên cạnh việc tự động yêu cầu các dịch vụ khẩn cấp, gói này còn cung cấp nhiều khoản giảm giá, hạ thấp giá mua Bẫy chuột, Thiết bị răn đe bằng sóng siêu âm, chi phí cho các buổi Kiểm soát dịch hại, và cả tiền lương hàng ngày cho Lao công & Người làm vườn.
+
+d11_coverage_automatic_emergency_services	Dịch vụ khẩn cấp tự động
+d11_coverage_squads_requested				Số đội được yêu cầu
+d11_coverage_request_condition				Điều kiện yêu cầu
+d11_coverage_injury_condition				Điều kiện chấn thương
+d11_coverage_active_fire_alarms				Báo cháy đang hoạt động
+d11_coverage_firefighters					Lính cứu hỏa
+d11_coverage_reconstruction_specialists		Thợ sửa chữa
+d11_coverage_structural_damage				*X Thiệt hại cấu trúc
+d11_coverage_injured						*X Người bị thương
+d11_coverage_injured_target					Mục tiêu bị thương
+d11_coverage_prisoners_only					Chỉ tù nhân
+d11_coverage_staff_only						Chỉ nhân viên
+d11_coverage_prisoner_and_staff				Tù nhân & Nhân viên
+d11_coverage_rioting						*X Tù nhân đang bạo loạn
+d11_coverage_calamity_surface				*X Ô đường bị đóng băng/tan chảy
+d11_coverage_flooded_area					*X Khu vực bị ngập lụt
+
+d11_coverage_small_fire						Đám cháy nhỏ
+d11_coverage_medium_fire					Đám cháy vừa
+d11_coverage_big_fire						Đám cháy lớn
+d11_coverage_rats							*X Con chuột
+d11_coverage_heat							*X Mức nhiệt
+
+d11_coverage_grand_total	Tổng cộng
+
+adviser_name_foreman                    Đốc công
+adviser_name_gardener                   Người làm vườn
+adviser_name_Janitor                    Lao công
+
+need_name_hydration						Nước uống
+need_name_staffhydration				Nước uống
+needs_help_hydration 					Mọi người đều cần uống nước, đặc biệt là trong thời tiết nắng nóng. Giữ nhu cầu nước uống ở mức thấp giúp giảm nguy cơ bị say nắng, nhưng cũng làm tăng nhu cầu đi tiểu của họ. Hãy thử đặt các vòi nước uống quanh nhà tù để tù nhân có thể uống nước trong giờ tự do của họ.
+needs_help_staffhydration 				Mọi người đều cần uống nước, đặc biệt là trong thời tiết nắng nóng. Giữ nhu cầu nước uống ở mức thấp giúp giảm nguy cơ bị say nắng, nhưng cũng làm tăng nhu cầu đi tiểu của họ. Nhân viên sẽ uống nước trong giờ giải lao của họ bằng máy bán nước tự động trong phòng nghỉ nhân viên.
+
+finances_category_coverageplans			Gói bảo hiểm nhà tù
+
+# ==============================================================
+# Visitation Policy Menu strings
+# ==============================================================
+reports_visitationpolicytitle			Chính sách thăm nuôi
+reports_visitation_info					Điều chỉnh giờ thăm nuôi:
+visitation_title                        Giờ thăm nuôi
+visitation_desc                         Thời gian thăm nuôi dài hơn sẽ mang lại mức tăng nhu cầu cao hơn và thời gian kéo dài của hiệu ứng tăng đó. Với việc thăm nuôi chỉ khả dụng từ 8 giờ sáng - 8 giờ tối.
+reports_visitation_primaryerror			Lịch sinh hoạt hiện tại không cho phép một phiên thăm nuôi có thời lượng dài như thế này.
+reports_visitation_secondaryerror		Lịch sinh hoạt hiện tại sẽ chỉ cho phép *X phiên thăm nuôi có thời lượng này.
+
+# ==============================================================
+# Polly Status effects 
+# ==============================================================
+status_effect_heatstroke			Say nắng
+status_effect_calamityflu			Cúm
+
+
+# ==============================================================
+# Menu strings
+# ==============================================================
+codex_new_weathertype				Thời tiết & Cường độ
+codex_tooltip_weathertype			Nhiều kiểu thời tiết khác nhau có thể xảy ra trong suốt trò chơi. Để có một trò chơi thử thách hơn, bạn có thể chọn Cao, Vừa hoặc Thấp. Nếu bạn chỉ muốn trải nghiệm thời tiết thông thường, hãy chọn Legacy.
+codex_new_startingseason			Mùa bắt đầu
+codex_tooltip_temperature			Bật Nhiệt độ cho nhà tù của bạn. Tù nhân và Nhân viên của bạn giờ đây sẽ có nhu cầu Sưởi ấm. Hãy mua một số máy sưởi và đừng để nhà tù của bạn quá lộng gió.
+
+
+codex_new_weathertype_disabled		Tắt
+codex_new_weathertype_legacynormal	Legacy
+
+# ==============================================================
+# Stay Indoors 
+# ==============================================================
+
+buildtoolbar_StayIndoors			Ở trong nhà
+buildtoolbar_tooltip_StayIndoors	Yêu cầu tất cả tù nhân và nhân viên không thiết yếu ưu tiên các hoạt động trong nhà nếu có thể để giữ an toàn trong suốt các thảm họa. Họ sẽ chỉ chấp nhận lệnh này trong thời gian diễn ra thảm họa.
+
+# ==============================================================
+# Fallen Tree
+# ==============================================================
+object_FallenTree					Cây đổ
+object_FallenTreeBig				Các cây đổ
+
+
+# ==============================================================
+# Road Maintenance
+# ==============================================================
+
+object_roadmaintenancevehicle 				Xe tải bảo trì
+interfacecallout_roadmaintenance			Bảo trì đường sá
+interface_roadMaintenance_no_grit			Bảo trì chỉ khả dụng một lần mỗi 12 giờ.
+
+# ==============================================================
+# Visibility (Deep Freeze)
+# ==============================================================
+event_deep_freeze_vis_sniper_tower			Tháp canh bắn tỉa báo cáo tầm nhìn kém. Khả năng phát hiện những kẻ có ý định vượt ngục của xạ thủ sẽ bị giảm cho đến khi thời tiết này quang đãng.
+event_deep_freeze_vis_outside_guard			Các cai ngục đang tuần tra ngoài trời báo cáo các vấn đề về tầm nhìn. Có vẻ như họ không thể phát hiện ra tù nhân ở quá xa phía trước.	
+event_lightning_storm_vis_sniper_tower		Có những vấn đề về tầm nhìn đối với các xạ thủ của chúng ta trên tháp trong thời tiết này. Họ chắc chắn không thể nhìn xa như trong điều kiện bình thường.
+event_lightning_storm_vis_outside_guard		Tất cả các cai ngục ngoài trời đều báo cáo tình trạng thiếu tầm nhìn trong thời tiết này. Đó là điều cần lưu ý nếu có ai đó cố gắng bỏ trốn.
+
+# ==============================================================
+# Polly Free Update
+# ==============================================================
+research_NonLethalSniper					Xạ thủ phi sát thương
+researchtooltip_NonLethalSniper				Loại đạn mới cung cấp cho Xạ thủ khả năng sử dụng hết công năng của súng mà không lo gây ra tử vong. Trừ khi lệnh Cho bắn tự do được ban hành, các phát bắn của xạ thủ sẽ chỉ có thể khiến tù nhân bất tỉnh.
+
+material_FieldGrass    				Cỏ đồng nội
+buildtoolbar_popup_mat_FieldGrass		Một đám cỏ mọc um tùm.
+
+material_LaminateFlooringFR			Sàn gỗ công nghiệp (Chống cháy)
+buildtoolbar_popup_mat_LaminateFlooringFR	Sàn gỗ có đặc tính chống cháy.
+
+material_CarpetFR				Thảm (Chống cháy)
+buildtoolbar_popup_mat_CarpetFR			Trải tấm thảm thoải mái xuống. Hoàn hảo cho các khu vực của nhân viên. Nó cũng có đặc tính chống cháy.
+
+object_Shiba						Doge
+buildtoolbar_popup_obj_Shiba		Chú chó đánh hơi trẻ tuổi nhưng giàu kinh nghiệm, đặc biệt thích các món ăn nhẹ làm từ thịt gà và phô mai.
+
+object_BlackSetter					Dodge 
+buildtoolbar_popup_obj_BlackSetter	Kẻ chuyên đuổi theo những chiếc gậy nhỏ và những kẻ vượt ngục.
+
+object_FernBush					Bụi cây dương xỉ	
+buildtoolbar_popup_obj_FernBush			Bụi cây này rất thích mọc trong bóng râm.
+
+object_WillowTree					Cây liễu	
+buildtoolbar_popup_obj_WillowTree			Cây này trông sẽ rất tuyệt vời khi ở cạnh một vùng nước hoặc là một phần của một khu vườn trang nhã.
+
+survey_letter_1						Thân gửi Giám đốc trại,\n\n\nCảm ơn bạn đã tham gia thử nghiệm các tính năng và hệ thống mới của Nhà tù.\n\nVới tư cách là Tổng giám đốc, trách nhiệm của tôi là thu thập phản hồi từ tất cả các Giám đốc trại để cải thiện hơn nữa trải nghiệm này.\n\nTôi rất hoan nghênh nếu bạn có thể dành vài phút để điền vào bảng khảo sát mà tôi đã tạo cho bạn.\n\nTổng giám đốc,\nTập đoàn Prison Architects.
+survey_letter_2						Thân gửi Giám đốc trại,\n\n\nMột lần nữa xin cảm ơn bạn đã tiếp tục tham gia thử nghiệm các tính năng và hệ thống mới của Nhà tù.\n\nVới nhiều thời gian hơn dành cho việc thử nghiệm các tính năng và hệ thống mới, tôi rất hoan nghênh phản hồi cập nhật của bạn trong bảng khảo sát này.\n\nTổng giám đốc,\nTập đoàn Prison Architects.
+dialog_openSurvey					Mở khảo sát
+object_Ivy							Cây thường xuân	
+buildtoolbar_popup_obj_Ivy			Một bụi cây trang trí với tán lá dày đặc.
+
+buildtoolbar_popup_uts_Radiator		Đặt chúng xung quanh nhà tù của bạn, các phòng sẽ trở nên đẹp đẽ và ấm áp.
+
+# ====================================
+# OTHERS
+# ======================================
+equipment_FirstAidBackpack	Balo sơ cứu 
+
+object_GritterDriver		Tài xế xe rải sỏi
+
+DF_1_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Nhờ cách bạn xử lý tình huống rất tốt, bạn sẽ không bị tính phí cho gói bảo hiểm liên quan trong 5 ngày tới.
+DF_2_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Nhờ kỹ năng quản lý tuyệt vời của bạn, nhân viên của bạn sẽ làm việc hiệu quả hơn trong 3 ngày tới.
+DF_3_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Giờ đây bạn sẽ không phải lo lắng về việc thảm họa này tái diễn trong ít nhất 10 ngày tới.
+
+LS_1_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Bạn có thể mong đợi một phần thưởng trong tương lai gần.
+LS_2_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Nhờ cách bạn xử lý tình huống rất tốt, bạn sẽ không bị tính phí cho gói bảo hiểm liên quan trong 15 ngày tới.
+LS_3_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Giờ đây bạn sẽ không phải lo lắng về việc thảm họa này tái diễn trong ít nhất 10 ngày tới.
+
+HW_1_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Xin vui lòng nhận khoản tiền thưởng trị giá $10,000 này để tiếp tục phát huy công việc tốt đẹp.
+HW_2_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Các tù nhân của bạn rất biết ơn sự chăm sóc của bạn và nhu cầu của họ sẽ được cải thiện tốt hơn trong 5 ngày tới.	
+HW_3_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Giờ đây bạn sẽ không phải lo lắng về việc thảm họa này tái diễn trong ít nhất 20 ngày tới.
+
+R_1_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này. Xin vui lòng nhận khoản tiền thưởng trị giá $10,000 này để tiếp tục phát huy công việc tốt đẹp.
+R_2_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này, các tù nhân của bạn rất biết ơn sự chăm sóc của bạn và nhu cầu của họ sẽ được cải thiện tốt hơn trong 3 ngày tới.
+R_3_advisor				Chúc mừng bạn đã xử lý thành công thảm họa này, nhờ sự làm việc chăm chỉ của bạn, một hiệu ứng tích cực sẽ được áp dụng cho các tù nhân của bạn trong 5 ngày tới.
+
+
+fallen_tree_advisor			Những cái cây này từ đâu đến vậy? Gió chắc hẳn phải mạnh hơn chúng ta nghĩ. Các chuyến giao hàng đang bị chậm trễ, có lẽ chúng ta nên cử một số thợ xây đến để dọn dẹp đống đổ nát này.
+
+door_swollen_advisor		Cái nóng này đã khiến những cánh cửa bị giãn nở. Chúng ta phải cho thợ xây đến làm mát chúng nếu muốn sử dụng chúng.
+lightning_strike_advisor	Điều nguy hiểm nhất của một cơn bão là những tia sét, khi cả vật thể và con người đều có nguy cơ bị đánh trúng. Cột thu lôi sẽ có thể chuyển hướng tia sét ở một mức độ nào đó, vì vậy hãy đảm bảo bạn mua một số cột thu lôi để giúp bảo vệ nhà tù và con người nơi đây.
+frozen_ground_advisor		Đường đi bộ bên ngoài đang trở nên khá băng giá, các lao công sẽ có thể rải sỏi chống đông xuống khi được huấn luyện đúng cách.
+heatwave_fire_advisor		Với đợt sóng nhiệt này, chúng ta phải cẩn thận với bất kỳ loại cây cối hoặc vật liệu gỗ nào nằm ở bên ngoài. Nếu có bất kỳ đám cháy nào bùng phát, chúng ta phải khống chế nó ngay lập tức.
+deep_freeze_frozen_shower_head		Đầu vòi sen đóng băng rất dễ dàng và chúng ta không thể làm gì nhiều để ngăn chặn điều đó xảy ra. Hy vọng các phòng tắm vẫn còn hoạt động tốt sẽ đủ đáp ứng.	
+deep_freeze_frozen_sprinkler		Trong điều kiện lạnh giá như vậy, các vòi phun nước của nhà tù có thể bị đóng băng, đe dọa đến tính mạng con người. Hãy đảm bảo bạn có nhân sự được huấn luyện phòng cháy chữa cháy đầy đủ trong trường hợp kịch bản đó xảy ra. Một thành tích An toàn phòng cháy kém cỏi sẽ không mang lại lợi ích gì cho tiếng tăm của nhà tù.
+
+interface_action_EmptyRatTrap	Dọn trống
+interface_action_CleanPoop		Dọn dẹp
+
+
+job_grit                          Rải sỏi lối đi đóng băng		
+
+dryness_level_1				Khô
+dryness_level_2				Rất khô
+dryness_level_3				Cực kỳ khô 
+
+codex_new_ratinfestation			Rat Infestation
+status_effect_calamitycold			Giá rét
+
+object_BareTree					Cây trơ trụi	
+buildtoolbar_popup_obj_BareTree			Cây này sẽ là một sự bổ sung tuyệt vời cho bất kỳ cảnh quan tuyết rơi nào.
+
+reform_program_intake_ColdControl		Dành cho Lao công, Người làm vườn, và Thợ xây
+
+reform_program_requirements_general		- Mỗi người tham gia yêu cầu một *X
+reform_program_requirements_general_alt	- Mỗi người tham gia yêu cầu một *X hoặc một *Y
+
+weathermap_temperature_range_c 		Dao động từ *X°C đến *Y°C
+weathermap_temperature_range_f 		Dao động từ *X°F đến *Y°F
+
+# ====================================
+# ====================================
+# ----------------------------------- POLLY BATCH 2 -----------------
+# ====================================
+# ====================================
+
+# Missing orderly deployment strings
+interfacetopbar_tooltip_orderlies			Có *X Hộ lý
+interfacetopbar_tooltip_orderly				Số lượng hộ lý bạn đang có sẵn để làm việc trong nhà tù của mình.
+
+object_DoubleStaffDoorBlue 					Cửa đôi nhân viên (Xanh dương)
+buildtoolbar_popup_obj_DoubleStaffDoorBlue				Một cánh cửa đôi có thể sử dụng bởi nhân viên.
+
+object_DoubleStaffDoorOrange							Cửa đôi nhân viên (Cam)
+buildtoolbar_popup_obj_DoubleStaffDoorOrange			Một cánh cửa đôi có thể sử dụng bởi nhân viên.
+
+d11_staffalert_summary_CalamityHeatwave01		Ở đây đang nóng lên phải không? Đảm bảo tù nhân và cây cối của bạn có đủ nước
+d11_staffalert_title_CalamityHeatwave01			Heatwave
+d11_staffalert_details_CalamityHeatwave01		Có một vài vấn đề có thể phát sinh trong một đợt sóng nhiệt. Kim loại có thể trở nên cực kỳ nóng, vì vậy hãy cẩn thận với bất kỳ vật thể và cánh cửa bằng kim loại nào. Ngoài ra, hãy đảm bảo giữ cho tù nhân và nhân viên của bạn đủ nước uống vì họ có thể trở nên chậm chạp. 
+d11_staffalert_hint_CalamityHeatwave01			Một đám cháy đi kèm với gió lớn có thể chứng minh là một thảm họa, hãy chắc chắn ngăn chặn nó và chuẩn bị sẵn sàng.
+
+buildtoolbar_AutomatedEmergencyService			Dịch vụ tự động
+
+weather_instrument_title				Dự báo bởi:
+
+dlc_name_polly							Perfect Storm
+buildtoolbar_stayIndoorsCalamity		Thảm họa
+
+codex_tooltip_startingSeason			Chọn mùa bắt đầu của bạn. Thời tiết sẽ diễn tiến một cách tự nhiên qua các mùa.
+
+object_AirPestControlHeli					Trực thăng kiểm soát dịch hại
+
+# ====================================
+# ====================================
+# ----------------------------------- KIMBER BATCH 1 -----------------
+# ====================================
+# ====================================
+
+dlc_name_kimber					Gangs	
+# ====================================
+# OBJECTS
+# ======================================
+
+object_Beagle							Juliette
+buildtoolbar_popup_obj_Beagle			Giống chó săn đồ ăn vặt hơn là chó săn tấn công.
+
+object_Doberman							Fen
+buildtoolbar_popup_obj_Doberman			Chó Doberman là giống chó cảnh sát tối thượng.
+
+object_ChocolateLabrador					Blue
+buildtoolbar_popup_obj_ChocolateLabrador	Thích kết bạn mới, và càng vui hơn khi người bạn đó đang bỏ chạy.
+
+object_BlackShepherd						Luna
+buildtoolbar_popup_obj_BlackShepherd		Chúng có vẻ ngoài dễ thương, nhưng sẽ hạ gục bất kỳ ai cản đường chúng.
+
+object_TattooRemovalMachine						Máy xóa hình xăm
+buildtoolbar_popup_obj_TattooRemovalMachine 	Vật phẩm này là không thể thiếu để cải tạo một thành viên băng đảng. Xóa hình xăm của họ là bước đầu tiên trong quá trình cải tạo của họ.
+
+object_MetalStool					Ghế đẩu kim loại
+buildtoolbar_popup_obj_MetalStool 	Một chiếc ghế đẩu kim loại nhỏ xinh.
+
+equipment_TattooRemovalTool			Công cụ xóa xăm
+
+room_TheCage				Lồng biệt giam
+buildtoolbar_popup_room_TheCage		Dành cho những tù nhân đang bị biệt giam. Đơn vị ngoài trời này được sử dụng để vận động, đồng thời duy trì sự cách ly của tù nhân đó với các bạn tù khác.
+
+quickbuild_TheCage			Lồng biệt giam
+buildtoolbar_quickbuild_TheCage		Một đơn vị ngoài trời mà một tù nhân duy nhất có thể sử dụng để tập thể dục, giữ họ cách ly khỏi các tù nhân khác.
+
+material_CageFence		Hàng rào lưới lồng
+buildtoolbar_popup_mat_CageFence						Hàng rào lưới mắt cáo dùng để ngăn giữ tù nhân trong lúc tập thể dục.
+
+room_TattooRemovalRoom	Phòng xóa xăm
+buildtoolbar_popup_room_TattooRemovalRoom	Nơi các tù nhân của bạn có thể trải qua quá trình đau đớn và tẻ nhạt để xóa các hình xăm băng đảng của họ.
+
+quickbuild_TattooRemovalRoom	Phòng xóa xăm
+buildtoolbar_quickbuild_TattooRemovalRoom	Nơi các tù nhân của bạn có thể trải qua quá trình đau đớn và tẻ nhạt để xóa các hình xăm băng đảng của họ.
+
+object_PullUpBars							Xà đơn
+buildtoolbar_popup_obj_PullUpBars			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân lì lợm hơn.
+
+object_KneeRaise							Khung tập nâng gối
+buildtoolbar_popup_obj_KneeRaise			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân lì lợm hơn.
+
+object_PushUpStones							Đá chống đẩy
+buildtoolbar_popup_obj_PushUpStones			Một thiết bị tập thể dục giá rẻ phổ biến với những tù nhân lì lợm hơn.
+
+object_GangGraffiti							Hình vẽ bậy băng đảng
+d11_hover_info_gang_graffiti_1				+15% Sức mạnh trong Lãnh thổ đối với thành viên băng đảng
+d11_hover_info_gang_graffiti_2				+15% Độ lì đòn trong Lãnh thổ đối với thành viên băng đảng
+
+object_FightRing							Sàn đấu võ
+buildtoolbar_popup_obj_FightRing			Nếu tù nhân của bạn chiến đấu trên sàn đấu, họ sẽ không đánh nhau trong khu giam.\n -Đáp ứng nhu cầu Vận động và Giải trí.
+
+quickbuild_FightClubRoom					Phòng đấu võ
+buildtoolbar_quickbuild_FightClubRoom		Xét trên mọi phương diện thì căn phòng này không hề tồn tại.
+
+room_FightClubRoom							Phòng đấu võ
+buildtoolbar_popup_room_FightClubRoom		Xét trên mọi phương diện thì căn phòng này không hề tồn tại.
+
+object_CageGate							Cổng lồng
+buildtoolbar_popup_obj_CageGate			Một cánh cổng hoạt động rất tốt với Hàng rào. Chức năng tương tự như một cánh cửa.
+
+buildtoolbar_popup_obj_RemoteDoor			Cánh cửa này được thiết kế để truy cập bằng một mô-tơ đang hoạt động. Hãy đảm bảo bạn có đủ cai ngục để kiểm soát lối ra vào cho các loại cửa này hoặc lắp đặt các tấm cảm áp
+
+object_RemoteDoorOrange						Cửa từ xa (Cam)
+buildtoolbar_popup_obj_RemoteDoorOrange 	Cánh cửa này được thiết kế để truy cập bằng một mô-tơ đang hoạt động. Hãy đảm bảo bạn có đủ cai ngục để kiểm soát lối ra vào cho các loại cửa này hoặc lắp đặt các tấm cảm áp
+object_RemoteDoorRed						Cửa từ xa (Đỏ)
+buildtoolbar_popup_obj_RemoteDoorRed 		Cánh cửa này được thiết kế để truy cập bằng một mô-tơ đang hoạt động. Hãy đảm bảo bạn có đủ cai ngục để kiểm soát lối ra vào cho các loại cửa này hoặc lắp đặt các tấm cảm áp
+object_RemoteDoorYellow						Cửa từ xa (Vàng)
+buildtoolbar_popup_obj_RemoteDoorYellow 	Cánh cửa này được thiết kế để truy cập bằng một mô-tơ đang hoạt động. Hãy đảm bảo bạn có đủ cai ngục để kiểm soát lối ra vào cho các loại cửa này hoặc lắp đặt các tấm cảm áp
+object_RemoteDoorWhite						Cửa từ xa (Trắng)
+buildtoolbar_popup_obj_RemoteDoorWhite 		Cánh cửa này được thiết kế để truy cập bằng một mô-tơ đang hoạt động. Hãy đảm bảo bạn có đủ cai ngục để kiểm soát lối ra vào cho các loại cửa này hoặc lắp đặt các tấm cảm áp
+quickbuild_Gymnasium                            Phòng gym
+
+object_GymInstructor						Huấn luyện viên thể hình
+
+object_FilingCabinetFancy					Tủ hồ sơ (Cao cấp)
+buildtoolbar_popup_obj_FilingCabinetFancy	Phần thưởng cho các thành viên Nhân viên bằng cách tặng họ một chiếc tủ hồ sơ cao cấp.
+
+# ====================================
+# Materials
+# ======================================
+
+material_LongGrass							Cỏ cao
+
+# ==============================================================
+# Menu strings
+# ==============================================================
+
+codex_tooltip_gangsEnhanced             Giờ đây bạn có thể thay đổi tỷ lệ tiếp nhận tù nhân gia nhập các Băng đảng của mình. Việc có nhiều Thành viên băng đảng hơn trong nhà tù sẽ khiến quá trình tuyển mộ băng đảng diễn ra nhanh hơn, nhà tù của bạn sẽ trở nên hỗn loạn và nguy hiểm hơn.\n\n• Legacy - Trải nghiệm độ khó Băng đảng như trước đây (Sơ cấp) \n• 'Thấp' (Mặc định) - Lý tưởng cho người chơi Sơ cấp hoặc Trung cấp \n• Vừa - Người chơi giàu kinh nghiệm \n• Cao - Người chơi chuyên gia muốn tìm kiếm một thử thách thực sự
+codex_tooltip_morelieutenants			Các Phó băng đảng đóng vai trò lớn trong việc chiếm đoạt các lãnh thổ mới cho Băng đảng tương ứng của họ. Nếu bạn muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Phó băng đảng. Chỉ chọn các số nhỏ hơn 6 nếu bạn muốn có một thử thách.
+codex_option_morelieutenants			Nhiều Phó băng đảng hơn
+codex_tooltip_codex_option_morelieutenants	Các Phó băng đảng đóng vai trò lớn trong việc chiếm đoạt các lãnh thổ mới cho Băng đảng tương ứng của họ. Nếu bạn muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Phó băng đảng. Chỉ chọn các số nhỏ hơn 6 nếu bạn muốn có một thử thách.
+
+codex_option_GangSpecialReputations     Tiếng tăm đặc biệt của băng đảng
+codex_tooltip_GangSpecialReputations    Các băng đảng được trao những tiếng tăm mới giúp thay đổi cách thức các thành viên hành xử trong nhà tù của bạn.
+
+codex_option_AllDogs					Tất cả các loài chó
+codex_tooltip_AllDogs				    Chọn tùy chọn này sẽ bật tất cả các chú chó có sẵn và ngẫu nhiên hóa mỗi lần thuê.
+codex_tooltip_RandomWardens				Chọn tùy chọn này sẽ chọn ngẫu nhiên một Giám đốc trại cho bạn.
+
+# Boiling Point
+interfacecontraband_BoilingPoint				Boiling Point
+buildtoolbar_contraband_BoilingPoint			Hiển thị các khía cạnh cần cải thiện cho những tù nhân không hạnh phúc.
+
+boilingpoint_header								BOILING POINT
+boilingpoint_OverallTemperature					Mức nhiệt tổng thể
+boilingpoint_Needs								Nhu cầu
+boilingpoint_ProgramCompletion					Chương trình đã hoàn thành
+boilingpoint_StatusEffects						Hiệu ứng trạng thái
+boilingpoint_RoomQuality						Chất lượng phòng
+
+boilingpoint_OverallTemperature_popup			Có một vài điều nằm ngoài tầm kiểm soát của chúng ta khi muốn làm cho tù nhân của mình hạnh phúc và bình tĩnh, chẳng hạn như tính cách của họ hoặc số lượng tiền án tiền sự của họ. Mỗi tù nhân càng tức giận, Mức nhiệt nhà tù sẽ càng cao, và họ càng có nhiều khả năng sai phạm.
+boilingpoint_Needs_popup						Hiện tại bạn đang có *X tù nhân không thể thỏa mãn nhu cầu của mình.\n\nVui lòng đảm bảo họ có thể tiếp cận các phòng hoặc vật thể để thỏa mãn nhu cầu của họ.
+boilingpoint_ProgramCompletion_popup			Hiện tại bạn đang có *X tù nhân chưa hoàn thành bất kỳ chương trình nào.\n\nTù nhân càng hoàn thành nhiều chương trình thì họ càng có nhiều khả năng giữ bình tĩnh. Hãy thêm một số chương trình cải tạo để họ tham gia, và đảm bảo Lịch sinh hoạt cho phép điều đó. Một số chương trình có thể lặp lại.
+boilingpoint_StatusEffects_popup				Hiện tại bạn đang có *X tù nhân đang phải chịu đựng các hiệu ứng tiêu cực.\n\nHãy cân nhắc việc giám sát chặt chẽ hơn hàng cấm, đặc biệt là rượu bia hoặc ma túy.\n\nKhi các tù nhân có hiệu ứng tích cực, họ sẽ ít có khả năng sai phạm hơn.
+boilingpoint_RoomQuality_popup					Hiện tại bạn đang có *X tù nhân có phòng giam tồi tàn.\n\nHãy tăng chất lượng phòng của họ để họ có thể hạnh phúc và bình tĩnh hơn. Một số tù nhân sẽ không đủ điều kiện cho các phòng chất lượng cao. Bạn có thể sử dụng tính năng Điều chỉnh án phạt để giảm bớt các yêu cầu này.
+
+buildtoolbar_popup_help_BoilingPoint_1			Chế độ xem Boiling Point hiển thị cho bạn Mức nhiệt nhà tù hiện tại. Menu này nêu bật các khu vực có vấn đề trong nhà tù của chúng ta, chẳng hạn như chất lượng phòng giam, nhu cầu, hiệu ứng trạng thái, và mức độ tham gia chương trình cải tạo.\n\n
+buildtoolbar_popup_help_BoilingPoint_2			~Nếu bạn vẫn không thể kiểm soát một tù nhân cụ thể, hãy cân nhắc đưa họ vào chế độ Phong tỏa hoặc phòng Biệt giam để hạ hỏa.\n\n
+buildtoolbar_popup_help_BoilingPoint_3			^Gợi ý
+buildtoolbar_popup_help_BoilingPoint_4			- Đảm bảo rằng tất cả tù nhân đều có thể tiếp cận các nhu cầu cơ bản của họ.
+buildtoolbar_popup_help_BoilingPoint_5			- Đầu tư vào các chương trình cải tạo, trị liệu, điều trị và lao động, và đảm bảo lịch sinh hoạt của họ cho phép họ tham gia vào chúng.
+buildtoolbar_popup_help_BoilingPoint_6			- Tù nhân thuộc diện An ninh thấp sẽ có mức độ chịu đựng cao hơn, vì họ có thời hạn chấp hành án ngắn hơn.
+
+boilingpoint_advisor_onboarding					Tù nhân này đang quấy phá, họ dường như đã đạt đến ngưỡng phẫn nộ. Có lẽ chúng ta chưa làm đủ cho các tù nhân của mình, hãy đảm bảo nhu cầu của họ được thỏa mãn, cải thiện điều kiện sống và cho họ việc gì đó để làm. Kiểm tra Menu Tình báo Boiling Point để biết thêm thông tin.
