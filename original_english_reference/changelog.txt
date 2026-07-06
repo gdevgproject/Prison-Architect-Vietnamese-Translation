@@ -1,0 +1,544 @@
+﻿The Clink Update
+>27 June 2019
+<->x4 new floor tiles and x4 new wall types added.
+<->Performance improvements, to help lower loading times.
+<->Increased the foremen that can be hired, for larger prisons where foremen also teach programs.
+<->Existing objects have their full set of rotations, with new sprites added for missing orientations.
+<->New 'Guard Response' button that commands existing nearby guards to a location, instead of players needing to hire additional guards to deal with incidents. 
+<->New 'Tunnel Search' button that commands guards to search all toilets only, for hidden escape tunnels.  
+<->Additional Quick Rooms added to the Quick Build menu, for quicker and easier room construction.
+<->Following prisoners and staff is made a lot easier, by double-clicking on them.
+
+
+We hope you enjoy playing with these new improvements!
+
+~~~~~~
+
+“The Slammer” Update
+>17 Sept 2019
+
+Dear Prison Architect players,
+
+On behalf of Paradox and Double Eleven, we hope you enjoy all the new content in this update. 
+Thanks for all your suggestions and ideas so far. Much of what we've done has been rooted in your feedback.
+There’s tons of community improvements implemented. Some listed here, and more to find in game.
+
+Please show us @PrisonArchitect how you’re making use of the new stuff in your own prisons! 
+
+Gaz, Games Design Manager at Double Eleven.
+
+
+>[1/3] New Items
+
+<->New Floor Types; Grate, Mud, Sci-Fi.
+<->New Secure Door with food tray flap.
+<->New lights; Street Lamps, Flood Lights, Wall Lights.
+<->New Trees; Snowy Tree, Palm Tree.
+<->Plus other new objects.
+
+
+>Click NEXT to see more...
+
+
+
+>[2/3] New Features
+
+<->Borderless Windowed Mode option.
+<->Relocating/Moving Objects feature!
+<->Item menu filters and sort-by button.
+<->Doors can now be quickly built on walls.
+<->Guard Dogs and Armed Guards can be assigned to patrol routes and zones!
+<->Extra x10 game speed.
+<->SuperMax prisoners added to Intake.
+<->Ability to have 2 different intersecting patrol routes.
+<->Rotations for more objects and furniture.
+<->Enhanced Deployment and Logistics visuals.
+<->Clone tool region enlarged.
+<->Option to have Bureaucracy researched when starting a new game.
+<->Mutators (menu) can now be accessed and adjusted mid-game.
+<->Items galore!
+<->New Snow and Jungle plot options when starting a new game.
+<->Guard Towers shelter snipers from the weather.
+<->Staff and Dog names.
+<->Objects menu has a room search feature.
+<->Option to have cleaner prisons.
+<->New quick links from the top HUD bar.
+<->!
+
+>[3/3] And More...
+
+<->Snipers now carry jail keys.
+<->Prisoners prioritize shower rooms before other prisoner’s cell showers.
+<->CCTV shows prisoners & staff in Warden Mode.
+<->Guards stationed at machines won’t abandon their post for searches and shakedowns.
+<->Guards will open doors for lost dogs.
+<->Bookcase caters to Literacy Need.
+<->Hot-keys for cycling in-game menus [Z] & [X], and closing menus [C].
+<->Quick Room cell doors stay open until the room is completed.
+<->CCTV Camera sprites now show the direction they’re facing.
+<->Fixes to Hedge visuals.
+<->Fixes to Metal Detectors.
+<->Fixes to Water Boiler not always connecting to pipes.
+<->Support for modders.
+
+~~~~~~
+
+“The Sneezer” Update
+>21st Nov 2019
+
+We hope you enjoy this recent batch of free stuff. We’ve been listening to the community once more, so you may even see some of your own suggestions added. A summary of the most notable items is provided below, including; new Bridges, Cloning and Planning improvements. Now you can turn your plans into actual construction jobs!
+
+Gaz, Games Design Manager at Double Eleven
+
+>[1/3] New items
+
+<->Windows can now be added to both sides of a vertical wall.
+<->New Walls: Art Deco and Oriental.
+<->New Floors: Limestone, Grass n Stones, Sandstone, Lunar.
+<->New Objects: Sink, Handdryer, Wall signs, Spooky and Sakura trees, Cactus, Park Bench, Moose Head, and more...
+<->New Doors: Guards Gates and Secret Bookcase Door.
+<->New Signs: Signposts rooms such as Canteens and Showers.
+<->New Grass Corner, to create angled pathways.
+
+Click NEXT to see more...
+
+
+>[2/3] New Features
+
+<->Multiple new dog types to choose from, before and during a game!
+<->Option to choose the wall type for quick rooms.
+<->Room (coloured) overlays can now be turned off in Game Options.
+<->Extra ‘Most Used’ item menu filter added.
+<->Finally, BRIDGES are here! Lay them over roads, water and other land, for staff and prisoners to cross.
+<->Rebalanced daily payments for higher risk inmates; Max Sec, Protective Custody, Death Row and Criminally Insane pay more.
+<->Empty and occupied cells can be viewed in Logistics, via a new “Cell Status” button.
+<->Extra prisoner action added to Bios: “Escort to Infirmary”
+<->Search bar added to Flooring menu.
+<->Transferred prisoners are offered in Intake.
+<->Unique Visitors Direction option added to Deployment.
+<->Foundations can now be built with more wall types.
+<->Fog of War can now be turned off mid-game, via the Map Settings menu.
+<->Clone tool overhauled!! You can now rotate and flip, walls and objects now shown, the clonable area can cover entire prisons! AND you can even clone between saves (BETA)! The construction speed has also been optimized.
+<->Overhauled Planning!! Build your plans, add doors and choose wall type. The construction speed has also been optimized.
+<->More new items, walls and floors.
+<->Improved Quick Rooms presentation, now showing where the walls will be built.
+<->New Desert Plot option when creating a new game.
+<->Gravestones are supplied for every death in your prison.
+<->!
+
+
+>[3/3] Additional Improvements, Fixes & Features
+QoL and more of your requests...
+
+<->Taser legacy crash fixed (due to the taser line drawing code - taser trails would sometimes crash the game on certain player’s graphics drivers, if it didn't crash it seemed to shift some of the font drawing code to render in the wrong position/off screen for a frame. Both problems should now be fixed.
+<->Modders! Spritesheet files and UI.png are now unencrypted. Please avoid adding to these sheets with your own mods, as we WILL be adding more future content to them. There’s plenty of space reserved on the original tilesheet.
+<->Electric Cables and Water Pipes now point the right way when being constructed.
+<->Street Lamps no longer need direct power cables.
+<->Any inmates moved to new cells by you, will be reassigned.
+<->The outskirts of the map now allow flooring to be placed.
+<->Street Lamps no longer need direct power cables.
+<->“Events” can be toggle on/off in Map Settings.
+<->New inmates have a “Fresh Fish” tag.
+<->Deployment - "Staff Only" and "Shared" zones are more distinctly coloured.
+<->Separate icons for “Drugs” and “Medicine” contraband types.
+<->Snipers can now open Remote Doors.
+<->Guards open doors for separated dogs.
+<->Underground utilities can now be placed in the same space as pending above-ground objects.
+<->Cloning will include foundations.
+<->Office chair now fulfills the Reception room requirement.
+<->Now CCTV, Doors and Phone Taps can be connected in both ways.
+<->Addressed various issues when playing with multiple monitor setups.
+<->Bench artwork updated to show sitting direction.
+<->The presentation of areas in Logistics which show where jobs can be assigned is improved.
+<->Phone Tap, CCTV and Door Control stations show the no. of wired connections.
+<->Hedges no longer merge with adjacent walls, and blend better with grass floor.
+<->Execution Room requirements can be fulfilled with all new chair types.
+<->Bios no longer open immediately when double-clicking to follow an inmate.
+<->Improved Sprite visuals due to an alpha anomaly that was producing artefacts around some of the sprites.
+<->Fixed a legacy issue where Mail Satchels where not being delivered, causing large build ups of mail.
+<->Guard Response option assigned to the [G] hot key.
+<->Guard Taser Certification program tooltip fixed.
+<->The Mud floor is slower to walk over.
+<->Corrected a legacy issue relating to the Need gain for large maps. Needs would previously rise too quickly on Large Maps due to lower timewarpfactor. 
+<->New icons added for Needs speech bubbles that were missing.
+<->Ability to turn off the double-click to move objects function, in Game Options.
+<->Even more staff and dog names added.
+<->Fixed issues with items stretching when rotated.
+<->Fixed a legacy issue with rotating tree saplings.
+<->Placing doors in Planning no longer removes the flooring below.
+<->Your last used filter setting is saved.
+<->Extra characters such as ä, ö, ü, ß now accepted by the search bar.
+<->Fixed a legacy issue where Notebook pages that were appearing during Escape mode/Cutscenes were inaccessible.
+<->Tons of other bug fixes.
+
+~~~~~~
+
+THE “BUCKET UPDATE” &
+“CLEARED FOR TRANSFER” DLC
+>DATE 14/05/20
+
+
+>“Cleared for Transfer” Free DLC
+We have just released the free “Cleared for Transfer” DLC which allows you to set up privileges for your prisoners per Security Sector. Inmates will be encouraged to change their ways in order to meet your criteria and be transferred to a lower (and more comfortable) prison wing.
+It’s up to you to decide whether to make the conditions and facilities better or worse per Security Sector, and how strict the transfer criteria is for inmates to meet in order to be transferred. The better the other security sectors are, the more inmates will want to transfer to them.
+
+Go grab the “Cleared for Transfer” DLC for free!
+
+Gaz, Games Design Manager at Double Eleven.
+
+
+>“The Bucket” Update
+“The Bucket” free update compliments the “Cleared for Transfer” DLC, alongside more of your community requests, new features, improvements and more.
+
+Click NEXT to see more...
+
+
+>[1/3] New Items
+
+<->New Items: Treadmill, Indoor Tree Planter, Boxing Ring, Table Football, Glass Windows, Warden Statue and much more...
+<->New Walls: Decayed, Derelict, Rusty, Slum, Bamboo Fence, Security Sectors and more.
+<->New Doors: Bamboo Gate, White Stripes.
+<->New Floors: Flowery Field, Running Track (fast), Bamboo.
+<->New fence option with grass below.
+
+>[2/3] New Features
+
+<->*Multiple rooms can now be upgraded, including Yards, Canteens, Common Rooms and more.
+<->*New “Room Quality” view in Logistics, showing the grade (comfort, facilities) per rooms. 
+<->*Some new walls and items will lower the Security Sector grade, such as the Derelict, Rusty and Slum walls.
+<->*New Sector Grading in Logistics! The grade combines the facilities, privileges and room grades within that sector. With the “Cleared for Transfer” DLC, this allows you to set up prisoner transfers between sectors.
+<->Brand new GYM room type.
+<->New quick rooms including Armoury, Infirmary and Library.
+<->Punishments and Searches (e.g. Shakedown, Lockdown, Bangup, etc) can now be initiated per Security Sector! This can be turned off in Game Options.
+<->Custom Security Sectors can now be created in Deployment.
+<->Deployment now allows Cooks, Doctors and other staff to be assigned.
+<->Gardeners and Janitors can now be prioritized within certain areas, to clean or tend to these areas first.
+<->“New Signs” menu to add number and letter signs to your walls.
+<->The Policy UI now allows Meal and Parole options to be adjusted per Security Sector.
+<->Auto-Foundations can be toggled On/Off in Planning 
+<->New Forestry prison labour.
+
+*Takes full effect with the “Cleared for Transfer” DLC.
+
+>[3/3] Additional QoL & Improvements
+
+<->Staff menu allows you to drag over and fire multiple staff at once.
+<->Adjusted the Objects shared between the minimum and expanded menus.
+<->Vehicle speed and support for removing shadow casting from objects is now exposed for modding.
+<->An indicator added showing Cells occupied by gang members.
+<->Certain objects can now appear beneath water, such as mats.
+<->Min, Med and Max Sec prisoners are now labelled consistently throughout the game.
+<->Doors with windows are now semi-transparent.
+<->Prisons can now be enclosed, with a bridge as the only entrance.
+<->Bridges can now be built over walls!
+<->Switching off Fog of War no longer leaves shadows behind.
+<->The ground type beneath trees is maintained when they are cut down and replanted.
+<->Fixed various crashes, including crashes occurring on the load of old saves.
+<->Various issues fixed with the Mail system, and mail backlog.
+<->Objects and other menus support mouse wheel scrolling.
+<->Barred walls allow heat to pass through.
+<->[Z] and [X] hotkeys now also work in the Tools and Cheat’s menus for cycling through the options.
+<->Prisoners rioting will now also target Power Generators and Water Pumps (in addition to the Armoury).
+<->Fixed an issue with Prisons Stories not supporting recently added Planning improvements.
+<->Fixed issues with prisoners being assigned a new cell after leaving solitary punishment.
+<->Fixed issues with text readability whilst zooming out.
+<->Fixed an issue where building a plan was awarding cash in some instances.
+<->Fixed an issue that prevented the "Wait and Hope" Steam achievement from unlocking correctly
+<->Tired dogs no longer become separated from their handlers.
+<->Search bar added to Walls & Doors menu.
+
+~~~~~~
+
+THE “ISLAND BOUND” & 
+“ROCK UPDATE” Expansion
+>
+
+>“Island Bound”- New DLC 
+<->The latest expansion for Prison Architect is available now!
+<->With Island Bound, players have the freedom and ability to create their own isolated island prisons, with deliveries, prisoners and other services transported in by sea and air.
+<->Island Bound introduces additional plot options to start your prison, to remove any connection to the mainland. You can even play without the road! 
+<->Boats, Helicopters, Docks and Helipads are also introduced, which can be linked to your delivery and export areas. Now you can choose to ship inmates separately to one side of your prison or island, and have deliveries brought in by air elsewhere.
+<->With more ports of entry for contraband, new Checkpoint stations can also be built, for guards to pat-down prisoners and visitors, and Crate Scanners to discover contraband stashed inside deliveries! 
+<->Island Bound also comes with new premade maps inspired by Alcatraz, new objects, flooring, Ferries for linking islands, Air Firefighters, a new Elite Ops Team, and much more!
+
+Gaz, Games Design Manager at Double Eleven.
+
+Click NEXT to see more...
+
+>“The Rock” Update
+“The Rock” free update compliments the “Island Bound” Expansion, alongside other improvements.
+
+<->Water Tiles - Water can be added to land, and land to water to shape your own islands, shorelines, moats and more.
+
+<->Dynamic Prisoner Reputations - When activated, this new option allows prisoners to gain and lose reputation characteristics based on their activities inside your prisons. Reps such as “Strong”, “Tough” or “Skilled Fighter” can be gained via time in the Yard or new Gym, or lost due to solitary confinement, for example. Many other reps can also be gained or lost via various different experiences.
+
+~~~~~~
+
+"GOING GREEN" DLC & 
+“THE GLASSHOUSE” UPDATE 
+>Prepare to get your hands dirty Wardens!
+
+>Going Green - New DLC:
+>   Fruits of Labor: 
+<->Farming introduces a new type of Prison Labor, allowing prisons to grow potatoes, wheat, apples and more. Produce can be exported, or used for inmate meals.
+>
+>   Room to Grow: 
+<->Three outdoor rooms facilitate farming: Fruit Orchard, Farming Field and Vegetable Allotment. Players can recruit staff Farm Workers, build a Pantry to store produce, and construct a Shed to store farming equipment.
+>
+>   Trouble is Brewing: 
+<->With new crops comes new contraband. Prisoners can now secretly grow Narcotics, and swipe ingredients to produce Booze. Fields can also become Gang Turf, so keep your guards on alert!
+>
+>   A Greener New Deal: 
+<->Prisons get an eco-friendly makeover with Solar, Wind, and Solar/Wind Hybrid power sources. Excess power created by these sustainable methods can be sold back to the grid using the Power Export Meter.
+
+Click NEXT to see more...
+
+>“The Glasshouse” update
+<->The Glasshouse free update sets the mood for the Going Green expansion and brings to you some of the community most requested improvements:
+<->New recycling system including the Recycling Bin object.
+<->New quick rooms: Yard, Grove and Hedge maze.
+<->Dump and demolish functionality improvements.
+<->New objects menu sorting methods.
+
+~~~~~~
+
+“SECOND CHANCES” DLC & 
+“The Pen” Update
+>Open the gates!
+
+>Second Chances - New DLC:
+>   Building Life Skills:
+<->Three new rooms for prisoners to work and learn in; a Bakery and Restaurant to produce food for visiting civilians and a Meeting Room to accommodate new Program sessions
+<->Some Prisoners have prior work experience suitable for jobs within the prison
+<->Prison jobs can now have their wages adjusted 
+>
+>   Prepping for Parole:
+<->Five new Rehabilitation Programs to enroll in: Reformed Prisoner Consultation, Three Strikes Training and Program, Conflict Resolution and Animal therapy!
+<->Sentences can be reduced/increased depending on a prisoner’s behaviour
+<->A Reform and Rehab Menu to monitor reoffending rates of all inmates, their work experience levels and the number of reoffending prisoners
+>
+>   Free to Go: 
+<->Earn bonuses for each successfully reformed prisoner as they reintegrate back into society. Fines will be incurred for reoffending prisoners - who may also return to your prison with even worse traits than before!
+Click NEXT to see more...
+
+>   And more...
+<->Customise your Prisoner Uniform Colour for any security type
+<->Take advantage of new Grants to help with reformation costs
+<->Quick Rooms: Bakery, Restaurant and Meeting Room
+<->DLC Info Tab added on the ToDo list
+
+>“The Pen” Update
+<->Narcotic Search! A new Security Order allowing Dog Handlers to search specifically for drugs 
+<->A Staff Keys’ policy allowing all staff to carry keys
+<->New Quick Room:  Reception
+<->Custom Intake: Enables you to choose your intake's arrival time
+<->Outdoor room restrictions relaxed for Classroom and Canteen
+<->A range of new objects
+
+~~~~~~
+
+"PERFECT STORM" DLC & 
+“THE TOWER” UPDATE 
+>Don't trust the calm before the storm!
+
+>Perfect Storm - New DLC:
+>   Preparing for the Worst:
+<->New options are available to enable both weather based events and a rat infestation system at different intensity levels
+<->Multiple support options are now available, new items & facilities, training programs, emergency services, and coverage plans
+<->You can also set up deterrents for rats, extinguishers and alarms for fires, and other items to help detect and prepare for changes in the weather 
+>
+>   Beware the rats:
+<->After meeting some minimum requirements rats can start appearing in your prison, so keep your prison clean and try to stay on top of any tunnels
+<->Dont fall for those cute little faces, at first they only make mess and nibble on ingredients but in higher numbers rats can cause disease, damage electrical cables & fences, and even dig tunnels
+>
+>   Calamitous Weather - part 1: 
+<->Three types of extreme weather have been added, all of which have 3 different levels of intensity, each containing sub-events that become more dangerous
+Click NEXT to see more...
+
+>
+>   Calamitous Weather - part 2: 
+<->Deep Freeze - the cold can cause damage to utilities and other items, make the ground and walls freeze over, and can be harmful to your inmates too
+<->Lightning Storm - storms can be dangerous and destructive, able to damage electricals, cause fires, lower structural integrity, and also present specific danger to your prisoners and staff
+<->Heatwave - this hot weather introduces the new hydration need for staff & prisoners and can cause heatstroke when not looked after. The heat can also effect items so keep your slightly blinded eyes open!
+>
+>   “THE TOWER” Update - part 1: 
+<->Two new guard dogs, based on a Shiba Inu and Black Setter respectively, they also come with the option for dogs to leave “little presents” around your prison
+<->The duration of visitation can now be customised, more time with family and associates will provide a stronger effect to a prisoner's needs
+<->Snipers also now have a non-lethal alternative, allowing escape attempts and hostile inmates to be stopped without any serious harm caused
+<->Along with these options, new items and flooring types have been added as well
+
+>
+>   “THE TOWER” Update - part 2: 
+<->Coloured Staff Doors
+<->Sofa, Luxury desk, Wooden and Swivel Chairs
+<->Wooden and Stained Glass Windows
+<->Fern Bush, Ivy, Willow Tree, Tree (Bare)	 
+<->Laminate Flooring, Carpet, Field Grass
+
+>	Special thanks to 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+~~~~~~
+
+"GANGS" DLC & 
+“KITE” UPDATE 
+>Tougher, smarter, and now with matching uniforms!
+
+>Gangs - New DLC:
+>   New prison gangs:
+<->Three new gang types have arrived to your prison to bring their own specific brands of trouble and management issues.  
+<->Each of these gangs will have their own personality and goals, from spreading their influence around your prison to taking over the contraband market.
+<->To help control the level of difficulty they bring to your prison we've added options to control the number of these gangs as well as the number of lieutenants each can have, which in turn affects the number of plays that gangs can make.
+>
+>   New gangs means new behaviours:
+<->Each of the new gangs will have their own specialised activities, from introducing more narcotics to using force to show the others who the boss is.
+<->Gangs can now take over new areas, making other prisoners pay them during any labour whilst also setting up a gang "dealer" in their areas to help sell anything they acquire.
+<->When a gang gains enough members they're also able to start making demands to make their stay a little more to their liking, the consequences for not accepting these demands can be disastrous.
+Click NEXT to see more...
+
+>   Crooked Guards:
+<->When a gang becomes prevalent enough, they can start having a negative effect on your guards.
+<->Guards can now be bribed by gang members, doing so will make sure that they "look the other way" when a gang plans to perform some kind of misconduct.
+<->Certain guards can also be paid to smuggle in contraband for gangs.
+>
+>   Management and Security:
+<->To help deal with suspicious staff, prisoner informants can be used to help point out any guards that have been corrupted.
+<->New programs are also available to both train guards and to also help gang members turn away from their gang and return to a normal, peaceful, life in incarceration.
+<->Ex-gang members will become targets for existing gang members so it's best to try and segregate gangs and ex-members away from one another when able.
+<->For those members of your prison that are harder to manage, new security options are also available, from marking specific individuals to help visibility to sending the most problematic ones away to another facility.
+Click NEXT to see more...
+
+>
+>   “KITE” Update:
+<->New wardens and dog types, Dylan Cook and Captain J. Locks have joined the team of available wardens bringing with them a new "random" selection option, along with 4 new types of guard dogs!
+<->Prisoners can now have their designated cells swapped manually, allowing you to pick who goes where. Though, gang leaders will tend to get priority on the best cell within any area belonging to their group.
+<->The intake system has been given an update also, first with prisoners now waiting for processing moving to the reception room instead of waiting out in the cold, along with a new a "Prisoner Replacement" option that will help maintain the prisons population based on the current ratio of security levels.
+<->Along with these new features there is also a new mutator option to remove room size requirements and some improvements to CCTV cameras that can be toggled through the deployment menu. 
+
+~~~~~~
+
+"THE FREE FOR LIFE" Update
+>New additions based on community feedback
+
+A group of both new features & QoL improvements with the majority chosen based on popular demand by the community. Your feedback is always noted and welcomed as it allows us to improve the experience for everyone.
+
+>	New Features
+<->Prisoner Aging: Long-term inmates will now be affected by the passage of time, becoming older, calmer, weaker and finally dying from old age.
+<->Guard Ranks: A number of your guards will be able to gain promotions, increasing both their stats and also their wages. When promoted all the way to being a specialist officer they will then also be trusted with a firearm.
+<->Building Guides: A few options have been added to make your design process a little easier. A grid overlay can be activated along with co-ordinates for each map cell, along with a new tooltip listing the dimensions when drawing your buildings. 
+<->Custom Quick Builds: Using the clone tool you can now save sections of your prison for later use.
+<->A log of events has been added to list any happenings within your prison, with each prisoner also having their own individual logs available from their menu.
+Click NEXT to see more...
+
+>	Qol Improvements
+<->Utilities have been separated into 3 groups for electrical, water and wiring items, to make setting them up easier.
+<->Regime options have been updated with some existing ones changed and new ones added to lower prisoner traffic in dangerous areas such as canteens and showers. Once prisoners have finished eating or showering, they can now continue to either Freetime or Lockup afterwards.
+<->The program scheduler has been updated to make the management of your programs easier and clearer.
+<->The Create Prison menu has also been updated with settings now separated between those linked to base game and DLCs. With a new option to save your preferences to make the creation process smoother and faster.
+<->The policy menu will also save any changes made upon being closed, with these changes being saved as your preference for any new prisons.
+>
+<->There is even more smaller additions as well and we hope that you all enjoy each and everyone of them!
+
+~~~~~~
+
+"UNDEAD" DLC & 
+“THE KICKSTAND” UPDATE 
+>Something evil is lurking in the dark
+
+>Undead - New DLC
+>   New Features
+<->The Undead: With a new option, undead can appear within your walls either by an infection event or via the new Graveyard room.
+<->Undead Tiers: Undead will have 3 tiers, from low to high, with higher tiered undead being faster, stronger and a little bit smarter.
+<->Graveyard: The Graveyard can be used by prisoners to relax, but it does have other occupants that sometimes like to come say hi.
+<->Undead Behaviour: They're always looking for new friends to bring into their little group. Even if most people will run screaming. 
+<->Payments: Though they are a little bitey, if you have them sectioned off securely they at least will pay you rent for their stay.
+<->Managing: We've added 2 new items to help, a lure and a new device to occupy any undead around it in the most practical way possible. 
+<->Bounty Hunter: A new emergency service who will roam your grounds clearing unwanted squatters.
+<->Visuals: Overlays, a new clock, aesthetic items, and a new staff uniform pack to help match the undead theme. Oh and also a Chainsaw. Enjoy. 
+Click NEXT to see more...
+
+>
+>The Kickstand - Free Update
+>   Qol Improvements
+<->New Dogs! - in the form of a majestic Corgi and a Siberian Husky, who is best girl. No bias at all.
+<->New Quick rooms - a new Security, Kennel, and Parole quick room has been added.
+<->CCTV cameras have been improved, with you now being able to lock them in place and also set their monitors as a priority for guards as a new policy.
+<->There's also a new empty room which can be used to help you in sectioning your prisons into different sectors without requiring different corridors.
+<->Speaking of sectioning, we've added lined concrete tiles to help visualise your sectors in normal gameplay.
+>
+<->We've added more smaller QoL improvements as well based on your feedback, so we hope you enjoy it.
+
+~~~~~~
+
+"FUTURE TECH PACK" DLC & 
+"THE SLAM" UPDATE 
+>The future is now! 
+
+>Future Tech Pack - New DLC
+>   New Features
+<->Uniform Pack: The second uniform pack has arrived, to support the futuristic theme your staff and prisoners will receive a sci-fi upgrade.
+<->Prisoner Tracking: Need help keeping your prisoners out of trouble? With the Tracking Monitor and Menu along with the other supporting items you can now keep a better eye on your chosen prisoners.
+<->Wall Types: The Electric Fence will stop any would-be climbers whereas the Glass Wall will improve guard visibility and a prisoners sense of freedom - though it will also reduce their privacy.
+<->Keycard Doors: Doors that can only be accessed by guards equipped with a Keycard or prisoners with tracking belts. Prisoner access can however be revoked for each individual door.
+<->Advanced Searchlights: Able to spot any misbehaviour and set off an alarm for action. 
+<->Stun Batons: A shocking improvement on the standard Guard equipment, able to more easily suppress any trouble.
+<->Video Call Booths: Allows prisoners to see their families without the dangers of physical visitation.
+<->Misc: With decorative flooring, a new clock style, warden, and other items!.
+Click NEXT to see more...
+
+>The Slam - Free Update
+>   QoL Improvements
+<->Visitor Only Zone - A new sector that will be prioritised by civilians, allowing them to enter or exit the prison through specific points.
+>
+<->Staff Break - You can now choose how many staff can take breaks specifically for Guards, Workers, and Cooks, instead of a general setting for all staff.
+>
+<->Gang Segregation - This option will now allow for non-gang members to be blocked from using cell blocks or dormitories assigned to gangs. 
+>
+<->Misc Improvements - More deployment schedule time slots, refined object filters, an improved Quick Connect tool for wiring, and also much more smaller improvements and fixes!
+
+~~~~~~
+
+"JUNGLE PACK" DLC &
+"JAILHOUSE" UPDATE
+>Welcome to the Jungle, we've got trees and stuff!
+
+>Jungle Pack - New DLC
+>   New Features
+<->Uniform pack: It's that time again, the third uniform pack has arrived! Change up the style of your prisoners and staff once more with this green theme.
+<->Tree Exports: Has the idea of chopping down the same trees become too mundane for you? Well don't worry, now you can cut down fancy exotic trees. 
+<->Tropical Fever: This new ailment will be brought to prisons via infected deliveries and visitors, it can spread like wildfire so beware of stranger danger.
+<->Visitor Reception: When coming to your prison, visitors will head to this room first and will be checked by guards or doctors for traces of fever, whilst also being checked for contraband.
+<->Cinema: Sometimes a TV screen just isn't big enough, for those of you that agree we present to you the cinema room. Keep your prisoners entertained and calm with this room during their freetime.
+<->Misc: New flooring, walls, doors, trees, wooden objects, a stealthier looking CCTV camera, a new clock face and a vaguely familiar looking Warden...
+
+Click NEXT to see more...
+
+
+
+>"Jailhouse" - Free Update
+>   QoL Improvements
+
+<->New Dog - It would be unfair of us not to share this sunshine boy with you, so please enjoy the wonder that is Toby and all that he stands and rolls over for.
+>
+<->Idle Guards - We've made it so that now instead of having large numbers of Guards idling within the delivery area they will now prioritize more important areas of the prison.
+>
+<->Quick Build Materials - Now when using a quick build, the last material selected will be saved when using that quick build again.
+>
+<->Deployment Scheduler - The scheduler menu has been given a small makeover to improve the user experience, making it clearer and easier to use.
+>
+<->Misc Improvements - We've re-balanced the Identity Thief reputation, the effects that suppression has on inmates becoming insane and other improvements and fixes!
+
+~~~~~~
+
+"Sunset" Update
+>Full of QoL improvements and bug fixes!
+
+>   QoL Improvements / Features
+<->Super Dog Mutator: Due to our undeniable fondness of them, we've added a new mutator based on the Super Guard mutator which will help give our furry friends an upgrade.
+<->Capacitor 2.0: I introduce to you, the Capacitor Max Plus - an upgraded version of the capacitor which allows your Power Stations to now produce twice the amount of power than they did before.
+<->Remote Doors: We have added a coloured variant of the remote doors for both Death Row and Supermax security levels.
+<->Riot Van Speed: Due to the efficiency of air-bound emergency units we have increased the movement speed of the Riot Guard Vans, to lower their arrival time. 
+<->Updated Descriptions: After sweeping through the game we decided to update or add a number of new text strings. As such we've updated text for Item descriptions, Staff descriptions, and also Need descriptions.
+
+<->With this update we have focused on improving the player experience as much as possible. 
+We thank you all for playing Prison Architect.
