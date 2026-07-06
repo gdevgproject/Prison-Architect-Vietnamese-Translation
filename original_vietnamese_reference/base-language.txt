@@ -1,1 +1,499 @@
-﻿
+﻿# =============================================================================
+# Basic dialog strings
+# =============================================================================
+
+dialog_new                             New
+dialog_load                      Tải
+dialog_save                      Lưu
+dialog_saveas                    Lưu thành
+dialog_delete                    Xóa
+dialog_width                     Chiều rộng
+dialog_height                    Chiều cao
+dialog_name                     Tên
+dialog_type                     Loại
+dialog_x                               X
+dialog_y                               Y
+dialog_z								Z
+dialog_w                               W
+dialog_h                               H
+dialog_exit                            Thoát
+dialog_cancel                          Hủy
+dialog_ok                              OK
+dialog_open                            Mở
+dialog_close                           Đóng
+dialog_closed                          Đã đóng
+dialog_add                             Thêm
+dialog_up                              Lên
+dialog_down                            Xuống
+dialog_yes                             Có
+dialog_no                              Không
+dialog_loading                         Đang tải...
+dialog_low                             Thấp
+dialog_medium                          Vừa
+dialog_high                            Cao
+dialog_none                            Không có
+ellipsis                               ...
+
+
+# =============================================================================
+# Dialog Editor
+# =============================================================================
+
+dialogeditor_title                      Trình chỉnh sửa hộp thoại
+dialogeditor_back                        Về sau
+dialogeditor_front                       Lên trước
+dialogeditor_reloadlanguage              Tải lại ngôn ngữ
+dialogeditor_test                        Thử nghiệm
+dialogeditor_window                      Cửa sổ
+dialogeditor_grid                        Lưới
+dialogeditor_caption                     Chú thích
+dialogeditor_component                   Thành phần
+dialogeditor_select						Chọn
+dialogeditor_create						Tạo
+dialogeditor_background                  Ảnh nền
+dialogeditor_panel                       Bảng điều khiển
+
+dialogcomponent_custom                  Tùy chỉnh
+dialogcomponent_button                  Nút
+dialogcomponent_container                Hộp chứa
+dialogcomponent_caption                  Chú thích
+dialogcomponent_titlecaption             Chú thích tiêu đề
+dialogcomponent_checkbox                 Hộp kiểm
+dialogcomponent_inputfield              Ô nhập liệu
+dialogcomponent_inputslider              Thanh trượt nhập liệu
+dialogcomponent_dropdownmenu             Menu thả xuống
+dialogcomponent_selectionlist            Danh sách lựa chọn
+dialogcomponent_selectionlistitem        Mục danh sách lựa chọn
+dialogcomponent_scrollbar                Thanh cuộn
+dialogcomponent_progressbar              Thanh tiến trình
+dialogcomponent_canvas                   Vùng vẽ
+dialogcomponent_iconbox					Hộp biểu tượng
+
+dialogposition_absolute                  Tuyệt đối
+dialogposition_relative                  Tương đối
+dialogposition_scaled                    Theo tỷ lệ
+
+
+# =============================================================================
+# Profiler
+# =============================================================================
+
+profiler_title                           Bộ phân tích hiệu năng
+profiler_name                            Tên
+profiler_timings                         Thời gian thực thi
+profiler_totaltime                       Tổng cộng
+profiler_glfinishcaption                 glFinish
+profiler_reset                           Đặt lại
+
+
+# =============================================================================
+# Sound tools
+# =============================================================================
+
+soundchannelviewer_title                 Kênh âm thanh
+soundeditor_title                        Trình chỉnh sửa âm thanh
+soundinstanceeditor_title				Trình chỉnh sửa phiên bản âm thanh
+
+soundeditor_positiontitle		        Loại vị trí
+soundeditor_instancetitle		        Loại phiên bản
+soundeditor_looptitle			        Loại lặp
+soundeditor_sourcetypetitle		        Loại âm thanh
+soundeditor_soundnametitle		        Tên âm thanh
+
+soundeditor_volumetitle			        Âm lượng
+soundeditor_frequencytitle               Tần số
+soundeditor_mindistancetitle             Khoảng cách tối thiểu
+soundeditor_attacktitle                  Attack
+soundeditor_sustaintitle                 Sustain
+soundeditor_releasetitle                 Release
+soundeditor_loopdelaytitle               Độ trễ lặp
+soundeditor_dsptitle                     DSP
+soundeditor_nexteventtitle               Sự kiện tiếp theo
+
+soundeditor_play                         Phát
+soundeditor_stop                         Dừng
+
+soundparametereditor_title               Tham số âm thanh
+soundparametereditor_typetitle          Loại
+soundparametereditor_linktitle          Liên kết với
+soundparametereditor_updatetitle        Loại cập nhật
+soundparametereditor_smoothing           Làm mượt
+soundparametereditor_chaintitle          Chuỗi
+
+soundeditor_newdsp                       Thêm DSP
+sounddspeditor_title                     Trình chỉnh sửa DSP
+samplebankeditor_title                  Trình chỉnh sửa ngân hàng mẫu âm
+samplebankeditor_addsample               Thêm âm thanh
+samplebank                               (Ngân hàng mẫu âm)
+
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+interfacemode_done                             Xong
+interfacemode_destroy                          Phá hủy
+interfacemode_foundations				       Móng công trình
+interfacemode_construction                     Vật liệu
+interfacemode_planning                         Lập kế hoạch
+interfacemode_objects                          Vật thể
+interfacemode_designation                      Phòng
+interfacemode_utilities                        Tiện ích
+interfacemode_staff                            Nhân viên
+interfacemode_deployment                       Bố trí
+interfacemode_logistics                        Hậu cần
+interfacemode_prisoners                        Tù nhân
+interfacemode_needs                            Nhu cầu
+interfacemode_threats                          Mối đe dọa
+interfacemode_overlays                         Lớp phủ
+interfacemode_research                         Hành chính
+interfacemode_emergencies                      Khẩn cấp
+interfacemode_clone                            Nhân bản
+interfacemode_contraband                       Tình báo
+interfacemode_grading                          Xếp hạng
+interfacemode_spawn                            (Tạo ra)
+interfacemode_properties                       (Thuộc tính)
+interfacemode_cutscenes                        (Cảnh cắt)
+interfacemode_selection                        Chọn
+interfacemode_prefabs                          Xây nhanh
+
+interfaceoverlay_security                       An ninh
+interfaceoverlay_patrols                        Tuần tra
+interfaceoverlay_decay                          Xuống cấp
+interfaceoverlay_territory                      Lãnh thổ
+interfaceoverlay_contraband                     Hàng cấm
+
+interfaceproperty_indoor                        Trong nhà
+interfaceproperty_visible                       Hiển thị
+interfaceproperty_territoryprisoner             Băng đảng
+interfaceproperty_territoryguard                Cai ngục
+interfaceproperty_sectorprisoner                Bạo loạn
+interfaceproperty_tunnel                        Hầm
+
+
+interfacedeployment_removeguards                Rút cai ngục
+interfacedeployment_clearpatrols                Xóa tuyến tuần tra
+interfacedeployment_targetting                  Hậu cần
+interfacedeployment_targettingfood              Hậu cần đồ ăn
+interfacedeployment_targettinglaundry           Hậu cần giặt ủi
+interfacedeployment_securearea                  Khu vực an toàn
+interfacedeployment_sharedzone                  Dùng chung
+interfacedeployment_staffonlyzone               Chỉ riêng nhân viên
+interfacedeployment_maxseczone                  Chỉ an ninh cao
+interfacedeployment_medseczone                  Chỉ an ninh vừa
+interfacedeployment_minseczone                  Chỉ an ninh thấp
+interfacedeployment_protectedzone               Chỉ giam bảo hộ
+interfacedeployment_supermaxzone                Chỉ SuperMax
+interfacedeployment_deathrowzone                Chỉ tử tù
+interfacedeployment_unlockedzone                Mở khóa
+interfacedeployment_zonered                     Khu Đỏ
+interfacedeployment_zonegreen                   Khu Lục
+interfacedeployment_zoneblue                    Khu Lam
+interfacedeployment_zoneyellow                  Khu Vàng
+interfacedeployment_zoning                      Phân khu
+interfacedeployment_accessonly					Hạn chế qua lại
+interfacedeployment_prisonerdirection			Hướng đi tù nhân
+interfacedeployment_staffdirection				Hướng đi người khác
+
+interfacelogistics_jobs                         Lao động tù nhân
+interfacelogistics_removejobs                   Xóa lao động
+interfacelogistics_targettingfood               Phân phối đồ ăn
+interfacelogistics_targettinglaundry            Phân phối giặt ủi
+interfacelogistics_roomquality                  Chất lượng phòng
+interfacelogistics_weathermap                  Nhiệt độ
+
+interfaceplanning_wall							Tường
+interfaceplanning_object						Vật thể
+interfaceplanning_route							Đường đi
+interfaceplanning_clear							Xóa
+interfaceplanning_zone1							Khu vực 1
+interfaceplanning_zone2							Khu vực 2
+interfaceplanning_zone3							Khu vực 3
+interfaceplanning_zone4							Khu vực 4
+interfaceplanning_zone5							Khu vực 5
+interfaceplanning_zone6							Khu vực 6
+interfaceplanning_zone7							Khu vực 7
+interfaceplanning_zone8							Khu vực 8
+interfaceplanning_zone9							Khu vực 9
+
+interfacecontraband_source                      Nguy hiểm
+interfacecontraband_day                         -24 Giờ
+interfacecontraband_week                        -7 Ngày
+interfacecontraband_alltime                     -30 Ngày
+interfacecontraband_stolenfrom					Bị trộm từ
+interfacecontraband_informants                  Chỉ điểm viên
+interfacecontraband_gangs                       Băng đảng
+
+interfacecallout_fireengine                     Xe cứu hỏa
+interfacecallout_riotpolice                     Cảnh sát bạo động
+interfacecallout_armedpolice                    Cảnh sát vũ trang
+interfacecallout_paramedics                     Cấp cứu viên
+interfacecallout_soldiers                       Binh lính
+
+interfaceclone_copy                             Sao chép
+interfaceclone_paste                            Dán
+interfaceclone_cancel                           Hủy xây nhanh
+interfaceclone_clone                            Nhân bản
+
+interfacetopbar_todo							Việc cần làm
+interfacetopbar_balance							Ngân hàng *B
+interfacetopbar_budget							Dòng tiền *C
+interfacetopbar_income							Thu nhập *I
+interfacetopbar_expenses						Chi phí *C
+interfacetopbar_day								NGÀY *D
+
+interfacetopbar_title_balance					Số dư tài khoản
+interfacetopbar_title_budget					Dòng tiền hàng ngày
+interfacetopbar_title_cctv						CCTV
+interfacetopbar_title_day						Ngày
+interfacetopbar_title_prisoners					Tù nhân
+interfacetopbar_title_guards					Cai ngục
+interfacetopbar_title_tension                    Mức nguy hiểm
+interfacetopbar_title_weathericon                Thời tiết
+
+interfacetopbar_tooltip_balance					Số tiền mặt bạn có trong ngân hàng.\n\nNhấp để huy động thêm vốn thông qua danh sách Trợ cấp.
+interfacetopbar_tooltip_budget					Số tiền bạn sẽ nhận được mỗi ngày, dựa trên chi phí và thu nhập hiện tại của bạn.\n\nNhấp để xem bảng phân tích tài chính chi tiết về thu nhập và chi phí. 
+interfacetopbar_tooltip_cctv					Số lượng camera và màn hình CCTV bạn hiện có.
+interfacetopbar_tooltip_day						Thời gian bạn đã điều hành nhà tù của mình.
+interfacetopbar_tooltip_prisoners				Số lượng tù nhân bạn đang có và số lượng bạn có thể chứa trong nhà tù của mình.
+interfacetopbar_tooltip_guards					Số lượng cai ngục sẵn sàng làm việc trong nhà tù của bạn.
+interfacetopbar_tooltip_tension                 Mức độ nguy hiểm tổng thể của nhà tù, theo báo cáo của trưởng an ninh.
+interfacetopbar_tooltip_weathericon              Thời tiết và nhiệt độ hiện tại.
+
+interfacetopbar_tooltip_recenttransactions      Giao dịch gần đây
+
+interfacetopbar_tooltip_gametime                Tổng thời gian đã chơi : *X giờ, *Y phút, *Z giây
+
+interfacetopbar_tooltip_totalguards             Tổng cộng *X cai ngục
+interfacetopbar_tooltip_guardincapacitated      *X Bị mất sức chiến đấu
+interfacetopbar_tooltip_guardstationed          *X Đang trực 
+interfacetopbar_tooltip_guardpatrolling         *X Đang tuần tra
+interfacetopbar_tooltip_guardavailable          *X Sẵn sàng
+interfacetopbar_tooltip_guardresting            *X Đang nghỉ
+interfacetopbar_tooltip_guardonbreak            *X Đang giải lao
+interfacetopbar_tooltip_guardwantsabreak        (*X cần nghỉ giải lao)
+interfacetopbar_tooltip_guardactive              (*X Đang ứng phó sự cố)
+interfacetopbar_tooltip_guarddoingjob           *X Đang làm việc
+interfacetopbar_tooltip_idle                    (*X đang rảnh rỗi)
+interfacetopbar_tooltip_guardsstriking          *X ĐANG ĐÌNH CÔNG
+
+interfacetopbar_tooltip_regularguards			Có *X cai ngục thường
+interfacetopbar_tooltip_armedguards             Có *X cai ngục vũ trang
+interfacetopbar_tooltip_dogs                    Có *X người dắt chó
+interfacetopbar_tooltip_snipers					Có *X xạ thủ
+
+interfacetopbar_unlimitedfunds                  VÔ HẠN TIỀN
+interfacetopbar_cheatsenabled					ĐÃ BẬT GIAN LẬN
+
+interfacetopbar_budget_moneyin					Dòng tiền vào: $*M /ngày
+interfacetopbar_budget_moneyout					Dòng tiền ra: $*M /ngày
+interfacetopbar_budget_cantgonegative            Bạn không thể có dòng tiền âm (tức là chi phí nhiều hơn thu nhập) cho đến khi bạn thuê một Kế toán để quản lý tài chính của mình.
+
+interfacetopbar_prisoners_types					Hiện đang giam giữ *X tù nhân:
+interfacetopbar_prisoners_capacity              Sức chứa an toàn tối đa: *X
+interfacetopbar_prisonercells_shared            Sức chứa khu dùng chung: *X
+interfacetopbar_prisonercells_unlocked          Sức chứa khu mở khóa: *X
+interfacetopbar_prisonercells_minseconly        Sức chứa an ninh thấp: *X
+interfacetopbar_prisonercells_medseconly        Sức chứa an ninh vừa: *X
+interfacetopbar_prisonercells_maxseconly        Sức chứa an ninh cao: *X
+interfacetopbar_prisonercells_protectedonly     Sức chứa giam bảo hộ: *X
+interfacetopbar_prisonercells_supermaxonly      Sức chứa SuperMax: *X
+interfacetopbar_prisonercells_deathrowonly      Sức chứa tử tù: *X
+interfacetopbar_prisonercells_staffonly         Không khả dụng: *X
+interfacetopbar_prisoners_nocells                *X tù nhân không thể được xếp vào phòng giam
+interfacetopbar_prisonercells_parents            Sức chứa phụ huynh: *X
+
+interfacetopbar_cctv_current					Hiện đang chạy *C camera
+interfacetopbar_cctv_cap						Chỗ cho *C camera
+
+interfacetopbar_tension_currentlevel             Mức độ nguy hiểm là *X
+interfacetopbar_tension_currentlevellow          Thấp
+interfacetopbar_tension_currentlevelmedium       Vừa
+interfacetopbar_tension_currentlevelhigh        Cao
+interfacetopbar_tension_increasing              và đang tăng
+interfacetopbar_tension_decreasing              và đang giảm
+interfacetopbar_tension_description              YẾU TỐ:
+interfacetopbar_tension_happyprisoners          - *X tù nhân nói họ được đối xử tốt
+interfacetopbar_tension_unhappyprisoners        + *X tù nhân có khiếu nại nghiêm trọng
+interfacetopbar_tension_lockedupprisoners        + *X tù nhân đang bị cùm trong phòng hoặc biệt giam
+interfacetopbar_tension_riotingprisoners        + *X tù nhân đang bạo loạn
+interfacetopbar_tension_wellfedprisoners        - *X tù nhân được ăn uống đầy đủ
+interfacetopbar_tension_suppressedprisoners      = *X tù nhân bị trấn áp (tuân thủ)
+interfacetopbar_tension_activeriotguards        + *X cảnh sát bạo động có mặt tại hiện trường
+interfacetopbar_tension_activearmedguards        + *X cai ngục vũ trang đang làm nhiệm vụ
+interfacetopbar_tension_recentdeaths            + *X người đã bị giết gần đây
+interfacetopbar_tension_recentsearches          + *X tù nhân bị khám xét không cần thiết gần đây
+interfacetopbar_tension_angrygangmembers        + *X THÀNH VIÊN BĂNG ĐẢNG ĐANG GIẬN DỮ (trùm băng đảng đang bị trừng phạt)
+interfacetopbar_tension_recentpunishments        = (RĂN ĐE) *X hình phạt đã được đưa ra gần đây
+interfacetopbar_tension_recentcalmed            - *X tù nhân đã được xoa dịu gần đây
+interfacetopbar_tension_staffmorale_low			+ Tinh thần nhân viên thấp
+interfacetopbar_tension_staffmorale_high		- Tinh thần nhân viên cao
+interfacetopbar_tension_staffonstrike           + Nhân viên của bạn đang đình công
+interfacetopbar_tension_dangerzone				+ KHU VỰC NGUY HIỂM!
+interfacetopbar_tension_hoursonrollcall         + Tù nhân tức giận về việc Điểm danh
+
+interfacetopbar_staffmorale_title				TINH THẦN NHÂN VIÊN
+interfacetopbar_staffmorale_happystaff			+ *X nhân viên hài lòng với công việc
+interfacetopbar_staffmorale_unhappystaff		- *X nhân viên có khiếu nại nghiêm trọng 
+interfacetopbar_staffmorale_injuredstaff		- *X nhân viên bị thương
+interfacetopbar_staffmorale_staffdeaths			- *X nhân viên đã hy sinh khi làm nhiệm vụ
+interfacetopbar_staffmorale_staffpayverygood	+ Nhân viên được trả lương cực kỳ tốt
+interfacetopbar_staffmorale_staffpaygood		+ Nhân viên được trả lương tốt
+interfacetopbar_staffmorale_staffpaybad 		- Nhân viên không được trả đủ lương
+
+interfacecontrol_mainmenu                        Menu chính (Esc)
+interfacecontrol_mainmenu_tooltip                Bật/tắt menu chính (Mới/Tải/Lưu/Thoát v.v.)
+interfacecontrol_todo                            Danh sách việc cần làm
+interfacecontrol_todo_tooltip                    Bật/tắt danh sách việc cần làm
+interfacecontrol_research                        Hành chính
+interfacecontrol_research_tooltip                Mở màn hình Hành chính, nơi bạn có thể phân công quản trị viên của mình để mở khóa các vật phẩm, loại nhân viên và cơ sở hạ tầng mới.
+interfacecontrol_grading                         Xếp hạng trại
+interfacecontrol_grading_tooltip                 Mở màn hình Xếp hạng trại, hiển thị đánh giá tổng thể về mức độ thành công của bạn.
+interfacecontrol_graphs                          Biểu đồ
+interfacecontrol_graphs_tooltip                  Mở màn hình Biểu đồ, cho phép bạn so sánh biểu đồ về các khía cạnh khác nhau của nhà tù.
+
+interface_confirmlandbuy                        Bạn có chắc chắn muốn mua mảnh đất này với giá $*X?
+interface_loadconfirm                            Bạn có chắc chắn muốn tải bản đồ này không? Tất cả tiến trình chưa lưu sẽ bị mất.
+interface_saveconfirm                            Bạn có chắc chắn muốn lưu với tên tệp này không? Dữ liệu hiện tại sẽ bị ghi đè.
+
+interface_landbuylabel                          *Xm x *Ym. Tổng diện tích *A mét vuông. *C
+
+interface_action_dismantle                      Tháo dỡ
+interface_action_dump                            Vứt bỏ
+interface_action_repair                          Sửa chữa
+interface_action_medicalbay                      Trạm y tế
+interface_action_search                          Khám xét
+interface_action_searchcell                      Khám phòng giam
+interface_action_searchcellblock                 Khám dãy phòng giam
+interface_action_searchtoilets                  Khám bồn cầu
+interface_action_sack                            Sa thải
+interface_action_dooropen                        Mở cửa
+interface_action_doormodenormal                  Chế độ cửa: Bình thường
+interface_action_doormodelockedshut              Khóa đóng
+interface_action_doormodelockedopen              Khóa mở
+interface_action_switchon                        Bật
+interface_action_switchoff                       Tắt
+interface_action_sellobject                      Bán vật thể
+interface_action_dismiss                         Giải tán
+interface_action_connect                         Kết nối
+interface_action_clearconnections                Xóa kết nối
+interface_action_servoopen                        Mở khi kích hoạt
+interface_action_servoclose                       Đóng khi kích hoạt
+interface_action_follow                          Đi theo
+interface_action_rapsheet                        Xem hồ sơ tội danh
+
+interface_contents_container                    Bên trong : *X 
+interface_contents_stack                        Bên trong : *X x *Y 
+
+interface_skip                                  BỎ QUA
+
+interface_error_riotmove                        Không thể vào: Bạo loạn
+
+interface_foundationsinprogress                  Đang xây móng
+riot_underway                                    BẠO LOẠN ĐANG DIỄN RA
+riot_status_prisoners                            *X tù nhân đang bạo loạn
+shakedown_underway                                KHÁM XÉT ĐỘT XUẤT ĐANG DIỄN RA
+shakedown_found                                  Tìm thấy:
+
+gameover_caption                                Nhấn ESC để tiếp tục
+
+sector_jobs_max                                  Công việc tối đa *X
+sector_jobs_qualified                            Tù nhân đủ điều kiện: *X
+sector_jobs_required                             (Yêu cầu: *X)
+sector_noaccess                                  CẤM VÀO
+sector_insecure                                  KHÔNG AN TOÀN
+
+
+# =============================================================================
+# Hardware Compatibility
+# =============================================================================
+
+hardware_compat_title					Kiểm tra tương thích phần cứng
+hardware_compat_message					Nếu được bạn cho phép, chúng tôi muốn thu thập dữ liệu phần cứng sau đây từ máy tính của bạn.\n\nThông tin này hoàn toàn ẩn danh và sẽ giúp chúng tôi đảm bảo Prison Architect được hỗ trợ trên phạm vi phần cứng máy tính rộng nhất có thể.\n\nXin cảm ơn!
+hardware_compat_accept					Chấp nhận
+hardware_compat_decline					Từ chối
+
+connectionmenu_connect                  Kết nối
+connectionmenu_disconnect                Ngắt kết nối
+connectionmenu_clear                    Xóa
+connectionmenu_done                      Xong
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_title                      Xây dựng
+buildtoolbar_reports                    Báo cáo
+buildtoolbar_bangup                     Dồn về phòng giam
+buildtoolbar_lockdown                   Phong tỏa
+buildtoolbar_shakedown                  Khám xét đột xuất
+buildtoolbar_weaponsfree                Cho bắn tự do
+buildtoolbar_rollcall                   Điểm danh
+
+buildtoolbar_tooltip_reports			Mở cửa sổ báo cáo để xem thông tin về tù nhân, nhân viên, thu nhập, trợ cấp của bạn và nhiều thông tin khác.
+buildtoolbar_tooltip_bangup				Đưa tất cả tù nhân (sẵn sàng) trở lại phòng giam của họ. Điều này sẽ khiến tù nhân của bạn rất tức giận nếu bạn để họ bị giam giữ quá lâu.
+buildtoolbar_tooltip_lockdown			Khóa ngay lập tức tất cả các cửa trong nhà tù.
+buildtoolbar_tooltip_shakedown          Ra lệnh khám xét ngay lập tức tất cả các Phòng giam. Việc này sẽ mất một chút thời gian và sẽ làm phiền các tù nhân của bạn rất nhiều.
+buildtoolbar_tooltip_weaponsfree        Cho phép cai ngục sử dụng vũ lực gây tử vong. Xạ thủ sẽ không còn bắn cảnh cáo trước khi hạ gục mục tiêu.
+buildtoolbar_tooltip_nostrike            Không khả dụng khi Nhân viên đình công.
+buildtoolbar_tooltip_rollcall            Gọi tất cả tù nhân đứng bên ngoài phòng giam của họ. Chỉ khả dụng trong lịch sinh hoạt ngủ và vào ban đêm.
+
+buildtoolbar_cost						Chi phí: $*C
+buildtoolbar_cost_sqrft					Chi phí: $*C /ô
+buildtoolbar_wages						Tiền lương: $*W mỗi ngày
+buildtoolbar_upkeep						Bảo trì: $*W mỗi ngày
+buildtoolbar_outdoor					Chỉ ngoài trời
+buildtoolbar_indoor						Chỉ trong nhà
+buildtoolbar_walk_speed					Tốc độ đi bộ: *S
+buildtoolbar_walk_speed_slow			Chậm
+buildtoolbar_walk_speed_norm			Bình thường
+buildtoolbar_walk_speed_fast			Nhanh
+buildtoolbar_walk_speed_Veryfast		Rất nhanh
+buildtoolbar_locked                     ĐÃ KHÓA
+buildtoolbar_locked_research			ĐÃ KHÓA (Bạn cần *B)
+buildtoolbar_locked_administrator		ĐÃ KHÓA (Yêu cầu *B)
+buildtoolbar_room						Phòng
+
+buildtoolbar_electrical                 - Hệ thống điện
+buildtoolbar_highpower                  - Công suất cao
+buildtoolbar_water                      - Yêu cầu kết nối nước
+buildtoolbar_wired                      - Được nối dây (kết nối với các vật thể nối dây khác)
+buildtoolbar_modcontent                 - Nội dung Mod
+
+buildtoolbar_popup_foundations			Xây dựng/Phá dỡ các tòa nhà để định hình nhà tù của bạn.
+buildtoolbar_popup_construction			Các loại sàn và tường khác nhau.
+buildtoolbar_popup_designation			Chỉ định các khu vực trong nhà tù của bạn với một chức năng cụ thể. Nhấp chuột phải và giữ để kéo và xóa phòng.
+buildtoolbar_popup_objects				Đặt các vật phẩm hữu ích xung quanh nhà tù của bạn.
+buildtoolbar_popup_overlays				Xác định trực quan các điểm yếu trong bố cục nhà tù của bạn.
+buildtoolbar_popup_utilities			Hệ thống ống nước và điện.
+buildtoolbar_popup_staff				Thuê những người cần thiết để duy trì hoạt động nhà tù của bạn.
+buildtoolbar_popup_deployment			Phân công nhân viên đến các khu vực trong nhà tù của bạn.
+buildtoolbar_popup_logistics            Phân công tù nhân làm việc xung quanh nhà tù của bạn. Đồng thời kiểm soát thủ công các chỉ định nhà ăn và giặt ủi.
+buildtoolbar_popup_research				Mở khóa các khả năng mới cho nhà tù của bạn.
+buildtoolbar_popup_emergencies			Gọi dịch vụ khẩn cấp nếu tình hình trở nên tồi tệ hơn.
+buildtoolbar_popup_clone				Sao chép và dán các cấu trúc hiện có của bạn.
+buildtoolbar_popup_properties			Tìm hiểu các thứ linh tinh.
+buildtoolbar_popup_contraband            Hiển thị các nguồn Hàng cấm, và tất cả hàng cấm mới thu hồi gần đây trong nhà tù của bạn. Cũng hiển thị các Chỉ điểm viên và thông tin của họ.
+buildtoolbar_popup_grading              Xem xếp hạng trại tổng thể của bạn dựa trên bốn chỉ số chính - Trừng phạt, Cải tạo, An ninh, và Sức khỏe. Đồng thời hiển thị tỷ lệ tái phạm của nhà tù của bạn.
+buildtoolbar_popup_prefabs              Sao chép và dán các phần hiện có của nhà tù, hoặc đặt các phòng được xác định trước.
+buildtoolbar_popup_room_cell			Nơi tù nhân của bạn sinh sống.
+buildtoolbar_popup_room_holdingcell		Phòng nơi những tù nhân mới tiếp nhận được xếp vào cho đến khi tìm được phòng giam cho họ.
+buildtoolbar_popup_room_solitary		Một hình thức giam giữ cách ly dành cho những kẻ tồi tệ nhất trong số những kẻ tồi tệ.
+buildtoolbar_popup_room_dormitory       Một phòng có kích thước thay đổi để chứa nhiều tù nhân. Phòng giam tập thể càng lớn thì càng chứa được nhiều tù nhân.
+buildtoolbar_popup_room_familycell      Nơi tù nhân của bạn sinh sống, nếu họ có con nhỏ.
+buildtoolbar_popup_room_sharedcell      Một phòng giam nhiều người để giữ nhiều tù nhân. Có thể chứa tối đa 8 tù nhân.
+buildtoolbar_popup_room_canteen			Nơi tù nhân của bạn sẽ dùng trà chiều.
+buildtoolbar_popup_room_kitchen			Khu vực để đầu bếp chuẩn bị đồ ăn cho tù nhân của bạn.
+buildtoolbar_popup_room_shower			Được sử dụng để giữ cho tù nhân của bạn sạch bong kin kít và không có chấy rận.
+buildtoolbar_popup_room_yard			Để tù nhân của bạn nhìn thấy mặt trời vài giờ một ngày dưới sự giám sát chặt chẽ của các tháp canh xạ thủ.
+buildtoolbar_popup_room_storage			Khu vực được chỉ định để chứa bất kỳ vật liệu nào nhân viên nhà tù của bạn cần.
+buildtoolbar_popup_room_deliveries		Nơi hàng hóa, vật liệu và tù nhân của bạn được giao đến.
+buildtoolbar_popup_room_garbage			Nơi thu gom rác thải của bạn.
+buildtoolbar_popup_room_execution		Nơi bạn gửi tù nhân của mình đến cái chết.
+buildtoolbar_popup_room_workshop		Nơi bạn gửi tù nhân của mình đến để chết vì buồn chán trong khi làm biển số xe cho bạn.
+buildtoolbar_popup_room_security		Văn phòng cho các Sĩ quan của bạn.
+buildtoolbar_popup_room_office			Khu vực để nhân viên hành chính của bạn làm việc.
+buildtoolbar_popup_room_morgue			Nơi bạn gửi các tù nhân và nhân viên đã chết đến.
+buildtoolbar_popup_room_commonroom		Cho phép tù nhân của bạn có một số thời gian rảnh để thư giãn.
+buildtoolbar_popup_room_kennel          Nơi chó của bạn sống.
