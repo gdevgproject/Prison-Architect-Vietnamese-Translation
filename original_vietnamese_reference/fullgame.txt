@@ -1,1 +1,1014 @@
-﻿
+﻿campaigncutscene_tooltip 				(Nhấp để chuyển sang chương tiếp theo của câu chuyện)
+campaignchapter_locked                  (Đã khóa)
+
+
+# =============================================================================
+# Food / Palermo
+# =============================================================================
+
+campaignchapter_food                    Palermo
+
+campaignchapter_food_description        Một vụ hỏa hoạn lớn đã thiêu rụi nhà bếp và nhà ăn của nhà tù này. Nếu chúng ta không tìm cách cho tù nhân ăn sớm, một cuộc bạo loạn toàn diện sẽ nổ ra.\nHãy giải quyết cuộc khủng hoảng lương thực rồi xây dựng lại Nhà bếp và Nhà ăn.
+
+adviser_food_fire_1                     Một cuộc khủng hoảng đang nhen nhóm tại một trong những cơ sở khác của chúng ta.
+adviser_food_fire_2                     Ai đó đã phóng hỏa trong nhà bếp nhà tù. Ưu tiên hàng đầu là dập tắt nó, ngăn chặn thương vong và tránh thiệt hại thêm. 
+adviser_food_fire_3                     Sử dụng nút Dịch vụ Khẩn cấp trên thanh công cụ để gọi đội cứu hỏa. 
+adviser_food_fire_4                     Hãy khống chế đám cháy này trước khi nó thiêu rụi toàn bộ nhà tù!
+
+objective_food_callfirebrigade          Gọi đội cứu hỏa
+objective_food_extinguishflames         Dập tắt ngọn lửa
+
+objective_food_callfirebrigade_description 	Để gọi đội cứu hỏa, hãy nhấp vào nút Khẩn cấp trên thanh công cụ rồi nhấp vào Lính cứu hỏa
+objective_food_extinguishflames_description  Khi bạn chọn lính cứu hỏa, bạn có thể tự hướng vòi rồng của họ bằng cách giữ phím H. Hãy dùng phím này để tập trung vòi rồng vào tâm ngọn lửa.\n\nHãy cố gắng giữ lính cứu hỏa càng gần đám cháy càng tốt - họ sẽ làm việc hiệu quả hơn.
+
+adviser_food_savedon1                   Chúa ơi, có người sống sót trong đống đổ nát.
+adviser_food_savedon2					Mẹ kiếp, đó là Don Palermo. Trong số tất cả tù nhân... lại cứ phải là lão trùm sò của chúng ta. 
+adviser_food_donintro2					Tin xấu cho lão là việc cắt giảm ngân sách đồng nghĩa với việc chúng ta phải sa thải toàn bộ bác sĩ chính thức. 
+adviser_food_donintro3				 	Tin tốt là Trạm y tế của chúng ta vẫn dùng được. Hãy thuê vài Bác sĩ và họ sẽ chăm sóc cho Don Palermo trong khi chúng ta giải quyết mớ hỗn độn này.
+
+adviser_food_afterfire3                 Chúng ta cần dọn dẹp mớ hỗn độn này.
+adviser_food_afterfire4                 Sử dụng công cụ san phẳng để phá dỡ nhà ăn và nhà bếp đã bị hủy hoại. Bạn cần dọn sạch mọi mảnh vỡ. 
+adviser_food_afterfire6                 Chỉ định một Khu rác nằm cạnh con đường. Thợ xây của chúng ta sẽ vứt đống đổ nát ở đó để xe rác đến thu gom.
+adviser_food_dismissfiremen1			Cuối cùng, bạn có thể cho những người lính cứu hỏa đó về nhà khi họ đã hoàn thành nhiệm vụ được không.
+adviser_food_gamespeed                  Việc phá dỡ các tòa nhà đó sẽ mất một thời gian. Bạn có thể cho thời gian trôi nhanh hơn bằng cách sử dụng các nút dưới đồng hồ.
+
+adviser_food_todolist1					Tôi đã thêm thông tin chi tiết về từng mục tiêu này vào danh sách việc cần làm của bạn.
+adviser_food_todolist2					Bất cứ khi nào bạn không chắc phải làm gì, hãy rê chuột vào mục tiêu và bạn sẽ thấy các hướng dẫn bổ sung.
+
+objective_food_buildmedicalward_doctors Thuê vài Bác sĩ để làm việc tại Trạm y tế
+
+objective_food_DismissAllFiremen		Giải tán đội cứu hỏa
+objective_food_cleararea                Dọn dẹp đống đổ nát do hỏa hoạn 
+objective_food_buildgarbagearea         Chỉ định một Khu rác
+objective_food_clearcanteen             Dọn dẹp đống đổ nát nhà ăn
+objective_food_clearkitchen             Dọn dẹp đống đổ nát nhà bếp
+objective_food_hiremoreworkmen			(TÙY CHỌN) Thuê thêm thợ xây để tăng tốc độ phá dỡ
+
+objective_food_dismissallfiremen_description 	Để giải tán một đội Dịch vụ Khẩn cấp, hãy tìm biểu tượng của họ ở bên phải màn hình và nhấp vào nút vòng tròn dấu X màu đỏ để cho họ về.
+objective_food_cleararea_description 	Sử dụng công cụ San phẳng để phá dỡ các tòa nhà. Công cụ san phẳng nằm trong mục 'Nền móng' trên thanh công cụ chính.
+
+adviser_food_familyvisit1				Làm tốt lắm.
+adviser_food_familyvisit2 				Hãy đi kiểm tra tình hình thương vong của chúng ta xem sao.
+
+adviser_food_troublesoon1				Nếu không có thức ăn, những tù nhân này sẽ phá sập các bức tường trong vòng vài ngày tới.
+adviser_food_troublesoon2 				Chúng ta phải bảo đảm an ninh nhà tù trước khi một cuộc bạo loạn nổ ra. 
+adviser_food_troublesoon3 				Đây là màn hình Bố trí. Từ đây bạn có thể kiểm tra việc bố trí chiến thuật cho toàn bộ cai ngục của mình.
+adviser_food_troublesoon4 				Bố trí cai ngục rải rác đến tất cả các khu phòng giam và các phòng. Phân công 10 cai ngục đến các vị trí trực xung quanh nhà tù. Như vậy là đủ để biểu dương lực lượng vào lúc này.
+adviser_food_troublesoon5				Tôi cũng muốn có một đội tuần tra xung quanh sân trong, nơi chúng ta sẽ xây dựng các khu chức năng mới. 
+adviser_food_troublesoon6				Một điều cuối cùng. Do nhà ăn không hoạt động, một số thùng thức ăn đã bị ôi thiu. Hãy vứt bỏ chúng trước khi lũ sâu bọ phá hoại kéo đến.
+
+objective_food_deployguards				Bố trí 10 cai ngục xung quanh nhà tù
+objective_food_deploypatrol				Phân công 2 cai ngục tuần tra sân trong 
+
+objective_food_deployguards_description		Để bố trí cai ngục, hãy mở màn hình Bố trí, sau đó nhấp vào bên trong một khu vực để tạo một Trạm trực. Một cai ngục sẽ tự động được phân công đến trạm đó.
+objective_food_deploypatrol_description		Mở màn hình Bố trí, sau đó chọn Tuần tra. Nhấp và kéo để vẽ các tuyến đường tuần tra của bạn.\n\nĐể phân công cai ngục vào một tuyến tuần tra, hãy nhấp lại vào bất kỳ ô vuông nào trong tuyến tuần tra đó.
+
+objective_food_dumpfood 				Vứt bỏ các loại thực phẩm ôi thiu
+objective_food_dumpfood_description		Có thể tìm thấy thực phẩm bị ôi thiu trong tủ Kho, ở góc đông bắc của nhà tù.\n\nĐể vứt bỏ bất kỳ vật phẩm nào, hãy nhấp vào vật phẩm đó rồi nhấp vào 'Vứt bỏ' trong menu hiện lên.
+
+adviser_food_doncantspeak1				...
+adviser_food_doncantspeak2				eeugh .... ...
+
+adviser_food_doninfirmary0              Tôi nghĩ lão ta đang cố nói điều gì đó.
+adviser_food_doninfirmary1				Đứa nào trong lũ khốn nạn chúng mày đã làm việc này?
+adviser_food_doninfirmary2 				Không ai làm việc này với bố đâu, bố già. Chỉ là một tai nạn thôi.
+adviser_food_doninfirmary3 				Ngậm cái miệng thối của mày lại và nghe cho kỹ đây. Cả hai đứa mày. 
+adviser_food_doninfirmary4 				Nếu tao biết đứa khốn kiếp nào trong tụi mày phóng hỏa, tao sẽ bẻ gãy cái cổ thối của mày!
+adviser_food_doninfirmary5 				Nhưng thời của tao hết rồi. Tao sẽ chết trên cái giường chết tiệt này.
+adviser_food_doninfirmary6 				Và còn việc kinh doanh của gia đình phải điều hành nữa. Cái tên Palermo là tất cả những gì chúng ta còn lại. Nên lũ khốn nạn dơ bẩn chúng mày hãy làm việc cho ra dáng đi. Hiểu chưa?
+adviser_food_doninfirmary7				Chúng con biết phải làm gì rồi, bố già.
+adviser_food_donchat13					Chuyện này chưa kết thúc đâu, Nico.
+adviser_food_donchat14					Coi chừng cái lưng chết tiệt của mày đấy.
+
+adviser_food_founddrugs1				Bạn sẽ không tin nổi những gì tôi vừa được báo cáo đâu. 
+adviser_food_founddrugs2				Người của chúng ta đang vứt bỏ một số thực phẩm cũ. Họ phát hiện ra các gói ma túy và chai rượu bia được giấu trong các thùng hàng.
+adviser_food_founddrugs3				Chúng ta đã nghi ngờ gia đình Palermo buôn lậu vào cơ sở này từ lâu rồi, nhưng chưa bao giờ xác định được bằng cách nào.
+adviser_food_founddrugs4 				Đúng là họa vô đơn chí.
+
+adviser_food_rebuild1                   Chúng ta vẫn còn rất nhiều việc phải làm. Cần phải tập trung vào việc khôi phục lại nhà bếp và nhà ăn.
+adviser_food_rebuild2                   Trước tiên, chúng ta cần xây dựng lại nhà bếp. Bạn sẽ phải lắp đặt một vài thiết bị và thuê một số đầu bếp.
+adviser_food_rebuild3					Sau khi xong việc đó, hãy xây một nhà ăn mới.
+adviser_food_rebuild4					Khi bạn hoàn thành tất cả những việc đó, các đầu bếp sẽ tự động bắt đầu chuẩn bị bữa ăn cho toàn bộ nhà tù.
+adviser_food_rebuild5                   Nếu bất cứ lúc nào bạn không chắc phải làm gì, hãy thử rê chuột vào mục tiêu trong danh sách việc cần làm để xem một số gợi ý.
+
+adviser_food_fightoutro1  				Tuyệt vời. Có vẻ như gia đình Palermo sắp hết thành viên rồi.
+
+adviser_food_sprinklerintro1 			Chúng ta có thể đang gặp phải một vấn đề ma túy khá nghiêm trọng ở đây. Nhưng chúng ta chưa thể xử lý việc đó ngay được.
+adviser_food_sprinklerintro2 			Nhà bếp và nhà ăn của chúng ta đã đi vào hoạt động. Các đầu bếp sẽ chuẩn bị thức ăn cho mọi người, điều này sẽ giúp xoa dịu tình hình.
+adviser_food_sprinklers1                Tôi lo ngại rằng vụ hỏa hoạn rõ ràng là cố ý, và chúng ta không muốn điều đó lặp lại.
+adviser_food_sprinklers2 				Lắp đặt hệ thống vòi phun nước phía trên nhà bếp và nhà ăn mới rồi kết nối chúng với đường ống nước chính.
+
+adviser_food_explainneeds1 				Tất cả tù nhân đều có nhu cầu. Những nhu cầu đó ảnh hưởng trực tiếp đến hành vi của họ. Ngay lúc này, ai nấy đều đang đói cồn cào, và đó là lý do tại sao họ lại la hét ầm ĩ như vậy.
+adviser_food_explainneeds2 				Ăn uống là một trong những nhu cầu ưu tiên hàng đầu của họ, nếu bạn phớt lờ nó thì bạn sẽ phải gánh chịu hậu quả. Một nhà tù chỉ cần thiếu vài bữa ăn là sẽ bùng nổ bạo loạn khắp nơi.
+adviser_food_explainneeds3 				Bạn có thể theo dõi nhu cầu của tất cả tù nhân từ Báo cáo nhu cầu, thông thường bạn có thể truy cập qua biểu tượng Báo cáo ở góc dưới bên phải.
+adviser_food_explainneeds4				Báo cáo này hiển thị nhu cầu tổng hợp của tất cả tù nhân. Màu đỏ có nghĩa là rất nhiều tù nhân đang tức giận vì nhu cầu cụ thể này không được đáp ứng.
+adviser_food_explainneeds5 				Đúng như dự đoán, nhu cầu Ăn uống đang ở mức báo động đỏ với hầu hết mọi người. Nhưng những tù nhân này cũng đang rất chán nản (nhu cầu Giải trí), và nhà tù đang ở trong tình trạng khá tồi tàn, điều này phản ánh qua nhu cầu Môi trường và Quần áo của họ.
+adviser_food_explainneeds6				Quyết định là ở bạn, với tư cách là kiến trúc sư nhà tù tại đây, bạn sẽ cố gắng đáp ứng nhu cầu nào trước. Bạn có thể lắp đặt tivi trong phòng giam của họ để họ giải khuây, và thuê một số Lao công để dọn dẹp nơi này.
+adviser_food_explainneeds7				Hoặc bạn có thể phớt lờ hoàn toàn các nhu cầu của tù nhân, và dựa vào vũ lực để giữ nhà tù trong tầm kiểm soát.
+adviser_food_explainneeds8 				Tôi sẽ để bạn tự quyết định.
+
+objective_food_needs 					(TÙY CHỌN) Chăm sóc nhu cầu của các tù nhân
+objective_food_handlefoodneed 			(TÙY CHỌN) Giải quyết nhu cầu Ăn uống của tù nhân 
+objective_food_handleboredomneed		(TÙY CHỌN) Giải quyết nhu cầu giải trí của tù nhân 
+objective_food_handleenvironmentneed	(TÙY CHỌN) Giải quyết nhu cầu môi trường của tù nhân
+
+objective_food_needs_description 					Bạn có thể xem nhu cầu tổng thể của tất cả tù nhân bằng cách nhấp vào Báo cáo (dưới cùng bên phải màn hình), sau đó chọn Nhu cầu.\nBạn cũng có thể rê chuột vào một tù nhân và xem nhu cầu nào đang ảnh hưởng đến họ.\n\nNhu cầu không bao giờ có thể giải quyết dứt điểm hoàn toàn - đó luôn là một cuộc chiến liên tục.
+objective_food_handlefoodneed_description 			Các đầu bếp của chúng ta sẽ chuẩn bị thức ăn cho mọi người, và tất cả tù nhân sẽ được ăn vào cuối giờ ăn tiếp theo.
+objective_food_handleboredomneed_description 		Sự nhàm chán có thể được giải quyết khá hiệu quả bằng cách lắp đặt tivi trong phòng giam của mỗi người. Hoặc bạn có thể xây một phòng sinh hoạt rồi đặt vài chiếc tivi và bàn bi-a vào đó.\n\nBạn cũng có thể đặt tivi ở các phòng dùng chung như Nhà ăn.
+objective_food_handleenvironmentneed_description 	Hãy thuê một số lao công và họ sẽ dần dần dọn dẹp sạch sẽ nơi này.
+
+adviser_food_needssuccess1 				Bạn đã thể hiện một sự tận tụy đáng khâm phục trong việc chăm sóc các nhu cầu của tù nhân. Làm tốt lắm.
+adviser_food_needssuccess2 				Có lẽ đến giờ bạn đã nhận ra rằng lời phàn nàn lớn nhất còn lại của các tù nhân là việc thiếu quần áo sạch. 
+adviser_food_needssuccess3 				Nếu bạn cũng muốn chăm sóc nhu cầu này, bạn sẽ cần vận hành dịch vụ giặt ủi để cung cấp dần quần áo sạch cho toàn bộ tù nhân.
+adviser_food_needssuccess4 				Hãy xây dựng một phòng giặt và thuê thêm lao công để bắt đầu cung cấp đồ giặt sạch cho tù nhân của chúng ta.
+
+objective_food_laundry 					(TÙY CHỌN) Quần áo sạch
+objective_food_buildlaundry 			(TÙY CHỌN) Xây dựng một Phòng giặt
+objective_food_hirejanitors             (TÙY CHỌN) Thuê đủ lao công để vận hành phòng giặt của bạn
+objective_food_handleclothingneed 		(TÙY CHỌN) Giải quyết nhu cầu quần áo của tù nhân
+
+objective_food_buildkitchen             Xây dựng một Nhà bếp (khoảng 12 mét vuông)
+objective_food_buildkitchencookers      Lắp đặt ít nhất bốn Bếp nấu
+objective_food_buildkitchenfridges      Lắp đặt ít nhất bốn Tủ lạnh
+objective_food_buildkitchensink         Lắp đặt một Bồn rửa
+objective_food_buildkitchenbin	 		Đặt một Thùng rác trong Nhà bếp
+objective_food_buildkitchenwatermains 	Kết nối Bồn rửa với đường ống nước chính
+objective_food_buildkitchenfloor 		(TÙY CHỌN) Nâng cấp sàn nhà bếp
+
+objective_food_buildkitchen_description		Trước tiên bạn sẽ cần phải xây dựng Nền móng.
+objective_food_buildcanteen_description		Trước tiên bạn sẽ cần phải xây dựng Nền móng.
+
+objective_Food_HireChefs				Thuê ít nhất 8 Đầu bếp
+objective_food_CookMeals				(Tự động) Chuẩn bị bữa ăn cho tất cả tù nhân
+
+objective_food_buildcanteen             Xây dựng một Nhà ăn (khoảng 20 mét vuông)
+objective_food_buildservingtables        Lắp đặt hai Bàn phát đồ ăn
+objective_food_buildcanteentables        Lắp đặt ít nhất sáu Bàn
+objective_food_buildcanteenchairs        Lắp đặt hai Ghế dài xung quanh mỗi Bàn
+objective_food_buildcanteenbin	 		Đặt một Thùng rác trong Nhà ăn
+objective_food_buildcanteenfloor 		(TÙY CHỌN) Nâng cấp sàn Nhà ăn
+
+
+objective_food_buildsprinklers          Lắp đặt hệ thống vòi phun nước mới
+objective_food_buildsprinklers1         Lắp đặt một vài vòi phun nước trong Nhà bếp
+objective_food_buildsprinklers2         Lắp đặt một vài vòi phun nước trong Nhà ăn
+objective_food_connectwater             Kết nối vòi phun nước nhà bếp với đường ống nước chính
+objective_food_connectwater2			Kết nối vòi phun nước nhà ăn với đường ống nước chính
+objective_food_feedprisoners            Hoàn thành một lượt phục vụ bữa tối bằng cách cho tất cả tù nhân ăn
+
+objective_food_buildkitchenwatermains_description   Ống lớn dùng để vận chuyển khối lượng nước lớn dưới áp lực cao. Ống nhỏ dùng để kết nối các thiết bị riêng lẻ vào nguồn cấp nước.\n\nSử dụng chế độ xem TIỆN ÍCH để đặt các ống lớn đến các tòa nhà của bạn. Sau đó, sử dụng các ống nhỏ để kết nối ống lớn với tất cả các vật thể lân cận cần cấp nước.
+objective_food_connectwater_description              Ống lớn dùng để vận chuyển khối lượng nước lớn dưới áp lực cao. Ống nhỏ dùng để kết nối các thiết bị riêng lẻ vào nguồn cấp nước.\n\nSử dụng chế độ xem TIỆN ÍCH để đặt các ống lớn đến các tòa nhà của bạn. Sau đó, sử dụng các ống nhỏ để kết nối ống lớn với tất cả các vật thể lân cận cần cấp nước.
+objective_food_connectwater2_description             Ống lớn dùng để vận chuyển khối lượng nước lớn dưới áp lực cao. Ống nhỏ dùng để kết nối các thiết bị riêng lẻ vào nguồn cấp nước.\n\nSử dụng chế độ xem TIỆN ÍCH để đặt các ống lớn đến các tòa nhà của bạn. Sau đó, sử dụng các ống nhỏ để kết nối ống lớn với tất cả các vật thể lân cận cần cấp nước.
+
+campaigncutscene_foodinfirmary			Trạm y tế
+campaigncutscene_foodfamily             Gia đình
+campaigncutscene_foodfeud                Mối thâm thù
+campaigncutscene_foodregret				Hối hận
+campaigncutscene_foodsuccession 		Kế vị
+
+campaigncutscene_foodfamily_description		Gia đình Palermo từng điều hành mạng lưới buôn bán ma túy trên khắp vùng bờ đông nước Mỹ. Hãy khám phá câu chuyện hậu trường của Don Palermo và các con của lão.
+
+adviser_name_thedon                     Don Palermo
+adviser_name_thedonangry                Don Palermo
+adviser_name_nico                       Nico Tamoretti
+adviser_name_nicoshower					Nico Tamoretti
+adviser_name_nicosuited					Nico Tamoretti
+adviser_name_sonny                      Sonny Palermo
+adviser_name_sonnysuited				Sonny Palermo
+adviser_name_sonnystrangled				Sonny Palermo
+adviser_name_anthonysuited				Anthony Palermo
+adviser_name_wiggins					Wiggins
+adviser_name_nicoinfirmary				Nico Tamoretti
+adviser_name_vitalia					Vitalia Palermo
+
+cutscene_foodfamily_palermo01			Don Victor Palermo. Ông trùm của một trong những gia tộc mafia đáng sợ nhất vùng bờ đông.
+cutscene_foodfamily_palermo1			Nhà Palermo đã lẩn trốn khỏi FBI suốt nhiều thập kỷ.
+cutscene_foodfamily_palermo02			Anthony Palermo, con trai trưởng và là người thừa kế tự nhiên của Don, điều hành các hoạt động hàng ngày. 
+cutscene_foodfamily_palermo03			Nico Tamoretti tuy không phải là thành viên chính thức của băng đảng, nhưng đã được chào đón vào công việc kinh doanh của gia đình khi cưới Vitalia, đứa con gái duy nhất của Don.
+cutscene_foodfamily_palermo04			Và Sonny Palermo. Con trai thứ hai của Don. Đứa con út yếu ớt trong nhà. Tính khí như một con chó pitbull, và độ thông minh thì chỉ bằng một nửa.
+
+cutscene_foodfamily_palermo2 			Đế chế của họ điều hành một mạng lưới buôn bán ma túy từ Maine đến Florida. 
+cutscene_foodfamily_palermo3			Mọi chuyện cứ thế tiếp diễn cho đến khi Anthony bị bắt quả tang ngay tại trận.
+cutscene_foodfamily_palermo3b            Bắn chết bởi một gã chồng ghen tuông.
+cutscene_foodfamily_palermo4			Không may cho gia tộc, cảnh sát tại hiện trường đã tìm thấy 12 kg cocaine nguyên chất trong túi thể thao của Anthony. 
+cutscene_foodfamily_palermo5			Và bằng chứng đã dẫn thẳng tới người đứng đầu.
+cutscene_foodfamily_palermo6			Chỉ trong một đêm, mọi thứ mà gia đình Palermo xây dựng đã sụp đổ hoàn toàn. FBI đã có mọi thứ họ cần để đảm bảo tất cả bọn họ sẽ phải rục xương trong tù.
+cutscene_foodfamily_palermo7			Điều đó khiến Vitalia, con gái của Don, trở thành thành viên duy nhất còn sống của gia đình không phải ngồi sau song sắt.
+cutscene_foodfamily_palermo8			Chúng ta không biết nhiều về cô ấy, ngoài việc cô ấy luôn bị giữ ở bên ngoài công việc kinh doanh của gia đình. 
+cutscene_foodfamily_palermo9 			Nhưng chắc chắn phải có ai đó ở bên ngoài đã tuồn số ma túy đó vào.
+
+adviser_food_findalldrugs1				Tình hình ăn uống đã được giải quyết xong. Các tù nhân sẽ vui vẻ hơn rất nhiều khi được ăn uống trở lại.
+
+adviser_food_findalldrugs2				Bạn có thể cá là nhà Palermo đã bán số ma túy đó cho mọi kẻ lừa đảo ở đây. 
+adviser_food_findalldrugs3				Cai ngục báo với tôi rằng họ thấy rất nhiều tù nhân có dấu hiệu vật vã cai nghiện kể từ sau vụ cháy. 
+adviser_food_findalldrugs4				Tôi muốn bạn khám xét từng tù nhân và từng phòng giam. Tôi cá là chúng ta sẽ tìm thấy ma túy của nhà Palermo trên khắp nhà tù.
+
+objective_food_findalldrugs					Tìm kiếm tất cả ma túy trong nhà tù
+objective_food_findalldrugs_description 	Khám xét từng khu phòng giam bằng cách nhấp vào một tù nhân trong khu đó, rồi nhấp vào 'Khám xét khu phòng giam'. Hoặc sử dụng tùy chọn Khám xét đột xuất trên thanh công cụ ở cuối màn hình.
+
+objective_food_hiremoreguards 			(TÙY CHỌN) Thuê thêm cai ngục để tăng tốc độ khám xét
+
+adviser_food_drugsfound1				Về mặt tích cực, tình hình không tệ như chúng ta tưởng, nhưng rõ ràng có những vấn đề về sự phụ thuộc vào ma túy và rượu bia.
+adviser_food_drugsfound2				Chúng ta cần giúp đỡ những người này. Đó là cách duy nhất để hạn chế các hoạt động của họ và giải quyết các triệu chứng của họ. 
+adviser_food_drugsfound2b 				Bắt đầu một chương trình điều trị ma túy tại trạm y tế. Các Bác sĩ của chúng ta sẽ cung cấp một chất hóa học thay thế giúp giảm bớt cơn thèm thuốc của những người nghiện.
+adviser_food_drugsfound3				Đối với những người nghiện rượu, không có chất hóa học thay thế, vì vậy tôi đề xuất chúng ta bắt đầu các buổi trị liệu nhóm. 
+adviser_food_drugsfound4				Bạn sẽ phải xây một Phòng sinh hoạt mới để tiến hành các cuộc họp đó.
+adviser_food_drugsfound5				Để bắt đầu các Chương trình mới, hãy vào mục 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn 'Chương trình'.
+
+objective_food_drugtreatment			Bắt đầu chương trình điều trị ma túy
+objective_food_cureaddictions			(TÙY CHỌN) Bắt đầu chữa trị chứng nghiện ma túy cho tù nhân
+objective_food_alcoholprogram			Bắt đầu chương trình trị liệu nhóm cho người nghiện rượu
+objective_Food_HelpAlcoholics			(TÙY CHỌN) Bắt đầu giúp đỡ những người nghiện rượu phục hồi
+objective_food_buildcommonroom 			Xây dựng một phòng sinh hoạt
+objective_food_buildcommonroomchairs	Tạo một nơi họp mặt bao gồm 8 chiếc ghế
+
+objective_food_drugtreatment_description 	Nhấp vào 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn tab 'Chương trình'. Chương trình này có tên là 'Cai nghiện bằng thuốc', diễn ra tại Trạm y tế.\n\nLưu ý: bạn sẽ cần thiết lập ít nhất hai giờ lao động trong Lịch sinh hoạt để cho phép tù nhân tham gia.
+objective_food_alcoholprogram_description 	Nhấp vào 'Báo cáo' ở góc dưới bên phải màn hình, sau đó chọn tab 'Chương trình'.\n\nLưu ý: bạn sẽ cần thiết lập ít nhất hai giờ lao động trong Lịch sinh hoạt để cho phép tù nhân tham gia.
+
+cutscene_food_feudintro1 				Chúng ta vừa có một sự cố trong phòng tắm. Có một cái xác. 
+cutscene_food_feudintro2 				Thực ra là có hai cái xác. May mắn cho chúng ta là có lắp camera ở trong đó. 
+cutscene_food_feudintro3 				Khi nào rảnh, hãy nhấp vào Ảnh Polaroid trong Phòng tắm và chúng ta sẽ xem chuyện gì đã xảy ra.
+
+objective_food_triggerfightscene		Khi bạn đã sẵn sàng, hãy nhấp vào ảnh polaroid trong Phòng tắm để tiếp tục.
+objective_food_triggerfightscene_description 	Phòng tắm nằm ở góc tây bắc của cơ sở.
+
+cutscene_food_feud1b                    Một mình. Hoàn hảo.
+cutscene_food_feud1                     Mày làm tốn thời gian quá đấy.
+cutscene_food_feud2                     Bớt nói nhảm đi. Tao chưa bao giờ hiểu nổi đứa em gái tao nhìn thấy cái gì ở gã như mày.
+cutscene_food_feud2b 					Đây là ý tưởng của cô ta à? Khử ông già sao?
+cutscene_food_feud3                     Mày nghĩ vậy sao, thằng mập chết tiệt? Tao không hề muốn ông cụ bị thương. Tao yêu quý ông ấy như cha đẻ của mình vậy.
+cutscene_food_feud3b 					Tao phát ốm khi phải chứng kiến gia đình này bị hủy hoại bởi sự ngu ngốc của mày rồi.
+cutscene_food_feud4                     Đám cháy đó vốn là dành cho mày.
+cutscene_food_feud5                     Vậy thì coi như đây là sự trả lễ.
+cutscene_food_feud6                     Đừng có giả làm thánh sống. Cả hai chúng ta đều thừa biết kiểu gì cũng có ngày mày định xử tao.
+cutscene_food_feud7                     Phải, mày luôn là một gã thông minh, Nico. Hãy nhìn xem nó đưa mày tới đâu kìa. Đừng lo, mày sẽ không cảm thấy đau đớn gì đâu.
+cutscene_food_feud8                     Tao đã bảo rồi. Hãy coi chừng cái lưng của mày.
+cutscene_food_feud8b                    euuegggghhhh!!!!!.....
+cutscene_food_feud8c                    AAARRRGGRGGGGGG!!!!
+cutscene_food_feud8d                    Mày đã gặp Franky bao giờ chưa? Hắn ta có một tài năng độc nhất vô nhị với dây đàn piano đấy.
+cutscene_food_feud8e                    Thật lòng mà nói, khi hắn xử lý xong, người ta sẽ nghĩ đây là một vụ tự sát.
+cutscene_food_feud9                     Chuyện này chưa kết thúc đâu, Nico.
+cutscene_food_feud9b                    Mày đang giỡn mặt với tao à.
+
+cutscene_food_successionintro			Rất tốt. Chúng ta đã tạo ra sự khác biệt thực sự ở đây, và tôi nghĩ nhà tù đã được kiểm soát trở lại.
+cutscene_food_successionintro2 			Bạn có thể ở lại và nâng cấp nhà tù hơn nữa, hoặc chúng ta có thể chuyển sang cơ sở tiếp theo.
+cutscene_food_successionintro3 			Khi bạn đã sẵn sàng chuyển đi, hãy nhấp vào Ảnh Polaroid trong Trạm y tế.
+
+objective_food_runending 				Khi bạn đã sẵn sàng, hãy nhấp vào ảnh polaroid trong Trạm y tế để tiếp tục.
+objective_food_runending_description	Trạm y tế nằm ở rìa phía tây nam của cơ sở nhà tù.
+
+cutscene_food_succession1				Vitalia!
+cutscene_food_succession1b				...?
+cutscene_food_succession2				Em yêu!
+cutscene_food_succession3				Anh xin lỗi. Anh làm hỏng chuyện rồi.
+cutscene_food_succession4				Suỵt, ngoan nào.
+cutscene_food_succession5				Họ nói bố già không qua khỏi tuần này đâu.
+cutscene_food_succession6				Em biết. Em đến để nói lời tạm biệt.
+cutscene_food_succession7				Em biết không, chúng ta có thể từ bỏ tất cả ngay bây giờ. Anh và em. Cái cuộc sống chết tiệt này. Nó đã cướp đi mọi thứ rồi.
+cutscene_food_succession8				Em cũng muốn thế.
+cutscene_food_succession9				Nhưng em không thể. Em là người nhà Palermo, Nico.
+cutscene_food_succession10				Và khi cha ra đi, còn anh chỉ là một kẻ ngoại tộc thế chỗ ông. Kẻ thù của chúng ta sẽ giẫm đạp lên gia tộc này mất.
+cutscene_food_succession11 				Em không thể để điều đó xảy ra. Em phải cho chúng thấy một người nhà Palermo vẫn đang ngồi trên ngai vàng.
+cutscene_food_succession12				Cái gì, vậy là cô đến đây để khử tôi sao? Sau tất cả những gì chúng ta đã trải qua?
+cutscene_food_succession13				Nico, Nico, Nico. Anh cổ hủ quá rồi. 
+cutscene_food_succession14 				Không đâu, anh yêu. Em đang ly hôn với anh đấy.
+cutscene_food_succession15				Cái quái gì thế? Cô đùa tôi à? Không có gia tộc chống lưng, tôi sẽ là một cái xác không hồn ở trong này.
+cutscene_food_succession16				Em biết chứ, anh yêu. Nhưng đó không còn là mối bận tâm của em nữa rồi.
+cutscene_food_succession17				Con chúc bố đến một nơi tốt đẹp hơn, bố già.
+cutscene_food_succession18				Vĩnh biệt, Nico.
+
+
+# =============================================================================
+# Riot 
+# =============================================================================
+
+campaignchapter_riot                    G.A.B.O.S
+campaignchapter_riot_description		Một cuộc bạo loạn đang diễn ra tại Nhà tù Alchemico. Hãy vào đó và tái bảo đảm an ninh cho tòa nhà.
+
+campaigncutscene_riotintro              Tin nóng
+
+adviser_riot_newsintro_01				Tin nóng đây! 
+adviser_riot_newsintro_02				Bạo loạn tại Nhà tù Alchemico - nhân viên và lực lượng an ninh đã rút lui ra hàng rào bao quanh để chờ hỗ trợ quân sự.
+adviser_riot_newsintro_1				Một số nhân sự vẫn đang mất tích, bao gồm cả Tổng giám đốc công ty Charles Wallace.
+adviser_riot_newsintro_2				Bạo loạn bùng phát sau vụ bắt giữ một số thẩm phán cấp cao...
+adviser_riot_newsintro_3				... bị cáo buộc nhận hối lộ để đổi lấy việc đưa ra các mức án tù nghiêm khắc hơn.
+adviser_riot_newsintro_4				Thêm dầu vào lửa, các nguồn tin cho biết thế giới ngầm tội phạm gần đây đã bị rúng động bởi một loạt vụ giết người chấn động...
+adviser_riot_newsintro_5				... bao gồm cả vụ mưu sát bất thành nhằm vào trùm sò mafia Victor Palermo vào tháng trước.
+adviser_riot_newsintro_6				Phó tổng giám đốc của Charles Wallace, một người tương đối mới đối với chức vụ này, đã được giao nhiệm vụ lập lại trật tự.
+adviser_riot_newsintro_7				Vẫn còn phải xem liệu sự thiếu kinh nghiệm có phải trả giá đắt trong cuộc khủng hoảng khó khăn này hay không.
+adviser_riot_newsintro_8                Douglas Benedict, kẻ đang thụ án chung thân, được cho là kẻ chủ mưu đứng sau đợt bùng phát bạo lực này.
+
+adviser_riot_newsintroheller_1 			Thị trưởng thành phố Calvin Heller vừa đưa ra tuyên bố này cách đây vài phút.
+adviser_riot_newsintroheller_2 			Đối với những ai nghi ngờ chính sách cải tạo trừng phạt của chúng ta, đây sẽ là một lời nhắc nhở đanh thép. 
+adviser_riot_newsintroheller_3 			Những người này được cung cấp chỗ ở và thức ăn. Được hưởng đặc quyền lao động có trả lương. 
+adviser_riot_newsintroheller_4 			Đây là cách họ trả ơn những người đóng thuế, những người đang tài trợ cho sự tiện nghi của họ.
+
+campaigncutscene_riothostages			Con tin
+adviser_name_riotceo					Tổng giám đốc 
+adviser_name_riotbenedict 				Benedict
+
+adviser_riot_hostages1					Nghe cho kỹ đây. Chúng tao đang giữ Tổng giám đốc của chúng mày. 
+adviser_riot_hostages1b 				Euugg... ...
+adviser_riot_hostages2 					Quy luật hoạt động thế này: Tao hỏi. Chúng mày đưa. 
+adviser_riot_hostages3					Bất kỳ rắc rối nào xảy ra, hay cho người xông vào, thậm chí chỉ cần tao ngửi thấy mùi cảnh sát, tao sẽ găm một viên đạn vào sọ lão ta.
+adviser_riot_hostages4 					Chúng tao muốn một chiếc xe không có biển số hiệu. Kính tối màu. Đầy bình xăng. Trong vòng một giờ. Tao sẽ liên lạc lại.
+adviser_riot_hostages5 					Giờ thì, chúng ta đang ở đâu rồi nhỉ.
+adviser_riot_hostages5b					Ông đã làm gì trong cái văn phòng đó?
+adviser_riot_hostages6					Tôi thề, tôi không biết gì cả.
+adviser_riot_hostages7					Tôi đã nhìn hình bóng phản chiếu của chính mình đủ nhiều để biết khi nào một người đang làm điều sai trái.
+adviser_riot_hostages8					Ông đang giấu giếm điều gì?
+adviser_riot_hostages9					Tôi thuộc về một nơi như thế này. Nhưng còn đứa trẻ... việc thằng bé phải ngồi tù thêm thời gian thì có lợi gì cho ai cơ chứ?
+adviser_riot_hostages10					Ông biết điều gì đó, và nói cho tôi biết là cách duy nhất để rời khỏi đây mà còn sống.
+
+adviser_riot_hostageheller1 			Điều này hoàn toàn không thể chấp nhận được. Chúng ta cần có tai mắt ở nhà ăn đó để xem chuyện gì đang xảy ra.
+adviser_riot_hostageheller2 			Có một phòng an ninh nhỏ ở phía bắc nhà ăn. Chúng ta cần chiếm lại nó.
+adviser_riot_hostageheller3 			Bố trí một số Cai ngục vào đó để điều khiển bảng điều khiển CCTV, và chúng ta sẽ có tầm nhìn của toàn bộ khu phòng giam.
+
+objective_Riot_MaxSecCameras			Chiếm lại phòng an ninh
+
+campaigncutscene_riotroulette			Trò chơi Roulette
+
+adviser_riot_rouletteintro1              Chúng ta đã có một cai ngục trong phòng an ninh, vì vậy chúng ta đang nhận được hình ảnh trực tiếp từ hệ thống camera CCTV.
+adviser_riot_rouletteintro2              Hãy cùng xem xét tình hình con tin.
+adviser_riot_click 						<click>
+adviser_riot_roulette1					Cơ hội cuối cùng để bước ra khỏi đây đấy, sếp lớn. Đã bao giờ chơi trò đuổi bắt hai viên đạn chưa?
+adviser_riot_roulette2 					Hai viên đạn. Bốn ổ trống. 
+adviser_riot_roulette2b 				Hồi trước tôi hay chơi trò này với lũ thỏ rừng. Chúng tôi sẽ bắn bay đầu chúng sạch sẽ. 
+adviser_riot_roulette3 					Nhưng với ông thì cũng tương tự thôi.
+adviser_riot_roulette4 					Hãy bắt đầu bằng một câu hỏi đơn giản. Ông đã làm gì trong cái văn phòng đó?
+adviser_riot_roulette5 					Tôi thề, tôi không biết gì cả.
+adviser_riot_roulette5b 				Thật sao.
+adviser_riot_roulette6 					Được rồi. Ai đi trước đây? Ông? Tôi? Hay là gã này?
+adviser_riot_roulette7					Xem kìa. Giống hệt một con thỏ rừng.
+adviser_riot_roulette8 					CÓ CÁI GÌ TRONG NHỮNG TẬP HỒ SƠ ĐÓ?
+adviser_riot_roulette9 					Tôi thề! Tôi không biết...
+adviser_riot_roulette10 				Vận may sắp hết rồi. Vẫn còn một viên đạn ở đâu đó trong kia. Và tôi biết những gì tôi đã thấy.
+adviser_riot_roulette11b 				Tôi không thể tin vào mắt mình nữa.
+adviser_riot_roulette11c 				Chính gã tai to mặt lớn của công ty, lại xuất hiện ở đây, trong nhà tù của tôi. Trông bản mặt rành rành là có tội.
+adviser_riot_roulette11d 				Tôi đoán trong những tập hồ sơ đó có nhiều thứ hơn là chỉ có tiền án tiền sự của tôi.
+adviser_riot_roulette11					Xin ông... xin đừng làm vậy. 
+adviser_riot_roulette11e 				Tỷ lệ sống sót đang thấp dần đấy, Wallace.
+adviser_riot_roulette12 				Tôi bảo ông cái này, tôi sẽ làm cho mọi việc dễ dàng hơn cho ông.
+adviser_riot_roulette12b	 			Được rồi, dẹp mấy trò nhảm nhí này đi.
+adviser_riot_roulette13 				Đến lượt mày rồi, thằng chó. Trừ khi mày chịu nói cho tao biết những gì tao muốn biết.
+adviser_riot_roulette14 				Tôi không thể. Làm ơn.
+adviser_riot_roulette15 				Được rồi! Làm ơn! Làm ơn đừng bắn. Là tiền. Tất cả đều là vì tiền.
+adviser_riot_roulette16 				Chỉ thế thôi sao?
+adviser_riot_roulette17 				Các người là những món hàng có giá trị. Các người ở trong này càng lâu, chúng tôi càng kiếm được nhiều lợi nhuận. Chúng tôi chỉ đang lách luật một chút thôi. 
+adviser_riot_roulette17b				Tập hồ sơ đó chính là bằng chứng.
+adviser_riot_roulette18 				Vậy chúng tôi đáng giá bao nhiêu? Các người nhận được gì khi giữ chúng tôi ở lại trong này?
+adviser_riot_roulette19 				73.000 đô la một năm.
+adviser_riot_roulette20					Mỗi người á? Thằng chó đẻ. Đã đến lúc ông phải bắt đầu trả nợ rồi đấy.
+
+campaigncutscene_riotassault 			Đột kích
+
+adviser_riot_assault01					Đúng vậy. Đã đến lúc phải chấm dứt tình trạng này rồi. 
+adviser_riot_assault02 					Toàn đội đã vào vị trí. 
+adviser_riot_assault03					Tao muốn xe của tao ngay bây giờ. Wallace sẽ đi cùng chúng tao. Và nếu tao phát hiện có kẻ bám đuôi, tụi mày sẽ phải cào từng mảnh vụn của lão ta trên đường cao tốc đấy.
+adviser_riot_assault2 					Được rồi sếp lớn, đi với chúng tôi nào. Họ sẽ không dám làm trò gì ngu ngốc khi có ông ngồi ở ghế phụ đâu.
+adviser_riot_assault3 					Không ai trong chúng ta rời khỏi đây được đâu. Người họ muốn không phải là anh.
+adviser_riot_assault4 					Mày đang nói cái quái gì thế?
+adviser_riot_assault5					Tôi làm vậy vì tiền. Nhưng HẮN làm vậy vì lợi ích chính trị. Án tù càng dài, hắn càng có nhiều phiếu bầu.
+adviser_riot_assault6					Mày đang nói về thằng khốn nào thế?
+adviser_riot_assault7					Thị trưởng Heller. Đó là bản thiết kế của hắn. Tôi chỉ là người bôi trơn các bánh răng thôi. 
+adviser_riot_assault7b 					Những tập hồ sơ đó chính là bằng chứng có thể hủy hoại sự nghiệp của hắn.
+adviser_riot_assault8					Mày đang giỡn mặt với tao à.
+adviser_riot_assault9 					Cái quái gì thế...
+adviser_riot_assault9b					Họ đang xông vào đấy, chuẩn bị đi!
+adviser_riot_assault10					TAO ĐÃ CẢNH CÁO MÀY RỒI MÀ THẰNG KHỐN!
+
+# Riot Objectives and help text
+
+adviser_name_negotiator 				Người đàm phán
+
+adviser_riot_negotiator1 				Ở đây đang mất kiểm soát rồi. Không có ai điều hành cả.
+adviser_riot_negotiator2 				Chúng ta có nhiều thương vong, và những cai ngục còn lại không chịu tiến vào các khu phòng giam đang bạo loạn. Chúng ta đã phải rút lui ra hàng rào bảo vệ.
+adviser_riot_negotiator3 				Hãy nghĩ cách giải quyết và chấm dứt chuyện này trước khi nó vượt ra khỏi tầm kiểm soát.
+adviser_riot_negotiator4 				Cảnh sát cơ động sẽ đến đây trong vài phút nữa.
+
+adviser_riot_firstreinforcements1 		Đội phản ứng nhanh đầu tiên đã đến. 
+adviser_riot_firstreinforcements2 	 	Những người này là Vệ binh bạo động, và họ được trang bị giáp nặng hơn nhiều. Hãy sử dụng họ để bắt đầu chiếm lại các phân khu nhà tù bị kiểm soát. 
+adviser_riot_firstreinforcements3 		Chúng ta cũng có một số cấp cứu viên từ bệnh viện bang gần đó.  
+adviser_riot_firstreinforcements4 		Tôi đề xuất bạn sử dụng họ để cấp cứu y tế kịp thời cho các Vệ binh bạo động khi họ chiếm lại nhà tù.
+
+objective_Riot_StopTheRiot 				Dập tắt cuộc bạo loạn
+objective_Riot_StopTheRiot_description  Không có ai điều hành cả. Bạn cần phải nghĩ cách giải quyết.
+
+adviser_riot_helleradvice1				Tôi đoán mình đang nói chuyện với phó tổng giám đốc. 
+adviser_riot_helleradvice2 				Tôi hiểu đây là một thời điểm rất khó khăn và tất cả chúng ta đều đang bị giám sát chặt chẽ. Hãy yên tâm, bạn có sự hỗ trợ đầy đủ của tôi trong việc sử dụng bất kỳ và tất cả các nguồn lực có sẵn. 
+adviser_riot_deployguards1				Chúng ta đã giành được chỗ đứng và chiếm lại được một phần nhà tù. Và thiệt hại về nhân mạng cho đến nay là hoàn toàn có thể chấp nhận được.
+adviser_riot_deployguards2				Nhưng trước khi bạn tiến lên và chiếm lại phần còn lại của nhà tù, bạn nên tái bảo đảm an ninh cho các phân khu đã chiếm được.
+adviser_riot_deployguards3				Hãy thuê một số cai ngục và phân công họ vào các khu vực đã chiếm lại từ màn hình Bố trí. Họ sẽ đảm bảo các phân khu đã chiếm được giữ vững vị trí.
+adviser_riot_deployguards4 				Sau khi bạn đã giải quyết xong việc đó, hãy tiến vào các khu vực còn lại và hạ gục những con quái vật này. Những loài thú vật này không thể cải tạo được. Và không thể thương lượng với chúng.
+adviser_riot_deployguards5 				Tôi đang tiến hành cấp phép cho một đội Phản ứng Vũ trang để chấm dứt chuyện này thật nhanh.
+
+adviser_riot_infirmary1 				Bạn có người bị thương trên khắp nhà tù, và chắc chắn sẽ còn nhiều người nữa. Bạn không thể cứ để họ chảy máu cho đến chết được. 
+adviser_riot_infirmary2 				Hãy xây dựng một Trạm y tế ở đâu đó trong khuôn viên, và thuê Bác sĩ để điều trị cho người bị thương.
+adviser_riot_infirmary3 				Chúng ta cũng đã thấy khá nhiều thi thể. Vì sự tôn nghiêm của họ, chúng ta cần xây dựng một Nhà xác và bắt đầu thu gom họ lại.
+adviser_riot_infirmary4					Bạn sẽ cần thuê thợ xây để thực hiện công việc xây dựng. Hãy chắc chắn giữ an toàn cho họ.
+
+objective_Riot_ResecureWings 			Thuê cai ngục và bố trí họ đến các khu vực đã chiếm lại
+objective_riot_medicalneeds				(TÙY CHỌN) Chăm sóc các nhu cầu y tế của nhà tù của bạn
+objective_Riot_Infirmary				(Tùy chọn) Xây dựng một Trạm y tế và điều trị cho người bị thương
+objective_Riot_Morgue 					(Tùy chọn) Xây dựng một Nhà xác và thu gom người chết
+objective_Riot_SecureGenPop				Chiếm lại phân khu Giam giữ Chung (trung tâm)
+objective_Riot_SecureSpecialWing		Chiếm lại phân khu Đặc biệt (phía tây)
+objective_Riot_SecureMaxSec				Chiếm lại phân khu An ninh Cao (phía nam)
+objective_riot_putoutfires				Khống chế ngọn lửa
+
+adviser_riot_secondreinforcements1		Thêm nhiều Vệ binh bạo động đã đến.
+
+adviser_riot_armedreinforcements1		Thị trưởng đã điều động một số cảnh sát vũ trang từ đồn cảnh sát gần đó đến.
+adviser_riot_armedreinforcements2		Hãy cẩn thận với những người này. Bạn có thể sẽ phải gánh chịu một cuộc thảm sát đẫm máu nếu thả lỏng họ đấy.
+adviser_riot_armedreinforcements3		Mặt khác, các tù nhân có thể chọn đầu hàng khi thấy những người này tiến vào.
+
+adviser_riot_reinforcementsunlocked1 	Lực lượng tiếp viện chủ lực đã đến.
+adviser_riot_reinforcementsunlocked2 	Giờ đây, bạn có thể gọi bao nhiêu đội Cảnh sát cơ động và Cấp cứu viên tùy thích từ thanh công cụ Khẩn cấp.
+
+adviser_riot_cleanup1                    Cơ sở đã được kiểm soát và những kẻ bạo loạn đã bị khuất phục. Tình hình có thể dễ dàng trở nên tồi tệ hơn nhiều.
+adviser_riot_cleanup2                    Chúng ta có một chiến dịch dọn dẹp cực kỳ lớn phía trước. Tôi rất cảm kích sự giúp đỡ của bạn nếu bạn có thời gian.
+adviser_riot_cleanup2b 					Chúng ta không có bất kỳ nhà thầu xây dựng nào tại hiện trường, vì vậy bước đầu tiên sẽ là thuê thêm một số thợ xây mới để bắt tay vào sửa sang lại nơi này.
+adviser_riot_cleanup3                    Tôi luôn nghĩ an ninh ở đây quá lỏng lẻo. Những tù nhân này đã được thả lỏng quá mức trong một thời gian dài. Điều đó sẽ chấm dứt từ hôm nay.
+adviser_riot_cleanup4                    Tôi muốn bạn xây cho chúng ta một Kho vũ khí mới, sau đó bố trí cai ngục vũ trang tại các vị trí trọng yếu xung quanh nhà tù. Cảnh tượng đó sẽ khuất phục những tù nhân này và họ sẽ phải suy nghĩ kỹ trước khi gây ra rắc rối lớn như thế này lần nữa.
+adviser_riot_cleanup5                    Tôi cũng đang phê duyệt ngân sách để cung cấp áo giáp cho toàn bộ cai ngục tại đây. Người của chúng ta cần phải có khả năng tự vệ.
+adviser_riot_cleanup6                    Hãy tiếp tục nào. Những tù nhân này cần kỷ luật. Sự trật tự trong cuộc sống của họ. Tôi đề xuất chúng ta bắt họ làm việc để dọn dẹp đống hỗn độn mà họ đã gây ra.
+adviser_riot_cleanup7                    Bắt đầu một chương trình lao động cho các tù nhân của chúng ta, và đưa họ vào làm việc dọn dẹp nhà tù và giặt ủi.
+adviser_riot_cleanup7b                  Bạn có thể phân công tù nhân làm việc từ thanh công cụ, dưới mục Hậu cần. Rê chuột vào mục tiêu để biết thêm trợ giúp chi tiết về cách thực hiện việc này.
+adviser_riot_cleanup8                    Chúng ta còn một vài yêu cầu khác. Có rất nhiều tù nhân cần được dạy dỗ về những sai lầm của họ. Hãy xây dựng một phân khu Biệt giam mới.
+adviser_riot_cleanup8b                  Cai ngục của chúng ta sẽ chịu trách nhiệm chuyển tù nhân đến phòng Biệt giam khi có yêu cầu. Biệt giam giúp tù nhân có thời gian để suy ngẫm về những gì họ đã làm, và nhắc nhở họ ai mới là người điều hành ở đây.
+adviser_riot_cleanup9                    Và đừng quên các nhân viên, những người đã cùng chúng ta vượt qua thử thách này. Họ đã kiệt sức rồi.
+adviser_riot_cleanup9b 					Hãy xây dựng một phòng nghỉ nhân viên ở đâu đó để cho họ có nơi phục hồi sức khỏe.
+adviser_riot_cleanup10                  Cuối cùng, chúng ta cần hoàn thành tất cả những việc này trong phạm vi ngân sách. Hãy đảm bảo chúng ta có số dư ngân hàng và dòng tiền dương. 
+adviser_riot_cleanup10b 				Lao động tù nhân rẻ hơn đáng kể so với các nhà thầu khi nói đến việc lau dọn, công việc lao công, giặt ủi và những việc tương tự. 
+adviser_riot_cleanup11                  Có rất nhiều việc phải làm ở đây. Chúng tôi thực sự trân trọng sự giúp đỡ của bạn.
+adviser_riot_cleanup12                  Khi bạn cảm thấy mình đã làm đủ và sẵn sàng chuyển đi, hãy nhấp vào ảnh polaroid cạnh cổng chính.
+
+adviser_riot_cleanup13 					Công việc xuất sắc lắm. Tôi nghĩ an ninh của cơ sở này hiện trông đã vững chắc hơn nhiều rồi. 
+
+objective_riot_solitary 				(TÙY CHỌN) Xây dựng một phân khu Biệt giam và bắt đầu trừng phạt những kẻ bạo loạn
+objective_riot_armoury 					(TÙY CHỌN) Triển khai các giao thức an ninh mới
+objective_riot_armoury_research			Mở khóa Kho vũ khí thông qua Hành chính
+objective_riot_armoury_build 			Xây dựng một Kho vũ khí (tại một vị trí an toàn)
+objective_riot_armoury_deploy			Bố trí cai ngục vũ trang xung quanh nhà tù
+objective_riot_armoury_armour 			Mở khóa áo giáp cho toàn bộ nhân viên an ninh
+objective_riot_armoury_tazers 			Mở khóa Súng điện cho cai ngục vũ trang của bạn 
+objective_riot_staffroom 				(TÙY CHỌN) Xây dựng một Phòng nghỉ nhân viên cho các nhân viên đã kiệt sức của bạn 
+objective_riot_balancebooks 			(TÙY CHỌN) Cân đối các tài khoản 
+objective_riot_balancebooks_balance 	Số dư ngân hàng dương 
+objective_riot_balancebooks_cashflow 	Dòng tiền dương
+objective_riot_prisonerwork				(TÙY CHỌN) Thiết lập một chương trình lao động cải tạo 
+
+objective_riot_cleaningcupboard			Xây dựng một Tủ vệ sinh 
+objective_riot_laundry					Xây dựng một Phòng giặt 
+objective_riot_inmatesincleaning 		Phân công tù nhân làm việc trong Ban Vệ sinh
+objective_riot_inmatesinlaundry			Phân công tù nhân làm việc trong Phòng giặt
+objective_riot_cleanprison 				Dọn dẹp nhà tù 
+objective_riot_providelaundry			Cung cấp đồ giặt sạch
+
+objective_riot_armoury_research_description		Biểu tượng hành chính nằm ngay phía trên danh sách việc cần làm này. Nhấp để bắt đầu làm việc về mục 'Kho vũ khí' - Trưởng an ninh của bạn sẽ xử lý các thủ tục giấy tờ. 
+objective_riot_armoury_deploy_description        Để bố trí cai ngục vũ trang, hãy vào mục Bố trí rồi chọn 'Tuần tra vũ trang'. Nhấp và kéo để vẽ các tuyến tuần tra nơi bạn muốn, sau đó nhấp lại vào các tuyến tuần tra đó để phân công cai ngục vũ trang vào.
+objective_riot_armoury_guardtazers_description  Hãy xem trong mục Báo cáo / Chương trình - bạn sẽ thấy 'Huấn luyện súng điện cai ngục'.\n\nCai ngục của bạn cần được huấn luyện trước khi có thể sử dụng Súng điện. Bạn sẽ cần xây dựng một Phòng học để thực hiện việc huấn luyện này.
+objective_riot_prisonerwork_description          Để phân công tù nhân làm việc, hãy vào mục 'Hậu cần' rồi chọn 'Lao động tù nhân'. Nhấp để thêm việc làm vào bất kỳ phòng nào được tô màu xanh lá cây.\n\nBạn cũng phải chỉ định thời gian tù nhân làm việc. Hãy vào mục Báo cáo / Lịch sinh hoạt, và thêm vài giờ 'Lao động' vào ngày. Tù nhân sẽ làm việc nếu có sẵn việc làm trong thời gian này.
+
+objective_Riot_PlayerExitsMap			Nhấp vào ảnh polaroid bên ngoài lối vào chính khi bạn hoàn thành.
+
+
+# =============================================================================
+# Conviction
+# =============================================================================
+
+campaigncutscene_convictionheist        Vụ cướp
+campaigncutscene_convictionmorgan       Morgan
+campaigncutscene_convictionvisitation   Thăm nuôi
+campaigncutscene_convictionsuicide      Tự sát
+
+campaignchapter_conviction              Conviction
+campaignchapter_conviction_description  Một trong các tù nhân của chúng ta đã được đưa vào diện theo dõi tự sát. Henry Morgan, đồng phạm của Benedict. Đang thụ án được mười ba tháng trong mức án năm năm. Hãy giúp chúng tôi chăm sóc những người đàn ông này.
+
+adviser_name_benedictarmed              Benedict
+adviser_name_morgan                     Henry Morgan
+adviser_name_morganarmed				Henry Morgan
+adviser_name_morganhappy                Henry Morgan
+adviser_name_senator                    Thượng nghị sĩ Walter Hurst
+adviser_name_detective                  Thanh tra cảnh sát
+adviser_name_kerry 						Kerry Morgan 
+adviser_name_hurst 						Bác sĩ Walter Hurst 
+adviser_name_keane 						Sĩ quan Keane 
+
+adviser_conviction_heist1                Gom tiền đi, nhóc.
+adviser_conviction_heist2                Bỏ vũ khí xuống, ngay lập tức!
+adviser_conviction_heist2b				Ôi chết tiệt!
+adviser_conviction_heist3                Bắn đi, mẹ kiếp!
+adviser_conviction_heist4                Mày còn chờ cái quái gì nữa, bắn đi đồ nhát gan chết tiệt!
+adviser_conviction_heist6                Lũ chó đẻ!
+adviser_conviction_heist7                Đừng bắn! Đừng bắn!
+adviser_conviction_heist8                GIƠ TAY LÊN, LŨ KHỐN NẠN!
+adviser_conviction_heist9                Làm chính xác những gì tao làm, hiểu chưa?
+adviser_conviction_heist10              Chết tiệt, chết tiệt, CHẾT TIỆT!
+adviser_conviction_heist11              Đừng bắn! ĐỪNG BẮN!
+
+conviction_intro_1                      Sau thảm kịch gần đây tại Nhà tù Alchemico, chúng ta đang bị giám sát chính trị vô cùng gắt gao.
+conviction_intro_2                      Cho đến khi tìm được người thay thế lâu dài cho vị trí Tổng giám đốc, tôi muốn bạn tạm thời tiếp quản.
+conviction_intro_3                      Gần đây đã có một loạt vụ tự sát tại cơ sở này, và không khó để hiểu lý do tại sao. Nhưng chúng ta có một vấn đề cấp bách hơn.
+conviction_intro_4                      Chính quyền đã quyết định gửi cho chúng ta một đợt tù nhân mới rất lớn. Những người đầu tiên sẽ đến vào ngày mai, và chúng ta không có nơi nào để chứa họ.
+conviction_intro_5                      Chúng tôi cần bạn xây dựng một khu phòng giam hoàn toàn mới, với đủ không gian để tiếp nhận đợt tù nhân mới.
+conviction_intro_5b                     Tôi đã vạch ra một thiết kế tiềm năng cho khu phòng giam mới ở đây. Thiết kế này sẽ cung cấp cho chúng ta đủ số phòng giam mới để tiếp nhận tù nhân, và bản thiết kế bao gồm cả khu vực phòng tắm riêng. 
+conviction_intro_5c                     Nhưng quyết định hoàn toàn tùy thuộc vào bạn, có thể làm theo thiết kế này hoặc xây một cái gì đó hoàn toàn khác.
+conviction_intro_6                      Nhiệm vụ của tôi là ưu tiên phúc lợi của những con người này. Hãy xây dựng xong khu phòng giam mới đó đi, rồi chúng ta sẽ thảo luận về cách đạt được điều đó.
+
+unused_conviction_intro_4                Một trong các tù nhân của chúng ta đã được đưa vào diện theo dõi tự sát. Henry Morgan, đồng phạm của Benedict. Đang thụ án được mười ba tháng trong mức án năm năm.
+unused_conviction_intro_7						Tôi muốn đến và nói chuyện với anh ta. Chúng ta không thể để xảy ra một vụ tự sát nào nữa.
+
+conviction_workintro1                   Chúng ta đã đối xử với những người này như cỏ rác quá lâu rồi. Điều đó sẽ kết thúc từ hôm nay.
+conviction_workintro2                   Tổng giám đốc trước đây chưa bao giờ thực sự tin tưởng vào việc cải tạo tù nhân. Nhưng theo góc nhìn của tôi, chúng ta cần mang lại cho những người này một chút niềm hy vọng vào tương lai.
+conviction_workintro3                   Chúng ta cần cung cấp cho họ những kỹ năng cần thiết để thành công khi được trả tự do - các kỹ năng nghề nghiệp quý giá, một nền giáo dục cơ bản.
+conviction_workintro4                   Chúng ta nên bắt đầu một chương trình học nghề lao động. Huấn luyện những người này các kỹ năng thực tế ngoài đời, để ít nhất họ có một tương lai để mong đợi.
+
+
+conviction_hurst1 						Sự thiếu thốn các hoạt động gắn kết tại cơ sở này thật đáng kinh ngạc. Con người bị tước đoạt đi mọi mảnh vụn của tính người.
+conviction_hurst2 						Họ đang nhận được rất ít sự trắc ẩn hay tôn trọng. 
+conviction_hurst3 						Đó không phải là những gì họ xứng đáng phải nhận.
+conviction_hurst4 						Đúng vậy, Đại úy. Đây không phải là cách đối xử với một con người. Họ bị tước đoạt đi mọi mảnh vụn của tính người. 
+conviction_hurst4b                       Tại sao họ phải tuân thủ các quy tắc của chúng ta? Ông không thể mong đợi họ phản ứng theo bất kỳ cách nào khác ngoài sự oán hận tột cùng. 
+conviction_hurst4c						Chúng ta cần các phòng học, các chương trình cai nghiện ma túy. Một xưởng lao động, để họ có thể bắt đầu tự hào về kỹ năng của mình.
+conviction_hurst6                        Ông hiểu sai ý tôi rồi, Bác sĩ. Những kẻ này không phải là con người. Hãy tự mình xem đi.
+conviction_hurst6b                       Đứng dậy mau, Morgan!
+conviction_hurst7                        Anh có khách thăm này.
+conviction_hurst8                        Cải tạo á? Thà đi dạy khỉ chơi đàn banjo còn hơn.
+
+conviction_hurst10 						Tên anh là gì hả cậu?
+conviction_hurst10b                      Người ta đang hỏi anh kìa.
+conviction_hurst11 						Henry, thưa ông.
+conviction_hurst12 						Dưới đó chắc lạnh lắm, Henry. Mặc cái này vào đi.
+conviction_hurst13 						Có chấy rận trên giường thưa ông. Chúng ăn tươi nuốt sống tôi. Cái áo này giúp ngăn lũ chuột. Những con to nhất tôi từng thấy.
+conviction_hurst14 						Cứ gọi tôi là Walter.
+conviction_hurst15 						Anh ngủ nghê thế nào?
+conviction_hurst16 						Không ngủ được. Điều duy nhất tôi làm ở trong này là suy nghĩ. Có rất nhiều thời gian để suy nghĩ.
+conviction_hurst16b                      Anh hay nghĩ về điều gì?
+conviction_hurst16c                      Hầu hết là cái chết. Và đứa con gái nhỏ của tôi.
+conviction_hurst17 						Con bé sẽ cần anh phải mạnh mẽ đấy, Henry. Chuyện này cũng sẽ rất khó khăn với con bé.
+conviction_hurst18 						Nó đã ở sau song sắt mỗi ngày trong cuộc đời nó. Nó thậm chí còn không biết tôi có tồn tại.
+conviction_hurst19 						Chưa bao giờ là quá muộn để thay đổi một cuộc đời đâu, Henry. 
+conviction_hurst19b 					Tôi muốn đến thăm anh lần nữa nếu có thể.
+conviction_hurst20 						Vâng, thưa ông. Cảm ơn ông.
+conviction_hurst21 						Chúng ta có thể làm gì đó với lũ chuột đó không? Đây đâu phải là thế giới thứ ba.
+conviction_hurst22 						Tôi sẽ cho một ít thuốc chuột vào trong đó.
+
+conviction_visitationintro_1            Tôi đã thuyết phục được trưởng an ninh phá lệ cho gia đình Morgan đến thăm nuôi.
+
+conviction_visitation_0					Xin chào ông. Tôi là Kerry Morgan, đến để thăm Henry Morgan.
+conviction_visitation_1					Đứng sau vạch kẻ.
+conviction_visitation_2 				Tôi xin lỗi. Tôi đến để gặp Henry. Henry Morgan. Anh ấy là chồng tôi, thưa ông.
+conviction_visitation_3 				Tôi sẽ không nhắc lại lần nữa đâu. Đứng sau vạch kẻ. Ngay lập tức.
+conviction_visitation_4 				Vâng, thưa ông. Xin lỗi ông.
+conviction_visitation_5 				Được rồi. Tiến lên phía trước đi. Tôi không có cả ngày đâu.
+conviction_visitation_6					Tên.
+conviction_visitation_7					Kerry Morgan, thưa ông. Đến gặp Henry Morgan. Và đây là đứa con gái nhỏ của anh ấy.
+conviction_visitation_8					Cô bảo với hắn như vậy đúng không? Đi qua đi.
+conviction_visitation_8a                Kerry!
+conviction_visitation_9					E là đã có một sự nhầm lẫn. Morgan đã mất đặc quyền thăm nuôi rồi.
+conviction_visitation_9b 				Cái gì cơ? 
+conviction_visitation_9c 				Tôi xin lỗi. Chúng tôi tìm thấy rượu lậu trong phòng giam của hắn sáng nay. Tôi không thể làm gì khác được.
+conviction_visitation_10				Tôi phải mất hai tiếng đồng hồ mới đến được đây. Con gái tôi đang khóc. Như vậy không công bằng.
+conviction_visitation_11				Muốn công bằng thì đi Disneyland đi. Công bằng là nơi cô thắng được cá vàng và ăn bánh mì kẹp xúc xích. Cô không tìm thấy nó ở đây đâu.
+conviction_visitation_12				Làm ơn, hãy đưa cái này cho anh ấy.
+conviction_visitation_13                Được thôi. Hắn ta sẽ không có khách thăm trong một thời gian khá dài đâu. Có lời nhắn gì không?
+conviction_visitation_14                Không. Không có lời nhắn gì.
+
+conviction_visitation_angrymorgan0		Không!
+conviction_visitation_angrymorgan1		Chờ đã!
+conviction_visitation_angrymorgan2		Các người không được làm thế!
+conviction_visitation_angrymorgan3		Cho tôi nói chuyện với cô ấy!
+conviction_visitation_angrymorgan4		Lũ khốn nạn tụi mày!
+
+conviction_helpinmates_1                 Điều đó thật là thất vọng.
+conviction_helpinmates_2                 Thật khó để tìm cách thực sự giúp đỡ những người này. Họ cần được dạy cách tự vươn lên.
+conviction_helpinmates_3                 Tôi nghĩ rõ ràng chúng ta cần giải quyết khu vực phòng thăm nuôi. Các gia đình đang xếp hàng dài ra tận cửa, và chúng ta rõ ràng không thể xử lý hết lượng khách thăm mà chúng ta đang thấy hiện nay.
+conviction_helpinmates_4                 Hãy xây dựng một khu phòng thăm nuôi hoàn toàn mới. Bất kể chuyện gì đã xảy ra với Morgan, tôi nghĩ chúng ta sẽ thấy lợi ích tích cực. Và anh ta không phải là tù nhân duy nhất ở đây có gia đình.
+conviction_helpinmates_5                 Tôi đã thực hiện một số nghiên cứu và tôi rất kinh ngạc khi thấy nhiều tù nhân ở đây chỉ có kỹ năng toán học và đọc viết cơ bản nhất. Chúng ta cần bắt đầu khắc phục điều này.
+conviction_helpinmates_6                 Hãy mở một khu phòng học mới, và bắt đầu mời các giáo viên bên ngoài vào để dạy những điều cơ bản. Nếu không có giáo dục, những tù nhân này sẽ không có hy vọng gì ngoài một cuộc đời tội lỗi.
+conviction_helpinmates_7                 Và chúng ta cần phải kiểm soát tốt lượng tù nhân tràn vào. Hãy tiếp tục mở rộng sức chứa để mọi tù nhân đều có được một phòng giam chất lượng tốt.
+
+conviction_outro1                        Tôi nghĩ chúng ta đã tạo ra sự khác biệt lớn ở đây. Chúng ta đã mang lại cho những tù nhân này một điều gì đó để phấn đấu, và một lý do để tiếp tục cố gắng.
+conviction_outro2                        Bạn có thể ở lại và giúp chúng tôi đưa đợt tù nhân đầu tiên vượt qua các chương trình giáo dục và lao động mà chúng ta đã thiết lập, nếu bạn muốn.
+conviction_outro3                        Nhưng tôi nghĩ chúng tôi có thể tự lo liệu từ đây. Khi bạn sẵn sàng rời đi, hãy nhấp vào ảnh polaroid trong phòng giam của Morgan.
+
+conviction_secondvisit_1                Tôi đã hy vọng sẽ gặp anh tại một trong những buổi trị liệu của tôi.
+conviction_secondvisit_2                Tôi không thể làm được. Tôi không thể ở trong cái hố này thêm một giây nào nữa.
+conviction_secondvisit_3                Cứ sống qua từng ngày một đi.
+conviction_secondvisit_4                Ý tôi là toàn bộ cái chốn thối nát này. Dù ở trong này. Hay ở ngoài kia. Họ không cho tôi gặp gia đình. Tôi đã trót nhúng chàm rồi thưa ông, và sự thật đó sẽ không bao giờ thay đổi đâu.
+conviction_secondvisit_5                Henry, mọi chuyện sẽ ổn thôi. Tôi ở ngay bên cạnh anh.
+conviction_secondvisit_6                Nực cười thật. Anh ấy cũng đã nói chính xác điều tương tự.
+conviction_secondvisit_7                Ai vậy, Henry? Anh có thể kể cho tôi nghe mà.
+conviction_secondvisit_8                Anh ấy đã chăm sóc cho tôi.
+conviction_secondvisit_9                Kể từ khi chúng tôi còn là những đứa trẻ.
+conviction_secondvisit_10                Hãy giữ bình tĩnh. Bất cứ chuyện gì xảy ra, nhóc.
+conviction_secondvisit_11                Tôi ở ngay bên cạnh anh.
+conviction_secondvisit_11b				Ngay bên cạnh tôi sao?
+conviction_secondvisit_12                Anh ấy không còn ở đó nữa.
+conviction_secondvisit_13                Tôi sẽ đưa ra một thỏa thuận với anh. Hãy đến buổi trị liệu nhóm tiếp theo của tôi và tôi sẽ xem liệu chúng ta có thể nới lỏng đặc quyền thăm nuôi của anh không.
+conviction_secondvisit_14                Ông sẽ làm điều đó vì tôi sao, thưa ông?
+conviction_secondvisit_15                Không phải chỉ vì anh đâu, Henry.
+
+conviction_suicide_1 					Xin lỗi ông, tôi nghĩ ông cần phải biết. Lại có thêm một vụ tự sát nữa rồi. 
+conviction_suicide_2					Có vẻ như một trong những tù nhân đã nuốt phải chất độc chuột.
+conviction_suicide_3					Bác sĩ Hurst đang trên đường đến đó để xác nhận.
+conviction_suicide_4					Nó không phải là thứ đẹp đẽ nhất ông từng thấy sao?
+conviction_suicide_5					Tôi nghĩ có lẽ đúng là như vậy.
+conviction_suicide_6					Chưa bao giờ là quá muộn để thay đổi một cuộc đời đâu, thưa ông.
+
+objective_conviction_expandcapacity50			Tiếp nhận đợt tù nhân mới
+objective_conviction_expandcapacity50_description	Bạn có thể xem sơ đồ bố trí tiềm năng cho khu phòng giam mới bằng cách vào chế độ 'Lập kế hoạch' trên thanh công cụ chính.
+objective_conviction_expandcapacity_cells	 	Cung cấp phòng giam cho 40 tù nhân
+objective_conviction_expandcapacity_shower		Cung cấp khu vực phòng tắm
+objective_conviction_expandcapacity_yard		Cung cấp sân tù 
+objective_conviction_expandcapacity_intake		Chờ đợt tiếp nhận tiếp theo đến 
+
+objective_conviction_workprogram 				Vận hành chương trình đào tạo kỹ năng lao động
+objective_conviction_unlocklabour				Cấp phép 'Lao động tù nhân' thông qua Hành chính 
+objective_conviction_work_trainkitchen			(TÙY CHỌN) Đào tạo 5 tù nhân về An toàn và Vệ sinh Bếp ăn
+objective_conviction_work_kitchen				Phân công tù nhân làm việc trong nhà bếp
+objective_conviction_work_workshop				Xây dựng một xưởng lao động 
+objective_conviction_work_trainworkshop			(TÙY CHỌN) Cho 10 tù nhân trải qua khóa Hướng dẫn An toàn xưởng
+objective_conviction_work_assignworkshop		Phân công tù nhân làm việc trong xưởng lao động 
+objective_conviction_work_produceplates			(TÙY CHỌN) Sản xuất 100 biển số xe
+objective_conviction_work_exportszone			Chỉ định một khu xuất hàng gần con đường
+objective_conviction_work_setintake             Thiết lập mức Tiếp nhận Tù nhân thành 10 người mỗi ngày
+
+objective_conviction_unlocklabour_description	 Bạn có thể tìm thấy màn hình hành chính bằng cách nhấp vào biểu tượng phía trên danh sách việc cần làm này.
+objective_conviction_work_kitchen_description	 Để phân công tù nhân vào nhà bếp, hãy vào mục 'Hậu cần' rồi chọn 'Lao động tù nhân'.\n\nLưu ý: Tù nhân của bạn phải vượt qua khóa đào tạo 'An toàn và Vệ sinh Bếp ăn' trước khi họ có thể làm việc trong nhà bếp.				
+objective_conviction_work_assignworkshop_description 	Để phân công tù nhân vào xưởng lao động, hãy vào mục 'Hậu cần' rồi chọn 'Lao động tù nhân'.\n\nTù nhân của bạn phải vượt qua khóa 'Hướng dẫn An toàn xưởng' trước khi họ đủ điều kiện làm việc trong xưởng lao động.
+objective_conviction_work_trainkitchen_description 		Để vận hành các chương trình đào tạo và cải tạo, hãy vào mục 'Báo cáo' (dưới cùng bên phải) rồi chọn 'Chương trình'. Tù nhân sẽ tham gia các chương trình này trong thời gian lao động được phân công của họ.\n\nLưu ý: bạn sẽ cần phân công hai giờ 'Lao động' trong màn hình lịch sinh hoạt, nếu không tù nhân sẽ không có thời gian tham gia các chương trình đào tạo.
+objective_conviction_work_trainworkshop_description 	Để vận hành các chương trình đào tạo và cải tạo, hãy vào mục 'Báo cáo' (dưới cùng bên phải) rồi chọn 'Chương trình'. Tù nhân sẽ tham gia các chương trình này trong thời gian lao động được phân công của họ.\n\nLưu ý: bạn sẽ cần phân công hai giờ 'Lao động' trong màn hình lịch sinh hoạt, nếu không tù nhân sẽ không có thời gian tham gia các chương trình đào tạo.
+objective_conviction_work_setintake_description         Để đảm bảo nhà tù của bạn không trở nên quá tải, hãy vào mục 'Báo cáo' (dưới cùng bên phải) rồi chọn 'Tiếp nhận', và sử dụng nút << để giảm mức tiếp nhận xuống còn 10.
+
+objective_conviction_visitation				Thiết lập dịch vụ thăm nuôi tốt hơn 
+objective_conviction_visitationroom	         Xây dựng một khu đón khách mới 
+objective_conviction_visitationcount		Hỗ trợ thực hiện 20 lượt thăm nuôi của gia đình tù nhân
+objective_conviction_telephones	 			Thêm buồng điện thoại vào tất cả các Sân tù
+objective_conviction_mailroom				Xây dựng một Phòng thư tín
+objective_conviction_mailroomwork			Phân công tù nhân làm việc trong phòng thư tín 
+
+objective_conviction_mailroomwork_description            Để phân công tù nhân vào Phòng thư tín, hãy vào mục 'Hậu cần' rồi chọn 'Lao động tù nhân'. 
+
+objective_conviction_education				Bắt đầu giáo dục các tù nhân của bạn 
+objective_conviction_unlockeducation		Cấp phép 'Giáo dục' thông qua Hành chính
+objective_conviction_education_classroom	Xây dựng một phòng học 
+objective_conviction_education_class 		Vận hành một lớp Giáo dục cơ bản 
+objective_conviction_education_learn		(TÙY CHỌN) Có 5 tù nhân vượt qua lớp Giáo dục cơ bản
+objective_conviction_education_library		Xây dựng một thư viện
+objective_conviction_education_librarywork	Phân công tù nhân làm việc trong thư viện
+objective_conviction_education_chapel		Xây dựng một nhà nguyện
+objective_conviction_education_spiritual	Vận hành một lớp Hướng dẫn tâm linh 
+
+objective_conviction_expandcapacity100			Mở rộng sức chứa của nhà tù
+objective_conviction_expandcapacity_cells100	Mở rộng lên sức chứa 80 phòng giam
+objective_conviction_expandcapacity_cells200	(TÙY CHỌN) Mở rộng lên sức chứa 120 phòng giam
+
+objective_Conviction_PlayerExitsMap         Nhấp vào ảnh polaroid trong phòng giam của Morgan khi bạn hoàn thành.
+
+ 
+# =============================================================================
+# Epilogue
+# =============================================================================
+
+campaignchapter_epilogue                Bootstraps
+campaigncutscene_epilogueintro          Gặp lại
+campaigncutscene_epilogueoutro          Vĩ thanh 
+
+campaignchapter_epilogue_description    Một nhà tù lịch sử đã được lên lịch phá dỡ và thay thế. Hãy sử dụng tất cả các kỹ năng bạn đã học được để tạo ra một cơ sở tối tân.
+
+adviser_name_reporter 					Phóng viên
+
+epilogue_newsintro1 					Hôm nay trên bản tin CNDC, một phóng sự đặc biệt về tình trạng các nhà tù của chúng ta.
+epilogue_newsintro2 					Đã hai năm trôi qua kể từ 'Cuộc vây hãm tại Alchemico' khét tiếng cướp đi sinh mạng của rất nhiều người, bao gồm cả Tổng giám đốc Charles Wallace. 
+epilogue_newsintro4 					Hôm nay chúng ta sẽ lắng nghe ý kiến từ các chuyên gia hàng đầu và đặt câu hỏi xem điều gì, nếu có, đã thay đổi kể từ những sự kiện bi thảm đó. 
+epilogue_newsintro5 					Trước tiên, chúng ta sẽ kết nối trực tiếp đến một trong những nhà tù hoạt động lâu đời nhất của bang, vừa mới được lên kế hoạch phá dỡ.
+epilogue_newsintro6						Phát sóng trực tiếp ngay bây giờ, chỉ có trên bản tin CNDC.
+
+epilogue_reporter1						Cảm ơn Sarah. Nhà tù này từng là nơi giam giữ một số tội phạm khét tiếng nhất cả nước.  
+epilogue_reporter2 						Nhưng giờ đây, những bức tường của nó đang bị phá bỏ, sẵn sàng để được thay thế bằng một tổ hợp nhà tù mới.
+epilogue_reporter3 						Nếu các bạn nhìn ra phía sau tôi, các bạn có thể thấy các đội thi công đã có mặt ở đây và công việc phá dỡ đã bắt đầu.
+epilogue_reporter4 						Đồng hành cùng tôi là Thị trưởng thành phố, Calvin Heller. Cảm ơn ông Heller đã dành thời gian trò chuyện với chúng tôi hôm nay.
+epilogue_reporter5 						Đó là niềm vinh hạnh của tôi.
+
+epilogue_reporter6 						Trước đây ông từng là người ủng hộ mạnh mẽ phương pháp quản lý nhà tù cứng rắn và kỷ luật hơn.
+epilogue_reporter6b 					Tại sao lại phá dỡ một cơ sở đã định hình cách tiếp cận mang tính trừng phạt trong một thời gian dài như vậy?
+epilogue_reporter7 						Cả nhà tù và phương thức vận hành của nó đều đã trở nên lỗi thời. 
+epilogue_reporter8 						Chúng tôi đã đưa ra quyết định thay thế nó bằng một cơ sở hoàn toàn mới. Một cơ sở với chính sách hiện đại hơn.
+epilogue_reporter9						Nhà tù này từng xuất hiện trên tin tức vài năm trước với tư cách là một trong những cơ sở hành hình còn lại cuối cùng của bang.
+epilogue_reporter10 					Các nhà vận động từ lâu đã tìm cách hủy bỏ luật hình phạt tử hình ở đây. Ông sẽ tôn trọng nguyện vọng của họ, hay ông sẽ xây dựng lại phòng hành hình?
+epilogue_reporter12 					Điều đó vẫn đang được xem xét. Nhưng đó không phải là một quyết định mà chúng tôi sẽ đưa ra một cách xem nhẹ.
+
+epilogue_reporterend1 					Cảm ơn Thị trưởng Heller. Xin nhường lời lại cho trường quay.
+epilogue_newstransition1 				Đây là bản tin CNDC, phóng sự trực tiếp về tình trạng hệ thống nhà tù của chúng ta.
+epilogue_newstransition2 				Sau phần quảng cáo, chúng ta sẽ có sự tham gia của Bác sĩ Walter Hurst, một chuyên gia về tâm lý học và cải tạo tù nhân.
+
+epilogue_parole1 						Vẫn không có gì sao? Đã bao lâu rồi?
+epilogue_parole2						Tôi không đếm xuể nữa. Không điện thoại. Không thư từ.
+epilogue_parole3 						Tôi rất tiếc, Morgan. Chuyện đó hẳn là đau lòng lắm. Nhưng anh có một cơ hội ở đây. Đừng làm hỏng chuyện.
+epilogue_parole4 						Henry. Chúc may mắn.
+epilogue_parole5 						Đừng cố nói với họ những gì anh nghĩ họ muốn nghe.
+epilogue_parole6 						Tôi phải đi rồi. Tôi sẽ lên sóng trực tiếp trong một phút nữa.
+epilogue_parole7                        Thị trưởng Heller, ý kiến của ông là gì?
+epilogue_parole10 						Nhanh quá vậy!
+epilogue_parole11 						Thế nào?
+epilogue_parole12                       ...
+
+epilogue_outro_1 						Chào mừng trở lại với phiên bản đặc biệt này của bản tin CNDC, phát sóng trực tiếp cùng Thị trưởng thành phố Calvin Heller.
+epilogue_outro_2 						Tham gia cùng chúng ta bây giờ là Bác sĩ Walter Hurst, người từng bị cáo buộc lãng phí những khoản tiền khổng lồ vào việc cải tạo nhà tù.
+epilogue_outro_2b 						Bác sĩ Hurst, ông có tin rằng mình đã đạt được thành công không?
+epilogue_outro_3						Thành công sao? Không. Nhìn chung là chưa. 
+epilogue_outro_4						Tôi tin rằng tất cả mọi người đều có tiềm năng để tiến bộ. Và chúng ta phải trao cho họ cơ hội đó.
+epilogue_outro_4b 						Tôi có thể khẳng định với niềm tin tuyệt đối rằng tôi đã thấy sự tiến bộ thực sự trong thái độ và hy vọng của nhiều người bị giam giữ ở đây.
+epilogue_outro_5						Giam giữ phải là một biện pháp răn đe. Đó không nên là một cơ hội để phát triển hay thay đổi.
+epilogue_outro_6 						Việc trừng phạt và tước đoạt tính người của họ trong quá trình trải nghiệm chỉ tổ nuôi dưỡng thêm thói phạm tội. 
+
+epilogue_outro_7						Chúng tôi cung cấp cho những người này các kỹ năng giá trị, nhưng quan trọng hơn cả, là niềm hy vọng.
+epilogue_outro_7b  						Chúng tôi đang giúp họ tái hòa nhập vào xã hội, và đóng góp sau khi họ rời đi.
+epilogue_outro_8						Công dân bình thường còn không được đào tạo miễn phí. Giáo dục miễn phí. Công việc đảm bảo có lương. 
+epilogue_outro_8b 						Chúng ta đang bỏ bê các nạn nhân của tội phạm, và ban thưởng cho những kẻ thủ ác.
+epilogue_outro_8c 						Chi tiêu những khoản tiền khổng lồ, chỉ đơn giản để làm cho những tên tội phạm này cảm thấy tốt về bản thân chúng.
+epilogue_outro_9						Chúng ta có thể tạo ra sự khác biệt, ngay cả khi chúng ta phải làm điều đó với từng cá nhân một.
+epilogue_outro_10						Những kẻ này chưa hề tự mình giành lấy tự do của họ. Quyền tự do của họ.
+epilogue_outro_11						Bạn có thể bảo một con mèo đực cả trăm lần rằng hãy để yên cho lũ chim ở sân sau nhà bạn. Nhưng nó sẽ luôn quay lại thôi.
+epilogue_outro_12 						Bản tính của nó là thế rồi.
+
+epilogue_sandbox_1                      Cho tôi gửi lời chúc mừng đến bạn khi được bổ nhiệm làm Tổng giám đốc. Đây là một cơ hội. Một sự khởi đầu mới.
+epilogue_sandbox_2                      Bạn sẽ có quyền tự chủ hoàn toàn, ít nhiều là vậy. Nhiều tù nhân hơn. Tỷ lệ tái phạm cao hơn. Bạn có rất nhiều thách thức phía trước.
+epilogue_sandbox_3						Còn về cơ sở tử tù, hãy phá dỡ nó. Hoặc giữ lại, tận dụng nó vào việc gì đó. Quyết định thực sự là ở bạn. Người khác sẽ tiếp quản mảng kinh doanh đó nếu bạn không làm. 
+epilogue_sandbox_4						Về các mục tiêu, tôi sẽ giao cho bạn những mục tiêu tương tự như tôi đã giao cho người tiền nhiệm. Lợi nhuận, tỷ lệ tái phạm, sức chứa. 
+epilogue_sandbox_5 						Hoàn toàn tùy thuộc vào bạn cách bạn đạt được chúng.
+epilogue_sandbox_5b                      Một điều cuối cùng. Tổng giám đốc tiền nhiệm Charles Wallace có để lại một lá thư mà ông ấy thường trao cho bất kỳ kiến trúc sư nhà tù mới nào gia nhập công ty.
+epilogue_sandbox_5c                      Ông ấy có vài lời khuyên bổ ích. Bạn có thể thấy hữu ích khi xem qua đấy.
+epilogue_sandbox_6						Chúc may mắn!
+
+objective_epilogue_grants				Gây quỹ thông qua hệ thống Trợ cấp
+objective_epilogue_grants_description    Trợ cấp là một trong những phương pháp chính để huy động số lượng tiền mặt lớn cần thiết để xây dựng nhà tù.\n\nBạn có thể tìm thấy hàng loạt khoản trợ cấp trong mục Báo cáo (dưới cùng bên phải màn hình) dưới tab 'Trợ cấp'. Các cơ quan khác nhau sẽ cung cấp tiền cho bạn để xây dựng các phần cụ thể trong nhà tù của bạn từ con số không.
+
+objective_epilogue_certifiedprison		Xây dựng một nhà tù
+objective_epilogue_capacity				Sức chứa ít nhất 100 tù nhân 
+objective_epilogue_bankbalance			Số dư ngân hàng ít nhất $60,000 
+objective_epilogue_cashflow				Dòng tiền ròng dương
+
+epilogue_outrointro_1                    Tôi có thể thấy bạn đang có một khởi đầu rất tốt.
+epilogue_outrointro_2                    Nếu bạn ở gần tivi, bạn nên bật nó lên ngay bây giờ. Có thứ tôi muốn bạn xem.
+
+epilogue_basiccompletion_1 				Bạn đã đạt được các yêu cầu tối thiểu cho một nhà tù bang. Bạn đi từ đây đến đâu là tùy thuộc vào bạn.
+epilogue_basiccompletion_2 				Tại thời điểm này, việc tiến hành như thế nào hoàn toàn tùy thuộc vào bạn và công ty của bạn.
+epilogue_basiccompletion_3 				Tại văn phòng Thị trưởng, chỉ có một con số duy nhất mà chúng tôi quan tâm, đó là tỷ lệ tái phạm.
+epilogue_basiccompletion_4	 			Nếu bạn có thể giảm tỷ lệ tái phạm trong số các tù nhân của mình, tôi sẽ gọi đó là một thành công.
+epilogue_basiccompletion_5 				Những người như Bác sĩ Hurst tin rằng bạn chỉ có thể đạt được điều đó thông qua giáo dục, cải tạo, đào tạo kỹ năng và những việc tương tự.
+epilogue_basiccompletion_6 				Theo ý kiến của tôi, trừng phạt cũng có thể là một phương pháp hiệu quả không kém.
+epilogue_basiccompletion_8 				Tùy bạn thôi. Chúc bạn gặp nhiều may mắn nhất!
+epilogue_basiccompletion_9 				Khi bạn hoàn thành, hãy nhấp vào ảnh polaroid trên đường để rời khỏi nhà tù.
+
+objective_epilogue_reoffending			(TÙY CHỌN) Giảm tỷ lệ tái phạm của nhà tù
+objective_epilogue_reoffending_description	Bạn có thể xem tỷ lệ tái phạm của mình trong màn hình 'Xếp hạng trại'. Nhấp vào biểu tượng ở góc trên cùng bên trái của màn hình.
+
+objective_epilogue_reoffending_rate		Giảm tỷ lệ tái phạm xuống còn 30% hoặc ít hơn
+objective_epilogue_reoffending_released	Có ít nhất 10 tù nhân được trả tự do
+
+objective_Epilogue_PlayerExitsMap				Khi bạn cảm thấy mình đã làm đủ, hãy nhấp vào ảnh polaroid trên đường để tiếp tục.
+objective_epilogue_playerexitsmap_description	Có thể tìm thấy ảnh polaroid trên con đường, gần khu giao hàng.
+
+
+# =============================================================================
+# Credits
+# =============================================================================
+
+campaigncutscene_epiloguecredits        Credits
+
+credits_createdby1                      - Được tạo bởi -
+credits_createdby2                      Chris Delay
+credits_producer1                       - Sản xuất bởi -
+credits_producer2                       Mark Morris
+credits_art1                            - Đồ họa -
+credits_art2                            Ryan Sumo
+credits_sound1                          - Âm thanh -
+credits_sound2                          Alistair Lindsay
+credits_screenplay1                     - Kịch bản -
+credits_screenplay2                     Chris Hastings
+credits_programmers                     - Lập trình viên -
+credits_programmers1                    John Knottenbelt
+credits_programmers2                    Leander Hambley
+credits_programmers3                    Gary Chambers
+credits_programmers4                    Andrew Lim
+credits_programmers5                    Jeffrey Sheen
+credits_programmers6                    Finlay Curran
+credits_graphicdesign1                  - Thiết kế đồ họa -
+credits_graphicdesign2                  Morten Pedersen
+credits_special                         - Lời cảm ơn đặc biệt -
+credits_special1                        Will Morris
+credits_special2                        Sam Morris
+credits_special3                        Jo Stansfield
+credits_special4                        John Cook
+credits_special5                        Alex Chapman
+credits_special6                        Alex Tutty
+credits_special7                        Double Eleven
+credits_introversion                    - INTROVERSION SOFTWARE -
+credits_introversion1                    Chris Delay
+credits_introversion2                    Mark Morris
+credits_introversion3                    John Knottenbelt
+credits_introversion4                    Thomas Arundel
+credits_pa1                             PRISON
+credits_pa2                             ARCHITECT
+
+
+# =============================================================================
+# MCExporter
+# =============================================================================
+
+
+codex_mcexport                          Xuất bản nhà tù sang Minecraft
+codex_mcexportname						Bộ xuất bản Minecraft
+codex_worldnametitle					Tên thế giới
+codex_seedtitle							Seed
+codex_gamemodetitle						Chế độ chơi
+codex_mapfeattitle						Tính năng bản đồ
+codex_cheatstitle						Gian lận
+codex_timeofdaytitle					Thời gian trong ngày
+codex_rainingtitle						Trời mưa
+codex_thunderingtitle					Có sấm sét
+codex_generatortitle					Trình tạo thế giới
+codex_scaletitle						Tỷ lệ
+codex_exporttomc						Xuất bản
+codex_mcexport_default					Mặc định
+codex_mcexport_flat						Thế giới phẳng
+codex_mcexport_largebiomes				Các hệ sinh thái lớn
+codex_mcexport_survival					Sinh tồn
+codex_mcexport_creative					Sáng tạo
+codex_mcexport_adventure				Phiêu lưu
+
+
+# =============================================================================
+# Escape Mode
+# =============================================================================
+
+escapemode_help_title                   Vượt ngục - Đó là lối thoát duy nhất của bạn
+escapemode_help                         Bước một: Danh tiếng - Danh tiếng của bạn là tất cả ở trong này\n\n• Tăng danh tiếng của bạn bằng cách gây chiến. Làm tổn thương người khác thực sự sẽ khiến bạn được chú ý nhưng đập phá đồ đạc là một điểm bắt đầu tốt. Bạn có thể gây ra càng nhiều thiệt hại trong một trận chiến thì càng tốt.\n• Không để lại nhân chứng. Nếu một cai ngục phát hiện bạn đang đánh nhau, bạn sẽ bị trừng phạt vì điều đó, trừ khi tất cả họ không còn ở đó nữa.\n• Bị đánh ngất trông rất tệ. Tốt hơn hết bạn nên kết thúc trận chiến theo điều kiện của riêng mình.\n\nBước hai: Đội - Chiêu mộ những người khác tham gia vào nỗ lực vượt ngục của bạn\n\n• Huýt sáo để gọi họ lại và họ sẽ dính chặt lấy bạn mọi lúc mọi nơi bạn đi. (Nhấp vào tên của họ ở góc trên bên trái)\n• Họ thậm chí sẽ tham gia cùng bạn trong các trận chiến, điều này có thể giúp bạn tăng danh tiếng nhanh hơn nữa.\n• Huấn luyện đội của bạn. Bạn sẽ không bao giờ biết được khi nào việc có một cao thủ võ thuật hoặc một người chạy nước rút cạnh tranh ở gần sẽ trở nên hữu ích.\n\nBước ba: Hàng cấm - Bạn sẽ cần vũ khí và công cụ\n\n• Tìm một căn phòng nơi có thứ bạn muốn. Hãy nhìn xung quanh và bạn sẽ nhanh chóng tìm thấy thứ gì đó hữu ích mà bạn có thể ăn trộm.\n• Coi chừng máy dò kim loại và cai ngục đang cố khám xét bạn. Nếu bạn bị phát hiện có mang theo bất cứ thứ gì, họ sẽ tịch thu nó và ném bạn vào phòng biệt giam.\n• Giấu đồ trang bị của bạn. Bạn có thể giấu những gì tìm được trong phòng giam của mình hoặc phòng giam của người khác, chỉ cần nhớ nơi bạn đã để đồ.\n\nBước bốn: Đường hầm - Lối thoát lặng lẽ\n\n• Nhặt một công cụ đào và bắt đầu đào hầm từ bồn cầu trong phòng giam của bạn.\n• Đào hầm rất chậm. Hãy để các thành viên trong đội của bạn giúp bạn đào.\n• Đừng để bị phát hiện. Nếu một cai ngục nhìn thấy bạn đi vào hoặc đi ra khỏi đường hầm, bạn sẽ bị lộ tẩy.\n\nChúc may mắn. Bạn sẽ cần đến nó đấy.
+
+codex_escapemode                        Chế độ Vượt ngục
+codex_escapemode_developer              (Nhà phát triển) Chế độ Vượt ngục
+codex_escapemode_new                    Nỗ lực vượt ngục mới
+codex_escapemode_load                   Tải tiến trình vượt ngục
+codex_escapemode_save                   Lưu tiến trình vượt ngục
+codex_escapemode_workshop               Chế độ Vượt ngục (Steam Workshop)
+codex_escapemode_workshop_star_rating   Từ *S Sao trở lên
+
+escapemode_combat_attack                Tấn công
+escapemode_combat_attack_button         Chuột trái
+escapemode_combat_lunge                 Lao tới
+escapemode_combat_lunge_button          Shift
+escapemode_dig_button                    Giữ chuột trái
+escapemode_dig                          Đào
+escapemode_surrender                    Đầu hàng
+escapemode_surrender_safe                Kết thúc trận chiến
+escapemode_surrender_button              Space
+
+escapemode_helpletter                    Trợ giúp
+
+escapemode_reputation_points            Điểm danh tiếng:
+escapemode_reputations_cost             *C Điểm danh tiếng
+escapemode_reputations_max              TỐI ĐA
+
+escapesquad_squad_member                Thành viên đội
+escapesquad_recruitment                  Giữ chuột phải để chiêu mộ
+escapesquad_recruitment_cost            Chi phí điểm danh tiếng: *C
+escapesquad_toggle_follow                Bật/Tắt đi theo
+escapesquad_nameplate_following          Đang đi theo
+escapesquad_skip_punishments            Bỏ qua hình phạt
+escapesquad_skip_punishments_tooltip    Tiêu tốn một điểm danh tiếng để tất cả thành viên trong đội ngủ qua thời gian chịu phạt và thức dậy trong phòng giam của họ.
+escapesquad_sleep                        Ngủ
+escapesquad_sleep_tooltip                Nhấp để ngủ qua đêm.
+escapesquad_reputations                  Tiếng tăm
+escapesquad_reputations_tooltip          Sử dụng điểm danh tiếng vào mục tiếng tăm để cải thiện khả năng chiến đấu của đội bạn. 
+escapesquad_follow_mode                  Chế độ đi theo
+escapesquad_follow_mode_tooltip          Các tù nhân ở chế độ đi theo sẽ đi theo bạn và bắt chước các hành vi sai phạm của bạn.\n\nSử dụng phím R để bật/tắt chế độ đi theo cho toàn bộ tù nhân cùng một lúc.
+escapesquad_remove_member                Xóa thành viên đội
+escapesquad_remove_member_tooltip        Nhấp để xóa tù nhân này khỏi đội của bạn.
+escapesquad_escaped                      Đã trốn thoát
+
+escapemode_sprint_unlock                 \n\nMở khóa tính năng chạy nước rút bằng cách giữ phím Shift. Chạy nước rút chỉ khả dụng khi bạn không ở trong một trận chiến.
+
+escapemode_info_right_click              Chuột phải
+escapemode_info_hold_right_click        Giữ chuột phải
+escapemode_info_stash                    để giấu đồ hàng cấm
+escapemode_info_pick_up                  để nhặt hàng cấm
+escapemode_info_start_tunnel            để bắt đầu đào hầm
+escapemode_info_enter_tunnel            để đi vào đường hầm
+escapemode_info_exit_tunnel              để đi ra khỏi đường hầm
+escapemode_info_dig_up                  để đào lên
+escapemode_info_steal                    để ăn trộm
+
+escapemode_info_tool                     [Công cụ đào]
+escapemode_info_damage                  Sát thương: *D
+escapemode_info_recharge                Thời gian hồi chiêu: *T
+
+escapemode_gameover                      Trò chơi kết thúc
+escapemode_gameover_squad_title          Đội
+escapemode_gameover_casualties_title    Nạn nhân thương vong
+escapemode_gameover_totalscore_title    Tổng điểm
+escapemode_gameover_totaltime_title      Thời gian đã qua
+escapemode_gameover_time_days            *D Ngày, *H Giờ và *M Phút
+escapemode_gameover_time                *H Giờ và *M Phút
+
+codex_workshop_select_random_prison      Nhà tù ngẫu nhiên từ Workshop
+codex_workshop_searching                Đang tìm kiếm...
+
+
+# =============================================================================
+# Warden Mode
+# =============================================================================
+
+codex_wardenmode_debugstart              Bắt đầu Chế độ Giám đốc
+
+buildtoolbar_inventory                  Kho đồ
+buildtoolbar_tooltip_inventory          Phím tắt: (TAB)\n\nQuản lý kho đồ của giám đốc trại và đội bảo vệ cá nhân.
+
+wardenmode_combat                        CHO PHÉP TỰ VỆ
+wardenmode_combat_caption                Giờ đây bạn được tự do bảo vệ bản thân trước những tù nhân bạo lực
+
+wardenmode_combatwarning                KHÔNG CHO PHÉP TỰ VỆ
+wardenmode_combatwarning_caption        Bạn không được làm tổn hại tù nhân trừ khi đó là hành động tự vệ
+
+wardenmode_info_pick_up                  để nhặt lên
+
+wardensquad_wardenprotection            Bảo vệ Giám đốc
+wardensquad_recruitment_cost            Chi phí mỗi ngày: +$*C
+wardensquad_nameplate_following          Đang đi theo
+wardensquad_remove_member                Hủy bảo vệ Giám đốc
+wardensquad_remove_member_tooltip        Nhấp để xóa cai ngục này khỏi đội bảo vệ cá nhân của bạn.\nViệc này sẽ giúp bạn tiết kiệm $*C mỗi ngày.
+
+
+# =============================================================================
+# Collectables
+# =============================================================================
+
+
+codex_gamebible                         Kinh thánh trò chơi
+codex_gamebible_next                    >
+codex_gamebible_prev                    <
+codex_gamebible_singlepage              TRANG *X
+codex_gamebible_doublepage              TRANG *X - *Y
+object_collectable                      Trang sổ tay
+
+
+# =============================================================================
+# Multiplayer
+# =============================================================================
+
+codex_startonline                    Chế độ trực tuyến
+codex_start                         Tạo trò chơi
+codex_joinonline                    Tham gia trò chơi trực tuyến
+codex_join                          Tham gia trò chơi
+codex_usernamelabel                 Tên người dùng:
+codex_namelabel                     Tên trò chơi:
+codex_passwordlabel                 Mật khẩu:
+codex_passwordprotectedlabel        Có bảo vệ bằng mật khẩu?
+codex_listedlabel                    Công khai danh sách?
+codex_roomlistlabel                 Danh sách trò chơi:
+codex_connectinglabel                Đang kết nối tới máy chủ...
+codex_retrievingserverlistlabel     Đang tải danh sách trò chơi...
+codex_datausage                     Dữ liệu sử dụng: Đã gửi - *SkB/s, Đã nhận - *RkB/s
+codex_multiplayeroptions            Quản lý người chơi
+codex_playeroptions                 Người chơi
+codex_regionlabel                   Khu vực:
+
+multiplayer_chooseroomname          Vui lòng chọn tên trò chơi
+multiplayer_chooseusername          Vui lòng chọn tên người dùng
+multiplayer_joining                 Đang tham gia: *X
+multiplayer_joiningstate_joining    Đang tham gia trò chơi
+multiplayer_joiningstate_receiving  Đang nhận dữ liệu thế giới
+multiplayer_joiningstate_loading    Đang tải thế giới
+multiplayer_rejoining               Đang tham gia lại trò chơi sau khi mở rộng đất:
+multiplayer_leavegame_confirm       Bạn có chắc chắn muốn rời khỏi trò chơi chơi mạng (co-op) hiện tại không?
+multiplayer_hostleft                Chủ phòng đã ngắt kết nối.
+multiplayer_joingamefailed          Tham gia trò chơi thất bại:
+multiplayer_startgamefailed          Khởi động trò chơi thất bại:
+multiplayer_incorrectpassword       Sai mật khẩu
+multiplayer_disconnected            Mất kết nối tới máy chủ.
+multiplayer_syncerror               Bị ngắt kết nối do lỗi đồng bộ hóa.\n\nVui lòng thử tham gia lại trò chơi của bạn.
+multiplayer_hostonly                Chỉ khả dụng đối với chủ phòng.
+multiplayer_modsdisabled            Các bản mod đã bị vô hiệu hóa khi chơi trực tuyến
+multiplayer_mutatorsdisabled        Các hiệu ứng biến đổi đã bị vô hiệu hóa khi chơi trực tuyến
+multiplayer_kicked                  Bạn đã bị đuổi khỏi trò chơi.
+multiplayer_kick                    Đuổi
+multiplayer_ban                     Cấm
+
+multiplayer_host                    Chủ phòng:
+
+multiplayer_welcomeanalytics        Chào mừng bạn đến với Chế độ chơi mạng của Prison Architect.\n\nChúng tôi đang nỗ lực phát triển để mang lại trải nghiệm toàn diện của Prison Architect trong chế độ chơi mạng. Prison Architect là một trò chơi lớn và đây là lần đầu tiên chúng tôi cung cấp chế độ chơi mạng cho tất cả mọi người, vì vậy chúng tôi sẽ luôn theo sát mọi sự cố mà người chơi có thể gặp phải.\n\nĐể giúp chúng tôi giải quyết vấn đề này, chúng tôi muốn thu thập một số dữ liệu phân tích ẩn danh nhằm giúp khắc phục mọi sự cố mà người chơi có thể gặp phải với trò chơi. Tính năng này có thể được vô hiệu hóa bất kỳ lúc nào từ menu tùy chọn. Bạn có thể xem dữ liệu mà chúng tôi thu thập trong tệp metrics.txt\n\nChúng tôi hy vọng bạn sẽ thích chơi Prison Architect cùng với bạn bè của mình.
+
+region_asia                         Châu Á
+region_au                           Úc
+region_cae                          Phía đông Canada
+region_eu                           Châu Âu
+region_in                           Ấn Độ
+region_jp                           Nhật Bản
+region_ru                           Nga
+region_rue                          Phía đông Nga
+region_sa                           Nam Mỹ
+region_kr                           Hàn Quốc
+region_us                           Phía đông Hoa Kỳ
+region_usw                          Phía tây Hoa Kỳ
