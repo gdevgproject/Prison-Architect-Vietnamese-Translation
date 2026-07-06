@@ -1,15 +1,1 @@
-﻿interfacecontrol_mainmenu               Menu chính
-interfacecontrol_mainmenu_tooltip       Bật/tắt menu chính (Tạo mới/Tải/Lưu game v.v.)
-
-object_firemen_hosehelp                 Nhấp và giữ để di chuyển. Nhấp và giữ vào ngọn lửa để tự hướng vòi rồng.
-
-click_to_continue                       Nhấp để tiếp tục...
-gameover_caption                        Mở Menu để tiếp tục
-
-adviser_deathrow_explain5               Trong lúc chờ đợi, hãy nhìn xung quanh xem. Kéo màn hình để di chuyển góc nhìn, và cuộn con lăn chuột để phóng to và thu nhỏ.
-
-adviser_deathrow_internaldoors2         Bạn có thể xoay vật thể trước khi đặt bằng cách nhấp vào nút Xoay ở phía bên phải màn hình
-
-objective_deathrow_buildinternaldoors   Xây các cửa bên trong
-
-objective_food_extinguishflames_description  Khi chọn lính cứu hỏa, bạn có thể nhấp và giữ vào ngọn lửa để hướng vòi rồng của họ vào đó, nhưng ngọn lửa phải cách dưới 15 ô.
+﻿
