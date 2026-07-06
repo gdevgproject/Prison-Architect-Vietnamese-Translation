@@ -45,19 +45,8 @@ A complete **100% Vietnamese translation mod** for the popular prison management
 
 ---
 
-## ⚠️ How to fix accents `à` / `á` swap issue when playing
-Due to a legacy bitmap rendering issue in the original Prison Architect game engine, characters **`à`** (grave accent) and **`á`** (acute accent) appear swapped in the UI text (e.g., *nhà* is rendered with an acute accent, *thoát* is rendered with a grave accent). Other accents (`è/é`, `ò/ó`, `ù/ú`) render perfectly. This is a game engine rendering bug and not a translation error.
-
-To completely fix this issue and render the correct accents 100% in-game, simply follow this step:
-
-1. Open Terminal (CMD / PowerShell) in the mod directory:
-   ```text
-   %localappdata%\Introversion\Prison Architect\mods\VietnameseTranslation
-   ```
-2. Run the following command before launching the game:
-   ```bash
-   python fix_font_glyph_bug.py
-   ```
+## ⚠️ Note on Accent Swap (`à` / `á`)
+Due to a legacy bitmap rendering issue in the original Prison Architect game engine, characters **`à`** (grave accent) and **`á`** (acute accent) may rarely appear swapped in the UI text (e.g., *nhà* is rendered with an acute accent, *thoát* is rendered with a grave accent) in certain contexts. Other accents (`è/é`, `ò/ó`, `ù/ú`) render perfectly. This is a rare game engine rendering bug and not a translation error, which does not affect gameplay.
 
 ---
 
