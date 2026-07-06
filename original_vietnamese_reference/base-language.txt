@@ -2821,3 +2821,683 @@ schedule_editor_error_noteachers        Không có giáo viên nào tồn tại 
 schedule_editor_error_noobjects         Các vật thể cần thiết cho chương trình này không thể tìm thấy trong một phòng hợp lệ
 schedule_editor_pin                     Ghim cố định chương trình này
 schedule_editor_unpin                   Bỏ ghim chương trình này
+
+# =============================================================================
+# DoorTimer stuff
+# =============================================================================
+
+doortimer_title                         Điều khiển hẹn giờ cửa
+doortimer_connected_servos              *X Mô-tơ cửa đã nối
+doortimer_state_open                    Mở
+doortimer_state_closed                  Đóng
+
+doortimer_security_none                 Mọi cấp an ninh
+doortimer_security_minsec               An ninh thấp
+doortimer_security_normal				An ninh vừa
+doortimer_security_maxsec               An ninh cao
+doortimer_security_Protected            Giam bảo hộ
+doortimer_security_SuperMax             SuperMax
+doortimer_security_DeathRow             Tử tù
+
+
+# =============================================================================
+# Execution
+# =============================================================================
+
+execution_stage_completed                ĐÃ HOÀN THÀNH
+execution_stage_authorise                PHÊ DUYỆT
+execution_stage_Start                    Bắt đầu hành hình
+execution_stage_Lockdown                 Kích hoạt phong tỏa toàn trại
+execution_stage_Testing                  Kiểm tra thiết bị
+execution_stage_Assemble                 Tập hợp đội hành hình
+execution_stage_Witnesses                Hộ tống nhân chứng đến phòng hành hình
+execution_stage_Escort                   Hộ tống tù nhân đến phòng hành hình
+execution_stage_Execution                HÀNH HÌNH
+execution_stage_Dismissed                Giải tán nhân viên và nhân chứng
+execution_stage_FinalReport              Báo cáo cuối cùng
+
+execution_stagetooltip_start            Bạn đã lên lịch hành hình tù nhân này, và giờ phải tuân theo quy trình chính thức.
+execution_stagetooltip_lockdown         Toàn bộ tù nhân được đưa trở lại phòng giam và nhà tù bị phong tỏa.
+execution_stagetooltip_testing          Lượt kiểm tra cuối cùng để đảm bảo mọi thứ hoạt động tốt. Nguồn cấp điện cho ghế điện được kiểm tra khi có tải. Ngoài ra, lộ trình cuối cùng của tù nhân cũng được lên kế hoạch - hắn phải có thể tự đi bộ đến phòng hành hình.
+execution_stagetooltip_assemble         Giám đốc trại và Trưởng an ninh sẽ đi tới phòng giam của tù nhân chịu án tử hình. Ngoài ra, một cha xứ hoặc nhà lãnh đạo tâm linh do tù nhân chọn sẽ đến và vào phòng giam của hắn để làm lễ cầu nguyện cuối cùng.
+execution_stagetooltip_witnesses        Các nhân chứng hành hình đến nơi và đi vào phòng hành hình. Nhóm này có thể bao gồm người nhà của tù nhân chịu án tử và gia đình nạn nhân.\n\nChú ý: Nên chuẩn bị ghế cho nhân chứng hành hình.
+execution_stagetooltip_escort           Tù nhân chịu án tử được hộ tống từ phòng giam đến phòng hành hình. Giám đốc trại, Trưởng an ninh và Cha xứ sẽ đi cùng hắn.
+execution_stagetooltip_execution        Khi mọi người đã vào vị trí và mọi quy trình được tuân thủ, lệnh phê duyệt hành hình cuối cùng sẽ được đưa ra.
+execution_stagetooltip_dismissed        Nhân viên và nhân chứng được giải tán và có thể rời khỏi cơ sở.
+execution_stagetooltip_finalreport      Sau khi việc hành hình hoàn tất, một bản báo cáo sẽ được lập và hiệu suất của bạn sẽ được xếp hạng.
+
+execution_underway                      ĐANG TIẾN HÀNH HÀNH HÌNH
+execution_result_ok                     Lệnh hành hình *N đã được thực hiện vào lúc *T theo đúng lịch trình bằng ghế điện, trước sự chứng kiến của các nhân chứng. Khoản tiền bồi hoàn chuẩn trị giá $10,000 được trao cho cơ sở vì đã hoàn thành quy trình này.
+execution_result_appealed               Lệnh hành hình *N đã được thực hiện vào lúc *T theo đúng lịch trình bằng ghế điện, trước sự chứng kiến của các nhân chứng. Đáng tiếc là các thông tin mới đã được đưa ra ánh sáng sau đó, điều đáng lẽ sẽ ảnh hưởng đến đơn xin ân xá của hắn, tuy nhiên cơ sở sẽ không phải chịu trách nhiệm và vẫn nhận được khoản bồi hoàn chuẩn trị giá $10,000 vì đã hoàn thành quy trình này.
+execution_result_innocent               Lệnh hành hình *N đã được thực hiện vào lúc *T theo đúng lịch trình bằng ghế điện, trước sự chứng kiến của các nhân chứng. Đáng tiếc là bằng chứng được tìm thấy sau đó đã chứng minh *N vô tội, tuy nhiên cơ sở sẽ không phải chịu trách nhiệm và vẫn nhận được khoản bồi hoàn chuẩn trị giá $10,000 vì đã hoàn thành quy trình này.
+execution_result_illegal                Việc hành hình *N đã được thực hiện vào lúc *T theo đúng lịch trình bằng ghế điện, trước sự chứng kiến của các nhân chứng. Do không tuân thủ quy trình kháng cáo theo luật định và việc phát hiện ra thông tin đáng lẽ sẽ giúp kháng cáo thành công, cơ sở bị phạt $50,000. Do vi phạm quy trình chuẩn, các hoạt động hành hình sẽ bị đình chỉ cho đến khi có thông báo mới, và các tù nhân tử tù còn lại sẽ được chuyển sang cơ sở khác. 
+execution_result_illegalinnocent        Việc hành hình trái pháp luật đối với *N đã được thực hiện vào lúc *T theo đúng lịch trình bằng ghế điện, trước sự chứng kiến của các nhân chứng. Do không tuân thủ quy trình kháng cáo theo luật định và thực tế là *N vô tội, quản trị viên của cơ sở này bị sa thải khỏi chức vụ, có hiệu lực ngay lập tức. 
+execution_warning_one                   Nếu đợt hành hình tiếp theo tại đây không tuân thủ đúng quy trình, bạn sẽ bị sa thải khỏi chức vụ của mình.
+execution_warning_two                   Do những sai sót trong quá khứ của bạn khi không tuân thủ đúng quy trình, chỉ cần thêm một lần vi phạm quy trình chuẩn như vậy nữa sẽ khiến bạn bị sa thải khỏi chức vụ của mình.
+
+execution_error_MissingEquipment        LỖI: THIẾU TRANG BỊ\nBạn cần một phòng hành hình có ghế điện.
+execution_error_ElectricalSupply        LỖI: NGUỒN ĐIỆN HỎNG\nKhông đủ điện năng cấp cho ghế điện.
+execution_error_NavigationPrisoner      LỖI: ĐƯỜNG ĐI CỦA TÙ NHÂN\nTù nhân chịu án tử không thể tự đi bộ từ phòng giam đến phòng hành hình.
+execution_error_NoRouteFromRoad         LỖI: KHÔNG CÓ LỐI VÀO\nNhững người từ bên ngoài đến tham dự buổi hành hình không thể tới được địa điểm.
+execution_error_NoSpaceInRoom           LỖI: KHÔNG ĐỦ CHỖ\nKhông có đủ khoảng trống trong phòng hành hình cho những người đến tham dự.
+execution_error_NoRoom                  Bạn cần có Phòng hành hình trước khi có thể bắt đầu một đợt Hành hình
+
+roomerror_deathrow_sharedcell           Tù nhân tử tù yêu cầu phòng giam cá nhân, không thể xếp vào khu giam giữ chung
+roomerror_nonursery                     Không có phòng trẻ em nào liên thông với phòng giam này. Phòng giam gia đình yêu cầu một phòng trẻ em để tù nhân ăn uống ở đó
+roomerror_laundryoverloaded             Không thể dỡ đồ từ giỏ đồ giặt. Phòng giặt có thể quá nhỏ để đáp ứng nhu cầu.
+roomerror_nodeliveryarealinked			Không có khu giao hàng nào được liên kết với khu này trong mục Hậu cần.
+# =============================================================================
+# Misc
+# =============================================================================
+
+box_contents                            Vật phẩm bên trong: *X
+stack_contents                          Vật phẩm bên trong: *X x *Y
+mail_contents                           Thư: *X lá
+mail_opened_from                        Thư từ *F của *X
+mail_closed_from                        Thư gửi cho *X
+
+object_dump                             Vứt bỏ
+object_todo                             Việc cần làm: *X
+object_sale_price                       Giá bán: *X
+
+object_door_cyclepermissions            Nhấp để chuyển đổi Quyền truy cập
+object_door_cyclepermissions_1          (Mở, Chỉ nhân viên, Đóng)
+
+object_firemen_hosehelp_move            Nhấp chuột phải để ra lệnh cho lính cứu hỏa di chuyển đến đó
+object_firemen_hosehelp_intro           Lính cứu hỏa sẽ hướng vòi phun vào bất kỳ đám cháy nào gần đó
+object_firemen_hosehelp                 Nhấn phím H để tự hướng vòi phun bằng tay
+
+interface_clone_help_copy               Giữ chuột phải và kéo để chọn một khu vực cần nhân bản
+interface_clone_help_paste              Nhấp chuột trái để dán khu vực đã chọn
+
+object_inactive                         KHÔNG HOẠT ĐỘNG
+object_cctv_moremonitors                Xây thêm màn hình CCTV
+object_cctvmonitor_needsguards          Yêu cầu cai ngục để vận hành màn hình
+object_processor_blocked                Không thể tiếp cận vị trí làm việc
+
+administrator_requiresoffice            Yêu cầu văn phòng
+administrator_requiresoffice_2          *X Yêu cầu văn phòng
+office_ownership                        Văn phòng của *X
+
+teacher_teaching                        Đang dạy
+teacher_preparing                       Đang chuẩn bị
+
+prisoner_assignedto                     Yêu cầu: *X
+prisoner_roomquality                    Chất lượng phòng giam: *X (*Y)
+prisoner_roomquality_average            Trung bình
+prisoner_roomquality_aboveaverage       Trên trung bình
+prisoner_roomquality_wayaboveaverage    Vượt xa trung bình
+prisoner_roomquality_belowaverage       Dưới trung bình
+prisoner_roomquality_waybelowaverage    Thấp hơn hẳn trung bình
+prisoner_attendance                     Chuyên cần
+prisoner_concentration                  Tập trung
+prisoner_understanding                  Thấu hiểu
+prisoner_concentration_0                Rất tồi tệ
+prisoner_concentration_1                Tồi
+prisoner_concentration_2                Đạt
+prisoner_concentration_3                Tốt
+prisoner_concentration_4                Xuất sắc
+prisoner_passchance                     Tỷ lệ thành công: *X%
+prisoner_informant                      Chỉ điểm viên
+
+prisoner_dayswithoutincident            *X ngày không có sự cố
+prisoner_availablemoney                 Tiền mặt : $*X
+
+informant_title                         CHỈ ĐIỂM VIÊN
+informant_coverage						MỨC ĐỘ BAO PHỦ
+informant_suspicion						MỨC NGHI NGỜ
+informant_status						TRẠNG THÁI
+informant_none                          Bạn chưa có chỉ điểm viên nào trong danh sách
+informant_hint                          (Tuyển dụng tù nhân dưới áp lực - ví dụ khi bị biệt giam)
+informant_recruitable                   (Chỉ điểm viên tiềm năng)
+informant_target                        Mục tiêu
+informant_dead                          ĐÃ CHẾT
+informant_released                      Đã được thả
+informant_coverblown                    BỊ LỘ DANH TÍNH
+informant_activate                      Kích hoạt
+informant_deactivate                    Hủy kích hoạt
+informant_idle                          Đang rảnh
+informant_onroute                       Đang trên đường đi...
+informant_active                        Đang hoạt động
+informant_coveragecaps                  MỨC ĐỘ BAO PHỦ *X%
+
+
+contraband_owner                        Chủ sở hữu: *X
+contraband_ownerunknown                 Không rõ chủ sở hữu
+contraband_stolenfrom                   Bị trộm từ *X, *Y giờ trước
+contraband_smuggledthrough              Bị buôn lậu qua *X, *Y giờ trước
+contraband_smuggledin                   Được tù nhân lén tuồn vào, *Y giờ trước
+contraband_type                         Loại: *X
+contraband_tradevalue_title             Giá giao dịch
+contraband_tradevalue_low               $
+contraband_tradevalue_medium            $$
+contraband_tradevalue_high              $$$
+contraband_tradevalue_veryhigh          $$$$
+
+staff_exhausted                         Kiệt sức
+staff_tired                             Mệt
+staff_pissedoff							Nổi điên
+staff_onstrike                          Đình công
+staff_needsrest                         Nhân viên muốn nghỉ ngơi trong Phòng nghỉ nhân viên.
+
+dog_needskennel                         Chó cần Chuồng chó để ngủ.
+
+doctor_requireinfirmary                 Yêu cầu Trạm y tế
+
+entity_carryingequipment                Đang mang *X
+entity_carryingkeys                     Đang mang chìa khóa giam
+entity_carryingstaffkeys                Đang mang chìa khóa nhân viên
+entity_wearingarmour                    Đang mặc *X
+
+reports_schedule                        Lên lịch lại tất cả chương trình
+reports_edit                            Chỉnh sửa lịch trình
+reports_bankloan                        Vay ngân hàng
+reports_increaseloan                    Tăng
+reports_decreaseloan                    Giảm
+reports_unlockbankloans                 Được mở khóa bởi kế toán
+
+drugs_heroin                            Heroin
+drugs_cocaine                           Cocaine
+
+#                                        Ví dụ: "Mẹ của Bob"
+visitor_relationship                    *Y của *X
+visitor_age                             Tuổi : *X
+
+family_wife                             Vợ
+family_exwife                           Vợ cũ
+family_girlfriend                       Bạn gái
+family_son                              Con trai
+family_daughter                         Con gái
+family_mother                           Mẹ
+family_father                           Cha
+family_brother                          Anh/Em trai
+family_sister                           Chị/Em gái
+family_lawyer                           Luật sư
+family_priest                           Cha xứ
+family_victims                          Gia đình nạn nhân
+family_caption                          Gia đình: 
+family_none                             Không có
+family_husband                          Chồng
+family_exhusband                        Chồng cũ
+family_boyfriend                        Bạn trai
+
+damage_dead                             Đã chết
+damage_unconscious                      Bất tỉnh
+damage_serious                          Chấn thương nghiêm trọng
+damage_injured                          Bị thương
+damage_amount                           Bị hư hại *X%
+
+message_autosaving                      Tự động lưu...
+
+buildtoolbar_entersearchterm            nhập từ khóa tìm kiếm...
+
+deploymentscheduler_title               LỊCH BỐ TRÍ
+deploymentscheduler_patrolonly          [Chỉ lên lịch cho *X]
+deploymentscheduler_schedulenow         Đang hiển thị bố trí HIỆN TẠI
+deploymentscheduler_scheduletime        Đang hiển thị bố trí từ *X:00 - *Y:00
+supplyanddemand_supplyheader            CUNG
+supplyanddemand_demandheader            CẦU
+
+tooltip_multipleobjects                 TAB: Chuyển đổi vật thể
+remotedoor_noservo                      Cửa từ xa sẽ không mở nếu không có mô-tơ hoạt động đi kèm.
+
+targettingfood_prisonersassigned        Tù nhân được chỉ định : *X
+targettingfood_predicteddemand          = CẦU DỰ KIẾN =
+targettingfood_demand                   CẦU *X
+targettingfood_supply                   CUNG *X (+*Y)
+targettingfood_prisoners                tù nhân
+targettingfood_required                 Số suất ăn cần thiết : *X
+targettingfood_ready                    Số suất ăn đã sẵn sàng : *X
+targettingfood_cooked                   Số suất ăn đang nấu : *X
+
+roomgrading                             Xếp hạng phòng
+roomgrading_cell_roomsize               [*E] Diện tích phòng tối thiểu *X ô vuông
+roomgrading_cell_cleanliness            [*E] Độ sạch sẽ trên *X%
+roomgrading_cell_outsidewindow          [*E]*Y Cửa sổ hướng ra ngoài
+roomgrading_cell_item                   [*E] Vật thể: *X
+
+roomgrading_dormitory_roomsize          [*E] Diện tích phòng tối thiểu *X ô vuông mỗi tù nhân
+roomgrading_dormitory_cleanliness       [*E] Độ sạch sẽ trên *X%
+roomgrading_dormitory_outsidewindow     [*E] *Y Cửa sổ hướng ra ngoài mỗi 8 tù nhân
+roomgrading_dormitory_item              [*E] Vật thể: *X mỗi 4 tù nhân
+
+roomgrading_sharedcell_roomsize          [*E] Diện tích phòng tối thiểu *X ô vuông mỗi tù nhân
+roomgrading_sharedcell_cleanliness       [*E] Độ sạch sẽ trên *X%
+roomgrading_sharedcell_outsidewindow     [*E] *Y Cửa sổ hướng ra ngoài
+roomgrading_sharedcell_item              [*E] Vật thể: *X mỗi 4 tù nhân
+
+roomgrading_result                      Hạng *X/*Y
+roomgrading_currentoccupant             Người ở đủ tiêu chuẩn phòng hạng *X
+roomgrading_unoccupied                  Còn trống
+roomgrading_shared_occupuants           Số người ở hiện tại: *X / *Y
+
+weathermap_temperature_title            Nhiệt độ
+weathermap_temperature_text             *C° C / *F° F
+weathermap_temperature_c                *C° C
+weathermap_temperature_f                *F° F
+
+roomerror_nokitchen                     Không có nhà bếp nào có thể cung cấp đồ ăn cho nhà ăn này
+roomerror_noprisoners                   Không có tù nhân nào được chỉ định ăn tại nhà ăn này
+roomerror_nocanteen_cells               Không có nhà ăn nào liên thông với phòng giam này. Tù nhân ở phòng giam này sẽ không có nơi để ăn
+roomerror_nocanteen_kitchen             Không có nhà ăn nào liên thông với nhà bếp này. Nó sẽ không nấu bất kỳ đồ ăn nào cho giờ ăn
+
+ceos_letter                             Thưa ông/Bà,\n\n\nChúc mừng bạn đã hoàn thành khóa hướng dẫn cơ bản - giờ đây bạn đã là một Kiến trúc sư Nhà tù thực thụ! Sắp tới bạn sẽ tự thiết kế, xây dựng và vận hành những nhà tù của riêng mình, bắt đầu từ một mảnh đất trống và vài chồng gạch. Trước khi bạn bắt đầu, tôi nghĩ mình nên chia sẻ vài bài học quan trọng với bạn.\n\n1. Mỗi nhà tù đều cần một Giám đốc trại - ông ấy nên là một trong những người đầu tiên bạn tuyển dụng. Hãy xây cho ông ấy một văn phòng khang trang và ông ấy sẽ mở khóa hàng loạt cơ sở nâng cao thông qua hệ thống hành chính.\n\n2. Các phòng giam cá nhân rất tốn kém, đặc biệt là trong giai đoạn đầu khi ngân sách còn eo hẹp. Hãy tiết kiệm tiền bằng cách bắt đầu với một Phòng tạm giam lớn duy nhất, nơi có thể chứa nhiều tù nhân cùng một lúc.\n\n3. Hãy chuẩn bị sẵn sàng Nhà bếp và Nhà ăn hoạt động trước khi những tù nhân đầu tiên đến, và hãy chắc chắn tuyển vài Đầu bếp - không gì làm tù nhân nổi điên hơn một cái bụng đói!\n\n4. Xây dựng nhà tù là một công việc tốn kém, và bạn cần trở thành bậc thầy trong việc huy động các nguồn vốn lớn thông qua tiền trợ cấp và hợp đồng. Bạn có thể tiếp cận các khoản trợ cấp này qua màn hình 'Báo cáo'.\n\nĐó là tất cả những điều cần lưu ý - chúc may mắn!\n\nTổng giám đốc,\nTập đoàn Prison Architects.
+
+quickbuild_basiccell                    Phòng giam cơ bản
+quickbuild_solitarycell                 Phòng biệt giam
+quickbuild_office                       Văn phòng
+quickbuild_luxurycell                   Phòng giam cao cấp
+quickbuild_sharedcell                   Phòng giam chung
+quickbuild_kitchen                      Nhà bếp
+quickbuild_canteen                      Nhà ăn
+quickbuild_utilityroom                  Phòng tiện ích
+quickbuild_classroom                    Phòng học
+quickbuild_commonroom                   Phòng sinh hoạt
+
+season_current                          Mùa hiện tại: *X
+season_spring                           Mùa xuân
+season_summer                           Mùa hè
+season_autumn                           Mùa thu
+season_winter                           Mùa đông
+
+weather_current                         Thời tiết hiện tại: *X
+weather_none                            Nắng ráo
+weather_overcast                        Âm u
+weather_rain                            Mưa
+weather_snow                            Tuyết rơi
+weather_heatwave                        Đợt nắng nóng
+weather_torrentialrain                  Mưa xối xả
+
+prisoner_cellerror_nonefree             Không còn phòng giam nào trống cho tù nhân này
+prisoner_cellerror_toohighquality       Tất cả các phòng giam hiện có đều có chất lượng quá cao so với tù nhân này
+prisoner_cellerror_nosolitary           Tù nhân này cần bị biệt giam, nhưng không có phòng biệt giam nào trống
+
+group_all_staff                         Toàn bộ nhân viên
+staff_onbreak                           Đang nghỉ giải lao
+staff_onbreakremaining					Đang nghỉ giải lao (*Xm)
+staff_breaktime                         Giờ nghỉ giải lao :  
+
+banner_tooltip                          Nhấp vào biểu ngữ để ủng hộ @WarChildUK
+banner_donate_text                      Năm 2018 đánh dấu 100 năm kể từ Thỏa thuận đình chiến chấm dứt Thế chiến thứ nhất, thế nhưng ngày nay số trẻ em bị ảnh hưởng bởi chiến tranh còn nhiều hơn bất kỳ thời điểm nào trong lịch sử. \n\nHãy tham gia cùng War Child UK và Children in Conflict để gây quỹ nhằm mang lại một tương lai tốt đẹp hơn cho những trẻ em đang sống giữa vùng xung đột.
+banner_donate_confirm                   Quyên góp 
+banner_donate_cancel                    Để sau
+
+
+# =============================================================================
+# Campaign info
+# =============================================================================
+
+campaignchapter_chapternumber			Chương *C
+
+
+# =============================================================================
+# Death Row
+# =============================================================================
+
+campaignchapter_deathrow                 Tử tù
+
+campaignchapter_deathrow_description    Chúng ta đã được ký hợp đồng để xây dựng một Phòng hành hình tại nhà tù này, kịp thời gian cho đợt hành hình theo lịch trình của một trong các tù nhân ở đây.
+
+campaigncutscene_deathrowmurder         Vụ án sát hại hai người
+campaigncutscene_deathrowconfession     Lời tự thú
+
+adviser_deathrow_murder1                Tôi biết thế nào cũng bắt quả tang hai người ở đây mà.
+adviser_deathrow_murder2                Edward! Em...
+adviser_deathrow_murder25               Đừng. Xin... đừng nói gì cả.
+adviser_deathrow_murder3                Anh tính làm gì?
+
+adviser_deathrow_church1                Tôi có thể giúp gì cho ông?
+adviser_deathrow_church15               ...
+adviser_deathrow_church2                Có phải ông đang tìm kiếm sự tha thứ?
+adviser_deathrow_church3                Tôi không biết nữa. Tôi phải làm điều gì đó, tôi không thể sống tiếp với những việc mình đã làm.
+adviser_deathrow_church4                Ông phải ra tự thú. Dù ông đã làm gì, ông cũng không thể trốn tránh hậu quả. 
+adviser_deathrow_church5                Ông sẽ không bao giờ có thể thanh thản sống tiếp cho đến khi dám đối mặt với quá khứ của mình.
+adviser_deathrow_church6                Tôi muốn quay lại. Tôi muốn tha thứ cho cô ấy. Tôi muốn cô ấy tha thứ cho tôi.
+adviser_deathrow_church7                Chúa sẽ tha thứ cho ông, bất kể ông đã làm gì, nếu ông thành tâm cầu xin Người. 
+adviser_deathrow_church8                Nhưng ông phải đền tội trước pháp luật. Không còn con đường nào khác đâu.
+
+adviser_deathrowintro_1                 Vụ này thật khó khăn.
+adviser_deathrowintro_2                 Có một tù nhân đang bị giam giữ tại cơ sở này, hắn ta bị kết án vì giết hại hai người và phải chịu mức án tử hình.  
+adviser_deathrowintro_3                 Đó là lý do chúng ta ở đây. Chúng ta đã được ký hợp đồng để xây dựng một phòng hành hình kịp cho ngày trọng đại của gã đó.
+adviser_deathrowintrob_1                Đây là nơi tôi muốn xây dựng cơ sở mới.
+adviser_deathrowintrob_2                Bước đầu tiên của bất kỳ dự án nào như thế này là xây dựng chính tòa nhà - với đủ không gian bên trong để đặt một phòng hành hình và một phòng tạm giam.
+adviser_deathrowintrob_3                Vậy bắt đầu thôi. Hãy xây một tòa nhà mới ở đây.
+
+adviser_deathrow_explain1               Thợ xây của bạn chịu trách nhiệm xây dựng các tòa nhà.
+adviser_deathrow_explain2               Họ sẽ lấy thép và bê tông từ phòng kho này và mang đến công trường.
+adviser_deathrow_explain3               Họ sẽ sử dụng những vật liệu thô đó để xây nền móng và khung xương cho tòa nhà mới của bạn.
+adviser_deathrow_explain4               Đây là phần chậm nhất của quá trình xây dựng, vì vậy bạn nên lên kế hoạch trước khi xây dựng các cơ sở mới.
+adviser_deathrow_explain5               Trong lúc chờ đợi, hãy nhìn xung quanh xem. Sử dụng phím WASD hoặc các phím mũi tên để di chuyển, và dùng con lăn chuột để phóng to, thu nhỏ.
+
+objective_deathrow_building             Xây dựng một tòa nhà để đặt Phòng hành hình
+
+adviser_deathrow_buildinside1           Chúng ta cũng sẽ cần một lối vào cho Phòng hành hình mới.
+adviser_deathrow_buildinside2           Hãy lắp một Cửa giam lớn vào bức tường phía nam.
+
+objective_deathrow_buildouterdoor       Xây một lối vào bằng Cửa giam lớn
+
+adviser_deathrow_internalwalls1          Bên trong tòa nhà, tôi muốn có một Phòng giam và một Phòng hành hình.
+adviser_deathrow_internalwalls2          Phân chia không gian bằng cách xây một vài bức Tường gạch.
+
+objective_deathrow_buildinternalwalls   Xây các bức tường nội khu
+
+adviser_deathrow_internaldoors1          Giờ hãy thêm Cửa giam lớn vào các bức tường ngăn đó.
+adviser_deathrow_internaldoors2          Bạn có thể xoay vật thể trước khi đặt bằng cách nhấp nút cuộn chuột giữa (hoặc nhấn phím R).
+
+objective_deathrow_buildinternaldoors   Xây các cửa nội khu (Nhấp chuột giữa hoặc nhấn R để xoay vật thể)
+
+adviser_deathrow_designation1           Trông ổn rồi đấy. Bây giờ chúng ta cần chỉ định các Phòng trong những không gian đó.
+adviser_deathrow_designation2           Chỉ định một Phòng giam ở khu vực nhỏ hơn, nơi tù nhân chịu án tử hình của chúng ta sẽ ở.
+adviser_deathrow_designation3           Sau đó, chỉ định Phòng hành hình ở khu vực lớn hơn.
+
+objective_deathrow_designatecell        Chỉ định một Phòng giam
+objective_deathrow_designateexecution   Chỉ định một Phòng hành hình
+
+adviser_deathrow_roomrequirements1      Những Phòng mới đó có các yêu cầu cần đáp ứng trước khi đi vào hoạt động.  
+adviser_deathrow_roomrequirements2      Phòng giam cần có một chiếc Giường và một Bồn cầu.
+adviser_deathrow_roomrequirements3      Phòng hành hình yêu cầu phải có Ghế điện.
+
+objective_deathrow_cellobjects1         Đặt một chiếc Giường
+objective_deathrow_cellobjects2         Đặt một Bồn cầu
+objective_deathrow_executionobjects     Đặt một Ghế điện
+
+adviser_deathrow_optional1              Những thứ thiết yếu đã được lo liệu xong. Nhưng vẫn còn một vài điểm cải thiện mà bạn có thể thực hiện.
+adviser_deathrow_optional2              Tùy bạn thôi, những điều này không bắt buộc hoàn toàn. Nó phụ thuộc vào việc bạn quan tâm đến tù nhân của mình và môi trường sống của họ đến mức nào.
+adviser_deathrow_optional3              Bản thân Phòng giam có thể được cải thiện với một Cửa sổ hướng ra ngoài và một Kệ sách nhỏ.  
+adviser_deathrow_optional4              Và cơ sở này trông sẽ đẹp hơn nếu sử dụng vật liệu lát sàn chất lượng cao hơn - như Sàn gỗ hoặc Gạch khảm.
+adviser_deathrow_optional5              Bên ngoài, bạn có thể thêm một số đèn chiếu sáng và một lối đi lát đá nếu bạn thấy cần thiết.
+
+adviser_deathrow_transfer05             Đây chính là người đàn ông được nhắc tới, Edward Romsey. Từng là một giáo viên đấy, bạn tin nổi không.
+adviser_deathrow_transfer06             Không phải việc của chúng ta để quyết định xem hắn có đáng bị như vậy không. Pháp luật đã đưa ra quyết định đó. Chúng ta ở đây chỉ để làm việc của mình thôi.
+adviser_deathrow_transfer1              Khi bạn đã hài lòng rằng cơ sở đã sẵn sàng, bạn có thể bắt đầu Chuyển Tù nhân đến phòng giam mới của hắn.
+adviser_deathrow_transfer2              Chỉ cần nhấp vào ảnh polaroid trong phòng giam của hắn để bắt đầu quá trình chuyển giao.
+
+objective_deathrow_path                 (TÙY CHỌN) Xây một Lối đi đến cơ sở mới
+objective_deathrow_window               (TÙY CHỌN) Thêm một Cửa sổ vào Phòng giam
+objective_deathrow_bookshelf            (TÙY CHỌN) Thêm một Kệ sách vào Phòng giam
+objective_deathrow_flooring             (TÙY CHỌN) Làm lại sàn bằng vật liệu chất lượng cao hơn
+objective_deathrow_outerlights          (TÙY CHỌN) Lắp đặt hệ thống đèn chiếu sáng ngoài trời xung quanh cơ sở
+objective_deathrow_transferinmate       Khi hoàn thành, hãy bắt đầu Chuyển Tù nhân bằng cách nhấp vào ảnh polaroid trong phòng giam của Edward.
+
+adviser_deathrow_setupmurder1           Đừng rơi một giọt nước mắt nào cho gã này. Hắn là một kẻ sát nhân máu lạnh, tội chứng rõ ràng. `
+adviser_deathrow_setupmurder2           Hắn thậm chí còn tự thú. Muốn nghe hắn mô tả lại những gì mình đã làm không?  
+adviser_deathrow_setupmurder3           Gay cấn lắm đấy. "Lúc đó vào khoảng 11 giờ đêm. Đèn đã bật sẵn. Tôi biết cô ấy đang ở nhà..."
+adviser_deathrow_postmurder1            Như tôi đã nói, một kẻ sát nhân máu lạnh.
+adviser_deathrow_postmurder2            Quá rõ ràng mười mươi rồi. Hắn đáng phải nhận từng vôn điện sắp tới.
+adviser_deathrow_postmurder3            Con người ai cũng đáng được tha thứ, kể cả hắn. Ông có chắc chắn vào bản thân mình đến mức có thể đưa ra một phán quyết tối hậu như vậy không?
+adviser_deathrow_postmurder4            Bắt quả tang vợ mình ở cùng người đàn ông khác không phải là lý do bào chữa cho những gì hắn đã làm. 
+adviser_deathrow_postmurder5            Và hắn đã đến đó với một khẩu súng đã nạp đạn, biết rõ mình sẽ bắt gặp họ ở cùng nhau. Đó là tội cố ý giết hại hai người có kế hoạch từ trước.
+adviser_deathrow_postmurder6            Hắn đã không làm gì khác ngoài việc hợp tác với cơ quan chức năng. Bang này đang lấy hắn ra làm gương. 
+adviser_deathrow_postmurder7            Nếu hắn phạm tội cách đây 100 dặm về phía bắc thì thay vào đó hắn sẽ phải chịu án tù chung thân. Công lý kiểu gì vậy chứ?
+adviser_deathrow_postmurder8            Ông có muốn một kẻ như thế này được tự do ngoài vòng pháp luật không? Tôi sẽ ngủ rất ngon giấc mỗi đêm khi biết hắn đã biến mất.
+            
+
+adviser_deathrowelectricity_1           Làm tốt lắm.
+adviser_deathrowelectricity_2           Tuy nhiên có một vấn đề - phòng hành hình chưa hoạt động được vì chưa có nguồn điện.
+adviser_deathrowelectricity_3           Chúng ta cần kết nối nó với nguồn cấp điện.
+
+adviser_deathrowelectricityb_1          Hiện tại chúng ta đang quan sát nhà tù ở chế độ Tiện ích, chế độ này hiển thị cho chúng ta sơ đồ đi dây điện của toàn bộ nhà tù. 
+adviser_deathrowelectricityb_2          Mỗi tòa nhà trong nhà tù được kết nối với Lưới điện bằng những đường dây điện ngầm dày này.  
+adviser_deathrowelectricityb_3          Điện được cấp cho nhà tù thông qua trạm điện này, trạm này kéo điện từ lưới điện quốc gia.
+adviser_deathrowelectricityb_4          Như bạn thấy đấy, toàn bộ dãy phòng giam này đang mất điện. Tất cả đèn đều đã tắt.
+adviser_deathrowelectricityb_4b         Để khắc phục vấn đề này, trước tiên chúng ta cần chuyển sang chế độ Tiện ích để hiểu tại sao hệ thống đèn lại mất điện.
+adviser_deathrowelectricityb_5          Các đường dây điện gần nhất ở quá xa - các kỹ sư của chúng ta không thể hoàn thành việc đi dây cho khu vực này.
+adviser_deathrowelectricityb_6          Hãy kéo dài các đường dây điện gần đó để bao phủ toàn bộ dãy này của nhà tù.
+
+objective_deathrow_cellpower            Kết nối các phòng với Nguồn cấp điện
+
+adviser_deathrow_connectchair_1         Đèn không phải là thứ duy nhất cần điện. Chiếc Ghế điện mới của bạn cũng cần đấy.
+adviser_deathrow_connectchair_2         Sử dụng Dây điện để kết nối phòng hành hình với lưới điện.
+adviser_deathrow_connectchair_3         Bản thân Ghế điện là một loại thiết bị điện đặc biệt. Nó yêu cầu đường dây điện riêng chuyên dụng. Bạn sẽ cần phải kết nối trực tiếp nó với dây cáp nguồn chính.
+
+objective_deathrow_chairpower            Kết nối Ghế điện với Nguồn cấp điện
+objective_deathrow_condemnedcellpower   Kết nối Phòng giam với Nguồn cấp điện
+
+adviser_deathrow_testchair_1            Tôi nghĩ chúng ta sắp xong rồi. Dù vậy chúng ta nên kiểm tra thử phòng Hành hình mới ít nhất một lần trước khi đưa vào sử dụng thực tế.
+adviser_deathrow_testchair_2            Tôi sẽ bật nó lên trong vài giây để đảm bảo mọi thứ đều ổn.
+adviser_deathrow_testchair_3            Ồ, không ổn rồi. Có vẻ như chúng ta đã tiêu thụ quá nhiều điện năng và làm sập cầu dao ở trạm điện. Toàn bộ nhà tù đã chìm trong bóng tối.
+adviser_deathrow_testchair_4            Chúng ta sẽ cần thêm nhiều điện năng hơn để có thể xử lý mức điện áp tăng vọt do chiếc ghế điện tạo ra.
+adviser_deathrow_testchair_5            Trước tiên, chúng ta cần bật nguồn điện trở lại. Quá trình này gồm hai bước:
+adviser_deathrow_testchair_5b           Bật lại trạm điện bằng cách nhấp vào nó, rồi chọn Bật nguồn trong menu xuất hiện.
+adviser_deathrow_testchair_6            Sau đó, hãy xây thêm ba tụ điện nữa để chúng ta có đủ Công suất Điện nhằm vận hành ghế điện.
+adviser_deathrow_testchair_7            Sau khi hoàn thành việc đó, hãy kiểm tra lại Ghế điện bằng cách nhấp vào nó và chọn Bật nguồn trong menu.
+
+objective_deathrow_poweron              Bật lại Trạm điện. (Nhấp vào trạm điện, rồi chọn Bật nguồn từ menu)
+objective_deathrow_expandpower          Mở rộng trạm điện với ba Tụ điện mới
+objective_deathrow_chairworking          Kiểm tra lại ghế điện (nhấp vào nó, và chọn Bật nguồn)
+
+adviser_deathrow_execution_1            Làm tốt lắm. Tôi tin là chúng ta đã hoàn thành xong công việc này.
+adviser_deathrow_execution_2            Những gì xảy ra tiếp theo không còn nằm trong tầm tay của chúng ta nữa. Chúng ta đã làm việc một cách chuyên nghiệp, và đó là điều quan trọng trong ngành này.
+adviser_deathrow_execution_3            Đừng quá bận tâm lo lắng về những việc tiếp theo.  
+
+adviser_deathrow_setupexecution1        Đến giờ rồi, Edward. 
+adviser_deathrow_setupexecution2        Anh đã làm một việc đúng đắn, mặc dù thế giới này sẽ không tha thứ cho anh vì điều đó.
+adviser_deathrow_setupexecution3        Anh sẽ sớm ở bên Chúa, và Người sẽ đưa ra phán quyết cuối cùng dành cho anh.
+
+adviser_deathrow_setupexecution4        Edward Romsey. Anh đã bị tuyên án phạm hai tội danh giết người cấp độ một.
+adviser_deathrow_setupexecution5        Hình phạt dành cho anh là cái chết.  
+adviser_deathrow_setupexecution6        Anh có lời nào muốn nói không?
+adviser_deathrow_setupexecution7        Susan...
+adviser_deathrow_setupexecution8        Anh xin lỗi.
+
+# =============================================================================
+# Expense popups
+# =============================================================================
+
+finance_cost_prisonsale                 Bán nhà tù trước đó
+finance_cost_equiptazer                 Trang bị: Súng điện
+finance_cost_equipbodyarmour            Trang bị: Áo giáp
+finance_cost_exports                    Xuất hàng
+finance_cost_foundations                Nền móng tòa nhà
+finance_cost_cashflow                   Dòng tiền
+finance_cost_bankloan                   Vay ngân hàng
+finance_cost_bankloan_repayment         Hoàn trả khoản vay ngân hàng
+finance_cost_sharesale                  Bán cổ phần
+finance_cost_sharepurchase              Mua cổ phần
+finance_cost_grantadvance               Tạm ứng trợ cấp
+finance_cost_grantcompletion            Khoản thanh toán hoàn thành trợ cấp
+finance_cost_reformprogram              Buổi học cải tạo
+finance_cost_repair                     Sửa chữa
+finance_cost_sellobject                 Bán vật thể
+finance_cost_landpurchase               Mua đất
+finance_cost_prisonerintake             Tiếp nhận tù nhân
+finance_cost_grantcancellation          Chi phí hủy bỏ
+finance_cost_grantrefund                - Hoàn trả: *X
+finance_cost_grantfine                  - Tiền phạt: *X
+finance_cost_executionfine              Phạt do hành hình sai quy trình
+finance_cost_executioncompensation      Bồi hoàn hành hình
+finance_cost_shopintake                 Tiếp nhận hàng căn tin
+finance_cost_prisonerwages              Tiền lương tù nhân
+finance_cost_fine                       Tiền phạt
+finance_cost_shopcommission             Hoa hồng bán hàng căn tin
+
+
+# =============================================================================
+# Clock
+# =============================================================================
+
+clock_speed_0                           ||
+clock_speed_1                           >
+clock_speed_2                           >>
+clock_speed_5                           >>>
+clock_speed_10							>>>>
+clock_speed_half                        ...
+clock_add_hour                          +
+clock_am                                am
+clock_pm                                pm
+
+# =============================================================================
+# Events
+# =============================================================================
+
+event_powerstationfire                  Điện áp tăng vọt đã khiến máy phát điện của chúng ta bị quá tải và bốc cháy!
+event_powerstationfire_x                Điện áp tăng vọt đã gây ra sự quá tải thảm khốc cho máy phát điện của chúng ta, và toàn bộ hệ thống đã phát nổ!
+event_powerstationfirelarge             Điện áp tăng vọt đã khiến máy phát điện của chúng ta bị quá tải và bốc cháy!
+event_powerstationfirelarge_x           Điện áp tăng vọt đã gây ra sự quá tải thảm khốc cho máy phát điện của chúng ta, và toàn bộ hệ thống đã phát nổ!
+event_kitchenfire                       Một đám cháy đã bùng phát trong nhà bếp!
+event_waterpipeburst                    Một ống nước đã bị vỡ và đang làm ngập khu vực này. Hãy sửa chữa nó trước khi thiệt hại trở nên quá nghiêm trọng.
+event_bulkintake                        Một thảm họa xảy ra tại một nhà tù lân cận đã khiến toàn bộ một khu vực của cơ sở đó không thể sử dụng được. Chúng tôi không còn lựa chọn nào khác ngoài việc chuyển số tù nhân ở đó sang nhà tù của bạn, vì không có cơ sở phù hợp nào khác ở gần đây. Họ sẽ sớm đến nơi.
+event_workshopaccident                  Một tù nhân đã bị thương nặng trong một tai nạn ở xưởng lao động và không thể di chuyển được! Hãy cử một bác sĩ đến ngay lập tức!
+event_subsidence                        Tình trạng sụt lún đất đã phá hủy một phần tường bao của chúng ta. Bạn nên cho sửa chữa nó ngay lập tức! 
+event_earthquake                        Một trận động đất tại địa phương đã khiến một khu vực của nhà tù bị sập! 
+event_virus                             Chúng tôi liên tục nhận được báo cáo về tình trạng nhiễm bệnh của một số tù nhân. Bạn nên tiến hành xác định danh tính và cách ly những người nhiễm bệnh để ngăn chặn dịch bệnh lây lan. 
+event_virus_x                           Chúng tôi liên tục nhận được báo cáo về tình trạng nhiễm bệnh của một số tù nhân, và các triệu chứng có vẻ khá nghiêm trọng. Bạn nên cân nhắc việc cách ly những người bệnh và điều trị cho họ trước khi dịch bệnh lây lan quá xa. 
+event_treefire                          Một đám cháy đã bùng phát tại khu trồng rừng của chúng ta!
+event_foodpoisoning                     Chúng tôi liên tục nhận được báo cáo về tình trạng ngộ độc thực phẩm trong số các tù nhân. Chắc hẳn một số thức ăn trong nhà bếp đã bị hỏng. Thật không may cho những người đổ bệnh, không có nhiều việc có thể làm ngoài việc chờ cho nó tự hết.
+event_cilistleak                        Chúng tôi không biết bằng cách nào, nhưng danh tính của các chỉ điểm viên của chúng ta đã bị lộ ra ngoài. Nếu không chuyển họ đến một nơi an toàn ngay lập tức, họ sẽ gặp nguy hiểm thực sự.
+event_keysersoze                        Một vụ án băng đảng lớn gần đây đã cáo buộc một trong số các tù nhân An ninh thấp của chúng ta là trùm băng đảng cấp cao. Họ vốn dĩ luôn giữ kín hành tung, nhưng giờ đây ai cũng biết họ là ai rồi...
+event_preacherconversion                Một trong những tù nhân có sức hút lớn của chúng ta đã trở thành một nhà truyền giáo, và những người khác dường như đang dần có cùng suy nghĩ với hắn. Đây không hẳn là một vấn đề, nhưng các tù nhân của chúng ta có thể sẽ sớm có nhiều nhu cầu tâm linh hơn.
+
+event_massassassination_1               Danh tính của một số nhân chứng trong một vụ truy tố liên bang đã bị rò rỉ, và vài người trong số họ là tù nhân trong nhà tù của chúng ta.
+event_massassassination_2               Các hợp đồng ám sát nhắm vào họ đã được tung ra, nhưng chúng ta cần họ còn sống. Bạn cần xác định danh tính các tù nhân này và giữ họ toàn mạng cho đến khi ngày ra tòa đến gần.
+event_massassassination_3_x             Chúng ta biết tin này hơi muộn, vì vậy bạn không có nhiều thời gian trước khi các hợp đồng ám sát này được thực thi. 
+
+event_tvremovaldemand_1                 Truyền thông đã bắt đầu một chiến dịch phản đối các tiện nghi được cung cấp cho tù nhân, và điều đó đang gây ra rất nhiều áp lực cho văn phòng của tôi.
+event_tvremovaldemand_2                 Tôi đang thông qua một dự luật cấm lắp đặt tivi tại các khu vực chung trong nhà tù, vì vậy tôi cần bạn dỡ bỏ toàn bộ tivi khỏi các phòng sinh hoạt của mình nếu không sẽ bị phạt. Bạn có 6 giờ.
+event_tvremovaldemand_fine              Bạn đã không dỡ bỏ tivi khỏi các phòng sinh hoạt của mình, điều mà hiện tại luật pháp bắt buộc phải làm. Bạn đã bị phạt tài chính, và sẽ tiếp tục nhận các án phạt cho đến khi bạn tuân thủ. 
+event_tvremovaldemand_complete          Truyền thông đã chuyển hướng sang chủ đề khác và dự luật cấm tivi khỏi các khu vực chung đã bị bãi bỏ. Hãy thoải mái lắp đặt lại chúng nếu bạn muốn.
+
+event_weightsremovaldemand_1            Truyền thông đã bắt đầu một chiến dịch phản đối các tiện nghi được cung cấp cho tù nhân, và điều đó đang gây ra rất nhiều áp lực cho văn phòng của tôi.
+event_weightsremovaldemand_2            Tôi đang thông qua một dự luật cấm các thiết bị tập thể dục ở sân tù, vì vậy tôi cần bạn dỡ bỏ toàn bộ ghế tập tạ khỏi các sân tù của mình nếu không sẽ bị phạt. Bạn có 6 giờ.
+event_weightsremovaldemand_fine         Bạn đã không dỡ bỏ toàn bộ ghế tập tạ khỏi các sân tù của mình, điều mà hiện tại luật pháp bắt buộc phải làm. Bạn đã bị phạt tài chính, và sẽ tiếp tục nhận các án phạt cho đến khi bạn tuân thủ. 
+event_weightsremovaldemand_complete     Truyền thông đã chuyển hướng sang chủ đề khác và dự luật cấm ghế tập tạ trong sân tù đã bị bãi bỏ. Hãy thoải mái lắp đặt lại chúng nếu bạn muốn.
+
+event_lessfooddemand_1                  Ban quản trị đã quyết định thử nghiệm một số biện pháp tiết kiệm chi phí tại các cơ sở của chúng ta, và nhà tù của bạn cũng nằm trong danh sách thử nghiệm.
+event_lessfooddemand_2                  Chúng tôi cần bạn giảm chính sách về số lượng và sự đa dạng của suất ăn trong nhà tù xuống mức thấp, để chúng tôi có thể đánh giá tác động của điều này đối với tổng ngân sách.
+event_lessfooddemand_fine               Vì bạn đã quyết định không thực hiện các chính sách ăn uống mới mà chúng tôi yêu cầu, chúng tôi sẽ khấu trừ trực tiếp khoản tiền tiết kiệm tiềm năng đó từ quỹ tiền của bạn. Việc này sẽ tiếp tục diễn ra cho đến khi bạn làm theo yêu cầu của tôi.
+event_lessfooddemand_complete           Cuộc thử nghiệm ngân sách ăn uống đã kết thúc và kết quả không đưa ra được kết luận rõ ràng. Bạn có thể thoải mái đặt lại các chính sách ăn uống của mình theo bất kỳ mức nào bạn muốn.
+
+event_removevisitationdemand_1          Một sự cố tại một cơ sở khác đã làm nổi bật các vấn đề tiềm ẩn đối với việc kiểm tra an ninh liên quan đến hoạt động thăm nuôi gia đình trong nhà tù.
+event_removevisitationdemand_2          Cho đến khi các quy trình có thể được xem xét một cách kỹ lường, mọi hoạt động thăm nuôi phải được đình chỉ. Bạn có 12 giờ để xóa bỏ toàn bộ các phòng thăm nuôi khỏi nhà tù của mình.
+event_removevisitationdemand_fine       Bạn đã không xóa bỏ các phòng thăm nuôi khỏi nhà tù của mình, bất chấp các vấn đề an ninh hiện tại. Bạn đã bị phạt, và sẽ tiếp tục bị phạt cho đến khi tuân thủ. 
+event_removevisitationdemand_complete   Chúng tôi đã hoàn thành việc đánh giá an ninh đối với quy trình thăm nuôi, và các phòng thăm nuôi hiện có thể được thêm lại vào nhà tù của bạn nếu bạn muốn. 
+
+event_lessworkdemand_1                  Tôi vừa nhận được tin báo rằng các tù nhân không hài lòng với thời gian họ phải lao động trong ngày, và họ đang lên kế hoạch gây rắc rối nếu thời gian này không được giảm bớt.
+event_lessworkdemand_2                  Một cai ngục đã nghe lén được ai đó nói rằng nếu họ phải lao động hơn 2 giờ, họ sẽ "đập phá tan hoang cái nơi này."
+event_lessworkdemand_ignore             Có vẻ như các tù nhân đã bỏ cuộc và ổn định trở lại. Họ không vui vẻ gì về điều đó, nhưng việc cho họ thấy ai là ông chủ ở đây là một điều tốt.
+event_lessworkdemand_complete           Các tù nhân hiện đã ổn định tâm lý về giờ lao động của họ - tôi đoán họ xem vài ngày qua như một kỳ nghỉ vậy. Chúng ta có thể đưa họ trở lại lao động mà không gặp rắc rối gì.       
+
+event_moresleepdemand_1                 Chúng tôi đã nhận được những lời phàn nàn rằng các tù nhân không được phép ngủ đủ giấc, và họ đang trở nên rất cáu bẳn vì điều đó.
+event_moresleepdemand_2                 Họ đã nói rằng nếu không được ngủ ít nhất 7 giờ mỗi đêm, họ sẽ bắt đầu gây rắc rối. 
+event_moresleepdemand_ignore            Có vẻ như các tù nhân cuối cùng đã kiệt sức và từ bỏ các cuộc phản đối về việc thiếu ngủ. Chắc là họ quá mệt rồi.
+event_moresleepdemand_complete          Toàn bộ vấn đề về lịch trình ngủ của tù nhân cuối cùng đã qua đi, vì vậy bạn có thể thay đổi lại lịch trình đó mà không gặp vấn đề gì nếu muốn.
+
+event_morefreetimedemand_1              Các tù nhân rõ ràng là không hài lòng với việc họ có quá ít giờ tự do trong lịch sinh hoạt hàng ngày.
+event_morefreetimedemand_2              Các cai ngục đã nghe thấy những lời bàn tán xôn xao rằng nếu tình hình không sớm thay đổi, các tù nhân sẽ bắt đầu đập phá gây thiệt hại.
+event_morefreetimedemand_ignore         Các tù nhân đã ổn định trở lại và ngừng gây rắc rối về việc thiếu giờ tự do. Có lẽ họ nhận ra rằng họ sẽ còn có ít giờ tự do hơn nữa nếu luôn bị đưa vào biệt giam.
+event_morefreetimedemand_complete       Những yêu cầu của tù nhân về việc có thêm giờ tự do đã được đáp ứng đủ lâu rồi, vì vậy bạn có thể thoải mái thay đổi lại lịch sinh hoạt của họ theo ý muốn.
+
+event_contrabandsurge_complete          Chúng tôi vừa phát hiện ra rằng một trong những giáo viên mà chúng ta thuê về để dạy các lớp học cho tù nhân đã lén tuồn vào một lượng lớn hàng cấm. Họ đã bị sa thải, nhưng thiệt hại thì đã xảy ra rồi.
+event_corruptingspiritualist_complete	Một trong những nhà lãnh đạo tâm linh mà chúng ta đưa vào cho các chương trình tôn giáo đã kích động các tù nhân bằng đủ loại ngôn từ thù nại. Họ đã bị sa thải, nhưng các tù nhân sẽ cần một thời gian để bình tĩnh lại.
+
+event_agitatingradio_1                  Theo một số Cai ngục của chúng ta, một người dẫn chương trình phát thanh mới trên đài mà các tù nhân hay nghe đã nói rất nhiều điều khiến các tù nhân bị kích động.
+event_agitatingradio_2                  Có lẽ nên tạm thời tịch thu các máy radio, trừ khi họ bắt đầu coi trọng những gì gã đó nói.
+event_agitatingradio_complete           Người dẫn chương trình phát thanh đó rõ ràng đã bị sa thải sau rất nhiều lời phàn nàn. Sẽ không còn bất kỳ vấn đề nào liên quan đến radio trong nhà tù nữa.
+
+# =============================================================================
+# Events Objectives (shown in todo list)
+# =============================================================================
+
+objective_bulkintake                    Tù nhân đang đến
+objective_tvremovaldemand               Dỡ bỏ Tivi khỏi các Phòng sinh hoạt
+objective_tvremovaldemand_child         Đảm bảo không có Tivi trong các Phòng sinh hoạt
+objective_weightsremovaldemand          Dỡ bỏ Ghế tập tạ khỏi các Sân tù
+objective_weightsremovaldemand_child    Đảm bảo không có Ghế tập tạ trong các Sân tù
+objective_lessfooddemand                Giảm Số lượng và Sự đa dạng của Suất ăn xuống mức Thấp
+objective_lessfooddemand_child          Thay đổi chính sách về số lượng và sự đa dạng suất ăn của tù nhân xuống mức thấp
+objective_removevisitationdemand        Xóa bỏ tất cả các Phòng thăm nuôi
+objective_removevisitationdemand_child  Đảm bảo không có phòng thăm nuôi nào trong nhà tù cho đến khi hoàn tất việc đánh giá an ninh
+objective_virus                         Bùng phát Virus
+objective_virus_child                   Tổng số tù nhân bị nhiễm bệnh: 
+objective_massassassination             Nhân chứng liên bang\nNgày ra tòa
+objective_massassassination_child       Số nhân chứng còn sống sót: 
+objective_lessworkdemand                Tù nhân yêu cầu giảm giờ lao động
+objective_lessworkdemand_child          Giảm giờ lao động xuống còn 2 giờ một ngày hoặc ít hơn
+objective_moresleepdemand               Cho tù nhân ngủ nhiều hơn
+objective_moresleepdemand_child         Tăng thời gian ngủ lên ít nhất 7 giờ một ngày
+objective_morefreetimedemand            Cho tù nhân thêm Giờ tự do
+objective_morefreetimedemand_child      Tăng giờ tự do lên ít nhất 6 giờ một ngày
+objective_agitatingradio                Chương trình phát thanh kích động
+objective_agitatingradio_child          Các chương trình phát thanh hiện tại đang làm tù nhân của chúng ta bị kích động...
+
+# =============================================================================
+# Custom warden strings
+# =============================================================================
+
+warden_default_name                     Giám đốc trại
+warden_default_desc                     Người cân bằng nhất trên hành tinh, ông ấy chỉ làm việc của mình và không làm gì khác. Mọi người chỉ gọi ông là Giám đốc trại.
+warden_lobbyist_name                    Nhà vận động hành lang
+warden_lobbyist_desc                    Nhà vận động hành lang có những mối quan hệ ở cấp cao, và luôn đảm bảo rằng những tù nhân dễ kiểm soát hơn sẽ được chuyển đến trại của ông ta.\n\n - Giảm một nửa khả năng tiếp nhận những tù nhân có tính khí Hung hãn, Gây chết người, Nóng nảy, Sát thủ hoặc Thích ẩu đả.
+warden_lobbyist_desc_short              - Giảm một nửa khả năng tiếp nhận những tù nhân có tính khí Hung hãn, Gây chết người, Nóng nảy, Sát thủ hoặc Thích ẩu đả.
+warden_fear_name                        Rita
+warden_fear_desc                        Tàn nhẫn và đáng sợ, Rita nổi tiếng với việc điều hành các cơ sở của mình bằng cách áp dụng nỗi sợ hãi một cách triệt để. Những lời đồn đại về việc bà ta mang theo một cây roi da có thể là cường điệu.\n\n - Giảm một nửa khả năng tù nhân có tính khí Lạnh lùng hoặc Gan lì\n - Tù nhân bị trấn áp nhanh gấp đôi
+warden_fear_desc_short                  - Giảm một nửa khả năng tù nhân có tính khí Lạnh lùng hoặc Gan lì\n - Tù nhân bị trấn áp nhanh gấp đôi
+warden_tunnels_name                     J.W. Periwinkle
+warden_tunnels_desc                     Giám đốc trại Periwinkle nói rằng ông từng là công binh trong thời chiến. Ông không bao giờ nói cụ thể là cuộc chiến nào, nhưng ông chắc chắn biết mọi thứ về việc đào hầm.\n\n - Chó nghiệp vụ có 50% cơ hội phát hiện và vạch trần hoàn toàn bất kỳ hầm vượt ngục nào
+warden_tunnels_desc_short               - Chó nghiệp vụ có 50% cơ hội phát hiện và vạch trần hoàn toàn bất kỳ hầm vượt ngục nào
+warden_calming_name                     Kẻ xoa dịu
+warden_calming_desc                     Kẻ xoa dịu có một tài năng bất thường trong việc có thể làm dịu ngay cả những cá nhân hung hãn nhất. Thậm chí chỉ cần ở chung phòng với ông ta cũng đủ để khiến mọi người trở nên ngoan ngoãn và phục tùng.\n\n - Giảm nhiệt độ tổng thể của nhà tù, khiến các tù nhân ít có nguy cơ gây rắc rối hơn
+warden_calming_desc_short               - Giảm nhiệt độ tổng thể của nhà tù, khiến các tù nhân ít có nguy cơ gây rắc rối hơn
+warden_contraband_name                  Saphara Acknova
+warden_contraband_desc                  Saphara Acknova có danh tiếng hoàn hảo và một hồ sơ trong sạch lý tưởng. Nhưng ở phía sau hậu trường, những thỏa thuận mờ ám và các lễ vật dưới gầm bàn đối với bà ta chẳng có gì là lạ cả.\n\n - Nhận được một phần trích nhỏ từ giá trị bán lại của mỗi món hàng cấm được tìm thấy\n - Tù nhân bị phát hiện mang hàng cấm sẽ bị 'phạt tiền' trực tiếp từ khoản tiền tiết kiệm của họ
+warden_contraband_desc_short            - Nhận được một phần trích nhỏ từ giá trị bán lại của mỗi món hàng cấm được tìm thấy\n - Tù nhân bị phát hiện mang hàng cấm sẽ bị 'phạt tiền' trực tiếp từ khoản tiền tiết kiệm của họ
+buildtoolbar_wardenlobbyist             Nhà vận động hành lang
+buildtoolbar_tooltip_wardenlobbyist     Tiếp nhận ít tội phạm bạo lực hơn vào nhà tù của bạn
+interfacetopbar_tension_calmingwarden   - Giám đốc trại của bạn đang có tác động làm dịu các tù nhân
+warden_consultingfee                    Phí tư vấn
+
+# =============================================================================
+# Crime names
+# =============================================================================
+
+crime_bribery                     Hối lộ
+crime_aggravatedburglary          Tội đột nhập trộm cắp có tình tiết tăng nặng
+crime_burglary                    Đột nhập trộm cắp
+crime_arson                       Phóng hỏa
+crime_criminaldamage              Cố ý hủy hoại tài sản
+crime_vandalism                   Phá hoại
+crime_possession                  Tàng trữ trái phép
+crime_possessionintenttosupply    Tàng trữ trái phép nhằm mục đích cung cấp/mua bán
+crime_forgery                     Làm giả giấy tờ
+crime_fraud                       Lừa đảo
+crime_counterfeightingcurrency    Làm giả tiền tệ
+crime_falseaccounting             Gian lận sổ sách kế toán
+crime_insidertrading              Giao dịch nội gián
+crime_moneylaundering             Rửa tiền
+crime_aggravatedvehicletheft      Trộm cắp phương tiện có tình tiết tăng nặng
+crime_joyriding                   Đua xe giải trí trái phép
+crime_dangerousdriving            Lái xe nguy hiểm
+crime_deathbydangerousdriving      Gây tai nạn chết người do lái xe nguy hiểm
+crime_drivingunderinfluence       Lái xe dưới ảnh hưởng của chất kích thích
+crime_kidnapping                  Bắt cóc
+crime_falseimprisonment           Giam giữ người trái pháp luật
+crime_torture                     Tra tấn
+crime_assault                     Hành hung
+crime_aggravatedassault           Hành hung có tình tiết tăng nặng
+crime_assaultinganofficer         Tấn công người thi hành công vụ
+crime_greviousbodilyharm          Cố ý gây thương tích nghiêm trọng
+crime_murder                      Giết người
+crime_attemptedmurder             Cố ý giết người
+crime_manslaughter                Ngộ sát
+crime_pervertingcourseofjustice   Làm sai lệch hồ sơ vụ án / cản trở công lý
+crime_contemptofcourt             Bất tuân lệnh tòa
+crime_drunkdisorderlybehaviour    Gây rối trật tự công cộng khi say rượu
+crime_escapingfromlawfulcustody   Trốn khỏi nơi giam giữ hợp pháp
+crime_perjury                     Tội khai man trước tòa
+crime_rioting                     Kích động bạo loạn
+crime_espionage                   Gián điệp
+crime_violentdisorder             Gây rối trật tự công cộng có hành vi bạo lực
+crime_trafficking                 Buôn lậu
+crime_armedrobbery                Cướp vũ trang
+crime_robbery                     Cướp tài sản
+crime_carjacking                  Cướp xe bạo lực
+crime_blackmail                   Tống tiền
+crime_handlingstolengoods         Tiêu thụ tài sản do người khác phạm tội mà có
+crime_videogamepiracy             Vi phạm bản quyền trò chơi điện tử
+crime_indievideogamepiracy        Vi phạm bản quyền trò chơi điện tử độc lập (Indie)
+crime_shoplifting                 Trộm cắp cửa hàng
+crime_pickpocketing               Tội móc túi
+crime_cartheft                    Trộm xe
+crime_rape                        Hiếp dâm
+crime_grossindecency              Hành vi đồi bại nghiêm trọng
+crime_voyeurism                   Tội nhìn trộm / Quay lén
