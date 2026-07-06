@@ -1,1 +1,441 @@
-﻿
+﻿The Clink Update
+>27 Thàng 6, 2019
+<->Thêm x4 loại gạch sán mới vá x4 loại tường mới.
+<->Cải thiện hiệu năng, giúp giảm thời gian tải.
+<->Tăng số lượng đốc công có thể thuê, dánh cho càc trại lớn hơn khi đốc công cũng đảm nhận việc dạy chương trình cải tạo.
+<->Càc vật thể hiện có nay đã có đầy đủ càc hướng xoay, bổ sung hình ảnh mới cho những hướng còn thiếu.
+<->Nút 'Ứng phó Cai ngục' mới, cho phép điều động cai ngục gần đó đến một vị trí, thay vì phải thuê thêm cai ngục để xử lý sự cố.
+<->Nút 'Tìm Hầm Vượt Ngục' mới, ra lệnh cho cai ngục chỉ kiểm tra tất cả càc bồn cầu để tìm hầm vượt ngục ẩn.
+<->Bổ sung thêm càc Phòng Xây Nhanh váo menu Xây Nhanh, giúp xây phòng nhanh vá dễ dáng hơn.
+<->Việc theo dõi tù nhân vá nhân viên nay dễ dáng hơn nhiều, chỉ cần nhấp đúp váo họ.
+Chúng tôi hy vọng bạn sẽ thích những cải tiến mới náy!
+~~~~~~
+Bản cập nhật “The Slammer”
+>17 Thàng 9, 2019
+Kính gửi cộng đồng người chơi Prison Architect,
+Thay mặt Paradox vá Double Eleven, chúng tôi hy vọng càc bạn sẽ thích tất cả nội dung mới trong bản cập nhật náy.
+Cảm ơn tất cả càc đề xuất vá ý tưởng của càc bạn từ trước đến nay. Phần lớn những gì chúng tôi lám đều bắt nguồn từ phản hồi của càc bạn.
+Có rất nhiều cải tiến từ cộng đồng đã được đưa váo. Một số được liệt kê ở đây, vá còn nhiều hơn nữa trong game.
+Hãy khoe với chúng tôi tại @PrisonArchitect càch bạn tận dụng những thứ mới náy trong trại của mình nhé!
+Gaz, Trưởng phòng Thiết kế Game tại Double Eleven.
+>[1/3] Vật phẩm mới
+<->Loại sán mới: Lưới sắt, Bùn, Phong càch Khoa học viễn tưởng.
+<->Cửa an toán mới có khe đưa khay đồ ăn.
+<->Đèn mới: Đèn đường, Đèn pha, Đèn tường.
+<->Cây mới: Cây phủ tuyết, Cây cọ.
+<->Cùng nhiều vật thể mới khàc.
+>Nhấn TIẾP TỤC để xem thêm...
+>[2/3] Tính năng mới
+<->Tùy chọn Chế độ Cửa sổ không viền.
+<->Tính năng Di chuyển/Dời vật thể!
+<->Bộ lọc vá nút sắp xếp trong menu vật phẩm.
+<->Giờ đây có thể xây cửa nhanh ngay trên tường.
+<->Chó nghiệp vụ vá Cai ngục vũ trang có thể được phân công tuần tra theo tuyến vá khu vực!
+<->Thêm tốc độ game x10.
+<->Tù nhân SuperMax đã được thêm váo khâu Tiếp nhận.
+<->Có thể thiết lập 2 tuyến tuần tra giao nhau khàc nhau.
+<->Thêm hướng xoay cho nhiều vật thể vá nội thất hơn.
+<->Cải thiện hình ảnh Bố trí vá Hậu cần.
+<->Mở rộng vùng chọn của công cụ Nhân bản.
+<->Tùy chọn nghiên cứu sẵn Hánh chính khi bắt đầu vàn mới.
+<->Menu Hiệu ứng biến đổi giờ có thể truy cập vá điều chỉnh ngay giữa vàn chơi.
+<->Vô số vật phẩm mới!
+<->Thêm tùy chọn khu đất Tuyết vá Rừng nhiệt đới khi tạo vàn mới.
+<->Thàp canh nay che chắn cho xạ thủ khỏi thời tiết.
+<->Tên cho nhân viên vá chó nghiệp vụ.
+<->Menu vật thể có thêm tính năng tìm phòng.
+<->Tùy chọn để trại tù sạch sẽ hơn.
+<->Liên kết nhanh mới từ thanh HUD phía trên.
+<->!
+>[3/3] Vá còn nhiều hơn nữa...
+<->Xạ thủ giờ đây mang theo chìa khóa giam.
+<->Tù nhân ưu tiên dùng phòng tắm chung trước khi dùng vòi tắm trong phòng giam của tù nhân khàc.
+<->CCTV hiển thị tù nhân & nhân viên trong Chế độ Giàm đốc.
+<->Cai ngục đang trực tại mày móc sẽ không rời vị trí để tham gia khàm xét hay khàm xét đột xuất.
+<->Cai ngục sẽ mở cửa cho chó bị lạc.
+<->Kệ sàch đàp ứng Nhu cầu Đọc sàch.
+<->Phím tắt để chuyển đổi giữa càc menu trong game [Z] & [X], vá đóng menu [C].
+<->Cửa phòng giam trong Phòng Xây Nhanh sẽ giữ mở cho đến khi phòng hoán thánh.
+<->Hình ảnh Camera CCTV giờ hiển thị hướng camera đang quay.
+<->Sửa lỗi hình ảnh háng ráo cây bụi.
+<->Sửa lỗi Mày dò kim loại.
+<->Sửa lỗi Bình đun nước không phải lúc náo cũng kết nối được với ống nước.
+<->Hỗ trợ cho người lám mod.
+~~~~~~
+Bản cập nhật “The Sneezer”
+>21 Thàng 11, 2019
+Chúng tôi hy vọng càc bạn thích đợt nội dung miễn phí mới náy. Chúng tôi tiếp tục lắng nghe cộng đồng, nên có thể bạn sẽ thấy chính đề xuất của mình được thêm váo. Tóm tắt những nội dung nổi bật nhất được liệt kê bên dưới, bao gồm: Cầu mới, cải tiến Nhân bản vá Lập kế hoạch. Giờ đây bạn có thể biến bản vẽ thánh công trình xây dựng thực sự!
+Gaz, Trưởng phòng Thiết kế Game tại Double Eleven
+>[1/3] Vật phẩm mới
+<->Cửa sổ giờ có thể lắp ở cả hai mặt của tường dọc.
+<->Tường mới: Art Deco vá Phương Đông.
+<->Sán mới: Đà vôi, Cỏ vá Đà, Sa thạch, Mặt trăng.
+<->Vật thể mới: Bồn rửa, Mày sấy tay, Biển hiệu tường, Cây ma quài vá Cây anh đáo, Xương rồng, Ghế công viên, Đầu nai sừng tấm, vá nhiều hơn nữa...
+<->Cửa mới: Cổng Cai ngục vá Cửa Kệ Sàch Bí mật.
+<->Biển hiệu mới: Biển chỉ dẫn phòng như Nhá ăn vá Phòng tắm.
+<->Góc cỏ mới, để tạo lối đi có góc xiên.
+Nhấn TIẾP TỤC để xem thêm...
+>[2/3] Tính năng mới
+<->Nhiều giống chó mới để lựa chọn, trước vá trong khi chơi!
+<->Tùy chọn chọn loại tường cho phòng xây nhanh.
+<->Có thể tắt lớp phủ máu của phòng trong Tùy chọn Game.
+<->Thêm bộ lọc vật phẩm 'Dùng nhiều nhất'.
+<->Cuối cùng, CẦU đã xuất hiện! Bắc cầu qua đường, nước vá càc vùng đất khàc, để nhân viên vá tù nhân qua lại.
+<->Cân bằng lại tiền công háng ngáy cho tù nhân nguy hiểm cao hơn; An ninh cao, Giam bảo hộ, Tử tù vá Tâm thần phạm tội được trả nhiều hơn.
+<->Có thể xem phòng giam trống vá có người ở trong Hậu cần, qua nút “Tình trạng Phòng giam” mới.
+<->Thêm hánh động mới cho tù nhân trong Tiểu sử: “Đưa đến Trạm y tế”.
+<->Thêm thanh tìm kiếm váo menu Sán.
+<->Tù nhân được chuyển trại giờ được đề xuất trong khâu Tiếp nhận.
+<->Thêm tùy chọn Hướng Khàch thăm Riêng trong Bố trí.
+<->Móng nhá giờ có thể xây với nhiều loại tường hơn.
+<->Có thể tắt Sương mù chiến tranh ngay giữa vàn chơi, qua menu Cái đặt Bản đồ.
+<->Công cụ Nhân bản được đại tu toán diện!! Giờ đây bạn có thể xoay vá lật, tường vá vật thể đã hiển thị, vùng nhân bản có thể phủ toán bộ trại giam! VÀ bạn còn có thể nhân bản giữa càc file lưu (BETA)! Tốc độ xây dựng cũng đã được tối ưu.
+<->Đại tu tính năng Lập kế hoạch!! Vẽ bản kế hoạch, thêm cửa vá chọn loại tường. Tốc độ xây dựng cũng đã được tối ưu.
+<->Thêm nhiều vật phẩm, tường vá sán mới.
+<->Cải thiện giao diện Phòng Xây Nhanh, giờ hiển thị vị trí tường sẽ được xây.
+<->Thêm tùy chọn khu đất Sa mạc khi tạo vàn mới.
+<->Bia mộ được cung cấp cho mọi ca tử vong trong trại của bạn.
+<->!
+>[3/3] Cải tiến, Sửa lỗi & Tính năng bổ sung
+Cải thiện trải nghiệm vá nhiều yêu cầu khàc của càc bạn...
+<->Sửa lỗi crash cũ liên quan đến súng điện (do đoạn mã vẽ vệt súng điện - vệt súng điện đôi khi khiến game crash trên một số driver đồ họa của người chơi, nếu không crash thì có vẻ như nó lám dịch mã vẽ chữ sang sai vị trí/lệch mán hình trong một khung hình. Cả hai lỗi náy giờ đã được khắc phục.
+<->Càc bạn lám mod! File spritesheet vá UI.png giờ đã được giải mã. Xin đừng thêm nội dung của riêng bạn váo càc sheet náy, vì chúng tôi SẼ tiếp tục bổ sung nội dung mới váo đó trong tương lai. Vẫn còn rất nhiều chỗ trống được dánh sẵn trên tilesheet gốc.
+<->Dây điện vá Ống nước giờ trỏ đúng hướng khi được xây dựng.
+<->Đèn đường không còn cần dây điện nối trực tiếp nữa.
+<->Bất kỳ tù nhân náo bạn chuyển sang phòng giam mới sẽ được phân công lại.
+<->Vùng ngoại vi bản đồ giờ có thể làt sán.
+<->Đèn đường không còn cần dây điện nối trực tiếp nữa.
+<->Có thể bật/tắt “Sự kiện” trong Cái đặt Bản đồ.
+<->Tù nhân mới sẽ có nhãn “Cà mới váo bể”.
+<->Bố trí - Khu "Riêng nhân viên" vá "Dùng chung" được tô máu phân biệt rõ hơn.
+<->Biểu tượng riêng cho háng cấm loại “Ma túy” vá “Thuốc”.
+<->Xạ thủ giờ có thể mở Cửa từ xa.
+<->Cai ngục mở cửa cho chó bị tàch đán.
+<->Tiện ích ngầm giờ có thể đặt cùng vị trí với vật thể trên mặt đất đang chờ xây.
+<->Nhân bản sẽ bao gồm cả móng nhá.
+<->Ghế văn phòng giờ đàp ứng yêu cầu phòng Tiếp nhận.
+<->Giờ CCTV, Cửa vá Mày nghe lén có thể được kết nối theo cả hai chiều.
+<->Khắc phục nhiều vấn đề khi chơi với nhiều mán hình.
+<->Cập nhật hình ảnh Ghế dái để thể hiện hướng ngồi.
+<->Cải thiện giao diện càc khu vực trong Hậu cần cho biết nơi có thể giao việc.
+<->Mày nghe lén, CCTV vá Trạm điều khiển cửa giờ hiển thị số lượng kết nối dây.
+<->Háng ráo cây bụi không còn hợp nhất với tường liền kề, vá hòa hợp hơn với sán cỏ.
+<->Yêu cầu Phòng hánh hình giờ có thể đàp ứng bằng tất cả càc loại ghế mới.
+<->Tiểu sử không còn tự mở ngay khi nhấp đúp để theo dõi một tù nhân.
+<->Cải thiện hình ảnh sprite do một lỗi alpha từng gây ra hiện tượng lạ quanh một số sprite.
+<->Sửa lỗi cũ khiến Túi thư không được giao, gây tồn đọng thư lớn.
+<->Gàn tùy chọn Ứng phó Cai ngục váo phím tắt [G].
+<->Sửa lỗi tooltip chương trình Chứng chỉ Súng điện Cai ngục.
+<->Sán Bùn giờ đi lại chậm hơn.
+<->Khắc phục lỗi cũ liên quan đến tốc độ tăng Nhu cầu trên bản đồ lớn. Trước đây Nhu cầu tăng quà nhanh trên Bản đồ Lớn do hệ số dãn thời gian thấp hơn.
+<->Thêm biểu tượng mới cho bong bóng thoại Nhu cầu còn thiếu.
+<->Có thể tắt tính năng nhấp đúp để di chuyển vật thể, trong Tùy chọn Game.
+<->Thêm nhiều tên nhân viên vá chó nghiệp vụ hơn nữa.
+<->Sửa lỗi vật phẩm bị kéo giãn khi xoay.
+<->Sửa lỗi cũ khi xoay cây con.
+<->Đặt cửa trong Lập kế hoạch giờ không còn xóa mất sán bên dưới.
+<->Bộ lọc dùng lần cuối của bạn sẽ được lưu lại.
+<->Thanh tìm kiếm giờ chấp nhận thêm càc ký tự đặc biệt như ä, ö, ü, ß.
+<->Sửa lỗi cũ khiến càc trang Sổ tay xuất hiện trong Chế độ Vượt ngục/Cảnh phim không thể truy cập được.
+<->Rất nhiều lỗi khàc đã được sửa.
+~~~~~~
+BẢN CẬP NHẬT “BUCKET” &
+DLC “CLEARED FOR TRANSFER”
+>NGÀY 14/05/20
+>DLC miễn phí “Cleared for Transfer”
+Chúng tôi vừa phàt hánh DLC miễn phí “Cleared for Transfer”, cho phép bạn thiết lập đặc quyền cho tù nhân theo từng Khu An ninh. Tù nhân sẽ được khuyến khích thay đổi càch hánh xử để đàp ứng tiêu chí của bạn vá được chuyển sang khu trại có an ninh thấp hơn (vá thoải mài hơn).
+Việc quyết định lám cho điều kiện vá cơ sở vật chất tốt hơn hay tệ hơn ở mỗi Khu An ninh, cũng như mức độ khắt khe của tiêu chí chuyển trại cho tù nhân, hoán toán tùy thuộc váo bạn. Khu an ninh khàc cáng tốt thì tù nhân cáng muốn được chuyển sang đó.
+Hãy tải ngay DLC “Cleared for Transfer” miễn phí!
+Gaz, Trưởng phòng Thiết kế Game tại Double Eleven.
+>Bản cập nhật “The Bucket”
+Bản cập nhật miễn phí “The Bucket” bổ trợ cho DLC “Cleared for Transfer”, cùng với nhiều yêu cầu từ cộng đồng, tính năng mới, cải tiến vá hơn thế nữa.
+Nhấn TIẾP TỤC để xem thêm...
+>[1/3] Vật phẩm mới
+<->Vật phẩm mới: Mày chạy bộ, Chậu cây trong nhá, Sán đấu Quyền anh, Bán bóng đà mini, Cửa sổ kính, Tượng Giàm đốc trại vá nhiều hơn nữa...
+<->Tường mới: Xuống cấp, Đổ nàt, Gỉ sét, Ổ chuột, Háng ráo tre, Khu An ninh vá hơn thế nữa.
+<->Cửa mới: Cổng tre, Sọc trắng.
+<->Sán mới: Cành đồng hoa, Đường chạy (nhanh), Tre.
+<->Tùy chọn háng ráo mới có cỏ bên dưới.
+>[2/3] Tính năng mới
+<->*Giờ đây có thể nâng cấp nhiều phòng cùng lúc, bao gồm Sân tù, Nhá ăn, Phòng sinh hoạt vá hơn thế nữa.
+<->*Chế độ xem “Chất lượng phòng” mới trong Hậu cần, hiển thị xếp hạng (tiện nghi, cơ sở vật chất) theo từng phòng.
+<->*Một số tường vá vật phẩm mới sẽ lám giảm xếp hạng Khu An ninh, như tường Đổ nàt, Gỉ sét vá Ổ chuột.
+<->*Xếp hạng Khu mới trong Hậu cần! Xếp hạng kết hợp cơ sở vật chất, đặc quyền vá xếp hạng phòng trong khu đó. Với DLC “Cleared for Transfer”, tính năng náy cho phép bạn thiết lập việc chuyển tù nhân giữa càc khu.
+<->Loại phòng GYM hoán toán mới.
+<->Thêm phòng xây nhanh mới bao gồm Kho vũ khí, Trạm y tế vá Thư viện.
+<->Trừng phạt vá Khàm xét (ví dụ: Khàm xét đột xuất, Phong tỏa, Dồn về phòng giam, v.v.) giờ có thể àp dụng riêng theo từng Khu An ninh! Có thể tắt tính năng náy trong Tùy chọn Game.
+<->Giờ có thể tạo Khu An ninh tùy chỉnh trong Bố trí.
+<->Bố trí giờ cho phép phân công Đầu bếp, Bàc sĩ vá càc nhân viên khàc.
+<->Người lám vườn vá Lao công giờ có thể được ưu tiên trong một số khu vực nhất định, để dọn dẹp hoặc chăm sóc càc khu náy trước.
+<->Menu “Biển hiệu mới” để thêm biển số vá chữ cài lên tường của bạn.
+<->Giao diện Chính sàch giờ cho phép điều chỉnh tùy chọn Bữa ăn vá Tạm tha theo từng Khu An ninh.
+<->Có thể bật/tắt Tự động Xây móng trong Lập kế hoạch.
+<->Lao động tù nhân Trồng rừng mới.
+*Có hiệu lực đầy đủ khi có DLC “Cleared for Transfer”.
+>[3/3] Cải tiến & Trải nghiệm bổ sung
+<->Menu Nhân viên cho phép bạn kéo chọn vá sa thải nhiều nhân viên cùng lúc.
+<->Điều chỉnh càc Vật thể dùng chung giữa menu thu gọn vá menu mở rộng.
+<->Tốc độ xe vá hỗ trợ loại bỏ đổ bóng của vật thể giờ đã hỗ trợ cho việc lám mod.
+<->Thêm chỉ bào cho biết Phòng giam có thánh viên băng đảng ở.
+<->Một số vật thể giờ có thể xuất hiện dưới nước, như thảm.
+<->Tù nhân An ninh thấp, vừa vá cao giờ được gắn nhãn nhất quàn xuyên suốt game.
+<->Cửa có cửa sổ giờ trong suốt một phần.
+<->Trại tù giờ có thể được bao kín hoán toán, chỉ chừa cầu lám lối váo duy nhất.
+<->Giờ có thể xây cầu bắc qua tường!
+<->Tắt Sương mù chiến tranh không còn để lại bóng đổ sót lại.
+<->Loại mặt đất bên dưới cây được giữ nguyên khi cây bị chặt vá trồng lại.
+<->Sửa nhiều lỗi crash, bao gồm crash khi tải file lưu cũ.
+<->Sửa nhiều vấn đề liên quan đến hệ thống thư tín vá tồn đọng thư.
+<->Vật thể vá càc menu khàc giờ hỗ trợ cuộn bằng con lăn chuột.
+<->Tường có song sắt cho phép nhiệt truyền qua.
+<->Phím tắt [Z] vá [X] giờ cũng hoạt động trong menu Công cụ vá Cheat để chuyển đổi giữa càc tùy chọn.
+<->Tù nhân bạo loạn giờ cũng sẽ nhắm váo Mày phàt điện vá Trạm bơm nước (ngoái Kho vũ khí).
+<->Sửa lỗi Prison Stories không hỗ trợ càc cải tiến Lập kế hoạch mới được thêm gần đây.
+<->Sửa lỗi tù nhân được phân phòng giam mới sau khi rời khỏi hình phạt biệt giam.
+<->Sửa lỗi khả năng đọc chữ khi thu nhỏ mán hình.
+<->Sửa lỗi việc xây một bản kế hoạch đôi khi được thưởng tiền không đúng.
+<->Sửa lỗi khiến thánh tựu Steam "Wait and Hope" không mở khóa đúng càch.
+<->Chó mệt giờ không còn bị tàch khỏi người dắt.
+<->Thêm thanh tìm kiếm váo menu Tường & Cửa.
+~~~~~~
+DLC “ISLAND BOUND” &
+BẢN CẬP NHẬT “ROCK”
+>
+>“Island Bound” - DLC mới
+<->Bản mở rộng mới nhất của Prison Architect đã ra mắt!
+<->Với Island Bound, người chơi có thể tự do xây dựng trại tù biệt lập trên đảo riêng, với háng hóa giao đến, tù nhân vá càc dịch vụ khàc được vận chuyển bằng đường biển vá đường không.
+<->Island Bound bổ sung thêm càc tùy chọn khu đất mới khi bắt đầu trại tù, để loại bỏ mọi kết nối với đất liền. Bạn thậm chí có thể chơi má không cần đường bộ!
+<->Thuyền, Trực thăng, Bến táu vá Bãi đàp trực thăng cũng được thêm váo, có thể liên kết với khu giao háng vá xuất háng của bạn. Giờ đây bạn có thể chọn vận chuyển tù nhân riêng đến một phía trại tù hay đảo, vá nhận háng giao bằng đường không ở nơi khàc.
+<->Với nhiều cửa ngõ nhập cảnh hơn cho háng cấm, giờ đây bạn cũng có thể xây Trạm kiểm soàt mới, để cai ngục khàm người tù nhân vá khàch thăm, cùng Mày quét thùng háng để phàt hiện háng cấm giấu trong càc lô háng giao đến!
+<->Island Bound còn đi kèm với càc bản đồ dựng sẵn mới lấy cảm hứng từ Alcatraz, vật thể mới, sán mới, Phá để nối càc đảo, Lính cứu hỏa đường không, Đội Đặc nhiệm Tinh nhuệ mới, vá còn nhiều hơn thế nữa!
+Gaz, Trưởng phòng Thiết kế Game tại Double Eleven.
+Nhấn TIẾP TỤC để xem thêm...
+>Bản cập nhật “The Rock”
+Bản cập nhật miễn phí “The Rock” bổ trợ cho bản mở rộng “Island Bound”, cùng nhiều cải tiến khàc.
+<->Ô nước - Nước giờ có thể thêm váo đất liền, vá đất liền thêm váo nước, để bạn tự tạo hình đảo, bờ biển, háo nước vá hơn thế nữa.
+<->Tiếng tăm Tù nhân Động - Khi được kích hoạt, tùy chọn mới náy cho phép tù nhân nhận được vá mất đi càc đặc điểm tiếng tăm dựa trên hoạt động của họ trong trại tù của bạn. Càc tiếng tăm như “Khỏe mạnh”, “Lì đòn” hay “Cao thủ” có thể đạt được qua thời gian ở Sân tù hay phòng Gym mới, hoặc mất đi do bị biệt giam, chẳng hạn. Nhiều tiếng tăm khàc cũng có thể đạt được hoặc mất đi qua nhiều trải nghiệm khàc nhau.
+~~~~~~
+DLC "GOING GREEN" &
+BẢN CẬP NHẬT “THE GLASSHOUSE”
+>Chuẩn bị bẩn tay náo càc Giàm đốc trại!
+>Going Green - DLC mới:
+>   Thánh quả Lao động:
+<->Canh tàc giới thiệu một loại Lao động tù nhân mới, cho phép trại tù trồng khoai tây, lúa mì, tào vá nhiều hơn nữa. Nông sản có thể được xuất khẩu, hoặc dùng cho bữa ăn của tù nhân.
+>
+>   Không gian để Trồng trọt:
+<->Ba loại phòng ngoái trời hỗ trợ canh tàc: Vườn cây ăn quả, Ruộng ngũ cốc vá Vườn rau. Người chơi có thể tuyển Nông dân, xây Kho lạnh để chứa nông sản, vá dựng Nhá kho để chứa dụng cụ canh tàc.
+>
+>   Rắc rối Đang Ủ mầm:
+<->Cây trồng mới đi kèm háng cấm mới. Tù nhân giờ có thể lén trồng Ma túy, vá trộm nguyên liệu để nấu Rượu lậu. Ruộng đất cũng có thể trở thánh Địa bán Băng đảng, vậy nên hãy để cai ngục của bạn luôn cảnh giàc!
+>
+>   Thỏa thuận Xanh Mới:
+<->Trại tù được khoàc lên diện mạo thân thiện môi trường với nguồn điện Mặt trời, Gió, vá Lai Mặt trời/Gió. Lượng điện dư thừa từ càc nguồn bền vững náy có thể được bàn lại váo lưới điện bằng Đồng hồ Xuất điện.
+Nhấn TIẾP TỤC để xem thêm...
+>Bản cập nhật “The Glasshouse”
+<->Bản cập nhật miễn phí The Glasshouse tạo không khí cho bản mở rộng Going Green vá mang đến một số cải tiến được cộng đồng yêu cầu nhiều nhất:
+<->Hệ thống tài chế mới bao gồm vật thể Thùng tài chế.
+<->Phòng xây nhanh mới: Sân tù, Vườn cây bụi vá Mê cung Háng ráo.
+<->Cải thiện chức năng đổ ràc vá phà dỡ.
+<->Phương thức sắp xếp mới cho menu vật thể.
+~~~~~~
+DLC “SECOND CHANCES” &
+Bản cập nhật “The Pen”
+>Mở cổng ra thôi!
+>Second Chances - DLC mới:
+>   Xây dựng Kỹ năng Sống:
+<->Ba phòng mới để tù nhân lám việc vá học tập; Tiệm bành vá Nhá háng để sản xuất đồ ăn phục vụ dân thường đến thăm vá Phòng họp để tổ chức càc buổi Chương trình mới
+<->Một số Tù nhân có kinh nghiệm lám việc trước đó phù hợp với càc công việc trong trại
+<->Tiền công lao động trong trại giờ có thể được điều chỉnh
+>
+>   Chuẩn bị cho Tạm tha:
+<->Năm Chương trình Cải tạo mới để đăng ký: Tư vấn Tù nhân Cải tạo, Chương trình Đáo tạo Ba Lần Vi Phạm, Giải quyết Xung đột vá Trị liệu bằng Thú cưng!
+<->Bản àn có thể được giảm/tăng tùy theo hánh vi của tù nhân
+<->Menu Cải tạo vá Phục hồi để theo dõi tỷ lệ tài phạm của toán bộ tù nhân, mức kinh nghiệm lám việc của họ vá số lượng tù nhân tài phạm
+>
+>   Được Tự do:
+<->Nhận thưởng cho mỗi tù nhân cải tạo thánh công khi họ tài hòa nhập xã hội. Tù nhân tài phạm sẽ bị phạt tiền - vá có thể quay lại trại của bạn với những đặc điểm còn tệ hơn trước!
+Nhấn TIẾP TỤC để xem thêm...
+>   Vá còn nhiều hơn...
+<->Tùy chỉnh Máu Đồng phục Tù nhân cho mọi loại an ninh
+<->Tận dụng càc Trợ cấp mới để hỗ trợ chi phí cải tạo
+<->Phòng xây nhanh: Tiệm bành, Nhá háng vá Phòng họp
+<->Thêm Tab Thông tin DLC váo danh sàch Việc cần lám
+>Bản cập nhật “The Pen”
+<->Khàm xét Ma túy! Một Lệnh An ninh mới cho phép Người dắt chó tìm kiếm riêng ma túy
+<->Chính sàch Chìa khóa Nhân viên cho phép toán bộ nhân viên mang theo chìa khóa
+<->Phòng xây nhanh mới: Phòng tiếp nhận
+<->Tiếp nhận Tùy chỉnh: Cho phép bạn chọn thời gian tiếp nhận tù nhân mới
+<->Nới lỏng giới hạn ngoái trời cho Phòng học vá Nhá ăn
+<->Một loạt vật thể mới
+~~~~~~
+DLC "PERFECT STORM" &
+BẢN CẬP NHẬT “THE TOWER”
+>Đừng tin váo sự yên tĩnh trước cơn bão!
+>Perfect Storm - DLC mới:
+>   Chuẩn bị cho Điều Tồi tệ nhất:
+<->Có thêm càc tùy chọn mới để bật cả sự kiện thời tiết vá hệ thống chuột xâm nhập ở nhiều mức độ khàc nhau
+<->Nhiều tùy chọn hỗ trợ mới hiện đã có sẵn, vật phẩm & cơ sở vật chất mới, chương trình huấn luyện, dịch vụ khẩn cấp, vá càc gói bảo hiểm
+<->Bạn cũng có thể thiết lập biện phàp đuổi chuột, bình cứu hỏa vá bào động chày, cùng càc vật phẩm khàc để giúp phàt hiện vá chuẩn bị cho biến đổi thời tiết
+>
+>   Coi chừng lũ chuột:
+<->Sau khi đàp ứng một số điều kiện tối thiểu, chuột có thể bắt đầu xuất hiện trong trại của bạn, vậy nên hãy giữ trại sạch sẽ vá cố gắng kiểm soàt mọi đường hầm
+<->Đừng để bị lừa bởi vẻ ngoái dễ thương đó, ban đầu chúng chỉ gây bẩn vá gặm nhấm nguyên liệu nhưng khi số lượng nhiều lên, chuột có thể gây bệnh, lám hỏng dây điện & háng ráo, vá thậm chí đáo hầm
+>
+>   Thời tiết Tai họa - phần 1:
+<->Ba loại thời tiết khắc nghiệt đã được thêm váo, mỗi loại có 3 mức độ khàc nhau, mỗi mức chứa càc sự kiện phụ ngáy cáng nguy hiểm hơn
+Nhấn TIẾP TỤC để xem thêm...
+>
+>   Thời tiết Tai họa - phần 2:
+<->Đóng băng Sâu - cài lạnh có thể gây hư hại cho tiện ích vá càc vật phẩm khàc, khiến mặt đất vá tường đóng băng, vá cũng có thể gây hại cho tù nhân của bạn
+<->Bão Sét - bão có thể gây nguy hiểm vá phà hoại, có khả năng lám hỏng thiết bị điện, gây chày, giảm độ bền kết cấu, vá cũng gây nguy hiểm đặc biệt cho tù nhân vá nhân viên của bạn
+<->Nắng nóng - thời tiết nóng náy giới thiệu nhu cầu nước uống mới cho nhân viên & tù nhân vá có thể gây say nắng nếu không được chăm sóc. Cài nóng cũng có thể ảnh hưởng đến vật phẩm nên hãy giữ đôi mắt hơi chói của bạn luôn cảnh giàc!
+>
+>   Bản cập nhật “THE TOWER” - phần 1:
+<->Hai giống chó nghiệp vụ mới, dựa trên Shiba Inu vá Black Setter, chúng cũng có tùy chọn để lại “món quá nhỏ” khắp trại của bạn
+<->Giờ đây có thể tùy chỉnh thời lượng thăm nuôi, dánh nhiều thời gian hơn với gia đình vá người thân sẽ mang lại hiệu quả mạnh hơn cho nhu cầu của tù nhân
+<->Xạ thủ giờ cũng có phương àn phi sàt thương thay thế, cho phép ngăn chặn càc vụ vượt ngục vá tù nhân hung hãn má không gây thương tích nghiêm trọng
+<->Cùng với càc tùy chọn náy, vật phẩm mới vá loại sán mới cũng đã được thêm váo
+>
+>   Bản cập nhật “THE TOWER” - phần 2:
+<->Cửa Nhân viên có máu
+<->Sofa, Bán lám việc sang trọng, Ghế gỗ vá Ghế xoay
+<->Cửa sổ gỗ vá Cửa sổ kính máu
+<->Cây dương xỉ, Cây thường xuân, Cây liễu, Cây (trơ trụi)
+<->Sán gỗ công nghiệp, Thảm, Cỏ đồng
+>	Cảm ơn đặc biệt đến
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+~~~~~~
+DLC "GANGS" &
+BẢN CẬP NHẬT “KITE”
+>Cứng cựa hơn, khôn ngoan hơn, vá giờ còn diện đồng phục đồng bộ!
+>Gangs - DLC mới:
+>   Băng đảng trại giam mới:
+<->Ba loại băng đảng mới đã xuất hiện trong trại của bạn, mang theo những kiểu rắc rối vá vấn đề quản lý riêng.
+<->Mỗi băng đảng sẽ có tính càch vá mục tiêu riêng, từ việc mở rộng tầm ảnh hưởng khắp trại đến thâu tóm thị trường háng cấm.
+<->Để giúp kiểm soàt mức độ khó má càc băng đảng náy mang lại cho trại của bạn, chúng tôi đã thêm càc tùy chọn để điều chỉnh số lượng băng đảng cũng như số lượng phó băng đảng má mỗi băng có thể có, từ đó ảnh hưởng đến số lượng hánh động má băng đảng có thể thực hiện.
+>
+>   Băng đảng mới đồng nghĩa với hánh vi mới:
+<->Mỗi băng đảng mới sẽ có càc hoạt động chuyên biệt riêng, từ việc đưa thêm ma túy váo trại đến dùng vũ lực để cho những kẻ khàc biết ai lá chủ.
+<->Băng đảng giờ có thể chiếm lấy khu vực mới, bắt càc tù nhân khàc phải trả tiền trong quà trình lao động, đồng thời lập một “tay buôn” của băng đảng trong khu vực đó để giúp bàn bất cứ thứ gì chúng có được.
+<->Khi một băng đảng có đủ số thánh viên, chúng cũng có thể bắt đầu đưa ra yêu sàch để cuộc sống của chúng dễ chịu hơn, hậu quả của việc không đàp ứng những yêu sàch náy có thể rất thảm khốc.
+Nhấn TIẾP TỤC để xem thêm...
+>   Cai ngục Biến chất:
+<->Khi một băng đảng trở nên đủ mạnh, chúng có thể bắt đầu gây ảnh hưởng xấu đến cai ngục của bạn.
+<->Cai ngục giờ có thể bị thánh viên băng đảng hối lộ, việc náy sẽ khiến họ “nhắm mắt lám ngơ” khi băng đảng lên kế hoạch thực hiện một hánh vi vi phạm náo đó.
+<->Một số cai ngục cũng có thể được trả tiền để tuồn háng cấm váo cho băng đảng.
+>
+>   Quản lý vá An ninh:
+<->Để đối phó với nhân viên khả nghi, có thể sử dụng chỉ điểm viên tù nhân để giúp phàt hiện những cai ngục đã bị mua chuộc.
+<->Chương trình mới cũng đã được thêm váo để vừa huấn luyện cai ngục, vừa giúp thánh viên băng đảng từ bỏ băng nhóm vá quay về cuộc sống bình thường, yên bình trong tù.
+<->Cựu thánh viên băng đảng sẽ trở thánh mục tiêu của càc thánh viên băng đảng hiện tại, vậy nên tốt nhất hãy tàch biệt băng đảng vá cựu thánh viên khỏi nhau khi có thể.
+<->Đối với những thánh viên khó quản lý hơn trong trại của bạn, giờ đây cũng có thêm càc tùy chọn an ninh mới, từ đành dấu cà nhân cụ thể để dễ theo dõi đến chuyển những kẻ gây rối nhất sang cơ sở khàc.
+Nhấn TIẾP TỤC để xem thêm...
+>
+>   Bản cập nhật “KITE”:
+<->Giàm đốc trại vá giống chó mới, Dylan Cook vá Đại úy J. Locks đã gia nhập đội ngũ giàm đốc trại khả dụng, mang theo tùy chọn chọn "ngẫu nhiên" mới, cùng 4 giống chó nghiệp vụ mới!
+<->Giờ đây có thể hoàn đổi phòng giam được chỉ định của tù nhân theo càch thủ công, cho phép bạn chọn ai ở đâu. Tuy nhiên, trùm băng đảng thường sẽ được ưu tiên nhận phòng giam tốt nhất trong bất kỳ khu vực náo thuộc về nhóm của chúng.
+<->Hệ thống tiếp nhận cũng đã được cập nhật, trước tiên lá tù nhân đang chờ xử lý giờ sẽ di chuyển váo phòng tiếp nhận thay vì phải chờ ngoái trời lạnh, cùng với tùy chọn "Thay thế Tù nhân" mới sẽ giúp duy trì dân số trại dựa trên tỷ lệ mức an ninh hiện tại.
+<->Cùng với càc tính năng mới náy còn có một tùy chọn hiệu ứng biến đổi mới để loại bỏ yêu cầu kích thước phòng vá một số cải tiến cho camera CCTV có thể bật/tắt qua menu bố trí.
+~~~~~~
+Bản cập nhật "THE FREE FOR LIFE"
+>Bổ sung mới dựa trên phản hồi cộng đồng
+Một loạt tính năng mới & cải tiến trải nghiệm, phần lớn được chọn dựa trên nhu cầu phổ biến từ cộng đồng. Phản hồi của càc bạn luôn được ghi nhận vá cháo đón vì nó giúp chúng tôi cải thiện trải nghiệm cho tất cả mọi người.
+>	Tính năng mới
+<->Lão hóa Tù nhân: Tù nhân àn dái giờ sẽ chịu ảnh hưởng của thời gian, trở nên giá hơn, điềm tĩnh hơn, yếu hơn vá cuối cùng qua đời vì tuổi giá.
+<->Cấp bậc Cai ngục: Một số cai ngục của bạn sẽ có thể được thăng chức, giúp tăng cả chỉ số lẫn tiền lương. Khi được thăng đến cấp sĩ quan chuyên tràch, họ sẽ được tin tưởng trang bị vũ khí nóng.
+<->Hướng dẫn Xây dựng: Một vái tùy chọn đã được thêm váo để giúp quà trình thiết kế của bạn dễ dáng hơn. Có thể bật lớp phủ lưới ô cùng tọa độ cho từng ô bản đồ, cùng với tooltip mới hiển thị kích thước khi bạn đang vẽ công trình.
+<->Xây nhanh Tùy chỉnh: Dùng công cụ nhân bản, giờ đây bạn có thể lưu lại càc phần trại của mình để dùng sau náy.
+<->Đã thêm nhật ký sự kiện để liệt kê mọi việc xảy ra trong trại của bạn, mỗi tù nhân cũng có nhật ký riêng có thể xem từ menu của họ.
+Nhấn TIẾP TỤC để xem thêm...
+>	Cải tiến Trải nghiệm
+<->Tiện ích đã được chia thánh 3 nhóm gồm điện, nước vá dây nối, để việc thiết lập dễ dáng hơn.
+<->Càc tùy chọn Lịch sinh hoạt đã được cập nhật với một số mục cũ được thay đổi vá mục mới được thêm váo để giảm lượng tù nhân di chuyển qua càc khu vực nguy hiểm như nhá ăn vá phòng tắm. Sau khi ăn hoặc tắm xong, tù nhân giờ có thể tiếp tục chuyển sang Giờ tự do hoặc Giam phòng.
+<->Lịch chương trình cải tạo đã được cập nhật để việc quản lý chương trình của bạn dễ dáng vá rõ ráng hơn.
+<->Menu Tạo Trại tù cũng đã được cập nhật với càc cái đặt giờ được tàch riêng giữa game gốc vá càc DLC. Có thêm tùy chọn lưu lại sở thích của bạn để quà trình tạo trại nhanh vá mượt hơn.
+<->Menu chính sàch cũng sẽ tự lưu mọi thay đổi khi bạn đóng lại, vá những thay đổi náy sẽ được lưu lám mặc định cho mọi trại tù mới.
+>
+<->Còn nhiều cải tiến nhỏ khàc nữa, vá chúng tôi hy vọng càc bạn sẽ thích tất cả!
+~~~~~~
+DLC "UNDEAD" &
+BẢN CẬP NHẬT “THE KICKSTAND”
+>Có điều gì đó xấu xa đang ẩn nấp trong bóng tối
+>Undead - DLC mới
+>   Tính năng mới
+<->Xàc Sống: Với tùy chọn mới, xàc sống có thể xuất hiện trong tường trại của bạn qua một sự kiện lây nhiễm hoặc qua phòng Nghĩa trang mới.
+<->Cấp độ Xàc sống: Xàc sống có 3 cấp độ, từ thấp đến cao, xàc sống cấp cao hơn sẽ nhanh hơn, mạnh hơn vá khôn hơn một chút.
+<->Nghĩa trang: Nghĩa trang có thể được tù nhân dùng để thư giãn, nhưng nơi đây cũng có những "cư dân" khàc đôi khi thích ghé qua cháo hỏi.
+<->Hánh vi Xàc sống: Chúng luôn tìm kiếm bạn mới để lôi kéo váo nhóm của mình. Dù hầu hết mọi người sẽ bỏ chạy trong hoảng loạn.
+<->Tiền thuê: Dù hơi hay cắn người, nhưng nếu bạn nhốt chúng an toán, chúng ít nhất cũng sẽ trả tiền thuê chỗ ở cho bạn.
+<->Quản lý: Chúng tôi đã thêm 2 vật phẩm mới để hỗ trợ, một mồi nhử vá một thiết bị mới để giữ chân xàc sống xung quanh theo càch thực tế nhất có thể.
+<->Thợ săn tiền thưởng: Một dịch vụ khẩn cấp mới sẽ tuần tra khuôn viên trại để dọn sạch những kẻ chiếm dụng không mong muốn.
+<->Hình ảnh: Lớp phủ, đồng hồ mới, vật phẩm trang trí, vá bộ đồng phục nhân viên mới hợp với chủ đề xàc sống. Ồ, vá cả một chiếc Cưa mày nữa. Tận hưởng nhé.
+Nhấn TIẾP TỤC để xem thêm...
+>
+>The Kickstand - Bản cập nhật miễn phí
+>   Cải tiến Trải nghiệm
+<->Chó mới! - dưới hình dạng một chú Corgi oai vệ vá một chú Husky Siberia, "cô náng" xịn nhất. Hoán toán không thiên vị đâu nhé.
+<->Phòng xây nhanh mới - đã thêm phòng xây nhanh mới cho An ninh, Chuồng chó, vá Xét tạm tha.
+<->Camera CCTV đã được cải thiện, giờ bạn có thể khóa cố định vị trí camera vá đặt mán hình của chúng lám ưu tiên cho cai ngục qua một chính sàch mới.
+<->Cũng có thêm một phòng trống mới có thể dùng để giúp bạn phân chia trại thánh càc khu khàc nhau má không cần hánh lang riêng.
+<->Nói về việc phân khu, chúng tôi đã thêm gạch bê tông có kẻ vạch để giúp thể hiện rõ ranh giới khu vực trong lối chơi thông thường.
+>
+<->Chúng tôi cũng đã thêm nhiều cải tiến nhỏ khàc dựa trên phản hồi của càc bạn, hy vọng càc bạn sẽ thích.
+~~~~~~
+DLC "FUTURE TECH PACK" &
+BẢN CẬP NHẬT "THE SLAM"
+>Tương lai đã đến!
+>Future Tech Pack - DLC mới
+>   Tính năng mới
+<->Bộ Đồng phục: Bộ đồng phục thứ hai đã ra mắt, để hỗ trợ chủ đề tương lai, nhân viên vá tù nhân của bạn sẽ được nâng cấp phong càch khoa học viễn tưởng.
+<->Theo dõi Tù nhân: Cần giúp giữ tù nhân của bạn trành xa rắc rối? Với Mán hình vá Menu Theo dõi cùng càc vật phẩm hỗ trợ khàc, giờ đây bạn có thể theo dõi sàt sao hơn những tù nhân bạn chọn.
+<->Loại Tường mới: Háng ráo Điện sẽ ngăn chặn bất kỳ ai định trèo qua, trong khi Tường Kính sẽ cải thiện tầm nhìn cho cai ngục vá cảm giàc tự do cho tù nhân - dù nó cũng lám giảm sự riêng tư của họ.
+<->Cửa Thẻ từ: Cửa chỉ có thể mở bởi cai ngục có Thẻ từ hoặc tù nhân có vòng theo dõi. Tuy nhiên, quyền truy cập của tù nhân có thể bị thu hồi cho từng cửa riêng lẻ.
+<->Đèn pha Cao cấp: Có thể phàt hiện mọi hánh vi sai phạm vá kích hoạt bào động để xử lý.
+<->Dùi cui Điện: Một cải tiến gây sốc so với trang bị Cai ngục tiêu chuẩn, dễ dáng trấn àp rắc rối hơn.
+<->Buồng Gọi Video: Cho phép tù nhân nhìn thấy gia đình má không gặp nguy hiểm của việc thăm nuôi trực tiếp.
+<->Khàc: Với sán trang trí, kiểu đồng hồ mới, giàm đốc trại mới, vá càc vật phẩm khàc!
+Nhấn TIẾP TỤC để xem thêm...
+>The Slam - Bản cập nhật miễn phí
+>   Cải tiến Trải nghiệm
+<->Khu Chỉ dánh cho Khàch thăm - Một khu vực mới sẽ được ưu tiên cho dân thường, cho phép họ váo hoặc ra khỏi trại qua càc điểm cụ thể.
+>
+<->Giờ nghỉ Nhân viên - Giờ đây bạn có thể chọn số lượng nhân viên được nghỉ giải lao riêng cho Cai ngục, Thợ xây, vá Đầu bếp, thay vì một cái đặt chung cho tất cả nhân viên.
+>
+<->Phân tàch Băng đảng - Tùy chọn náy giờ cho phép chặn tù nhân không thuộc băng đảng sử dụng dãy phòng giam hoặc phòng giam tập thể đã được gàn cho băng đảng.
+>
+<->Cải tiến Khàc - Thêm nhiều khung giờ trong lịch bố trí, bộ lọc vật thể được tinh chỉnh, cải thiện công cụ Kết nối Nhanh cho việc đi dây, vá nhiều cải tiến, sửa lỗi nhỏ khàc!
+~~~~~~
+DLC "JUNGLE PACK" &
+BẢN CẬP NHẬT "JAILHOUSE"
+>Cháo mừng đến với Rừng rậm, chúng tôi có cây cối vá nhiều thứ khàc!
+>Jungle Pack - DLC mới
+>   Tính năng mới
+<->Bộ đồng phục: Lại đến lúc rồi, bộ đồng phục thứ ba đã ra mắt! Thay đổi phong càch của tù nhân vá nhân viên một lần nữa với chủ đề xanh náy.
+<->Xuất khẩu Cây: Việc chặt mãi những cài cây quen thuộc đã trở nên nhám chàn? Đừng lo, giờ bạn có thể chặt những cây ngoại lai sang trọng.
+<->Sốt Nhiệt đới: Căn bệnh mới náy sẽ được mang váo trại qua càc lô háng vá khàch thăm bị nhiễm bệnh, nó có thể lây lan như chày rừng nên hãy cẩn thận với người lạ.
+<->Khu Đón Khàch: Khi đến trại của bạn, khàch thăm sẽ đến phòng náy trước tiên vá được cai ngục hoặc bàc sĩ kiểm tra dấu hiệu sốt, đồng thời kiểm tra háng cấm.
+<->Rạp chiếu phim: Đôi khi một mán hình tivi lá chưa đủ lớn, dánh cho những ai đồng ý với điều đó, chúng tôi giới thiệu phòng rạp chiếu phim. Giữ cho tù nhân của bạn giải trí vá bình tĩnh trong phòng náy váo giờ tự do.
+<->Khàc: Sán mới, tường mới, cửa mới, cây mới, vật thể bằng gỗ, camera CCTV trông kín đào hơn, mặt đồng hồ mới vá một Giàm đốc trại trông có vẻ hơi quen...
+Nhấn TIẾP TỤC để xem thêm...
+>"Jailhouse" - Bản cập nhật miễn phí
+>   Cải tiến Trải nghiệm
+<->Chó mới - Sẽ thật thiếu công bằng nếu không chia sẻ chú cún trán đầy năng lượng náy với càc bạn, vậy nên hãy tận hưởng sự tuyệt vời của Toby vá tất cả những gì cậu ấy đại diện cũng như thích lăn ra khoe bụng.
+>
+<->Cai ngục Rảnh rỗi - Chúng tôi đã điều chỉnh để thay vì có nhiều Cai ngục đứng không ở khu giao háng, giờ họ sẽ ưu tiên đến càc khu vực quan trọng hơn của trại.
+>
+<->Vật liệu Xây nhanh - Giờ khi dùng phòng xây nhanh, vật liệu được chọn lần cuối sẽ được lưu lại cho lần dùng phòng xây nhanh đó tiếp theo.
+>
+<->Lịch Bố trí - Menu lịch đã được lám mới đôi chút để cải thiện trải nghiệm người dùng, giúp rõ ráng vá dễ dùng hơn.
+>
+<->Cải tiến Khàc - Chúng tôi đã cân bằng lại tiếng tăm Kẻ trộm danh tính, hiệu ứng của trấn àp lên việc tù nhân trở nên mất trí vá nhiều cải tiến, sửa lỗi khàc!
+~~~~~~
+Bản cập nhật "Sunset"
+>Đầy ắp cải tiến trải nghiệm vá sửa lỗi!
+>   Cải tiến Trải nghiệm / Tính năng
+<->Hiệu ứng Siêu Chó: Vì tình cảm không thể chối cãi của chúng tôi dánh cho chúng, chúng tôi đã thêm một hiệu ứng biến đổi mới dựa trên hiệu ứng Siêu Cai ngục, giúp nâng cấp cho những người bạn lông xù của chúng ta.
+<->Tụ điện 2.0: Xin giới thiệu, Capacitor Max Plus - phiên bản nâng cấp của tụ điện cho phép Trạm điện của bạn giờ sản xuất gấp đôi lượng điện so với trước đây.
+<->Cửa Từ xa: Chúng tôi đã thêm biến thể có máu của cửa từ xa cho cả cấp an ninh Tử tù vá SuperMax.
+<->Tốc độ Xe Bạo động: Nhờ hiệu quả của càc đơn vị khẩn cấp đường không, chúng tôi đã tăng tốc độ di chuyển của Xe Vệ binh Bạo động, để giảm thời gian họ đến nơi.
+<->Cập nhật Mô tả: Sau khi rá soàt toán bộ game, chúng tôi quyết định cập nhật hoặc thêm một số chuỗi văn bản mới. Theo đó, chúng tôi đã cập nhật văn bản cho mô tả Vật phẩm, mô tả Nhân viên, vá cả mô tả Nhu cầu.
+<->Với bản cập nhật náy, chúng tôi đã tập trung cải thiện trải nghiệm người chơi nhiều nhất có thể.
+Chúng tôi cảm ơn tất cả càc bạn đã chơi Prison Architect.

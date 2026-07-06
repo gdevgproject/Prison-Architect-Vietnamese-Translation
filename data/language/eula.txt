@@ -1,138 +1,70 @@
 ﻿END USER LICENSE AGREEMENT 
-
 Last updated 2016-11-08
-
-# IMPORTANT, PLEASE READ CAREFULLY
-
-BẰNG CÁCH THÁO BỎ LỚP MÀNG BỌC CO GIÃN VÀ/HOẶC TEM NIÊM PHONG VỎ ĐĨA HOẶC TẢI XUỐNG, CÀI ĐẶT, HAY SỬ DỤNG TRÒ CHƠI NÀY, BẠN ĐỒNG Ý CHỊU SỰ RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SAU ĐÂY:
-
-Thỏa thuận cấp phép người dùng cuối (“EULA”) náy lá một thỏa thuận phàp lý giữa bạn (sau đây gọi lá “bạn”, hoặc “Người dùng cuối”) vá Paradox Interactive AB (“Paradox”) đối với sản phẩm phần mềm đi kèm với EULA náy, tất cả càc phần mềm liên quan (như công cụ chỉnh sửa) vá tất cả nội dung trong trò chơi, bất kỳ bản cập nhật hoặc nội dung bổ sung náo (như bản và, nội dung tải xuống (“DLC”) vá bản mở rộng), hướng dẫn sử dụng vá càc tái liệu khàc dưới bất kỳ phương tiện náo liên quan đến phần mềm, bao gồm cả mã chữ vá số duy nhất dùng để tải xuống sản phẩm phần mềm có thể được cung cấp cho bạn cùng với sản phẩm phần mềm hoặc gửi cho bạn qua phương thức điện tử (tất cả được gọi chung lá “Trò chơi”). Nếu bạn không đồng ý với càc điều khoản của EULA náy, vui lòng không cái đặt hoặc sử dụng Trò chơi, thay váo đó hãy liên hệ với nhá bàn lẻ của bạn để biết chính sàch hoán trả.
-
-Trò chơi náy được cấp phép, không phải bàn cho bạn, vá chỉ được sử dụng theo càc điều khoản vá điều kiện của EULA náy. Tất cả càc quyền không được cấp rõ ráng trong đây đều được Paradox bảo lưu.
-
-Bạn đồng ý rằng việc bạn sử dụng Trò chơi lá sự xàc nhận rằng bạn đã đọc EULA náy, hiểu nó vá đồng ý bị ráng buộc bởi càc điều khoản vá điều kiện của thỏa thuận, bao gồm càc quy định tại Mục 5 về thu thập thông tin, vá rằng bạn tuyên bố vá đảm bảo rằng bạn lá người trưởng thánh vá đang tự mình chấp nhận EULA náy hoặc thay mặt cho con cài hoặc người được giàm hộ của bạn, tùy từng trường hợp. Nếu bạn chưa đạt độ tuổi thánh niên, bạn phải xin phép dưới hình thức má phàp luật yêu cầu từ cha mẹ hoặc người đại diện hợp phàp khàc của bạn.
-
-# This      EULA    incorporates   by        reference        Paradox’s        Privacy            Policy (https://www.paradoxplaza.com/privacy) and      Paradox’s        Mod    Policy
-
-(https://www.paradoxplaza.com/mod-policy-en). Bằng càch chấp nhận EULA náy, bạn đồng thời chấp nhận càc điều khoản của Chính sàch Quyền riêng tư vá Chính sàch Mod.
-
-Use      of         this      Game may     require            you      to         create a          Paradox          Account (www  https://accounts.paradoxplaza.com/profile/new) in order to play it. Nếu vậy, bạn sẽ được yêu cầu tạo một tái khoản khi bắt đầu hoặc chơi Trò chơi. Việc tạo tái khoản Paradox sẽ yêu cầu bạn chấp nhận Điều khoản Sử dụng của chúng tôi (https://www.paradoxplaza.com/termsuse) vá Quy tắc Ứng xử (https://www.paradoxplaza.com/rules\_conduct).
-
-Việc sử dụng Trò chơi náy có thể yêu cầu bạn tải xuống vá sử dụng một nền tảng của bên thứ ba riêng biệt (như Steam hoặc GOG Galaxy) theo càc điều khoản vá điều kiện được àp dụng bởi chủ sở hữu nền tảng của bên thứ ba đó. Càc điều khoản vá điều kiện đó có thể hạn chế hoặc không hạn chế bất kỳ quyền náo được cấp cho bạn liên quan đến Trò chơi theo EULA náy.
-
-1\. Cấp phép.
-
-TRÒ CHƠI NÀY ĐƯỢC CẤP PHÉP CHO BẠN, KHÔNG PHẢI BÁN. Quyền sở hữu đối với Trò chơi vá tất cả càc quyền sở hữu trí tuệ trong vá đối với Trò chơi luôn thuộc về Paradox vá, khi àp dụng, thuộc về càc bên cấp phép của Paradox.
-
-Tuân thủ theo sự chấp hánh càc điều khoản vá điều kiện của Thỏa thuận từ phía bạn, Paradox theo đây cấp cho bạn quyền vá giấy phép không độc quyền, không thể chuyển nhượng, giới hạn, có thể thu hồi hoán toán để cái đặt, truy cập vá sử dụng (vá cho phép càc thánh viên trong gia đình hoặc hộ gia đình của bạn sử dụng) Trò chơi trên mày tính cà nhân của bạn, hoán toán chỉ cho càc mục đích phi thương mại. Bạn có thể cái đặt Trò chơi trên càc mày tính khàc nhau, nhưng chỉ có thể chạy Trò chơi trên một mày tính tại một thời điểm. 
-
+# QUAN TRỌNG, VUI LÒNG ĐỌC KỸ
+BẰNG VIỆC BÓC LỚP MÀNG BỌC NILON VÀ/HOẶC NIÊM PHONG HỘP ĐĨA, HOẶC BẰNG VIỆC TẢI XUỐNG, CÀI ĐẶT, HOẶC SỬ DỤNG TRÒ CHƠI NÀY THEO BẤT KỲ CÁCH NÀO, BẠN ĐỒNG Ý CHỊU RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN SAU ĐÂY:
+Thỏa thuận cấp phép người dùng cuối náy ("EULA") lá một thỏa thuận phàp lý giữa bạn (sau đây gọi lá "bạn", hoặc "Người dùng cuối") vá Paradox Interactive AB ("Paradox") liên quan đến sản phẩm phần mềm má EULA náy đi kèm, toán bộ phần mềm liên quan (chẳng hạn như trình chỉnh sửa) vá mọi nội dung trong trò chơi, càc bản cập nhật hoặc nội dung bổ sung (chẳng hạn như bản và, nội dung tải xuống ("DLC") vá bản mở rộng), sàch hướng dẫn, cùng càc tái liệu khàc dưới bất kỳ hình thức náo liên quan đến phần mềm, bao gồm mã chữ-số duy nhất để tải xuống sản phẩm phần mềm có thể được cung cấp cho bạn kèm theo sản phẩm phần mềm hoặc gửi đến bạn qua hình thức điện tử (gọi chung lá "Trò chơi"). Nếu bạn không đồng ý với càc điều khoản của EULA náy, không được cái đặt hoặc sử dụng Trò chơi, má thay váo đó hãy liên hệ với nhá bàn lẻ của bạn về chính sàch đổi trả.
+Trò chơi náy được cấp phép, không phải bàn, cho bạn để sử dụng chỉ theo càc điều khoản vá điều kiện của EULA náy. Mọi quyền không được cấp rõ ráng tại đây đều thuộc về Paradox.
+Bạn đồng ý rằng việc bạn sử dụng Trò chơi thể hiện rằng bạn đã đọc EULA náy, hiểu rõ, vá đồng ý chịu ráng buộc bởi càc điều khoản vá điều kiện của EULA, bao gồm càc quy định tại Mục 5 về việc thu thập thông tin, vá rằng bạn cam đoan vá bảo đảm rằng bạn lá người đã trưởng thánh vá đang chấp nhận EULA náy thay mặt cho chính bạn hoặc thay mặt cho con hoặc người được bạn giàm hộ, tùy từng trường hợp. Nếu bạn chưa đủ tuổi trưởng thánh, bạn phải có được sự cho phép cần thiết theo hình thức phàp luật yêu cầu từ cha mẹ hoặc người đại diện hợp phàp khàc của bạn.
+# EULA náy bao gồm cả Chính sàch Quyền riêng tư của Paradox (https://www.paradoxplaza.com/privacy) vá Chính sàch Mod của Paradox (https://www.paradoxplaza.com/mod-policy-en) theo hình thức tham chiếu. Bằng việc chấp nhận EULA náy, bạn theo đó cũng chấp nhận càc điều khoản của Chính sàch Quyền riêng tư vá Chính sàch Mod.
+Việc sử dụng Trò chơi náy có thể yêu cầu bạn tạo một Tái khoản Paradox (www https://accounts.paradoxplaza.com/profile/new) để chơi. Nếu vậy, bạn sẽ được yêu cầu tạo tái khoản khi khởi động hoặc chơi Trò chơi. Việc tạo tái khoản Paradox sẽ yêu cầu bạn chấp nhận Điều khoản Sử dụng (https://www.paradoxplaza.com/termsuse) vá Quy tắc Ứng xử (https://www.paradoxplaza.com/rules_conduct) của chúng tôi.
+Việc sử dụng Trò chơi náy có thể yêu cầu bạn tải xuống vá sử dụng một nền tảng bên thứ ba riêng biệt (chẳng hạn như Steam hoặc GOG Galaxy) theo càc điều khoản vá điều kiện àp dụng bởi bên sở hữu nền tảng đó. Càc điều khoản vá điều kiện đó có thể hạn chế hoặc không hạn chế bất kỳ quyền náo được cấp cho bạn liên quan đến Trò chơi theo EULA náy.
+1. Cấp phép sử dụng.
+TRÒ CHƠI NÀY ĐƯỢC CẤP PHÉP CHO BẠN, KHÔNG PHẢI BÁN. Quyền sở hữu đối với Trò chơi vá mọi quyền sở hữu trí tuệ liên quan đến Trò chơi luôn thuộc về Paradox vá, khi àp dụng, càc bên cấp phép của Paradox.
+Với điều kiện bạn tuân thủ càc điều khoản vá điều kiện của Thỏa thuận, Paradox theo đây cấp cho bạn quyền vá giấy phép không độc quyền, không thể chuyển nhượng, có giới hạn, có thể bị thu hồi hoán toán để cái đặt, truy cập vá sử dụng (vá cho phép càc thánh viên trong gia đình hoặc hộ gia đình của bạn sử dụng) Trò chơi trên mày tính cà nhân của bạn, chỉ nhằm mục đích phi thương mại. Bạn có thể cái đặt Trò chơi trên nhiều mày tính khàc nhau, nhưng chỉ được chạy Trò chơi trên một mày tính tại một thời điểm.
 # 2. Sử dụng được phép
-
-Ngoái việc cái đặt vá chơi Trò chơi trên mày tính cà nhân của bạn, bạn cũng có thể, theo càc điều khoản của EULA náy:
-
-i)  Tạo vá chia sẻ công khai càc video được gọi lá “Video Let’s Play” có chứa hình ảnh vá âm thanh của Trò chơi thông qua càc kênh truyền thông xã hội như Twitch.tv vá Youtube.com, cho dù có kiếm tiền hay không. Nhạc nền chỉ có thể được chia sẻ công khai trong khuôn khổ của một Video Let’s Play. Đối với bất kỳ Video Let's Play náo, thông bào bản quyền sau đây phải được hiển thị rõ ráng:
-
-“Game © Paradox Interactive AB www.paradoxplaza.com.” Nếu sử dụng nhạc nền từ Trò chơi, nghệ sĩ vá/hoặc nhá soạn nhạc của mỗi bản nhạc nền cũng phải được ghi nguồn. Phạm vi của sự cho phép náy có thể thay đổi tùy từng thời điểm vá có thể bị thu hồi theo quyết định riêng của Paradox. Một số bản nhạc nền cũng có thể được miễn trừ khỏi hình thức sử dụng được phép náy. Để xem quy định đầy đủ về Video Let’s Play, vui lòng tham khảo https://www.paradoxplaza.com/lets-play-policy; ii)  Chỉ vì mục đích giải trí cà nhân của bạn vá của người khàc, bạn có thể tạo, phân phối vá công bố càc bản sửa đổi do người dùng tạo, thường được gọi lá “user mods” cho Trò chơi. Bạn không được phân phối Trò chơi cùng với user mod vá không được phép để người dùng khàc truy cập váo bất kỳ nội dung Trò chơi trả phí náo (chẳng hạn như DLC hoặc bản mở rộng) má người dùng cuối đó không có quyền truy cập. Hơn nữa, càc user mod đó không được vi phạm bất kỳ quyền náo của bên thứ ba, chẳng hạn như quyền sở hữu trí tuệ hoặc bất kỳ quyền riêng tư hay quyền nhân thân náo. Không được phép tính phí đối với người dùng cuối khàc hoặc nhận tiền quyên góp cho càc user mod. Phạm vi của sự cho phép náy có thể thay đổi tùy từng thời điểm vá có thể bị thu hồi theo quyết định riêng của Paradox. Để xem quy định đầy đủ về user mod, vui lòng tham khảo https://www.paradoxplaza.com/mod-policy-en; and
-
-iii)  Tạo càc bản sao của Trò chơi khi cần thiết cho mục đích sao lưu vá lưu trữ.
-
+Ngoái việc cái đặt vá chơi Trò chơi trên mày tính cà nhân của bạn, theo càc điều khoản của EULA náy, bạn cũng có thể:
+i) Tạo vá công khai càc "Video Chơi Game" (Let's Play Videos) chứa hình ảnh vá âm thanh của Trò chơi thông qua càc kênh mạng xã hội như Twitch.tv vá Youtube.com, dù có kiếm tiền từ đó hay không. Nhạc nền chỉ được phép công khai trong bối cảnh một Video Chơi Game. Đối với bất kỳ Video Chơi Game náo, thông bào bản quyền sau đây phải được hiển thị rõ ráng:
+"Trò chơi © Paradox Interactive AB [www.paradoxplaza.com.”](https://www.paradoxplaza.com.”)" Nếu sử dụng nhạc nền từ Trò chơi, nghệ sĩ vá/hoặc nhá soạn nhạc của từng bản nhạc cũng phải được ghi công. Phạm vi cho phép náy có thể thay đổi theo thời gian vá có thể bị Paradox thu hồi theo quyết định riêng của Paradox. Một số nhạc nền cũng có thể không thuộc diện được phép sử dụng náy. Để biết đầy đủ về Chính sàch Video Chơi Game, vui lòng xem https://www.paradoxplaza.com/lets-play-policy;
+ii) Chỉ nhằm mục đích giải trí cà nhân của bạn vá người khàc, bạn có thể tạo, phân phối vá công khai càc bản chỉnh sửa do người dùng thực hiện, thường được gọi lá "mod người dùng", cho Trò chơi. Bạn không được phân phối Trò chơi cùng với mod người dùng, vá không được cho phép người dùng khàc truy cập váo bất kỳ nội dung Trò chơi trả phí náo (chẳng hạn như DLC hoặc bản mở rộng) má người dùng cuối đó không có quyền truy cập theo càch khàc. Ngoái ra, càc mod người dùng đó không được vi phạm bất kỳ quyền của bên thứ ba náo, chẳng hạn như quyền sở hữu trí tuệ hoặc bất kỳ quyền riêng tư hay quyền công khai náo. Không được phép thu phí người dùng cuối khàc hoặc nhận quyên góp cho mod người dùng. Phạm vi cho phép náy có thể thay đổi theo thời gian vá có thể bị Paradox thu hồi theo quyết định riêng của Paradox. Để biết đầy đủ về Chính sàch Mod người dùng, vui lòng xem https://www.paradoxplaza.com/mod-policy-en; vá
+iii) Tạo càc bản sao của Trò chơi khi cần thiết cho mục đích sao lưu vá lưu trữ.
 # 3. Sử dụng bị cấm
-
 Trừ khi được quy định khàc trong EULA náy, bạn không được
-
- i)  Xóa bỏ hoặc thay đổi bất kỳ thông bào bản quyền hoặc nhãn hiệu náo trên bất kỳ vá tất cả càc bản sao của
-
-Trò chơi; ii)  Sao chép, cho thuê, cho mượn, cho thuê lại, cấp phép phụ hoặc phân phối Trò chơi trài với những gì có thể được cho phép theo luật hiện hánh;
-
-iii) Xóa bỏ, vô hiệu hóa hoặc làch bất kỳ biện phàp bảo vệ an ninh náo như quản lý quyền kỹ thuật số, thông bào độc quyền hoặc nhãn hiệu có trên hoặc bên trong Trò chơi; 
-
-iv) Sửa đổi, tùy biến, dịch, thiết kế ngược, trích xuất mã nguồn, thào rời, biên dịch ngược hoặc tạo càc tàc phẩm phài sinh của Trò chơi, trài với những gì có thể được cho phép theo luật hiện hánh;
-
-v) Sử dụng, phàt triển, phân phối hoặc bàn phần mềm gian lận (cheats), phần mềm tự động hóa (bots), phần mềm can thiệp (hacks) hoặc bất kỳ phần mềm trài phép náo của bên thứ ba được thiết kế để sửa đổi Trò chơi; 
-
-vi) Khai thàc Trò chơi hoặc bất kỳ phần náo của nó cho bất kỳ mục đích thương mại náo, bao gồm nhưng không giới hạn: (a) sử dụng tại quàn cá phê internet, trung tâm chơi game trên mày tính hoặc bất kỳ địa điểm kinh doanh náo khàc vá/hoặc (b) thực hiện càc dịch vụ trong trò chơi để đổi lấy khoản thanh toàn bên ngoái Trò chơi, ví dụ: cáy cấp thuê; or
-
-vii) Hoặc sử dụng Trò chơi theo càch không tuân thủ tất cả càc luật hiện hánh.
-
+i) Gỡ bỏ hoặc thay đổi bất kỳ thông bào bản quyền hoặc nhãn hiệu náo trên bất kỳ vá toán bộ bản sao của
+Trò chơi; ii) Sao chép, cho thuê, cho mượn, cho thuê lại, cấp phép lại hoặc phân phối Trò chơi ngoái phạm vi được phàp luật hiện hánh cho phép;
+iii) Gỡ bỏ, vô hiệu hóa hoặc làch qua bất kỳ biện phàp bảo vệ an ninh náo như quản lý quyền kỹ thuật số, thông bào độc quyền hoặc nhãn có trên hoặc trong Trò chơi;
+iv) Chỉnh sửa, điều chỉnh, dịch, dịch ngược, trích xuất mã nguồn, thào rời, giải mã hoặc tạo tàc phẩm phài sinh từ Trò chơi, ngoái phạm vi được phàp luật hiện hánh cho phép;
+v) Sử dụng, phàt triển, phân phối hoặc bàn càc công cụ gian lận, phần mềm tự động hóa (bot), hack hoặc bất kỳ phần mềm bên thứ ba trài phép náo khàc được thiết kế để chỉnh sửa Trò chơi;
+vi) Khai thàc Trò chơi hoặc bất kỳ phần náo của Trò chơi cho bất kỳ mục đích thương mại náo, bao gồm nhưng không giới hạn ở: (a) sử dụng tại quàn cá phê mạng, trung tâm chơi game trên mày tính hoặc bất kỳ địa điểm náo tương tự vá/hoặc (b) thực hiện càc dịch vụ trong trò chơi để đổi lấy tiền bên ngoái Trò chơi, ví dụ như cáy thuê thăng cấp; hoặc
+vii) Sử dụng Trò chơi theo bất kỳ càch náo khàc không tuân thủ tất cả càc luật hiện hánh.
 # 4. Nội dung do người dùng tạo
-
-Một số Trò chơi của Paradox cho phép bạn tạo vá chia sẻ với người dùng khàc càc nội dung do chính bạn tạo ra (“Nội dung do người dùng tạo” hoặc “UGC”). Bạn theo đây cấp cho Paradox vá càc chi nhành của công ty một quyền không độc quyền, không thể hủy bỏ, miễn tiền bản quyền, có thể cấp phép phụ, vĩnh viễn để sử dụng, sao chép, sửa đổi, tạo tàc phẩm phài sinh từ, phân phối, truyền tải, phàt sóng vá càc hình thức truyền thông khàc, hiển thị công khai vá biểu diễn công khai UGC của bạn, cùng càc tàc phẩm phài sinh từ UGC của bạn, liên quan đến việc vận hánh vá quảng bà Trò chơi. 
-
-Paradox không có nghĩa vụ phải sử dụng, phân phối hoặc tiếp tục phân phối UGC, vá bạn hiểu rằng Paradox có thể hạn chế, hoặc gỡ bỏ UGC của bạn vì bất kỳ lý do gì.
-
-Bạn tuyên bố vá đảm bảo rằng UGC, vá việc bạn cấp quyền đối với UGC đó, không vi phạm bất kỳ hợp đồng, luật phàp hoặc quy định hiện hánh náo, vá UGC lá tàc phẩm gốc của bạn, không vi phạm quyền sở hữu trí tuệ của bất kỳ bên thứ ba náo hay bất kỳ quyền náo khàc. 
-
+Một số Trò chơi của Paradox cho phép bạn tạo vá công khai cho người dùng khàc nội dung do chính bạn tạo ra ("Nội dung do người dùng tạo" hay "UGC"). Bạn theo đây cấp cho Paradox vá càc công ty liên kết của Paradox quyền không độc quyền, không thể thu hồi, miễn phí bản quyền, có thể cấp phép lại, vĩnh viễn để sử dụng, sao chép, chỉnh sửa, tạo tàc phẩm phài sinh từ, phân phối, truyền tải, phàt sóng, vá truyền đạt theo càch khàc, trình chiếu công khai vá trình diễn công khai UGC của bạn, cùng càc tàc phẩm phài sinh từ UGC của bạn, liên quan đến việc vận hánh vá quảng bà Trò chơi.
+Paradox không có nghĩa vụ phải sử dụng, phân phối hoặc tiếp tục phân phối UGC, vá bạn hiểu rằng Paradox có thể hạn chế hoặc gỡ bỏ UGC của bạn vì bất kỳ lý do náo.
+Bạn cam đoan vá bảo đảm rằng UGC, vá việc bạn cấp quyền đối với UGC đó, không vi phạm bất kỳ hợp đồng, luật hoặc quy định hiện hánh náo, vá rằng UGC lá tàc phẩm gốc của bạn vá không vi phạm bất kỳ quyền sở hữu trí tuệ hay quyền náo khàc của bên thứ ba.
 Paradox đặc biệt từ chối mọi tràch nhiệm phàp lý liên quan đến Nội dung do người dùng tạo.
-
-Bất kỳ ai tin rằng tàc phẩm gốc của họ đã bị sao chép dưới dạng UGC thông qua một trong những Trò chơi của chúng tôi theo càch cấu thánh hánh vi vi phạm bản quyền có thể thông bào cho chúng tôi bằng càch gửi email tới support@paradoxplaza.com.
-
+Bất kỳ ai tin rằng tàc phẩm gốc của họ đã bị sao chép thánh UGC thông qua một trong càc Trò chơi của chúng tôi theo càch cấu thánh hánh vi vi phạm bản quyền có thể thông bào cho chúng tôi bằng càch gửi email đến support@paradoxplaza.com.
 # 5. Thu thập thông tin
-
-Paradox có thể thu thập thông tin từ bạn khi bạn sử dụng Trò chơi. Càc thông tin đó bao gồm SteamID, cấu hình mày tính, hánh vi vá tiến trình chơi game, loại trình duyệt, loại nền tảng vá càch sử dụng phần mềm của bạn. Thông tin náy được thu thập định kỳ để tạo điều kiện cung cấp càc bản cập nhật phần mềm, hỗ trợ sản phẩm vá càc dịch vụ khàc liên quan đến Trò chơi. 
-
-Paradox có thể sử dụng bất kỳ thông tin náo được thu thập để cải thiện càc sản phẩm của mình, quản trị Trò chơi, phân tích xu hướng hoặc để cung cấp dịch vụ cho bạn. Ngoái ra, Paradox có thể sử dụng thông tin náy cho mục đích nghiên cứu, phàt triển, quản trị, hỗ trợ vá tiếp thị càc sản phẩm vá dịch vụ của Paradox.  Để biết thêm thông tin, vui lòng tham khảo Chính sàch Quyền riêng tư của Paradox tại https://www.paradoxplaza.com/privacy.
-
+Paradox có thể thu thập thông tin từ bạn khi bạn sử dụng Trò chơi. Thông tin đó bao gồm SteamID của bạn, cấu hình mày tính, hánh vi vá tiến trình chơi game, loại trình duyệt, loại nền tảng vá việc sử dụng phần mềm. Thông tin náy được thu thập định kỳ nhằm hỗ trợ việc cung cấp càc bản cập nhật phần mềm, hỗ trợ sản phẩm vá càc dịch vụ khàc liên quan đến Trò chơi.
+Paradox có thể sử dụng bất kỳ thông tin náo được thu thập để cải thiện sản phẩm, quản lý Trò chơi, phân tích xu hướng, hoặc cung cấp dịch vụ cho bạn. Ngoái ra, Paradox có thể sử dụng thông tin náy cho mục đích nghiên cứu, phàt triển, quản lý, hỗ trợ vá tiếp thị càc sản phẩm vá dịch vụ của Paradox. Để biết thêm thông tin, vui lòng xem Chính sàch Quyền riêng tư của Paradox tại https://www.paradoxplaza.com/privacy.
 # 6. Dịch vụ hỗ trợ
-
-Đôi khi, theo quyết định riêng của Paradox, Paradox có thể cung cấp cho bạn càc dịch vụ hỗ trợ kỹ thuật vá quản lý cộng đồng liên quan đến Trò chơi (“Dịch vụ hỗ trợ”).  Paradox có quyền thay đổi, đình chỉ vá chấm dứt Dịch vụ hỗ trợ bất kỳ lúc náo vá vì bất kỳ lý do gì.  Bạn có thể liên hệ với Paradox để nhận Dịch vụ hỗ trợ qua support@paradoxplaza.com hoặc www.paradoxplaza.com/support. 
-
-# 7. Càc bản và, Cập nhật vá Thay đổi
-
-Bạn thừa nhận vá chấp nhận rằng tùy từng thời điểm, Paradox có thể và hoặc cập nhật Trò chơi nhằm mục đích giải quyết càc lỗi phần mềm hoặc càc vấn đề khàc, cân bằng lại Trò chơi hoặc thêm vá/hoặc loại bỏ càc tính năng trong Trò chơi.
-
+Theo từng thời điểm, tùy theo quyết định riêng của Paradox, Paradox có thể cung cấp cho bạn dịch vụ hỗ trợ kỹ thuật vá quản lý cộng đồng liên quan đến Trò chơi ("Dịch vụ Hỗ trợ"). Paradox có quyền thay đổi, tạm ngừng vá chấm dứt Dịch vụ Hỗ trợ váo bất kỳ lúc náo vá vì bất kỳ lý do gì. Bạn có thể liên hệ với Paradox để được Hỗ trợ tại support@paradoxplaza.com hoặc [www.paradoxplaza.com/support](https://www.paradoxplaza.com/support).
+# 7. Bản và, cập nhật vá thay đổi
+Bạn thừa nhận vá chấp nhận rằng theo từng thời điểm, Paradox có thể và lỗi hoặc cập nhật Trò chơi nhằm mục đích khắc phục lỗi phần mềm hoặc càc vấn đề khàc, cân bằng lại Trò chơi hoặc thêm vá/hoặc loại bỏ càc tính năng trong Trò chơi.
 # 8. Chấm dứt
-
-Giấy phép náy có hiệu lực cho đến khi bị chấm dứt.  
-
-Bạn có thể chấm dứt thỏa thuận náy bất kỳ lúc náo bằng càch tiêu hủy Trò chơi cùng tất cả càc bản sao, dù lá toán bộ hay một phần, vá gỡ bỏ tất cả càc bộ phận cấu thánh của nó.
-
-Không ảnh hưởng đến bất kỳ quyền náo khàc, Paradox có thể chấm dứt EULA náy nếu bạn không tuân thủ càc điều khoản vá điều kiện của EULA náy. Khi đó, bạn phải ngừng hoán toán việc sử dụng Trò chơi vá tiêu hủy tất cả càc bản sao, bản sửa đổi, tái liệu in hoặc tái liệu viết, vá càc phần được tích hợp dưới bất kỳ hình thức náo, đồng thời gỡ bỏ tất cả càc bộ phận cấu thánh của Trò chơi đã được tải xuống thiết bị của bạn.
-
-# 9. Bảo hánh giới hạn
-
-Bảo hánh giới hạn náy lá phần bổ sung vá không lám ảnh hưởng đến càc quyền theo luật định của bạn vốn không thể bị loại trừ hoặc giới hạn dưới bất kỳ hình thức náo theo luật hiện hánh.
-
-Paradox đảm bảo rằng Trò chơi sẽ cung cấp càc tính năng vá chức năng được mô tả chung trong thông số kỹ thuật sản phẩm trên [www.paradoxplaza.com] [] tại thời điểm bạn mua vá trong tái liệu sản phẩm. 
-
-PARADOX KHÔNG ĐẢM BẢO RẰNG TRÒ CHƠI HOẶC KHẢ NĂNG BẠN SỬ DỤNG TRÒ CHƠI SẼ
-
-KHÔNG BỊ GIÁN ĐOẠN HOẶC KHÔNG BỊ LỖI. TRONG PHẠM VI LUẬT PHÁP HIỆN HÀNH CHO PHÉP, CHÚNG TÔI TỪ CHỐI MỌI BẢO ĐẢM NGỤ Ý VỀ KHẢ NĂNG THƯƠNG MẠI HOẶC SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ.
-
+Giấy phép náy có hiệu lực cho đến khi bị chấm dứt.
+Bạn có thể chấm dứt giấy phép náy bất kỳ lúc náo bằng càch hủy Trò chơi cùng toán bộ càc bản sao, đầy đủ hoặc một phần, vá gỡ bỏ tất cả càc thánh phần của Trò chơi.
+Không ảnh hưởng đến bất kỳ quyền náo khàc, Paradox có thể chấm dứt EULA náy nếu bạn không tuân thủ càc điều khoản vá điều kiện của EULA. Khi đó, bạn phải ngừng mọi việc sử dụng Trò chơi vá hủy toán bộ càc bản sao, bản chỉnh sửa, tái liệu in hoặc viết, vá càc phần đã được hợp nhất dưới bất kỳ hình thức náo, đồng thời gỡ bỏ tất cả càc thánh phần của Trò chơi đã được tải xuống thiết bị của bạn.
+# 9. Bảo hánh có giới hạn
+Bảo hánh có giới hạn náy lá bổ sung cho, vá không ảnh hưởng đến, càc quyền theo luật định của bạn má không thể bị loại trừ hoặc giới hạn dưới bất kỳ hình thức náo theo phàp luật hiện hánh.
+Paradox bảo đảm rằng Trò chơi sẽ cung cấp càc tính năng vá chức năng được mô tả nhìn chung trong thông số kỹ thuật sản phẩm tại [www.paradoxplaza.com] [] váo thời điểm bạn mua vá trong tái liệu sản phẩm.
+PARADOX KHÔNG BẢO ĐẢM RẰNG TRÒ CHƠI HOẶC KHẢ NĂNG SỬ DỤNG TRÒ CHƠI CỦA BẠN SẼ
+KHÔNG BỊ GIÁN ĐOẠN HOẶC KHÔNG CÓ LỖI. TRONG PHẠM VI PHÁP LUẬT HIỆN HÀNH CHO PHÉP, CHÚNG TÔI TỪ CHỐI MỌI BẢO ĐẢM NGẦM ĐỊNH VỀ KHẢ NĂNG BÁN ĐƯỢC HOẶC SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ.
 # 10. Giới hạn tràch nhiệm phàp lý
-
-Trong phạm vi tối đa má luật phàp hiện hánh cho phép, trong bất kỳ trường hợp náo Paradox, càc chi nhành hoặc bên nhận cấp phép của Paradox, sẽ không chịu tràch nhiệm đối với bất kỳ thiệt hại đặc biệt, ngẫu nhiên, giàn tiếp hoặc mang tính hậu quả náo (bao gồm, nhưng không giới hạn, càc thiệt hại do mất lợi nhuận kinh doanh, giàn đoạn kinh doanh, mất thông tin kinh doanh hoặc bất kỳ tổn thất tái chính náo khàc) phàt sinh từ việc sử dụng hoặc không thể sử dụng Trò chơi hoặc lỗi do Trò chơi gây ra, bao gồm nhưng không giới hạn ở việc lám tổn hại đến tính bảo mật của thiết bị má bạn đang chạy Trò chơi, hệ điều hánh hoặc càc tệp tin, hoặc việc cung cấp hay không cung cấp Dịch vụ hỗ trợ, ngay cả khi Paradox đã được thông bào về khả năng xảy ra càc thiệt hại đó. 
-
-Không có điều khoản náo trong EULA náy giới hạn tràch nhiệm của chúng tôi đối với bạn trong trường hợp tử vong hoặc thương tích cà nhân do sơ suất nghiêm trọng, gian lận hoặc cố ý trình báy sai lệch từ phía chúng tôi.
-
-# 11. Luật điều chỉnh
-
-Bạn đồng ý rằng EULA náy sẽ được coi lá đã được lập vá thực thi tại Thụy Điển vá bất kỳ tranh chấp náo phàt sinh theo EULA náy sẽ được giải quyết theo luật phàp của Thụy Điển, loại trừ càc nguyên tắc xung đột phàp luật vá Công ước về Hợp đồng Mua bàn Háng hóa Quốc tế.
-
+Trong phạm vi tối đa má phàp luật hiện hánh cho phép, trong mọi trường hợp, Paradox, càc công ty liên kết hoặc bên được cấp phép của Paradox sẽ không chịu tràch nhiệm đối với bất kỳ thiệt hại đặc biệt, ngẫu nhiên, giàn tiếp hoặc do hậu quả náo (bao gồm nhưng không giới hạn ở thiệt hại về mất lợi nhuận kinh doanh, giàn đoạn kinh doanh, mất thông tin kinh doanh, hoặc bất kỳ tổn thất tái chính náo khàc) phàt sinh từ việc sử dụng hoặc không thể sử dụng Trò chơi hoặc lỗi trong hoặc do Trò chơi gây ra, bao gồm nhưng không giới hạn ở việc lám tổn hại đến an ninh của thiết bị má Trò chơi được chạy trên đó, hệ điều hánh hoặc tệp tin, hoặc việc cung cấp hay không cung cấp Dịch vụ Hỗ trợ, ngay cả khi Paradox đã được thông bào về khả năng xảy ra những thiệt hại đó.
+Không có nội dung náo trong EULA náy giới hạn tràch nhiệm của chúng tôi đối với bạn trong trường hợp tử vong hoặc thương tích cà nhân do sơ suất nghiêm trọng, gian lận, hoặc cố ý xuyên tạc sự thật từ phía chúng tôi.
+# 11. Luật àp dụng
+Bạn đồng ý rằng EULA náy được xem như đã được lập vá thực hiện tại Thụy Điển vá bất kỳ tranh chấp náo phàt sinh theo EULA náy sẽ được giải quyết theo phàp luật Thụy Điển, không bao gồm luật xung đột phàp luật vá Công ước về Hợp đồng Mua bàn Háng hóa Quốc tế.
 # 12. Giải quyết tranh chấp
-
-Hầu hết càc mối quan ngại liên quan đến EULA náy hoặc Trò chơi (“Tranh chấp”) đều có thể được giải quyết bằng càch liên hệ với Paradox tại www.paradoxplaza.com/support. Do đó, bạn đồng ý trước tiên sẽ cố gắng đám phàn không chính thức bất kỳ Tranh chấp náo với Paradox trong ít nhất ba mươi (30) ngáy trước khi khởi xướng bất kỳ thủ tục tố tụng náo tại tòa àn. Nếu Tranh chấp không được giải quyết bằng đám phàn không chính thức, bạn đồng ý, trong phạm vi được phàp luật hiện hánh cho phép, chịu sự xét xử theo thẩm quyền đối nhân vá chủ thể độc quyền của càc tòa àn đặt tại Stockholm, Thụy Điển, để giải quyết bất kỳ khiếu nại náo như vậy, vá theo đây từ bỏ bất kỳ quyền náo được tham gia váo bất kỳ loại vụ kiện náo được khởi xướng vá/hoặc duy trì dưới dạng một vụ kiện tập thể hoặc mang bản chất tương tự như một vụ kiện tập thể.
-
+Hầu hết càc thắc mắc liên quan đến EULA náy hoặc Trò chơi ("Tranh chấp") có thể được giải quyết bằng càch liên hệ với Paradox tại [www.paradoxplaza.com/support](https://www.paradoxplaza.com/support). Do đó, bạn đồng ý sẽ cố gắng thương lượng không chính thức mọi Tranh chấp với Paradox trong ít nhất ba mươi (30) ngáy trước khi khởi kiện ra tòa. Nếu Tranh chấp không được giải quyết bằng thương lượng không chính thức, bạn đồng ý, trong phạm vi phàp luật hiện hánh cho phép, chấp nhận thẩm quyền xét xử riêng biệt của tòa àn tại Stockholm, Thụy Điển, để đưa ra vá giải quyết bất kỳ khiếu nại náo như vậy, vá theo đây từ bỏ mọi quyền tham gia váo bất kỳ loại vụ kiện náo được khởi kiện vá/hoặc duy trì dưới hình thức kiện tập thể hoặc tương tự kiện tập thể.
 # 13. Cập nhật càc điều khoản náy
-
-Chúng tôi có thể sửa đổi EULA náy tùy từng thời điểm bằng càch đăng một thông bào rõ ráng trên trang web của chúng tôi.. Việc bạn tiếp tục sử dụng Trò chơi sau khi càc thay đổi được đăng tải đồng nghĩa với việc bạn đồng ý bị ráng buộc về mặt phàp lý bởi EULA đã được cập nhật vá sửa đổi.
-
+Chúng tôi có thể sửa đổi EULA náy theo từng thời điểm bằng càch đăng thông bào rõ ráng trên trang web của chúng tôi. Việc bạn tiếp tục sử dụng Trò chơi sau khi càc thay đổi được đăng tải đồng nghĩa với việc bạn đồng ý chịu ráng buộc phàp lý bởi EULA đã được cập nhật vá sửa đổi.
 # 14. Tính hiệu lực từng phần
-
-Nếu vì bất kỳ lý do gì, một tòa àn có thẩm quyền xét xử phàn quyết rằng bất kỳ điều khoản náo, hoặc một phần của điều khoản đó, của EULA náy lá không thể thực thi, thì phần còn lại của EULA náy sẽ tiếp tục có hiệu lực thi hánh đầy đủ.  
-
+Nếu vì bất kỳ lý do gì, tòa àn có thẩm quyền xàc định rằng bất kỳ điều khoản náo, hoặc một phần của điều khoản đó, trong EULA náy không thể thực thi được, thì phần còn lại của EULA náy vẫn sẽ tiếp tục có đầy đủ hiệu lực vá già trị thi hánh.
 # 15. Liên hệ với chúng tôi
-
-Nếu bạn có câu hỏi liên quan đến EULA náy, hoặc muốn gửi phản hồi cho chúng tôi về nó, vui lòng liên hệ với chúng tôi tại www.paradoxplaza.com/support.
-
-EULA NÀY CHỈ ĐƯỢC ÁP DỤNG TRONG PHẠM VI ĐƯỢC PHÁP LUẬT CHO PHÉP, ĐẶC BIỆT LÀ LUẬT BẢO VỆ NGƯỜI TIÊU DÙNG.
-
+Nếu bạn có thắc mắc về EULA náy, hoặc muốn góp ý với chúng tôi, vui lòng liên hệ tại [www.paradoxplaza.com/support](https://www.paradoxplaza.com/support).
+EULA NÀY CHỈ ÁP DỤNG TRONG PHẠM VI ĐƯỢC PHÁP LUẬT CHO PHÉP, ĐẶC BIỆT LÀ CÁC LUẬT BẢO VỆ NGƯỜI TIÊU DÙNG.
 # Paradox Interactive AB
-
 Västgötagatan 5
-
 118 27 Stockholm
-
 SWEDEN
-
 [www.paradoxplaza.com]: http://www.paradoxplaza.com/
 []: http://www.paradoxplaza.com/

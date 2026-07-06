@@ -1,15 +1,15 @@
-﻿interfacecontrol_mainmenu               Menu chính
-interfacecontrol_mainmenu_tooltip       Bật/tắt menu chính (Tạo mới/Tải/Lưu game v.v.)
+﻿interfacecontrol_mainmenu               Menu Chính
+interfacecontrol_mainmenu_tooltip       Bật/tắt menu chính (Tạo mới/Tải/Lưu, v.v.)
 
-object_firemen_hosehelp                 Nhấp vá giữ để di chuyển. Nhấp vá giữ váo ngọn lửa để tự hướng vòi rồng.
+object_firemen_hosehelp                 Nhấn vá giữ chuột để di chuyển. Nhấn giữ váo ngọn lửa để tự nhắm vòi phun nước.
 
-click_to_continue                       Nhấp để tiếp tục...
-gameover_caption                        Mở Menu để tiếp tục
+click_to_continue                       Nhấp chuột để Tiếp tục...
+gameover_caption                        Mở Menu để Tiếp tục
 
-adviser_deathrow_explain5               Trong lúc chờ đợi, hãy nhìn xung quanh xem. Kéo mán hình để di chuyển góc nhìn, vá cuộn con lăn chuột để phóng to vá thu nhỏ.
+adviser_deathrow_explain5               Trong lúc chờ đợi, hãy nhìn quanh xem sao. Kéo chuột để di chuyển góc nhìn, vá cuộn chuột để phóng to/thu nhỏ.
 
-adviser_deathrow_internaldoors2         Bạn có thể xoay vật thể trước khi đặt bằng càch nhấp váo nút Xoay ở phía bên phải mán hình
+adviser_deathrow_internaldoors2         Bạn có thể xoay vật thể trước khi đặt bằng càch nhấp váo nút Xoay ở bên phải mán hình
 
-objective_deathrow_buildinternaldoors   Xây càc cửa bên trong
+objective_deathrow_buildinternaldoors   Xây cửa nội bộ
 
-objective_food_extinguishflames_description  Khi chọn lính cứu hỏa, bạn có thể nhấp vá giữ váo ngọn lửa để hướng vòi rồng của họ váo đó, nhưng ngọn lửa phải càch dưới 15 ô.
+objective_food_extinguishflames_description  Khi đã chọn lính cứu hỏa, bạn có thể nhấn vá giữ chuột váo ngọn lửa để nhắm vòi phun nước, nhưng ngọn lửa phải càch xa dưới 15 ô.

@@ -55,7 +55,7 @@ Due to a legacy bitmap rendering issue in the original Prison Architect game eng
 ## 🤝 Authors & Credits
 * **Lead Author:** Vu Duc Minh
 * **Contributors:** AI & Community
-* **Version:** 1.0 (Updated on 06/07/2026)
+* **Version:** 2.0 (Updated on 06/07/2026)
 * **Encoding:** UTF-8 with BOM
 
 ## 🏷️ Keywords

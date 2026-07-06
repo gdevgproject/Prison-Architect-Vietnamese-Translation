@@ -55,7 +55,7 @@ Do một lỗi kết xuất cố hữu trong Engine của game Prison Architect 
 ## 🤝 Thông tin tác giả & Đóng góp
 * **Tác giả chính:** Vu Duc Minh
 * **Cộng đồng đóng góp:** AI & Community
-* **Phiên bản:** 1.0 (Cập nhật ngày 06/07/2026)
+* **Phiên bản:** 2.0 (Cập nhật ngày 06/07/2026)
 * **Bảng mã:** UTF-8 BOM chuẩn game.
 
 ## 🏷️ Từ khóa (Keywords)
