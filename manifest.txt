@@ -1,7 +1,8 @@
 Name                 "Vietnamese Language Pack"
-Author               "Vu Duc Minh"
-Description          "Ban dich Tieng Viet day du cho Prison Architect"
+Author               "Vũ Đức Minh"
+Description          "Bản dịch Tiếng Việt đầy đủ cho Prison Architect (Lưu ý: Có hiện tượng đảo ngược dấu à và á ở một số chữ do lỗi hiển thị của engine game gốc)"
 Version              1.0
 Date                 06/07/2026
 IsTranslation        true
 ContinueSupported    true
+
