@@ -1562,3 +1562,653 @@ report_intake_buttons_tooltip_title     Đợt tiếp nhận tiếp theo
 report_intake_buttons_tooltip           Bạn có thể tăng hoặc giảm số lượng tù nhân muốn nhận trong đợt tiếp nhận tiếp theo bằng cách sử dụng phần này.\n\nChọn "Không có" sẽ đóng cửa nhà tù của bạn với các tù nhân mới, trong khi chọn "Tất cả" sẽ lấy toàn bộ số lượng tù nhân hiện có.\n\nSố lượng tù nhân từ mỗi danh mục được điều chỉnh bằng các thanh trượt ở trên.
 report_intake_overview_tooltip_title    Tổng quan tiếp nhận
 report_intake_overview_tooltip          Tại đây bạn có thể xem đợt giao tù nhân tiếp theo của mình và khoản thanh toán bạn sẽ nhận được. Số lượng tù nhân được giao và danh mục của họ có thể được thay đổi bằng các thanh trượt và nút bấm ở trên. Khoản thanh toán dựa trên số lượng tù nhân trong mỗi danh mục.
+
+report_needs_prisoners                 Nhu cầu tù nhân
+report_needs_staff                     Nhu cầu nhân viên
+
+valuation_categoryprison                Giá trị nhà tù
+valuation_construction                  Công trình và kết cấu
+valuation_objects                        Thiết bị và nội thất
+valuation_stock                          Hàng tồn kho và vật liệu
+valuation_staff                          Nhân viên
+valuation_startupgrant                  Trợ cấp khởi đầu
+valuation_capacity                      Sức chứa tù nhân
+valuation_cash                           Tiền mặt
+valuation_debt                           Vay ngân hàng
+valuation_categoryperformance            An toàn và an ninh
+valuation_bonustimewithoutincident      [Thưởng] Thời gian không xảy ra sự cố
+valuation_finedeath                      [Phạt] Ca tử vong trong 24 giờ qua
+valuation_fineescape                    [Phạt] Ca vượt ngục trong 24 giờ qua
+valuation_total                          TỔNG
+valuation_sell                           BÁN
+valuation_sellprison                    BÁN NHÀ TÙ
+valuation_sell_tooltip                  Bán nhà tù sẽ cho phép bạn mang theo lợi nhuận từ nhà tù này và bắt đầu một nhà tù mới với số dư tài khoản khởi đầu cao hơn nhiều.\n\nBạn vẫn có thể tiếp tục điều hành nhà tù này, nhưng bạn chỉ có thể bán một nhà tù một lần duy nhất. Toàn bộ lợi nhuận từ việc bán sẽ được chuyển sang cơ sở mới của bạn.
+valuation_sold                          Nhà tù này đã được bán với giá: *X
+valuation_donotown                      Bạn không thể bán nhà tù này vì bạn không sở hữu nó.
+valuation_sellsome                      Bán cổ phần
+valuation_buysome                        Mua cổ phần
+valuation_shares                        Mua và bán cổ phần
+valuation_shares_tooltip                Bạn có thể bán tối đa 50% nhà tù dưới dạng cổ phần cho các nhà đầu tư bên ngoài. Bạn sẽ được thanh toán bằng tiền mặt ngay lập tức. Để đổi lấy khoản đầu tư của họ, các cổ đông sẽ nhận được phần giá trị tương ứng từ tổng giá bán khi bạn bán nhà tù.\n\nVí dụ: nếu bạn bán 30% cổ phần nhà tù, bạn sẽ chỉ nhận được 70% giá trị bán cuối cùng. Bạn có thể mua lại cổ phần đã bán trước đó bất kỳ lúc nào - mặc dù chi phí có thể cao hơn giá bán bạn đã nhận.
+valuation_ownership                      Bạn sở hữu *X% nhà tù của mình
+valuation_saleprice                      Giá bán: *X
+valuation_title                          =[ĐỊNH GIÁ]=
+valuation_totalprisonvalue              Tổng giá trị nhà tù : *X
+valuation_subcashreserves                Trừ quỹ tiền mặt dự trữ : *X
+valuation_tenpercentprice                Giá cho 10% : *X
+valuation_profit                        Lợi nhuận của bạn : *X
+valuation_tap_to_authorise              NHẤN ĐỂ PHÊ DUYỆT
+
+salecondition_title                      YÊU CẦU BÁN
+salecondition_cannotsell                Bạn không thể bán nhà tù hoặc giao dịch cổ phần cho đến khi đáp ứng các điều kiện bên dưới.
+salecondition_minimumvalue              Giá trị tối thiểu đạt $50,000
+salecondition_cashflow                  Dòng tiền dương
+salecondition_accountant                Có kế toán tại trại
+salecondition_minprisoners              Có ít nhất 20 tù nhân
+salecondition_recentdeaths              Không có ca tử vong gần đây
+salecondition_recentescapes            Không có vụ vượt ngục gần đây
+salecondition_passed                    [ĐẠT] 
+salecondition_failed                    [THẤT BẠI] 
+
+policy_title                             SỰ CỐ
+policy_search                            - KHÁM XÉT -
+policy_prisoner                          HẮN
+policy_prisoner_f                        Ả
+policy_cell                              PHÒNG GIAM
+policy_security							AN NINH
+policy_punishment                        TRỪNG PHẠT
+policy_quantity                          THỜI GIAN
+policy_punishmenttime                    *X giờ
+policy_mealcost                          $*X / ngày
+policy_totalmealcost                    (TỔNG: $*X / ngày)
+policy_cell_quality						Sử dụng xếp hạng chất lượng phòng giam
+policy_cell_quality_tooltip_title		Sử dụng chất lượng phòng giam
+policy_cell_quality_tooltip				Nếu bật, tù nhân sẽ chỉ được xếp vào phòng giam có chất lượng xứng đáng dựa trên hành vi của họ. Tù nhân có hành vi xấu sẽ không bao giờ được xếp vào phòng giam chất lượng cao, ngay cả khi không còn phòng nào khác.\nNếu tắt, tù nhân sẽ được xếp vào bất kỳ phòng giam nào bất kể chất lượng, nhưng những tù nhân ở phòng giam dưới mức chất lượng trung bình sẽ có tâm lý oán hận hơn. Tù nhân vẫn sẽ được nâng cấp lên phòng giam chất lượng cao hơn nếu họ chấp hành tốt.
+policy_staffbreak_length                Thời gian nghỉ giải lao của nhân viên: *P phút
+policy_staffbreak_num                    Số lần nghỉ giải lao của nhân viên: *P
+policy_staffbreakmax					Tỷ lệ nhân viên nghỉ giải lao tối đa: *P%
+policy_staffbreakmax_title				Nhân viên nghỉ giải lao tối đa
+policy_staffbreakmax_info				Tỷ lệ phần trăm nhân viên tối đa được phép nghỉ giải lao cùng một lúc. Đặt mức này thấp để buộc nhân viên của bạn làm việc chăm chỉ hơn và lâu hơn mà không được nghỉ giải lao. Đặt mức này cao để cho phép cai ngục nghỉ giải lao bất cứ khi nào họ muốn.
+reports_staffpaytitle					Lương nhân viên
+reports_payup							Tăng 10% lương
+reports_paydown							Giảm 10% lương
+reports_payrisepercent					Tổng mức tăng lương: *X%
+reports_perday							Mỗi ngày
+
+job_construct                            Xây dựng *X
+job_installobject                        Lắp đặt *X
+job_installobjectinroom                  Lắp đặt *X tại *Y
+job_moveobject                          Di chuyển *X
+job_moveobjecttoroom                    Di chuyển *X đến *Y
+job_loadobjectinto                      Xếp *X vào *Y
+job_storeobject                          Lưu trữ *X tại *Y
+job_dismantleobject                      Tháo dỡ *X
+job_dumpobject                          Vứt bỏ *X
+job_repairobject                        Sửa chữa *X
+job_operateequipment                    Vận hành *X
+job_escortprisoner                      Áp giải tù nhân đến *X
+job_punishprisoner                      Xử lý tù nhân
+job_searchobject                        Khám xét *X 
+job_searchentity                        Khám xét tù nhân
+job_searchingentity						Đang khám xét tù nhân
+job_searchcell                          Khám xét phòng giam
+job_searchcellblock                      Khám xét dãy phòng giam
+job_searchtoilets                        Khám xét bồn cầu
+job_improvecellindoor                    Dọn dẹp khu vực trong nhà
+job_improvecelloutdoor                    Làm vườn khu vực ngoài trời
+job_opendoor                            Mở cửa đang khóa
+job_giveuniform                          Phát đồng phục tù nhân
+job_failurecount                        Thất bại *X lần
+job_feedprisoner                        Cho tù nhân ăn
+job_healprisoner                        Chữa trị cho tù nhân
+job_delivermail                          Giao thư tín
+        
+finances_title                           Tài chính
+finances_income                          Thu nhập
+finances_expenses                        Chi phí
+finances_total                          Tổng cộng
+finances_profit                          Thu nhập ròng
+finances_timewithoutincident            (*X ngày)
+finances_dailyincome                    *X / ngày
+
+finances_category_federalgrant          Trợ cấp liên bang
+finances_category_minsecprisoners        Trợ cấp tù nhân an ninh thấp
+finances_category_medsecprisoners        Trợ cấp tù nhân an ninh vừa
+finances_category_maxsecprisoners        Trợ cấp tù nhân an ninh cao
+finances_category_prisoners              Trợ cấp tù nhân
+finances_category_workmen                Lương thợ xây
+finances_category_guards                Lương cai ngục
+finances_category_admin                  Lương nhân viên hành chính
+finances_category_staff                  Lương nhân viên
+finances_category_food                  Đồ ăn tù nhân
+finances_category_stafffood              Đồ ăn nhân viên
+finances_category_electricity            Điện năng
+finances_category_workshops              Xưởng lao động
+finances_category_upkeep				Phí duy trì
+finances_category_loaninterest          Lãi vay ngân hàng
+finances_category_reformprogs            Chương trình cải tạo
+finances_category_noincident            Số ngày không có sự cố
+finances_category_exports                Hàng xuất khẩu (hôm qua)
+finances_category_corptax                Thuế doanh nghiệp
+finances_category_prisonerwages          Lương tù nhân (hôm qua)
+finances_category_shoprevenue            Doanh thu căn tin (hôm qua)
+
+reports_foodtitle                        Chính sách ăn uống
+meal_quantity                            Số lượng bữa ăn
+meal_variety                            Độ đa dạng món ăn
+meal_cost                                Chi phí trên mỗi tù nhân
+
+reports_otherpolicytitle				Chính sách khác
+parole_title                            Tỷ lệ phóng thích tạm tha
+parole_desc                              Nếu tù nhân có tỷ lệ tái phạm thấp hơn giá trị này, họ sẽ được phóng thích khi kết thúc buổi điều trần tạm tha.
+parole_fine                              Tiền phạt tù nhân tái phạm
+parole_reward                            Khen thưởng phóng thích tù nhân sớm
+
+reports_staffbreaktitle                  Chính sách nghỉ giải lao của nhân viên
+
+victory_title                            CHỨNG NHẬN
+
+victory_PrisonValue                      Giá trị nhà tù
+victory_Income                          Lợi nhuận hằng ngày
+victory_Prisoners                        Sức chứa
+victory_PrisonersReleased                Tù nhân được phóng thích
+victory_prisonersdied                    Tử vong trong khi giam giữ
+victory_prisonersescaped                Tù nhân vượt ngục
+victory_Bankrupt                        Phá sản
+victory_Riot                            Bạo loạn\nMất kiểm soát
+victory_TooManyDeaths                    Sơ suất\nHình sự
+victory_TooManyEscapes                    Thảm họa\nAn ninh
+victory_failure                          THẤT BẠI
+victory_warning                          CẢNH BÁO
+victory_remaining                        Còn lại
+victory_death                            TỬ VONG
+victory_escapes                          VƯỢT NGỤC
+victory_counter                          (*X hôm nay)
+victory_executions                      Hành hình trái phép
+victory_innocentsexecuted                Hành hình tù nhân vô tội
+victory_staffdeaths						Nhân viên tử vong
+victory_staffpayrise                    Nhân viên bất mãn
+victory_staffstrike                      Nhân viên đình công
+
+victory_warning_bankrupt                Bạn có 24 giờ để ngăn chặn thảm họa tài chính.
+victory_warning_riot                    Hãy sớm dập tắt cuộc bạo loạn này, nếu không chính phủ sẽ buộc phải tiếp quản quyền kiểm soát.
+victory_warning_toomanydeaths            Bạn sẽ bị truy tố nếu có thêm quá nhiều ca tử vong xảy ra trong ngày hôm nay.
+victory_warning_toomanyescapes          Bạn sẽ bị sa thải nếu có thêm quá nhiều vụ vượt ngục xảy ra trong ngày hôm nay.
+victory_warning_executions				Bạn sẽ bị sa thải nếu thêm một tù nhân vô tội nữa bị hành hình.
+victory_warning_staffpayrise            Nhân viên của bạn sẽ đình công nếu lương của họ không được tăng.
+victory_warning_staffstrike              Nhân viên của bạn đang đình công!            
+victory_warning_staffonstrike            Nhân viên đã đình công - chúng ta đã mất khoảng 90% lực lượng cai ngục! Nếu không tăng lương cho họ trong vòng một ngày, rất nhiều người đang đe dọa sẽ nghỉ việc hoàn toàn.
+
+victory_prisoners_units                  Chỗ
+victory_prisonersreleased_units          Đã phóng thích
+victory_toomanydeaths_units              Ca tử vong
+victory_toomanyescapes_units            Vụ vượt ngục
+victory_executions_units				Lần hành hình người vô tội
+victory_staffpay_units                  Mức tăng đề xuất
+
+victory_prisonersparoled                Tù nhân được tạm tha
+victory_prisonersreoffended              Tù nhân tái phạm
+
+victory_adviserwarning_toomanydeaths1    Hôm qua là một chương tăm tối trong lịch sử của nhà tù này. Đã có quá nhiều người mất mạng tại đây.
+victory_adviserwarning_toomanydeaths2    Hãy đảm bảo không có ai khác tử vong trong hôm nay, nếu không bạn sẽ bị truy tố vì sơ suất hình sự.
+victory_advisernotice_toomanydeaths1     Đừng bảo là chúng tôi không cảnh báo bạn. Bạn đã bị tuyên án phạm tội sơ suất hình sự vì những sự kiện gần đây tại đây.
+victory_advisernotice_toomanydeaths2     Bây giờ bạn sẽ phải trải qua mười năm tới trong tù làm hình phạt cho tội lỗi của mình. Chính nhà tù của bạn đấy. Chúc may mắn.
+victory_adviserwarning_riot1             Nhà tù của bạn đang mất kiểm soát. Hãy dập tắt cuộc bạo loạn này ngay lập tức, nếu không chính phủ sẽ can thiệp và chiếm lại nhà tù bằng vũ lực.
+victory_advisernotice_riot1              Bạn đã thất bại trong việc kiểm soát cuộc bạo loạn này. Chính phủ đã hủy bỏ hợp đồng nhà tù của chúng ta và hiện đang cử lực lượng vệ binh quốc gia đến để chiếm lại nhà tù.
+victory_adviserwarning_toomanyescapes1  Chúng ta đang gặp một cuộc khủng hoảng truyền thông lớn tại đây. Đã có quá nhiều tù nhân vượt ngục gần đây, và đó là lỗi của bạn.
+victory_adviserwarning_toomanyescapes2  Hãy phong tỏa nơi này và đảm bảo không một ai có thể trốn thoát nữa, nếu không báo chí sẽ đòi lấy đầu bạn đấy.
+victory_advisernotice_toomanyescapes1   Bạn đã thất bại. Nhà tù này đang là trò cười cho giới truyền thông, và họ muốn tìm một ai đó để đổ lỗi.
+victory_advisernotice_toomanyescapes2   Người đó chính là bạn.  Bạn đã bị sa thải.
+victory_adviserwarning_bankrupt1         Chúng ta đã phá sản! Sự quản lý thảm hại của bạn đã dẫn chúng ta đến sự sụp đổ tài chính.
+victory_adviserwarning_bankrupt2         Hãy tìm cách khắc phục việc này sớm nếu không bạn sẽ bị sa thải.
+victory_advisernotice_bankrupt1         Chúng tôi không còn lựa chọn nào khác ngoài việc tuyên bố phá sản và giao nhà tù cho bên quản lý tài sản công quản lý. Bạn đã thất bại.
+victory_adviserwarning_wardendeaths1     Làm việc cho bạn đã trở nên quá nguy hiểm. Chúng tôi đang chật vật tìm kiếm giám đốc trại muốn làm việc tại nhà tù này.
+victory_adviserwarning_wardendeaths2     Nếu bạn để một giám đốc trại nữa tử vong, chúng tôi không còn lựa chọn nào khác ngoài việc sa thải bạn.
+victory_advisernotice_wardendeaths1     Bạn đã thất bại trong việc cung cấp một môi trường làm việc an toàn cho các giám đốc trại của mình. Mọi người đều sợ hãi khi làm việc cho bạn.
+victory_advisernotice_wardendeaths2     Chúng tôi không còn lựa chọn nào khác ngoài việc cho bạn thôi việc. Bạn đã bị sa thải.
+victory_adviserwarning_reoffenders1     Rất nhiều tù nhân được bạn đề xuất phóng thích sớm đã tiếp tục phạm tội mới. Việc này có thể khiến chúng ta phải trả giá đắt nếu không kiểm soát tình hình.
+victory_adviserwarning_reoffenders2     Nếu có thêm quá nhiều tù nhân tái phạm sau khi phóng thích, bạn sẽ là người phải chịu trách nhiệm.
+victory_advisernotice_reoffenders1      Bạn đã thả quá nhiều tội phạm nguy hiểm ra xã hội. Chúng tôi không còn lựa chọn nào khác ngoài việc cho bạn thôi việc. Bạn đã thất bại.
+victory_adviserwarning_executions1      Đây là lần thứ hai bạn tử hình một tù nhân vô tội. Làn sóng phẫn nộ trong công chúng là vô cùng lớn.
+victory_adviserwarning_executions2      Nếu một tù nhân vô tội nữa bị hành hình, bạn sẽ phải chịu hoàn toàn trách nhiệm.
+victory_advisernotice_executions1       Bạn đã để quá nhiều người vô tội bị hành hình. Chúng tôi không thể tiếp tục cho phép bạn điều hành nhà tù này nữa. Bạn đã thất bại.
+victory_advisernotice_InnocentsExecuted1 Bạn vừa mới hành hình một người mà không tuân theo đúng quy trình, và hóa ra họ lại vô tội. Đây là một sự bất công nghiêm trọng sai lầm của công lý, và bạn phải chịu trách nhiệm. Bạn đã bị sa thải, và có thể chính bạn sẽ phải vào tù.
+victory_adviserwarning_staffpayrise1     Nhân viên của chúng ta đã trở nên bất mãn với điều kiện làm việc trong nhà tù và đã đe dọa sẽ đình công nếu không được tăng 50% lương.
+victory_adviserwarning_staffstrike1     Nhân viên của chúng ta đã đình công! Họ vẫn sẽ sẵn sàng quay lại làm việc nếu nhận được mức tăng 50% lương.
+
+score_title                              XẾP HẠNG TRẠI
+score_reoffendingrate                    TỶ LỆ TÁI PHẠM
+score_prisonersreleased                  *X tù nhân đã được phóng thích
+score_minimumprisonersreleased          *X tù nhân phải được phóng thích trước khi báo cáo này có thể được lập
+score_deaths                             *X tù nhân đã tử vong trong khi giam giữ
+score_escapes                            *X tù nhân đã vượt ngục
+score_reoffendingchance                  Khả năng tái phạm ước tính
+score_startingreoffendingchance          Ưóc tính khi mới tiếp nhận : *X%
+score_prisonersparoled                  Được tạm tha sớm (Tái phạm)
+score_prisonersparoled_info              *P (*E%)
+score_clemencychance                    Khả năng được ân xá
+score_convictionstrength                Mức độ phán quyết được tiểu bang phê duyệt
+score_prisonersexecuted                  Tù nhân bị hành hình (Vô tội)
+score_prisonersexecuted_info            *E (*I)
+
+score_tooltip_punishment                Đây là mức xếp hạng đánh giá mức độ tù nhân bị trừng phạt vì tội lỗi của họ theo góc nhìn của công chúng. Chấp hành một bản án dài trong tù là nền tảng của một hình phạt nghiêm khắc, nhưng những khoảng thời gian khó khăn bị biệt giam một mình cũng sẽ được tính vào đó.\n\nHãy lưu ý rằng có quá nhiều thời gian cải tạo hoặc giờ tự do sẽ bị coi là 'nhẹ tay với tội phạm' và sẽ làm giảm điểm trừng phạt của họ.\n\nĐiểm trừng phạt cao sẽ răn đe tù nhân không tái phạm sau khi được phóng thích.
+score_tooltip_reform                    Mức xếp hạng đánh giá mức độ hiệu quả mà bạn đã cố gắng cải tạo và hoàn nhập xã hội cho tù nhân này thông qua việc sử dụng các chương trình cải tạo.\n\nĐiểm cải tạo cao sẽ mang lại cho tù nhân cơ hội tìm kiếm việc làm chân chính cao hơn nhiều sau khi được phóng thích, và do đó sẽ làm giảm khả năng tái phạm của họ.\n\nLưu ý: Việc sắp xếp tù nhân lao động xung quanh nhà tù cũng được tính vào điểm này.
+score_tooltip_health                    Hồ sơ ghi nhận về sức khỏe và thể trạng của tù nhân trong thời gian họ ở lại nhà tù của bạn. Vận động ngoài trời và thức ăn tốt sẽ được tính vào điểm này. Những chấn thương không được chữa trị, việc sử dụng ma túy và rượu bia đều sẽ làm giảm điểm số.\n\nĐiểm số kém ở đây sẽ làm tăng khả năng tái phạm của họ, đặc biệt nếu tù nhân rời trại giam với chứng nghiện ma túy hoặc rượu bia chưa được chữa trị.
+score_tooltip_security                  Mức xếp hạng thể hiện mức độ hiệu quả của bạn trong việc giam giữ an toàn tù nhân này. Việc giữ tù nhân bị khóa trong phòng giam dưới sự giám sát của cai ngục vũ trang sẽ đóng góp rất lớn vào điểm này. Bạn sẽ bị phạt điểm nếu tù nhân tham gia vào các cuộc ẩu đả, giết người hoặc cố gắng vượt ngục.\n\nĐiểm số thấp biểu thị rằng tù nhân đơn giản là vẫn tiếp tục lối sống tội phạm của họ ngay khi ở trong nhà tù của bạn, và do đó khả năng tái phạm của họ sẽ ở mức cao sau khi rời đi.
+
+score_tooltip_reoffendingchance          Ước tính khả năng tái phạm của tù nhân sau khi rời khỏi tù. Nhiều yếu tố được tính đến để đưa ra giá trị này:\n\n- GIẢM: Trừng phạt nghiêm khắc/mạnh tay\n- GIẢM: Các chương trình cải tạo thành công\n- TĂNG: Sức khỏe và an ninh kém\n- TĂNG: Tình trạng nghiện ma túy và rượu bia không được chữa trị\n- TĂNG: Tham gia băng đảng\n\n\n- Tuổi của tù nhân là một yếu tố lớn.\n- Số lần tiền án tiền sự trước đây là một chỉ số rõ rệt.\n- Một gia đình lớn luôn ủng hộ có thể giúp ích.
+score_tooltip_clemencychance_title      Khả năng được ân xá
+score_tooltip_clemencychance            Khả năng Hội đồng Kháng án sẽ chấp thuận ân xá và giảm án tử hình cho tử tù. Mỗi lần kháng án không thành công sẽ làm giảm giá trị này cho đến khi nó xuống dưới Mức độ phán quyết được tiểu bang phê duyệt, tại thời điểm đó lệnh phê duyệt hoàn toàn để tiến hành hành hình sẽ được đưa ra. Việc lên lịch hành hình trước thời điểm này sẽ dẫn đến các hình phạt cực kỳ nghiêm khắc nếu sau đó phát hiện ra rằng đơn kháng án của tù nhân đáng lẽ đã thành công.\n\nNếu được ân xá, tù nhân sẽ được phóng thích ngay lập tức (nếu được tuyên vô tội), hoặc chuyển sang chế độ An ninh cao (nếu vẫn bị phán quyết là có tội).
+score_tooltip_currentchance              Mức độ phán quyết được tiểu bang phê duyệt là *X%
+score_tooltip_clemencywarning            Khả năng tù nhân này được ân xá hiện đang ở trên mức an toàn được Tiểu bang phê duyệt. Nếu bạn vẫn tiến hành cuộc hành hình này, bạn sẽ phải chịu trách nhiệm cá nhân nếu sau đó phát hiện ra đáng lẽ hắn đã được ban lệnh ân xá. 
+
+experiencefactor_FractionalLockedUp      *X% thời gian chấp hành án bị giam giữ
+experiencefactor_FractionalReform        *X% thời gian chấp hành án tham gia chương trình cải tạo
+experiencefactor_fractionalWorking       *X% thời gian chấp hành án làm việc
+experiencefactor_fractionalsuppressed   *X% thời gian chấp hành án bị trấn áp
+experiencefactor_fractionalinjured      *X% thời gian chấp hành án mang chấn thương không chữa trị
+experiencefactor_fractionalintoxicated  *X% thời gian chấp hành án trong trạng thái say sưa (ma túy/rượu bia/vật vã cai nghiện)
+experiencefactor_fractionalmisbehaving  *X% thời gian chấp hành án có hành vi sai phạm
+experiencefactor_fractionalarmedguard   *X% thời gian chấp hành án dưới sự giám sát của cai ngục vũ trang hoặc bị trấn áp
+experiencefactor_fractionalwellfed      *X% thời gian chấp hành án được no bụng
+experiencefactor_fractionalexercising   *X% thời gian chấp hành án vận động thể chất
+experiencefactor_fractionalfreetime     *X% thời gian chấp hành án trong giờ tự do
+
+experiencefactor_passedeasyprograms             Đã vượt qua *X chương trình dễ
+experiencefactor_passedintermediateprograms     Đã vượt qua *X chương trình trung cấp
+experiencefactor_passedadvancedprograms         Đã vượt qua *X chương trình nâng cao
+experiencefactor_passedexpertprograms           Đã vượt qua *X chương trình chuyên gia
+
+experiencefactor_YearsServed            Đã chấp hành án *X năm
+experiencefactor_fights                  Liên quan đến các vụ bạo lực
+experiencefactor_murders                  Đã phạm tội giết người *X lần trong nhà tù của bạn
+experiencefactor_escapeattempts          Đã cố gắng vượt ngục *X lần
+experiencefactor_addictions              Có *X chứng nghiện đang diễn ra
+experiencefactor_gangmembership          Thành viên băng đảng
+
+legend_key                               Chú giải:
+
+needs_graphscale_title                  Tù nhân:
+needs_graphscale_title_staff            Nhân viên:
+needs_key_critical                      Nguy kịch
+needs_key_high                          Cao
+needs_key_med                            Vừa
+needs_key_satisfied                      Thỏa mãn
+needs_key_active                        Đang diễn ra
+
+needs_show_category                      Phân loại tù nhân
+needs_show_category_staff                Phân loại nhân viên
+needs_show_category_all                  Tất cả tù nhân
+
+contraband_supplyanddemand              Cung và cầu
+contraband_narcotics                    Ma túy
+contraband_weapons                      Vũ khí
+contraband_tools                        Công cụ
+contraband_luxuries                      Xa xỉ phẩm
+contraband_metal                        Kim loại
+contraband_smelly                        Có mùi
+contraband_rangedweapon                  Vũ khí tầm xa
+contraband_improvised                    Chế thủ công
+
+contraband_key_supply                    Cung
+contraband_key_demand                    Cầu
+contraband_log_stolen                    BỊ TRỘM
+contraband_log_position                  VỊ TRÍ
+contraband_log_smuggled                  BUÔN LẬU
+contraband_log_traded                    GIAO DỊCH
+contraband_log_thrown                    BỊ NÉM VÀO
+contraband_log_hidden                    BỊ GIẤU
+contraband_log_detected                  BỊ PHÁT HIỆN
+contraband_log_dog                      CHÓ NGHIỆP VỤ
+contraband_log_found                    TÌM THẤY
+contraband_log_owner                    CHỦ SỞ HỮU
+contraband_log_arranged                  Được sắp xếp *X giờ trước
+
+gangs_guards                            CAI NGỤC *X
+gangs_soldiers                          BINH LÍNH *X / TỐI ĐA *Y
+gangs_evict                              TRỤC XUẤT
+gangs_status                            *X Thành viên . *Y Số ca giết . $*Z
+
+schedule_zone_shared                    Khu dùng chung
+schedule_zone_minseconly                An ninh thấp
+schedule_zone_medseconly                An ninh vừa
+schedule_zone_maxseconly                An ninh cao
+schedule_zone_protectedonly              Giam bảo hộ
+schedule_zone_supermaxonly              SuperMax
+schedule_zone_deathrowonly              Tử tù
+schedule_zone_staffonly                  Khu riêng nhân viên
+schedule_zone_unlocked                  Khu mở khóa
+schedule_zone_custom					Tùy chỉnh
+
+
+
+# =============================================================================
+# Needs / Actions / Bio etc
+# =============================================================================
+
+action_poo                               Đi đại tiện
+action_wee                               Đi tiểu
+action_wash                              Đang tắm
+action_relax                            Đang thư giãn
+action_sleep                            Đang ngủ
+action_nap                              Đang chợp mắt
+action_getmeal                          Đang lấy đồ ăn
+action_sit                              Đang ngồi
+action_exercise                          Đang vận động
+action_liftweights                      Đang tập tạ
+action_phonehome                        Đang gọi điện cho gia đình
+action_watchtv                          Đang xem tivi
+action_playpool                          Đang chơi bi-a
+action_stealknife                        Hành tung khả nghi
+action_stealspoon                        Hành tung khả nghi
+action_urinate                          Đang đi tiểu
+action_soilsuit                          Làm bẩn quần áo
+action_eat                              Đang ăn
+action_complain                          Đang phàn nàn
+action_work                              Đang làm việc
+action_visitation                        Đang thăm nuôi
+action_parole                            Điều trần tạm tha
+action_none                              Không có
+action_misbehaving                      Đang sai phạm
+action_escaping                          Đang vượt ngục
+action_destroying                        Đang phá hoại
+action_spoiling                          Đang làm hỏng
+action_fighting                          Đang ẩu đả
+action_rioting                          Đang bạo loạn
+action_hostagetaking                    Đang bắt con tin
+action_reformprogram                    Học cải tạo
+action_changeclothes                    Đang thay quần áo
+action_getbook                          Đi lấy sách
+action_pray                              Đang cầu nguyện
+action_shopping                          Đang mua sắm
+action_playinggame                      Đang chơi game
+action_usecomputer                      Sử dụng máy tính
+
+action_foodpoisoning_1                  Ôi trời ơi làm ơn dừng lại đi
+action_foodpoisoning_2                  Mọi thứ đang tuôn ra hết rồi
+action_foodpoisoning_3                  Nôn mửa khắp nơi
+action_foodpoisoning_4                  Tại sao chuyện này lại xảy ra chứ
+action_foodpoisoning_5                  Sắp chết mất rồi
+
+status_effect_title						=[Trạng thái hiệu ứng]=
+status_effect_none						Không có
+status_effect_suppressed				Bị trấn áp
+status_effect_goodfood					No bụng
+status_effect_drunk						Say rượu
+status_effect_high                      Phê thuốc
+status_effect_withdrawal                Vật vã cai nghiện
+status_effect_tazed                      Bị bắn điện
+status_effect_overdosed                  Sốc thuốc
+status_effect_surrendered                Đầu hàng
+status_effect_calming                    Đang bình tĩnh lại
+status_effect_angst                      Giận dữ
+status_effect_wounded                    Chảy máu
+status_effect_virus                      Nhiễm bệnh
+status_effect_virusdeadly                Nhiễm bệnh
+status_effect_overheating                Say nắng
+status_effect_exposure                  Nhiễm lạnh
+status_effect_foodpoisoning              Ngộ độc
+status_effect_riledup                    Bị kích động
+status_effect_statusswimming            Đang bơi
+status_effect_statusdrowning            Đang đuối nước
+
+condition_treated                        Đã điều trị
+condition_needstreating                  Cần điều trị
+
+experience_totaltime                    Tổng thời gian
+experience_misconduct                    Vi phạm
+experience_lockeddown                    Lockdown
+experience_regime                        Lịch sinh hoạt
+experience_sleep                        Ngủ nghỉ
+experience_work                          Lao động
+experience_class                        Lớp học
+experience_freetime                      Giờ tự do
+experience_moodbad                      Tồi tệ
+experience_moodnormal                    Bình thường
+experience_moodgood                      Tốt
+experience_nocondition                  Không có
+experience_kod                          Bị hạ gục
+experience_hurt                          Bị thương
+experience_suppressed                    Bị trấn áp
+experience_intoxicated                  Say sưa
+experience_wellfed                      No bụng
+experience_exercise                      Vận động
+
+need_name_nothing                        Không có gì
+need_name_bladder                        Đi tiểu
+need_name_bowels                        Đi đại tiện
+need_name_sleep                          Ngủ nghỉ
+need_name_food                          Ăn uống
+need_name_safety                        An toàn
+need_name_hygiene                        Vệ sinh
+need_name_exercise                      Vận động
+need_name_family                        Gia đình
+need_name_recreation                    Giải trí
+need_name_comfort                        Tiện nghi
+need_name_environment                    Môi trường
+need_name_privacy                        Riêng tư
+need_name_freedom                        Tự do
+need_name_clothing                        Quần áo
+need_name_drugs                          Ma túy
+need_name_alcohol                        Rượu bia
+need_name_starving                      Chết đói
+need_name_spirituality                  Tâm linh
+need_name_literacy                      Đọc sách
+need_name_babysleep                      [Em bé] Ngủ nghỉ
+need_name_babyplay                      [Em bé] Vui chơi
+need_name_warmth                        Sưởi ấm
+need_name_staffbladder                  Đi tiểu
+need_name_staffbowels                    Đi đại tiện
+need_name_stafffood                      Ăn uống 
+need_name_staffsafety                    An toàn
+need_name_staffrecreation                Giải trí
+need_name_staffcomfort                  Tiện nghi
+need_name_staffenvironment              Môi trường
+need_name_staffrest                      Nghỉ ngơi
+need_name_staffwarmth                    Sưởi ấm
+need_name_luxuries                      Xa xỉ phẩm
+needs_locked                            (Yêu cầu Nhà tâm lý để hiển thị Nhu cầu)
+needs_title                              =[Nhu cầu]=
+
+needs_total_prisoners                    *X Tù nhân có nhu cầu này
+needs_total_concerned                    *X Tù nhân đang bận tâm về nhu cầu này
+needs_total_desperate                    *X Tù nhân đang rất khao khát được thỏa mãn nhu cầu này
+needs_total_angry                        *X Tù nhân đang giận dữ vì họ không thể đáp ứng nhu cầu này
+needs_total_active                        *X Tù nhân hiện đang phải đối phó với nhu cầu này
+
+needs_total_staff                        *X Nhân viên có nhu cầu này
+needs_total_concerned_staff              *X Nhân viên đang bận tâm về nhu cầu này
+needs_total_desperate_staff              *X Nhân viên đang rất khao khát được thỏa mãn nhu cầu này
+needs_total_angry_staff                  *X Nhân viên đang giận dữ vì họ không thể đáp ứng nhu cầu này
+needs_total_active_staff                  *X Nhân viên hiện đang phải đối phó với nhu cầu này
+
+needs_help_bladder                      Ai cũng cần phải đi vệ sinh, ngay cả tù nhân. Đừng quên rằng hầu hết các phần trong Lịch sinh hoạt nhà tù của bạn đều khá nghiêm ngặt - ví dụ, họ không thể sử dụng bồn cầu trong phòng giam nếu họ được yêu cầu phải ở trong phòng tắm.
+needs_help_bowels                       Ai cũng cần phải đi vệ sinh, ngay cả tù nhân. Đừng quên rằng hầu hết các phần trong Lịch sinh hoạt nhà tù của bạn đều khá nghiêm ngặt - ví dụ, họ không thể sử dụng bồn cầu trong phòng giam nếu họ được yêu cầu phải ở trong phòng tắm.
+needs_help_sleep                         Tù nhân cần phải ngủ. Tù nhân sẽ chỉ có thể ngủ trong phòng giam mà họ được chỉ định, và sẽ chỉ ngủ trong khoảng từ 8 giờ tối đến 8 giờ sáng. Rõ ràng là họ cũng sẽ cần một chiếc giường nữa.
+needs_help_food                         Ai cũng cần phải ăn, và hầu hết mọi người cần ăn nhiều hơn một lần mỗi ngày. Nếu bạn thấy Nhà bếp của mình không đáp ứng được nhu cầu, hãy thử thuê thêm Đầu bếp hoặc thêm nhiều Bếp nấu vào Nhà bếp. Bạn cũng có thể tinh chỉnh chính sách ăn uống của mình trong tab Chính sách của cửa sổ Báo cáo.
+needs_help_safety                       Ngay cả ở trong tù, Tù nhân của bạn vẫn muốn cảm thấy an toàn. Nếu có nhiều cuộc ẩu đả trong nhà tù của bạn hoặc mức độ nguy hiểm chung ở mức cao, tù nhân sẽ cảm thấy kém an toàn hơn và có thể cân nhắc việc tự vũ trang. Nếu điều này trở thành một vấn đề đáng ngại, hãy thử tăng cường an ninh trên khắp nhà tù bằng cách thuê thêm Cai ngục, thiết lập thêm các tuyến tuần tra hoặc chú ý đến các nhu cầu khác của Tù nhân.
+needs_help_hygiene                      Hầu hết Tù nhân sẽ muốn tắm rửa thường xuyên, đặc biệt là vào buổi sáng sau khi thức dậy. Lịch sinh hoạt Tắm sẽ buộc những tù nhân không có Vòi sen cá nhân riêng phải đi đến Phòng tắm gần nhất. Nếu điều này trở thành vấn đề, hãy cân nhắc mở rộng cơ sở hạ tầng Phòng tắm của bạn hoặc thêm nhiều Giờ tự do hơn để Tù nhân có thể tắm rửa khi họ cần.
+needs_help_exercise                     Nhiều tù nhân sẽ muốn giữ gìn vóc dáng. Bạn có thể giúp họ làm điều đó bằng cách thêm một Sân tù vào nhà tù của mình. Ghế tập tạ và các thiết bị tập thể dục tương tự, đặt ở Sân tù hoặc các khu vực dùng chung khác, cũng sẽ giúp ích cho việc này.
+needs_help_recreation                   Một Tù nhân buồn chán là một Tù nhân nguy hiểm. Bạn có thể đáp ứng nhu cầu Giải trí của Tù nhân bằng cách thêm các hình thức giải trí vào khu vực dùng chung của nhà tù, chẳng hạn như Tivi hoặc Radio và cho phép dành thời gian trong lịch sinh hoạt để sử dụng chúng.
+needs_help_comfort                      Tù nhân nhìn chung muốn cảm thấy thoải mái, cả về thể chất lẫn tinh thần. Có nhiều cách bạn có thể hỗ trợ điều này, chẳng hạn như cho tù nhân các phương thức để thư giãn, dù đó là tăng giờ tự do của họ và cung cấp các vật phẩm giải trí hoặc chỉ đơn giản là đảm bảo họ có nơi nào đó để ngồi và nghỉ ngơi.
+needs_help_environment                  Tù nhân ghét sống trong điều kiện bẩn thỉu, và khi có rất nhiều Tù nhân sử dụng cùng một cơ sở hạ tầng, mọi thứ có thể trở nên bừa bộn khá nhanh chóng. Hãy thuê vài Lao công hoặc sắp xếp Tù nhân lao động tại Tủ vệ sinh để giải quyết triệt để vấn đề này.
+needs_help_privacy                      Đôi khi Tù nhân sẽ muốn có chút thời gian cho riêng mình. Dành thời gian trong phòng giam thường sẽ đáp ứng được điều này, nhưng nếu họ đang sống trong một Phòng giam tập thể với rất nhiều tù nhân khác, họ có thể sẽ không tìm thấy nhiều sự Riêng tư ở đó.
+needs_help_freedom                      Ngay cả ở trong tù, Tù nhân của bạn vẫn muốn cảm thấy như thể họ có một mức độ Tự do nhất định. Bạn có thể tạo điều kiện cho điều này bằng cách thêm một số Giờ tự do hoặc giờ Ra sân vào Lịch sinh hoạt. Tù nhân cũng sẽ thỏa mãn nhu cầu này thông qua các phương tiện chuyên biệt hơn, như tham gia các công việc Ruộng ngũ cốc, Phòng đấu võ hoặc Phòng chiếu phim.
+needs_help_clothing                     Tù nhân sẽ muốn có quần áo sạch theo thời gian, ngay cả khi nó chỉ là bộ quần áo liền quần cùng màu. Việc thêm một Phòng giặt vào nhà tù của bạn và thuê Lao công hoặc sắp xếp Tù nhân lao động trong đó sẽ giúp biến ước mơ này thành hiện thực.
+needs_help_drugs                        Nhiều tù nhân gặp vấn đề với chứng nghiện ma túy - đó thậm chí có thể là lý do ngay từ đầu khiến họ phải vào tù. Bạn có thể giúp điều trị vấn đề này bằng cách vận hành chương trình cai nghiện ma túy tại Trạm y tế của mình.
+needs_help_alcohol                      Nhiều tù nhân phải vật lộn với chứng nghiện rượu và sẽ làm mọi cách để chạm tay vào một ít rượu bia. Bạn có thể cố gắng giúp giảm bớt điều này bằng cách vận hành các buổi Trị liệu nhóm cai rượu.
+needs_help_spirituality                 Rất nhiều tù nhân có các niềm tin tôn giáo khác nhau. Bạn có thể tạo điều kiện cho tù nhân thực hành các niềm tin này bằng cách thêm Ghế nhà nguyện hoặc Thảm cầu nguyện vào nhà tù, nhưng việc xây dựng một Nhà nguyện và vận hành các chương trình Hướng dẫn tâm linh sẽ mang lại kết quả tốt nhất và nhìn chung cũng giúp làm dịu tù nhân của bạn.
+needs_help_literacy                     Một số tù nhân chỉ muốn đọc sách. Thêm một Thư viện sẽ cho phép những Tù nhân đó mượn sách để đáp ứng nhu cầu này. Đặt một Kệ sách trong khu vực sinh hoạt của tù nhân cũng sẽ giúp kiểm soát nhu cầu Đọc sách của họ.
+needs_help_warmth                       Không ai muốn bị lạnh suốt ngày cả, nhưng tự nhiên thì không thực sự bận tâm đến điều đó. Thêm máy sưởi vào nhà tù của bạn sẽ giữ cho các tòa nhà đủ ấm để ngăn chặn điều này trở thành một vấn đề đáng ngại. 
+needs_help_babysleep                     Em bé cần ngủ nhiều hơn tù nhân thông thường. Nếu bất kỳ Tù nhân nào của bạn có Em bé, hãy đảm bảo bạn có sẵn Nôi để Em bé có thể ngủ khi cần thiết.
+needs_help_babyplay                     Em bé cần sự tương tác và giải trí. Nếu bất kỳ Tù nhân nào của bạn có Em bé, hãy đảm bảo bạn có sẵn Thảm chơi ở khu vực dễ tiếp cận.
+needs_help_family                       Hầu hết Tù nhân đều muốn giữ liên lạc với gia đình của họ bằng cách này hay cách khác. Cách dễ nhất để cho phép họ làm điều đó là thêm Buồng điện thoại vào nhà tù, mặc dù việc thêm một cơ sở hạ tầng Phòng thăm nuôi vào nhà tù của bạn sẽ hiệu quả hơn nhiều. Một Phòng thư tín cũng có thể giúp ích cho nhu cầu này, cùng với Chim cảnh và Buồng gọi video.
+needs_help_luxuries                     Nhiều Tù nhân thích tận hưởng một chút xa xỉ theo thời gian. Bạn có thể giúp họ đáp ứng nhu cầu này bằng cách xây dựng một Căn tin trong nhà tù và kiếm thêm một ít tiền trong quá trình này, hoặc cung cấp cho họ một chú Chim cảnh thay thế. Những tù nhân đáp ứng được nhu cầu này sẽ ít có khả năng gây rắc rối hơn, nhưng việc phớt lờ nó cũng không có điểm bất lợi nào; suy cho cùng, đây LÀ nhà tù mà.
+
+needs_help_staffbladder                 Ngay cả Nhân viên của bạn cũng sẽ cần sử dụng nhà vệ sinh đôi khi. Họ sẽ làm như vậy bất cứ khi nào họ đang trong giờ nghỉ giải lao.
+needs_help_staffbowels                  Ngay cả Nhân viên của bạn cũng sẽ cần sử dụng nhà vệ sinh đôi khi. Họ sẽ làm như vậy bất cứ khi nào họ đang trong giờ nghỉ giải lao.
+needs_help_stafffood                    Nhân viên cần phải ăn, và họ sẽ ăn trong Nhà ăn dành riêng cho nhân viên hoặc Phòng nghỉ nhân viên. Đồ ăn sẽ được giao đến cho nhân viên của bạn để họ không phải ăn cùng loại thức ăn tồi tàn như tù nhân.
+needs_help_staffsafety                  Ngay cả khi làm việc trong nhà tù, nhân viên của bạn vẫn có quyền được an toàn. Mức độ nguy hiểm cao hoặc các cuộc ẩu đả liên tục sẽ khiến nhân viên cảm thấy không an toàn, mặc dù điều này có thể phần nào được khắc phục bằng cách trang bị tốt hơn cho cai ngục.
+needs_help_staffrecreation              Nhân viên của bạn dành nhiều thời gian trong nhà tù và sẽ cần một số hình thức giải trí theo thời gian. Tivi hoặc một chiếc Radio trong Phòng nghỉ nhân viên là một cách để cung cấp điều này.
+needs_help_staffcomfort                 Hầu hết nhân viên của bạn dành cả ngày để đứng; đôi khi họ sẽ muốn thư giãn. Cho họ một nơi tốt để ngồi khi họ đang trong giờ nghỉ giải lao là một cách hay để giảm bớt điều này.
+needs_help_staffenvironment             Nhân viên không muốn làm việc trong một nhà tù bừa bộn cũng như tù nhân không muốn sống ở đó vậy. Giữ cho nhà tù sạch sẽ sẽ ngăn chặn điều này trở thành một vấn đề.
+needs_help_staffrest                    Nhân viên cần phải nghỉ giải lao trong ngày và phục hồi năng lượng. Họ thích nghỉ ngơi trong phòng nghỉ nhân viên riêng tư với một số ghế sofa thoải mái.
+needs_help_staffwarmth                  Nhân viên cần được giữ ấm, hãy thêm máy sưởi vào nhà tù để giúp họ thoải mái hơn.
+
+reputation_title                        Tiếng tăm
+reputation_hidden                        (Tiếng tăm chưa rõ)
+reputation_hidden_short                  ???
+
+reputation_legendary                    --HUYỀN THOẠI--
+reputation_strong                        Khỏe mạnh
+reputation_tough                        Lì đòn
+reputation_volatile                      Nóng nảy
+reputation_snitch                        Chỉ điểm
+reputation_deadly                        Sát thủ
+reputation_stoical                      Lạnh lùng
+reputation_fearless                      Gan lì
+reputation_exlaw                        Cựu công lực
+reputation_copkiller                    Kẻ giết cảnh sát
+reputation_quick                        Nhanh nhẹn
+reputation_instigator                    Kẻ kích động
+reputation_fighter                      Cao thủ
+reputation_gangmember                    Thành viên băng đảng
+reputation_federalwitness                Nhân chứng liên bang
+reputation_preacher                      Nhà truyền giáo
+reputation_connected                    Nhiều quan hệ
+reputation_workaholic                    Cày cuốc
+reputation_clean                        Sạch sẽ
+reputation_pickpocket                    Kẻ móc túi
+reputation_copycat                      Kẻ trộm danh tính
+reputation_dangerous                    Nguy hiểm
+reputation_escapeartist                  Bậc thầy vượt ngục
+
+reputation_strong_high                  Cực kỳ khỏe mạnh
+reputation_tough_high                    Cực kỳ lì đòn
+reputation_volatile_high                Cực kỳ nóng nảy
+reputation_deadly_high                  Cực kỳ sát thủ
+reputation_exlaw_high                    Cựu cai ngục
+reputation_quick_high                    Cực kỳ nhanh nhẹn
+reputation_fighter_high                  Đại cao thủ
+reputation_connected_high                Quan hệ cực rộng
+reputation_dangerous_high                Cực kỳ nguy hiểm
+
+reputation_legendary_high                --HUYỀN THOẠI--
+reputation_snitch_high                  Chỉ điểm
+reputation_stoical_high                  Lạnh lùng
+reputation_fearless_high                  Gan lì
+reputation_copkiller_high                Kẻ giết cảnh sát
+reputation_instigator_high                Kẻ kích động
+reputation_gangmember_high              Thành viên băng đảng
+reputation_federalwitness_high			Nhân chứng liên bang
+reputation_preacher_high                Nhà truyền giáo
+reputation_workaholic_high              Cày cuốc
+reputation_clean_high                    Sạch sẽ
+reputation_pickpocket_high              Kẻ móc túi
+reputation_copycat_high                  Kẻ trộm danh tính
+reputation_escapeartist_high            Bậc thầy vượt ngục
+reputation_swimmer						Bơi giỏi
+
+reputationtooltip_legendary              Tù nhân này là một huyền thoại của thế giới ngầm tội phạm, và sở hữu vô số kỹ năng cũng như năng lực khiến họ trở nên rất nguy hiểm.
+reputationtooltip_strong                Tù nhân này tung cú đấm mạnh hơn với mỗi đòn ra tay trong các cuộc ẩu đả.
+reputationtooltip_tough                  Tù nhân này có thể chịu đựng hình phạt nhiều hơn đáng kể trong một cuộc chiến. Đôi khi họ cũng có thể chịu được việc bị bắn bằng Súng điện.
+reputationtooltip_volatile              Tù nhân này có xu hướng gây rối bất thình lình mà không cần cảnh báo và chẳng vì lý do gì.
+reputationtooltip_stoical                Tù nhân này sẽ không bị trấn áp khi bị nhốt trong phòng Biệt giam. Họ thực sự không quan tâm.
+reputationtooltip_snitch                Tù nhân này là một chỉ điểm viên đã bị lộ danh tính, và do đó tính mạng của họ có thể gặp nguy hiểm. Đừng để họ ở một mình với các tù nhân khác quá lâu.
+reputationtooltip_deadly                Tù nhân này là bậc thầy trong các chiêu thức cận chiến chí mạng, và đôi khi có thể giết chết đối thủ chỉ bằng một đòn duy nhất.
+reputationtooltip_exlaw                  Tù nhân này từng là một Cảnh sát viên, hoặc làm công việc thuộc lực lượng thực thi pháp luật khác. Tính mạng của họ có thể gặp nguy hiểm.
+reputationtooltip_copkiller              Tù nhân này phạm tội sát hại một Cảnh sát viên. Cai ngục của bạn có thể sẽ không tự kiềm chế được bản thân khi khống chế hắn.
+reputationtooltip_fearless              Tù nhân này không bị lấn át bởi sự xuất hiện của Cai ngục vũ trang, và ít có khả năng đầu hàng trong một cuộc ẩu đả.
+reputationtooltip_quick                  Tù nhân này là một người chạy nhanh đến bất thường.
+reputationtooltip_instigator            Tù nhân này gieo rắc mầm mống bất mãn cho tất cả những người xung quanh. Khi hắn gây rắc rối, các tù nhân lân cận sẽ cảm thấy bị thôi thúc làm điều tương tự.
+reputationtooltip_fighter                Tù nhân này có kỹ năng trong các chiêu thức chiến đấu phòng thủ. Họ có thể tước vũ khí của đối thủ, hoặc thậm chí giật lấy vũ khí từ tay đối phương trong một trận chiến.
+reputationtooltip_gangmember            Tù nhân này thuộc về một băng đảng. Họ sẽ bảo vệ các thành viên cùng băng đảng của mình và nuôi lòng căm thù đối với các băng đảng đối địch.
+reputationtooltip_federalwitness        Tù nhân này là nhân chứng trong một vụ án pháp lý quan trọng, và do đó đã trở thành mục tiêu bị thủ tiêu bởi một băng đảng hoặc trùm tội phạm.
+reputationtooltip_preacher              Tù nhân này cực kỳ có sức hút và có khả năng cảm hóa người khác theo tôn giáo của mình, khiến họ phát sinh nhu cầu Tâm linh.
+reputationtooltip_connected              Tù nhân này có các mối quan hệ ở khắp mọi nơi, cả trong lẫn ngoài nhà tù. Họ có thể tuồn hàng cấm vào một cách thần kỳ như thể từ trên trời rơi xuống.
+reputationtooltip_workaholic            Tù nhân này bị thôi thúc phải lao động, và một khi đã bắt đầu sẽ không dừng lại cho đến khi không còn việc gì để làm, phớt lờ lịch sinh hoạt và thậm chí cả các nhu cầu cơ bản của bản thân.
+reputationtooltip_clean                  Tù nhân này bị ám ảnh bởi sự sạch sẽ; kết quả là, nhu cầu vệ sinh của họ sẽ tăng lên với tốc độ cao hơn nhiều.
+reputationtooltip_pickpocket            Tù nhân này có ngón tay nhanh nhẹn, và sẽ thường xuyên cố gắng móc túi bất kỳ ai không may ở gần bên.
+reputationtooltip_copycat                Tù nhân này có khả năng sao chép hành vi và hành động của các tù nhân xung quanh, nhân bản luôn cả tiếng tăm của họ.
+reputationtooltip_dangerous              Tù nhân này gây tổn hại cho những người khác ở gần bên. Bằng cách nào? Tại sao? Ai mà biết được.
+reputationtooltip_escapeartist          Tù nhân này là một bậc thầy vượt ngục chuyên nghiệp, và trốn thoát khỏi mọi thứ chỉ để giải trí. Hắn liên tục tìm cách thó chìa khóa giam rồi sau đó vượt ngục.
+reputationtooltip_swimmer				Tù nhân này không còn xa lạ gì với nước.\nMở khóa khả năng bơi lội chỉ đơn giản bằng cách bước xuống nước,\ntuy nhiên tù nhân không thể bơi lội vô thời hạn.
+
+# =============================================================================
+# Nameplate status
+# ============================================================================= 
+
+nameplate_working                        Đang làm việc
+nameplate_stationed                      Đang trực
+nameplate_patrolling                     Đang tuần tra
+nameplate_resting                        Đang nghỉ
+nameplate_tired                          Mệt
+nameplate_injured                        Bị thương
+nameplate_unconscious                    Bất tỉnh
+nameplate_dead                          CHẾT
+nameplate_released                      ĐÃ PHÓNG THÍCH
+nameplate_researching                    Đang nghiên cứu
+nameplate_overdose                      SỐC THUỐC
+nameplate_starving                      CHẾT ĐÓI
+nameplate_wounded                        CHẢY MÁU
+
+
+# =============================================================================
+# Objectives, Grants
+# =============================================================================
+
+objective_feedallprisoners              Cho tất cả tù nhân ăn
+objective_caption_prisoners              Tù nhân
+objective_caption_meals                  Bữa ăn
+objective_readceosletter                Đọc thư của Tổng giám đốc
+objective_actionrequired                Báo cáo sự cố
+
+objective_deathrowinmates                Trạng thái tử tù
+
+objective_prisonerintake                Tiếp nhận tù nhân
+objective_intake_arrivals                *X Tù nhân sẽ đến vào lúc *Y
+objective_intake_closed                  Nhà tù của bạn đã đóng cửa tiếp nhận tù nhân mới
+objective_intake_closed2                (Xem Báo cáo tù nhân)
+objective_intake_closed3                (Xem Báo cáo tiếp nhận)
+objective_intake_specials				Chuyển trại đặc biệt:
+objective_intake_categories              Danh mục: 
+objective_intake_minsec                  An ninh thấp, 
+objective_intake_medsec                  An ninh vừa, 
+objective_intake_maxsec                  An ninh cao
+objective_intake_deathrow                Tử tù
+objective_intake_typeclosed              Đóng cửa
+objective_intake_typefillcapacity        Lấp đầy sức chứa
+objective_intake_typetotalprisoners      Lấp đầy đến *X
+objective_intake_typenumperday            *X mỗi ngày
+objective_intake_typeallavailable        Tất cả hiện có
+objective_intake_closedstrike            Không thể tiếp nhận khi nhân viên đình công
+
+objective_firstgrant                    Chấp nhận khoản Trợ cấp đầu tiên
+objective_firstgrant_description        Chấp nhận khoản trợ cấp tiền tệ đầu tiên của bạn bằng cách mở cửa sổ báo cáo (nhấn nút ở góc dưới cùng bên phải màn hình), chọn tab Trợ cấp và chọn một trong các khoản Trợ cấp hiện có.
+
+objective_builddeliveriesroom            Thiết lập khu giao hàng 
+
+objective_outgoing                      Tù nhân sắp đến hạn phóng thích
+objective_outgoing_count                *X tù nhân sắp được phóng thích sớm
+objective_outgoing_timer                (*X giờ)
+
+objective_visitors                      Khách thăm nuôi (8 giờ sáng - 8 giờ tối)
+objective_visitors_waiting              *X gia đình đang chờ vào thăm
+objective_visitors_onsite                *X khách thăm nuôi tại trại chia thành *Y nhóm
+
+objective_staffexhausted                Nhân viên kiệt sức
+objective_reststaff_exhausted            *X nhân viên đang bị kiệt sức.
+objective_reststaff_resting              (*X người đang nghỉ ngơi)
+objective_reststaff_needstaffroom        Hãy xây một Phòng nghỉ nhân viên để họ có thể nghỉ ngơi.
+
+objective_punishment_solitary            *X người đang bị Biệt giam
+objective_punishment_solitary_queue      *X người đang chờ Biệt giam
+objective_punishment_solitary_mix        *X người trong phòng Biệt giam (*Y đang chờ)
+objective_punishment_lockdown            *X người đang bị Phong tỏa
+objective_incident_medical              *X người cần chăm sóc y tế
+objective_incident_dead                  *X xác chết
+
+objective_prisonerparole                Tạm tha tù nhân
+objective_parole_count                  *X tù nhân đến hạn xét tạm tha
+
+objective_payment_receivedfull          Thanh toán: Đã nhận *X
+objective_payment_receivedpart          Thanh toán: Đã nhận *X trên tổng số *Y
