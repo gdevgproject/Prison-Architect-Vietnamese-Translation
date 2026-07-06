@@ -194,7 +194,7 @@ Nhấn TIẾP TỤC để xem thêm...
 <->Sửa lỗi tù nhân được phân phòng giam mới sau khi rời khỏi hình phạt biệt giam.
 <->Sửa lỗi khả năng đọc chữ khi thu nhỏ màn hình.
 <->Sửa lỗi việc xây một bản kế hoạch đôi khi được thưởng tiền không đúng.
-<->Sửa lỗi khiến thành tựu Steam "Wait and Hope" không mở khóa đúng cách.
+<->Sửa lỗi khiến Thành tựu Steam 'Chờ đợi và Hy vọng' không mở khóa đúng cách.
 <->Chó mệt giờ không còn bị tách khỏi người dắt.
 <->Thêm thanh tìm kiếm vào menu Tường & Cửa.
 ~~~~~~
@@ -433,7 +433,7 @@ Bản cập nhật "Sunset"
 >Đầy ắp cải tiến trải nghiệm và sửa lỗi!
 >   Cải tiến Trải nghiệm / Tính năng
 <->Hiệu ứng Siêu Chó: Vì tình cảm không thể chối cãi của chúng tôi dành cho chúng, chúng tôi đã thêm một hiệu ứng biến đổi mới dựa trên hiệu ứng Siêu Cai ngục, giúp nâng cấp cho những người bạn lông xù của chúng ta.
-<->Tụ điện 2.0: Xin giới thiệu, Capacitor Max Plus - phiên bản nâng cấp của tụ điện cho phép Trạm điện của bạn giờ sản xuất gấp đôi lượng điện so với trước đây.
+<->Tụ điện 2.0: Xin giới thiệu, Tụ điện Max Plus - phiên bản nâng cấp của tụ điện cho phép Trạm điện của bạn giờ sản xuất gấp đôi lượng điện so với trước đây.
 <->Cửa Từ xa: Chúng tôi đã thêm biến thể có màu của cửa từ xa cho cả cấp an ninh Tử tù và SuperMax.
 <->Tốc độ Xe Bạo động: Nhờ hiệu quả của các đơn vị khẩn cấp đường không, chúng tôi đã tăng tốc độ di chuyển của Xe Vệ binh Bạo động, để giảm thời gian họ đến nơi.
 <->Cập nhật Mô tả: Sau khi rà soát toàn bộ game, chúng tôi quyết định cập nhật hoặc thêm một số chuỗi văn bản mới. Theo đó, chúng tôi đã cập nhật văn bản cho mô tả Vật phẩm, mô tả Nhân viên, và cả mô tả Nhu cầu.
