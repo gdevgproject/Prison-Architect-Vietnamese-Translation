@@ -1,7 +1,7 @@
-Name        "Tieng Viet v1.0"
-Author      "Vũ Đức Minh"
+Name        "Tieng Viet v2.0"
+Author      "Vu Duc Minh"
 Date        06/07/2026
-Description "Bản dịch Tiếng Việt đầy đủ cho Prison Architect v1.0 (Lưu ý: Có hiện tượng đảo ngược dấu à và á ở một số chữ do lỗi hiển thị của engine game gốc)"
+Description "Bản dịch Tiếng Việt đầy đủ cho Prison Architect v2.0 (Lưu ý: Có hiện tượng đảo ngược dấu à và á ở một số chữ do lỗi hiển thị của engine game gốc)"
 ThumbnailSprite vietnamese
 
 
