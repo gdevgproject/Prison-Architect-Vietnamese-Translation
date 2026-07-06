@@ -1539,14 +1539,14 @@ object_VisitorHeli			Trực thăng khách thăm
 object_SupplyHeli			Trực thăng tiếp tế
 object_PrisonHeli			Trực thăng chở tù nhân
 object_FireHeli				Trực thăng cứu hỏa
-object_EliteOpsHeli			Trực thăng đặc nhiệm Elite Ops
+object_EliteOpsHeli			Trực thăng đặc nhiệm
 object_SoldiersHeli			Trực thăng Vệ binh Quốc gia
 object_HearseBoat			Tàu chở xác
 object_HearseHeli			Trực thăng chở xác
 object_ParamedicsHeli		Trực thăng cấp cứu
 object_Helipad				Bãi đáp trực thăng
 object_BoatDock				Bến tàu
-object_EliteOps				Elite Ops
+object_EliteOps				Đặc Nhiệm
 
 object_Fountain		  			Đài phun nước
 object_SteppingStoneLillyPad		Đá bước (Lá sen)
@@ -1658,11 +1658,11 @@ d11_squad_name_FireHeli				Lực lượng cứu hỏa đường không
 d11_emergencies_hints_paramedics_heli		Một trực thăng với x*A Cấp cứu viên. - $*B
 d11_squad_name_AirParamedics			Cấp cứu viên đường không
 d11_emergencies_hints_eliteOps_heli		Một trực thăng cùng x*A đặc nhiệm Elite Op. - $*B
-d11_squad_name_EliteOps				Đội Elite Ops
+d11_squad_name_EliteOps				Đội Đặc Nhiệm
 
 
 interfacecallout_FireHeli                      Lực lượng cứu hỏa đường không
-interfacecallout_EliteOps                      Đội Elite Ops
+interfacecallout_EliteOps                      Đội Đặc Nhiệm
 interfacecallout_AirParamedics                 Cấp cứu viên đường không
 interfacecallout_AirSoldiers                   Binh lính đường không
 
@@ -1709,7 +1709,7 @@ codex_option_dynamicReputations		Tiếng tăm động
 # =============================================================================
 
 objective_ReadSandALetter						Thư từ Tổng giám đốc (Kiến Trúc Sư Hải Đảo)
-island_letter									Thưa ông/bà,\n\n\nChào mừng bạn đến với thế giới mới của Kiến trúc sư Nhà tù Hải đảo (Island Bound)! Dưới đây là một số mẹo giúp bạn bắt đầu với bến tàu, bãi đáp trực thăng và các nhà tù trên đảo.\n\n1. Các hòn đảo - Tùy thuộc vào hoàn cảnh của nhà tù, bạn có thể không có mối liên kết vật lý nào với đất liền, và nếu vậy bạn sẽ cần TÀU THUYỀN và TRỰC THĂNG để cung cấp dịch vụ vận chuyển. Hãy xây dựng các BẾN TÀU và BÃI ĐÁP TRỰC THĂNG, rồi xác định mục đích của chúng; để tiếp nhận các chuyến giao hàng cụ thể, tù nhân mới, hoặc các đơn vị khẩn cấp mới và nhiều thứ khác, bằng đường biển và đường hàng không. - Hãy đảm bảo các bến tàu được xây dựng với một luồng hàng hải thông thoáng để tàu thuyền có thể ra vào. - Các BẾN PHÀ đặc biệt có thể được xây dựng để liên kết các hòn đảo với nhau, cũng như các CÂY CẦU và ĐÁ BƯỚC. - Nhà tù của bạn giờ đây có thể được bảo vệ tốt hơn với các đơn vị ELITE OPS mới và trực thăng có thể chữa cháy từ trên không.\n\n2. Tùy chỉnh Giao hàng và Vận tải - Thông qua mục HẬU CẦN, bạn có thể tùy chỉnh dịch vụ nào được chỉ định cho từng bến tàu, bãi đáp trực thăng và đường bộ, giúp tăng hiệu quả cho nhà tù của bạn. Bến tàu và Bãi đáp trực thăng có thể được liên kết với các khu vực Giao hàng, Tiếp nhận và Xuất hàng bổ sung. Điều này cho phép bạn giao nguồn cung cấp thực phẩm đến gần Nhà bếp hơn, hoặc đưa các tù nhân An ninh cao mới đến gần khu An ninh cao trên đảo của bạn hơn. Khả năng là vô hạn!\n\n3. Sửa đổi cảnh quan - Nước có thể được đặt để tạo ra hào nước hoặc đại dương quanh nhà tù của bạn, và đất có thể được định hình bằng các đường bờ biển, sử dụng đất và các loại sàn khác. Bất kỳ vùng đất hoặc hòn đảo nhỏ nào được tạo ra trong nước sẽ được hình thành ngay lập tức.\n\n4. Các biện pháp an ninh mới - Hàng cấm vẫn có thể xâm nhập thông qua tàu thuyền và trực thăng, vì vậy chúng tôi cũng cung cấp cho bạn một số thiết bị tối tân mới; - Xây dựng MÁY QUÉT tại các khu vực Giao hàng và Kho để kiểm tra các thùng hàng và hộp gỗ. Bạn sẽ cần một cai ngục cảnh giác để theo dõi trên MÀN HÌNH QUÉT đã kết nối. - Phân công cai ngục tới các TRẠM KIỂM SOÁT để khám người tất cả tù nhân và khách thăm đi qua. Đây là một cách tuyệt vời để phát hiện hàng cấm, nhưng có thể làm giảm lưu lượng di chuyển của tù nhân nếu không được đặt một cách chiến lược.\n\nCuối cùng, ngay cả các hòn đảo cũng không phải là nơi tuyệt đối không thể trốn thoát, vì vậy bạn nên dựng các Tháp canh Xạ thủ trên bờ biển để mắt tới những kẻ 'bơi giỏi'.\n\nĐó là tất cả mọi thứ - chúc may mắn!\n\nTổng giám đốc,\nTập đoàn Prison Architects Corp.
+island_letter									Thưa ông/bà,\n\n\nChào mừng bạn đến với thế giới mới của Kiến trúc sư Nhà tù Hải đảo (Island Bound)! Dưới đây là một số mẹo giúp bạn bắt đầu với bến tàu, bãi đáp trực thăng và các nhà tù trên đảo.\n\n1. Các hòn đảo - Tùy thuộc vào hoàn cảnh của nhà tù, bạn có thể không có mối liên kết vật lý nào với đất liền, và nếu vậy bạn sẽ cần TÀU THUYỀN và TRỰC THĂNG để cung cấp dịch vụ vận chuyển. Hãy xây dựng các BẾN TÀU và BÃI ĐÁP TRỰC THĂNG, rồi xác định mục đích của chúng; để tiếp nhận các chuyến giao hàng cụ thể, tù nhân mới, hoặc các đơn vị khẩn cấp mới và nhiều thứ khác, bằng đường biển và đường hàng không. - Hãy đảm bảo các bến tàu được xây dựng với một luồng hàng hải thông thoáng để tàu thuyền có thể ra vào. - Các BẾN PHÀ đặc biệt có thể được xây dựng để liên kết các hòn đảo với nhau, cũng như các CÂY CẦU và ĐÁ BƯỚC. - Nhà tù của bạn giờ đây có thể được bảo vệ tốt hơn với các đơn vị Đặc Nhiệm mới và trực thăng có thể chữa cháy từ trên không.\n\n2. Tùy chỉnh Giao hàng và Vận tải - Thông qua mục HẬU CẦN, bạn có thể tùy chỉnh dịch vụ nào được chỉ định cho từng bến tàu, bãi đáp trực thăng và đường bộ, giúp tăng hiệu quả cho nhà tù của bạn. Bến tàu và Bãi đáp trực thăng có thể được liên kết với các khu vực Giao hàng, Tiếp nhận và Xuất hàng bổ sung. Điều này cho phép bạn giao nguồn cung cấp thực phẩm đến gần Nhà bếp hơn, hoặc đưa các tù nhân An ninh cao mới đến gần khu An ninh cao trên đảo của bạn hơn. Khả năng là vô hạn!\n\n3. Sửa đổi cảnh quan - Nước có thể được đặt để tạo ra hào nước hoặc đại dương quanh nhà tù của bạn, và đất có thể được định hình bằng các đường bờ biển, sử dụng đất và các loại sàn khác. Bất kỳ vùng đất hoặc hòn đảo nhỏ nào được tạo ra trong nước sẽ được hình thành ngay lập tức.\n\n4. Các biện pháp an ninh mới - Hàng cấm vẫn có thể xâm nhập thông qua tàu thuyền và trực thăng, vì vậy chúng tôi cũng cung cấp cho bạn một số thiết bị tối tân mới; - Xây dựng MÁY QUÉT tại các khu vực Giao hàng và Kho để kiểm tra các thùng hàng và hộp gỗ. Bạn sẽ cần một cai ngục cảnh giác để theo dõi trên MÀN HÌNH QUÉT đã kết nối. - Phân công cai ngục tới các TRẠM KIỂM SOÁT để khám người tất cả tù nhân và khách thăm đi qua. Đây là một cách tuyệt vời để phát hiện hàng cấm, nhưng có thể làm giảm lưu lượng di chuyển của tù nhân nếu không được đặt một cách chiến lược.\n\nCuối cùng, ngay cả các hòn đảo cũng không phải là nơi tuyệt đối không thể trốn thoát, vì vậy bạn nên dựng các Tháp canh Xạ thủ trên bờ biển để mắt tới những kẻ 'bơi giỏi'.\n\nĐó là tất cả mọi thứ - chúc may mắn!\n\nTổng giám đốc,\nTập đoàn Prison Architects Corp.
 
 # =============================================================================
 # Missing Strings
@@ -1913,7 +1913,7 @@ object_quickconnect							Kết nối nhanh
 
 equipment_trowel							Cái bay làm vườn
 equipment_handFork							Cào tay nhỏ
-equipment_Kicker							Kicker
+equipment_Kicker							Chất kích rượu lậu
 equipment_Drink								Đồ uống
 equipment_BoozeBag							Túi rượu lậu
 equipment_Orange							Quả cam	
@@ -3936,13 +3936,13 @@ status_effect_calamityflu			Cúm
 # Menu strings
 # ==============================================================
 codex_new_weathertype				Thời tiết & Cường độ
-codex_tooltip_weathertype			Nhiều kiểu thời tiết khác nhau có thể xảy ra trong suốt trò chơi. Để có một trò chơi thử thách hơn, bạn có thể chọn Cao, Vừa hoặc Thấp. Nếu bạn chỉ muốn trải nghiệm thời tiết thông thường, hãy chọn Legacy.
+codex_tooltip_weathertype			Nhiều kiểu thời tiết khác nhau có thể xảy ra trong suốt trò chơi. Để có một trò chơi thử thách hơn, bạn có thể chọn Cao, Vừa hoặc Thấp. Nếu bạn chỉ muốn trải nghiệm thời tiết thông thường, hãy chọn Cổ điển.
 codex_new_startingseason			Mùa bắt đầu
 codex_tooltip_temperature			Bật Nhiệt độ cho nhà tù của bạn. Tù nhân và Nhân viên của bạn giờ đây sẽ có nhu cầu Sưởi ấm. Hãy mua một số máy sưởi và đừng để nhà tù của bạn quá lộng gió.
 
 
 codex_new_weathertype_disabled		Tắt
-codex_new_weathertype_legacynormal	Legacy
+codex_new_weathertype_legacynormal	Cổ điển
 
 # ==============================================================
 # Stay Indoors 
@@ -4196,7 +4196,7 @@ material_LongGrass							Cỏ cao
 # Menu strings
 # ==============================================================
 
-codex_tooltip_gangsEnhanced             Giờ đây bạn có thể thay đổi tỷ lệ tiếp nhận tù nhân gia nhập các Băng đảng của mình. Việc có nhiều Thành viên băng đảng hơn trong nhà tù sẽ khiến quá trình tuyển mộ băng đảng diễn ra nhanh hơn, nhà tù của bạn sẽ trở nên hỗn loạn và nguy hiểm hơn.\n\n• Legacy - Trải nghiệm độ khó Băng đảng như trước đây (Sơ cấp) \n• 'Thấp' (Mặc định) - Lý tưởng cho người chơi Sơ cấp hoặc Trung cấp \n• Vừa - Người chơi giàu kinh nghiệm \n• Cao - Người chơi chuyên gia muốn tìm kiếm một thử thách thực sự
+codex_tooltip_gangsEnhanced             Giờ đây bạn có thể thay đổi tỷ lệ tiếp nhận tù nhân gia nhập các Băng đảng của mình. Việc có nhiều Thành viên băng đảng hơn trong nhà tù sẽ khiến quá trình tuyển mộ băng đảng diễn ra nhanh hơn, nhà tù của bạn sẽ trở nên hỗn loạn và nguy hiểm hơn.\n\n• Cổ điển - Trải nghiệm độ khó Băng đảng như trước đây (Sơ cấp) \n• 'Thấp' (Mặc định) - Lý tưởng cho người chơi Sơ cấp hoặc Trung cấp \n• Vừa - Người chơi giàu kinh nghiệm \n• Cao - Người chơi chuyên gia muốn tìm kiếm một thử thách thực sự
 codex_tooltip_morelieutenants			Các Phó băng đảng đóng vai trò lớn trong việc chiếm đoạt các lãnh thổ mới cho Băng đảng tương ứng của họ. Nếu bạn muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Phó băng đảng. Chỉ chọn các số nhỏ hơn 6 nếu bạn muốn có một thử thách.
 codex_option_morelieutenants			Nhiều Phó băng đảng hơn
 codex_tooltip_codex_option_morelieutenants	Các Phó băng đảng đóng vai trò lớn trong việc chiếm đoạt các lãnh thổ mới cho Băng đảng tương ứng của họ. Nếu bạn muốn các Băng đảng hoạt động tích cực hơn, hãy cân nhắc giảm số lượng thành viên cần thiết cho mỗi Phó băng đảng. Chỉ chọn các số nhỏ hơn 6 nếu bạn muốn có một thử thách.
