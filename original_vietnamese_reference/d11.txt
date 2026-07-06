@@ -1475,3 +1475,561 @@ dialog_group								Nhóm
 transfer_pastCrimes_tooltip					Truất quyền những tù nhân có tiền án thuộc Nhóm *X trong hồ sơ phạm tội bao gồm:
 transfer_criteria_met						*X/*Y
 transfer_review								Xem xét chuyển trại
+
+# =============================================================================
+# Actions
+# =============================================================================
+
+action_RunTreadmill								Đang dùng máy chạy bộ
+action_PunchingBag								Đang dùng bao cát
+action_Boxing									Đang dùng võ đài
+
+# =============================================================================
+# Codex
+# =============================================================================
+
+codex_tooltip_escapeplans               Kích hoạt thêm các lựa chọn vượt ngục cho tù nhân. Giờ đây họ sẽ cố gắng trèo qua tường của bạn khi tìm cách vượt ngục.
+codex_options_shadowcaption				Bật/Tắt bóng đổ
+codex_options_punishmentscaption		Khám xét & Hành động theo khu vực
+
+codex_option_prisonerTransfer			Chuyển trại tù nhân
+codex_tooltip_prisonerTransfer			Chuyển trại tù nhân cho phép bạn thiết lập các tiêu chí mà tù nhân phải đáp ứng để được chuyển và nâng cấp sang một khu vực an ninh tốt hơn trong nhà tù của bạn, nơi cung cấp nhiều tiện nghi, cơ sở vật chất và các đặc quyền hơn. \n\nGiờ đây, tù nhân sẽ tự đánh giá các điều kiện ở khu vực hiện tại và khu vực kém hơn khu vực của họ, rồi quyết định xem họ có muốn được chuyển trại hay không. Nếu có, họ sẽ xác định xem liệu có nên cố gắng cải thiện hành vi của mình để đáp ứng chính sách chuyển trại của bạn hay không, dựa trên nhu cầu và đặc điểm riêng của họ.\n\nMỗi khu vực được xếp hạng dựa trên các đặc quyền và cơ sở vật chất mà bạn cung cấp cho tù nhân ở khu vực đó. 'Sự khác biệt' giữa khu vực của họ và khu vực kém hơn càng lớn, thì tổng số tù nhân muốn được chuyển trại càng nhiều.\n\nSau khi tù nhân đáp ứng các tiêu chí chuyển trại của bạn, việc có chuyển họ hay không và khi nào chuyển vẫn hoàn toàn do bạn quyết định.
+
+# =============================================================================
+# Miscelanious
+# =============================================================================
+
+action_Stretching								Đang tập thể dục
+action_PlayChess								Đang chơi cờ vua
+action_EatSnack									Đang ăn nhẹ
+
+report_staff_multidelete						Nhấp chuột trái một lần để sa thải một nhân viên, hoặc nhấp giữ và kéo để sa thải nhiều nhân viên
+
+codex_language_unsupported				---KHÔNG CÒN ĐƯỢC CẬP NHẬT---
+codex_language_mod						---BẢN DỊCH NGÔN NGỮ DO CỘNG ĐỒNG TẠO---
+
+codex_language_unsupportedString		Ngôn ngữ này không được hỗ trợ chính thức, một số nội dung dịch có thể bị thiếu.
+
+
+report_intake_cat_PrisonerTransfer				Tù nhân huyền thoại!
+rapsheet_category_PrisonerTransfer				Tù nhân huyền thoại!
+
+############################### Sea and Air Pack ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_WoodenDockFloor						Bến tàu (Gỗ)
+material_waterBed								Giường nước
+material_WaterShallow							Nước (Nông)
+material_WaterLarge								Nước (Rộng)
+material_WaterWalkable			Vùng nước có thể đi lại
+
+# =============================================================================
+# Objects - Names
+# =============================================================================
+
+object_FerryDock			Bến phà
+object_FerryBoat			Phà vận tải
+object_SupplyBoat			Tàu tiếp tế
+object_PrisonBoat			Phà tù nhân
+object_VisitorBoat			Tàu khách thăm
+object_VisitorHeli			Trực thăng khách thăm
+object_SupplyHeli			Trực thăng tiếp tế
+object_PrisonHeli			Trực thăng chở tù nhân
+object_FireHeli				Trực thăng cứu hỏa
+object_EliteOpsHeli			Trực thăng đặc nhiệm Elite Ops
+object_SoldiersHeli			Trực thăng Vệ binh Quốc gia
+object_HearseBoat			Tàu chở xác
+object_HearseHeli			Trực thăng chở xác
+object_ParamedicsHeli		Trực thăng cấp cứu
+object_Helipad				Bãi đáp trực thăng
+object_BoatDock				Bến tàu
+object_EliteOps				Elite Ops
+
+object_Fountain		  			Đài phun nước
+object_SteppingStoneLillyPad		Đá bước (Lá sen)
+object_SteppingStoneIceBlock		Đá bước (Băng)
+object_SteppingStone			Đá bước
+object_SteppingStonePallet		Đá bước (Pallet gỗ)
+object_ScannerMonitor			Màn hình quét
+object_ScannerMachine			Máy quét
+object_CheckPoint				Trạm kiểm soát
+
+# =============================================================================
+# Interface Mode
+# =============================================================================
+
+codex_option_islandNoBridge		                Mảnh đất đảo
+codex_option_islandBridge		                Mảnh đất đảo kết nối
+
+codex_tooltip_islandNoBridge	                Tạo một mảnh đất khởi đầu được bao quanh bởi nước, mảnh đất này sẽ sử dụng Bến tàu thay vì đường bộ.
+
+codex_tooltip_islandBridge			            Tạo một mảnh đất khởi đầu được bao quanh bởi nước với một cây cầu kết nối vào đường bộ.
+
+interfacelogistics_deliverytargeting	Khu giao hàng
+d11_logistic_select_delivery_method		Chọn phương thức giao hàng
+interfacelogistics_vehiclepurpose		Vận tải 
+
+d11_logistics_transportTitle			Tùy chọn vận tải
+d11_logistics_purpose_group_0			Hàng nhập vào
+d11_logistics_transport_deliveries_hint		Chọn những mặt hàng nào sẽ được giao đến đây.
+d11_logistics_purpose_group_0_item_1		Vật liệu xây dựng
+d11_logistics_purpose_group_0_item_2		Đồ ăn
+d11_logistics_purpose_group_0_item_3		Thư tín
+d11_logistics_purpose_group_0_item_4		Vật liệu xưởng
+d11_logistics_purpose_group_1			Tù nhân nhập trại
+d11_logistics_transport_prisoners_hint		Chọn những tù nhân nào từ đợt Tiếp nhận sẽ đến đây.
+d11_logistics_purpose_group_1_item_1		An ninh thấp
+d11_logistics_purpose_group_1_item_2		An ninh vừa
+d11_logistics_purpose_group_1_item_3		An ninh cao
+d11_logistics_purpose_group_1_item_4		Tử tù
+d11_logistics_purpose_group_1_item_5		Tâm thần
+d11_logistics_purpose_group_2			Thường dân đi vào
+d11_logistics_transport_civilians_hint		Chọn xem khách thăm và giáo viên có thể đến đây hay không.
+d11_logistics_purpose_group_3			Hàng xuất đi
+d11_logistics_transport_exports_hint		Chọn những mặt hàng nào sẽ được chuyển ra khỏi nhà tù của bạn qua địa điểm này.
+d11_logistics_purpose_group_3_item_1		Rác
+d11_logistics_purpose_group_3_item_2		Hàng xuất đi
+d11_logistics_purpose_toggle			Chuyển đổi		
+d11_logistics_purpose_toggle_1			Chuyển đổi tất cả
+d11_logistics_purpose_toggle_on			(BẬT)
+d11_logistics_purpose_toggle_off		(TẮT)
+
+d11_room_error_no_link				Quá trình dỡ hàng bị chặn. Vui lòng kiểm tra các tùy chọn Hậu cần Giao hàng và Vận tải. 	
+
+d11_hover_change						Thay đổi [[*L]]
+
+water_amount                 	Mực nước *X%
+ferry_timer                 	Khởi hành sau *X
+ferry_warning                 	Bị chặn khởi hành
+
+d11_hover_dismiss_vehicle	Cho đi [[*S]]
+d11_hover_depart_vehicle	Khởi hành [[*S]]
+interface_action_dismissVehicle	Cho phương tiện rời đi
+d11_hover_dismiss_vehicle_desc	Cho phương tiện rời đi để giải phóng chỗ trống?
+d11_hover_dismiss_helicopter_desc	Cho trực thăng này đi?
+d11_hover_dismiss_ferry_desc	Cho phà khởi hành sớm?
+
+d11_hover_fight_fires		Chữa cháy [[*X]]
+interface_action_fightFires		Chữa cháy
+d11_hover_fight_fires_desc	Cất cánh và hỗ trợ chữa cháy?
+		
+d11_hover_land_heli		Hạ cánh [[*S]]
+interface_action_landheli		Hạ cánh trực thăng
+d11_hover_land_heli_desc	Hạ cánh trực thăng xuống bãi đáp?
+
+d11_hover_eliteOps_select	Điều khiển trực thăng [[*X]]
+
+d11_hover_deploy_squad		Triển khai (Giữ) [[*X]]
+interface_action_deploySquad		Triển khai đội
+d11_hover_deploy_squad_desc	Triển khai đội xuống phía dưới trực thăng?
+
+interfacemode_floors				Sàn
+interfaceoverlay_landscape			Cảnh quan
+
+d11_hover_quantity						x *X
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_obj_FerryDock		Hai Bến phà sẽ được xây dựng để chạy song song giữa các đảo, đóng vai trò như một phương tiện giao thông giữa chúng. Để xây dựng một cặp bến phà, bắt buộc phải có một dải đất song song đối diện.
+buildtoolbar_popup_obj_BoatDock			Thiết yếu để cho phép tàu cập bến nhà tù của bạn, vận chuyển tù nhân mới hoặc giao vật tư tiếp tế.
+buildtoolbar_popup_obj_Helipad			Thiết yếu để cho phép trực thăng bay vào nhà tù của bạn, vận chuyển tù nhân mới, giao vật tư tiếp tế hoặc gọi các đội khẩn cấp đường không đặc biệt.
+
+buildtoolbar_popup_obj_DeckChair		Thư giãn sưởi nắng trên chiếc ghế tắm nắng một cách thoải mái.\n -Đáp ứng nhu cầu Tiện nghi.
+
+buildtoolbar_popup_obj_Fountain			Đặt dưới nước để tạo một đài phun nước thư giãn.
+
+buildtoolbar_popup_obj_SteppingStoneLillyPad	Tạo các lối đi cho phép tù nhân và nhân viên băng qua nước.\n \nChỉ dùng ngoài trời.\n \nChỉ đặt trên Nước.
+buildtoolbar_popup_obj_SteppingStone		Tạo các lối đi cho phép tù nhân và nhân viên băng qua nước.\n \nChỉ dùng ngoài trời.\n \nChỉ đặt trên Nước.
+buildtoolbar_popup_obj_SteppingStoneIceBlock	Tạo các lối đi cho phép tù nhân và nhân viên băng qua nước.\n \nChỉ dùng ngoài trời.\n \nChỉ đặt trên Nước.
+buildtoolbar_popup_obj_SteppingStonePallet	Tạo các lối đi cho phép tù nhân và nhân viên băng qua nước.\n \nChỉ dùng ngoài trời.\n \nChỉ đặt trên Nước.
+buildtoolbar_popup_uts_ScannerMonitor	Màn hình để cai ngục phát hiện hàng cấm khi được nối dây với Máy quét. Khả năng phát hiện hàng cấm của cai ngục sẽ phụ thuộc vào mức độ mệt mỏi của họ.
+buildtoolbar_popup_uts_ScannerMachine	Máy dành cho Khu giao hàng và Kho để quét các thùng gỗ tìm hàng cấm. Phải được nối dây với Màn hình quét để cai ngục có thể phát hiện hàng cấm. Khả năng phát hiện hàng cấm của cai ngục sẽ phụ thuộc vào mức độ mệt mỏi của họ.
+buildtoolbar_popup_obj_Checkpoint		Một Trạm kiểm soát để khám xét tù nhân và khách thăm đi qua. Tù nhân chỉ có thể đi qua trạm kiểm soát theo một hướng.\n-Phải có một cai ngục túc trực.
+
+landscape_hint							(Có thể xây trên nước)
+
+d11_emergencies_hints_fire_heli			Một trực thăng với x*A Lính cứu hỏa. - $*B
+d11_squad_name_FireHeli				Lực lượng cứu hỏa đường không
+d11_emergencies_hints_paramedics_heli		Một trực thăng với x*A Cấp cứu viên. - $*B
+d11_squad_name_AirParamedics			Cấp cứu viên đường không
+d11_emergencies_hints_eliteOps_heli		Một trực thăng cùng x*A đặc nhiệm Elite Op. - $*B
+d11_squad_name_EliteOps				Đội Elite Ops
+
+
+interfacecallout_FireHeli                      Lực lượng cứu hỏa đường không
+interfacecallout_EliteOps                      Đội Elite Ops
+interfacecallout_AirParamedics                 Cấp cứu viên đường không
+interfacecallout_AirSoldiers                   Binh lính đường không
+
+buildtoolbar_Logistics_DeliveryTargeting 	Liên kết các khu vực Giao hàng, Rác và Xuất hàng với Bãi đáp trực thăng, Bến tàu và Đường bộ. Làm vậy cho phép bạn kiểm soát nơi nhận hàng giao và cách hàng xuất đi rời khỏi nhà tù của bạn.
+buildtoolbar_Logistics_VehiclePurpose		Kiểm soát dịch vụ nào sẽ được xử lý bởi các Bến tàu, Bãi đáp trực thăng hoặc Đường bộ cụ thể. Làm vậy cho phép bạn tiếp nhận các loại hàng hóa hoặc tù nhân cụ thể đến các vị trí khác nhau xung quanh nhà tù bằng đường biển và đường hàng không.
+buildtoolbar_Logistics_CropDistribution		Kiểm soát các phòng mà nông sản thu hoạch được chuyển đến, bạn cũng có thể thay đổi tỷ lệ phần trăm phân phối qua cửa sổ Quản lý phân phối.
+
+# =============================================================================
+# Object Hint strings
+# =============================================================================
+
+boatDock_placement_hint		Yêu cầu kết nối với đất liền và một luồng hàng hải thông thoáng.
+delivery_hover_hint			Menu Hậu cần > Vận tải cho phép bạn kiểm soát mục đích của *X này.
+ferryDock_placement_hint	Phải có một dải đất song song đối diện để di chuyển đến.
+transportZones_hover_hint	Liên kết tới Bãi đáp trực thăng, Bến tàu và đường bộ thông qua menu Hậu cần.
+object_scannermonitor_needsmachine						Nối dây với Máy quét
+object_scannermachine_needsmonitor						Nối dây với Màn hình quét
+
+# =============================================================================
+# Prefabs - Names
+# =============================================================================
+
+quickbuild_OutdoorLake							Hồ ngoài trời
+quickbuild_River								Sông
+
+# =============================================================================
+# CODEX - Menu Entries
+# =============================================================================
+
+codex_options_hud_waypoints		Điểm mốc HUD
+codex_options_hud_waypoints_all		Bật tất cả
+codex_options_hud_waypoints_important	Quan trọng nhất
+codex_options_hud_waypoints_off		Tắt tất cả
+
+d11_hud_waypoints_limited	Tất cả (Thời gian giới hạn)
+waypoints_tooltip			Quyết định Điểm mốc nào sẽ hiển thị xung quanh HUD, trỏ đến các sự kiện và cảnh báo khác nhau đang diễn ra trong nhà tù.
+
+
+codex_option_dynamicReputations		Tiếng tăm động
+#codex_tooltip_dynamicReputations	Prisoners have the chance to gain or lose unique Reputation traits during their time in prison, based on their activities and experiences inside.
+
+# =============================================================================
+# DLC
+# =============================================================================
+
+objective_ReadSandALetter						Thư từ Tổng giám đốc (Island Bound)
+island_letter									Thưa ông/bà,\n\n\nChào mừng bạn đến với thế giới mới của Kiến trúc sư Nhà tù Hải đảo (Island Bound)! Dưới đây là một số mẹo giúp bạn bắt đầu với bến tàu, bãi đáp trực thăng và các nhà tù trên đảo.\n\n1. Các hòn đảo - Tùy thuộc vào hoàn cảnh của nhà tù, bạn có thể không có mối liên kết vật lý nào với đất liền, và nếu vậy bạn sẽ cần TÀU THUYỀN và TRỰC THĂNG để cung cấp dịch vụ vận chuyển. Hãy xây dựng các BẾN TÀU và BÃI ĐÁP TRỰC THĂNG, rồi xác định mục đích của chúng; để tiếp nhận các chuyến giao hàng cụ thể, tù nhân mới, hoặc các đơn vị khẩn cấp mới và nhiều thứ khác, bằng đường biển và đường hàng không. - Hãy đảm bảo các bến tàu được xây dựng với một luồng hàng hải thông thoáng để tàu thuyền có thể ra vào. - Các BẾN PHÀ đặc biệt có thể được xây dựng để liên kết các hòn đảo với nhau, cũng như các CÂY CẦU và ĐÁ BƯỚC. - Nhà tù của bạn giờ đây có thể được bảo vệ tốt hơn với các đơn vị ELITE OPS mới và trực thăng có thể chữa cháy từ trên không.\n\n2. Tùy chỉnh Giao hàng và Vận tải - Thông qua mục HẬU CẦN, bạn có thể tùy chỉnh dịch vụ nào được chỉ định cho từng bến tàu, bãi đáp trực thăng và đường bộ, giúp tăng hiệu quả cho nhà tù của bạn. Bến tàu và Bãi đáp trực thăng có thể được liên kết với các khu vực Giao hàng, Tiếp nhận và Xuất hàng bổ sung. Điều này cho phép bạn giao nguồn cung cấp thực phẩm đến gần Nhà bếp hơn, hoặc đưa các tù nhân An ninh cao mới đến gần khu An ninh cao trên đảo của bạn hơn. Khả năng là vô hạn!\n\n3. Sửa đổi cảnh quan - Nước có thể được đặt để tạo ra hào nước hoặc đại dương quanh nhà tù của bạn, và đất có thể được định hình bằng các đường bờ biển, sử dụng đất và các loại sàn khác. Bất kỳ vùng đất hoặc hòn đảo nhỏ nào được tạo ra trong nước sẽ được hình thành ngay lập tức.\n\n4. Các biện pháp an ninh mới - Hàng cấm vẫn có thể xâm nhập thông qua tàu thuyền và trực thăng, vì vậy chúng tôi cũng cung cấp cho bạn một số thiết bị tối tân mới; - Xây dựng MÁY QUÉT tại các khu vực Giao hàng và Kho để kiểm tra các thùng hàng và hộp gỗ. Bạn sẽ cần một cai ngục cảnh giác để theo dõi trên MÀN HÌNH QUÉT đã kết nối. - Phân công cai ngục tới các TRẠM KIỂM SOÁT để khám người tất cả tù nhân và khách thăm đi qua. Đây là một cách tuyệt vời để phát hiện hàng cấm, nhưng có thể làm giảm lưu lượng di chuyển của tù nhân nếu không được đặt một cách chiến lược.\n\nCuối cùng, ngay cả các hòn đảo cũng không phải là nơi tuyệt đối không thể trốn thoát, vì vậy bạn nên dựng các Tháp canh Xạ thủ trên bờ biển để mắt tới những kẻ 'bơi giỏi'.\n\nĐó là tất cả mọi thứ - chúc may mắn!\n\nTổng giám đốc,\nTập đoàn Prison Architects Corp.
+
+# =============================================================================
+# Missing Strings
+# =============================================================================
+
+buildtoolbar_popup_help_jobs_6				- Khu trồng rừng phải được bao quanh để có thể phân công tù nhân làm việc tại đó và để ngăn chặn vượt ngục
+
+research_forestrylabour					Lao động trồng rừng
+researchtooltip_forestrylabour			Cho phép bạn đưa tù nhân vào làm việc tại Khu trồng rừng thông qua menu Hậu cần. Khu trồng rừng phải được bao quanh để có thể phân công tù nhân làm việc tại đó và để ngăn chặn vượt ngục. Lưu ý rằng tù nhân cũng sẽ cần quyền tiếp cận Khu giao hàng để trồng lại cây.
+action_usecomputer                      Đang dùng máy tính
+
+
+buildtoolbar_popup_help_roomquality_1       Chế độ xem Chất lượng phòng hiển thị cho bạn xếp hạng chất lượng của tất cả các phòng có thể nâng cấp trong nhà tù của bạn. Số càng cao, chất lượng càng tốt. Di chuột qua một phòng sẽ hiển thị các yếu tố dùng để xác định chất lượng của phòng đó và những gì bạn có thể thêm vào để tăng chất lượng đó.\n\n
+buildtoolbar_popup_help_roomquality_2		Khi BẬT chức năng CHUYỂN TRẠI TÙ NHÂN
+buildtoolbar_popup_help_roomquality_3		- Chất lượng phòng cũng sẽ đóng góp vào xếp hạng tổng thể cho Khu vực an ninh đó. 
+buildtoolbar_popup_help_roomquality_4		- Tù nhân sẽ mong muốn được chuyển sang một Khu vực an ninh thấp hơn, nếu khu vực đó tốt hơn (có xếp hạng cao hơn) so với Khu vực an ninh hiện tại của họ.\n\n
+buildtoolbar_popup_help_roomquality_5       XẾP HẠNG PHÒNG GIAM
+buildtoolbar_popup_help_roomquality_6       - Tù nhân có quyền được hưởng một phòng giam chất lượng cao hơn nếu cải tà quy chính theo thời gian. Có sẵn các phòng giam chất lượng cao là một cách tốt để khuyến khích hành vi tốt.
+buildtoolbar_popup_help_roomquality_7       - Việc duy trì một số phòng giam chất lượng thấp trong nhà tù là rất quan trọng, vì những người mới đến nhà tù sẽ cần một nơi nào đó để vào, và nếu tất cả các phòng giam có sẵn đều có chất lượng quá cao, họ có thể sẽ phải ở trong phòng tạm giam.
+buildtoolbar_popup_help_roomquality_8       - Tù nhân có thể được xếp vào một phòng giam có chất lượng cao hơn mức họ xứng đáng nếu không còn khoảng trống nào khác, nhưng điều đó có thể khiến các tù nhân khác không hài lòng...
+
+
+
+############################### Other ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_islandgenerator			Tạo đảo nhanh
+
+# =============================================================================
+# Object - Names
+# =============================================================================
+
+object_walkwaystairs				Cầu thang lối đi bộ (WIP)
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_obj_walkwaystairs			Đặt cạnh một Lối đi bộ trên cao (Lối đi trên tường) để cai ngục có thể tiếp cận lối đi và tuần tra từ trên cao.
+buildtoolbar_popup_mat_islandgenerator			Kéo các khu vực dưới nước để tạo ra một hòn đảo ngẫu nhiên. Hãy chắc chắn tránh các luồng hàng hải của tàu thuyền.
+
+
+#=====================================
+# Island Bound - Hotfix update
+#====================================
+
+interface_landbuyoverwater					Chọn tạo thêm các hòn đảo xung quanh luồng hàng hải của bạn để mở rộng, hoặc vùng nước mở.
+interface_landbuywaterislands					Các đảo
+interface_landbuywateronly					Chỉ nước
+
+codex_option_landExpansion		                	Mở rộng đất
+codex_tooltip_landExpansion			                Mở rộng phần đất trong mảnh đất của bạn thêm một lần cho mỗi phía, cho phép mảnh đất khởi đầu của bạn lớn hơn nhiều ngay từ đầu.
+
+
+quickbuild_smallIsland								Đảo (Nhỏ)
+quickbuild_mediumIsland								Đảo (Vừa)
+quickbuild_largeIsland								Đảo (Lớn)
+quickbuild_smallLand								Đất (Nhỏ)
+quickbuild_largeLand								Đất (Lớn)
+
+
+buildtoolbar_quickbuild_smallIsland						Một hòn đảo được sản xuất hàng loạt bao quanh bởi nước nông, trông hoàn toàn phù hợp trong bất kỳ quần đảo nào.
+buildtoolbar_quickbuild_mediumIsland					Một hòn đảo được sản xuất hàng loạt bao quanh bởi nước nông, trông hoàn toàn phù hợp trong bất kỳ quần đảo nào.
+buildtoolbar_quickbuild_largeIsland						Một hòn đảo được sản xuất hàng loạt bao quanh bởi nước nông, trông hoàn toàn phù hợp trong bất kỳ quần đảo nào.
+buildtoolbar_quickbuild_smallLand						Một khuôn mẫu cơ bản gồm các ô cát, đất và cỏ để sử dụng khi mở rộng đất của bạn.
+buildtoolbar_quickbuild_largeLand						Một khuôn mẫu cơ bản gồm các ô cát, đất và cỏ để sử dụng khi mở rộng đất của bạn.
+
+online_check_fail									Bạn hiện không có quyền truy cập vào tính năng này của trò chơi.
+
+############################### Green Machine Pack ###############################
+
+# =============================================================================
+# Materials - Names
+# =============================================================================
+
+material_ReclaimedWoodWall					Tường gỗ tái chế
+material_BottleWall							Tường vỏ chai
+material_WhitePicketFence					Hàng rào cọc trắng
+material_ReclaimedBrickFloor				Gạch tái chế
+material_ReclaimedRubberFloor				Cao su tái chế
+
+material_HayBailWall						Tường kiện rơm
+material_WoodenFence						Hàng rào gỗ
+material_GardenWall							Tường sân vườn
+material_SellMaterial						Bán vật liệu
+material_SellFlooring						Bán sàn
+
+# =============================================================================
+# Object - Names
+# =============================================================================
+
+object_shed									Lán
+object_BasicAutoGatherer					Máy gom tự động cơ bản
+object_AdvancedAutoGatherer					Máy gom tự động nâng cao
+object_AutoHarvester						Máy thu hoạch tự động
+object_AutoScythe							Lưỡi liềm tự động
+
+object_farmer								Nông dân
+object_CompostFertilizer					Phân bón ủ hữu cơ
+object_HighQualityFertilizer				Phân bón chất lượng cao
+
+object_CropCarrotPlant						Cây cà rốt
+object_CropPotatoPlant						Cây khoai tây
+object_CropTomatoPlant						Cây cà chua
+object_CropCabbagePlant						Cây bắp cải
+object_CropAppleTree						Cây táo
+object_CropBananaTree						Cây chuối
+object_CropOrangeTree						Cây cam
+object_CropPeachTree						Cây đào
+object_CropCornPlant						Cây ngô
+object_CropWheatPlant						Cây lúa mì
+object_CropBarleyPlant						Cây lúa mạch
+
+object_CropAppleTreeSeed					Hạt giống cây táo
+object_CropBananaTreeSeed					Hạt giống cây chuối
+object_CropOrangeTreeSeed					Hạt giống cây cam
+object_CropPeachTreeSeed					Hạt giống cây đào
+
+object_CropCarrotPlantSeed					Hạt giống cà rốt
+object_CropPotatoPlantSeed					Hạt giống khoai tây
+object_CropTomatoPlantSeed					Hạt giống cà chua
+object_CropCabbagePlantSeed					Hạt giống bắp cải
+object_CropCornPlantSeed					Hạt giống ngô
+object_CropWheatPlantSeed					Hạt giống lúa mì
+object_CropBarleyPlantSeed					Hạt giống lúa mạch
+
+
+
+object_apple								Táo
+object_banana								Chuối
+object_Peach								Đào
+object_orange								Cam
+object_carrot								Cà rốt
+object_cabbage								Bắp cải
+object_potato								Khoai tây
+object_tomato								Cà chua
+object_barley								Lúa mạch
+object_wheat								Lúa mì
+object_corn									Ngô
+object_OrganicWaste							Rác thải hữu cơ
+
+object_SolarPanels							Pin mặt trời
+object_Transformer							Máy biến áp
+object_WindTurbine							Tuabin gió
+object_SolarWindHybrid						Hệ năng lượng hỗn hợp Mặt trời - Gió
+object_Battery								Pin tích điện
+object_PowerExportMeter						Đồng hồ xuất điện
+object_PracticeSolarPanel					Tấm pin mặt trời thực hành
+
+object_TallFridge							Tủ lạnh cao
+object_StorageShelf							Kệ lưu trữ
+object_DripPipe								Ống nhỏ giọt
+
+object_CompostBin							Thùng ủ phân hữu cơ
+object_RecyclingBin							Thùng rác tái chế
+object_RecyclingBag							Túi rác tái chế
+
+object_GardenGnome							Chú lùn giữ vườn
+object_TopiaryBush							Bụi cây cảnh nghệ thuật
+object_TopiaryBushBall						Bụi cây cảnh (Hình cầu)
+object_TopiaryBushWarden					Bụi cây cảnh (Hình Giám đốc trại)
+object_TopiaryBushSwan						Bụi cây cảnh (Hình thiên nga)
+object_TopiaryBushDeer						Bụi cây cảnh (Hình con hươu)
+object_TopiaryBushDog						Bụi cây cảnh (Hình con chó)
+object_TopiaryBushCat						Bụi cây cảnh (Hình con mèo)
+object_TopiaryBushRex						Bụi cây cảnh (Hình khủng long Rex)
+object_SolarLight							Đèn (Năng lượng mặt trời)
+object_PinkFlamingo							Hồng hạc hồng trang trí
+object_HayBale								Kiện rơm
+object_FlowerPlanterWateringCan				Chậu hoa (Bình tưới nước)
+object_FlowerPlanterWellies					Chậu hoa (Ủng cao su)
+object_FlowerPlanterWheelbarrow				Chậu hoa (Xe rùa)
+object_SmallServingTable					Bàn phát đồ ăn (Nhỏ)
+object_TrayDispenser						Quầy để khay đồ ăn
+object_SolarWallLight						Đèn tường (Năng lượng mặt trời)
+
+object_BowtieBandit							Kẻ trộm nơ bướm
+object_Shepherd								Chó chăn cừu
+object_DumpObject							Vứt bỏ vật thể
+object_FlowerRoseBush						Bụi hoa hồng
+object_FlowerSunflower						Hoa hướng dương
+object_FlowerMixedBegonias					Hoa thu hải đường hỗn hợp
+object_FlowerHeatherBushes					Bụi hoa thạch nam
+object_FlowerHydrangeaPlant					Cây hoa cẩm tú cầu
+object_BarnDoor								Cửa chuồng trại
+object_FlowerRoseBushSeed					Hạt giống bụi hoa hồng
+object_FlowerSunflowerSeed					Hạt giống hoa hướng dương
+object_FlowerMixedBegoniasSeed				Hạt giống hoa thu hải đường hỗn hợp
+object_FlowerHeatherBushesSeed				Hạt giống bụi hoa thạch nam 
+object_FlowerHydrangeaPlantSeed				Hạt giống hoa cẩm tú cầu
+
+object_WhitePicketGate						Cổng rào cọc trắng
+object_DoubleDoor							Cửa đôi
+object_DoubleStaffDoor						Cửa đôi nhân viên
+object_DoubleVisitorDoor					Cửa đôi khách thăm
+object_SellUtility							Bán tiện ích
+object_quickconnect							Kết nối nhanh
+
+equipment_trowel							Cái bay làm vườn
+equipment_handFork							Cào tay nhỏ
+equipment_Kicker							Kicker
+equipment_Drink								Đồ uống
+equipment_BoozeBag							Túi rượu lậu
+equipment_Orange							Quả cam	
+equipment_ProducedDrugs						Ma túy tự sản xuất
+equipment_ProducedBooze						Rượu lậu tự sản xuất
+equipment_ProducedNarcotics					Nguyên liệu nấu rượu lậu
+
+equipment_HerbPlant							Ma túy
+
+# =============================================================================
+# Room - Names
+# =============================================================================
+
+room_VegetableAllotment					Vườn rau
+room_FruitOrchard						Vườn cây ăn quả
+room_FarmingField						Ruộng ngũ cốc
+room_pantry								Kho lạnh
+room_flowergarden						Vườn hoa
+
+buildtoolbar_popup_room_Pantry					Một căn phòng để lưu trữ tất cả trái cây và rau củ tươi vừa thu hoạch của bạn, phòng được làm lạnh để bảo quản các nguyên liệu cây nhà lá vườn này. 
+buildtoolbar_popup_room_VegetableAllotment		Một khu vực để trồng các loại rau. Rau trồng tại đây có thể được sử dụng làm bữa ăn cho tù nhân hoặc bán dưới dạng hàng xuất đi, tùy chọn Phân phối nông sản trong menu Hậu cần cho phép bạn thiết lập cách phân bổ nông sản theo ý muốn. 
+buildtoolbar_popup_room_FruitOrchard			Một khu vực để trồng cây ăn quả. Cây ăn quả sẽ ra trái liên tục sau đợt thu hoạch đầu tiên và có thể được dùng làm bữa ăn cho tù nhân hoặc bán dưới dạng hàng xuất đi, tùy chọn Phân phối nông sản trong menu Hậu cần cho phép bạn thiết lập cách phân bổ nông sản theo ý muốn. 
+buildtoolbar_popup_room_FarmingField			Một khu vực để trồng ngũ cốc và các loại hạt, những nông sản này chỉ có thể bán dưới dạng hàng xuất đi, tùy chọn Phân phối nông sản trong menu Hậu cần cho phép bạn thiết lập cách phân bổ nông sản theo ý muốn. Hãy cẩn thận vì nông sản trồng ở đây có thể bị tù nhân lén can thiệp để trồng ma túy.
+buildtoolbar_popup_room_flowergarden				Một khu vườn giải trí, để các tù nhân trồng trọt và chăm sóc cây cối.
+
+
+# =============================================================================
+# Build Toolbar
+# =============================================================================
+
+buildtoolbar_popup_mat_PerimeterWall						Ống nước không thể xây dựng ở bên dưới.
+buildtoolbar_popup_mat_ReclaimedWoodWall					Tường gỗ, được tạo ra bằng cách tái sử dụng các vật liệu cũ.
+buildtoolbar_popup_mat_BottleWall							Những bức tường đẹp đẽ và đầy màu sắc, được tạo ra bằng cách tái sử dụng các vật liệu cũ.
+buildtoolbar_popup_mat_WhitePicketFence						Rất tốt để bảo vệ vườn hoa của bạn, nhưng không tốt lắm trong việc giữ tù nhân.
+buildtoolbar_popup_mat_ReclaimedBrickFloor					Gạch lát sàn hoa văn xương cá, được tạo ra bằng cách tái sử dụng các vật liệu cũ.
+buildtoolbar_popup_mat_ReclaimedRubberFloor					Gạch lát sàn bằng cao su, được tạo ra bằng cách tái sử dụng các vật liệu cũ.
+buildtoolbar_popup_mat_HayBailWall				Những kiện rơm cao nhưng yếu ớt. Mang tính chất làm đẹp nhiều hơn là một lựa chọn an ninh nghiêm túc. Chỉ dùng ngoài trời
+buildtoolbar_popup_mat_WoodenFence				Hàng rào gỗ nhân tạo, mang lại vẻ ngoài tự nhiên hơn. Chỉ dùng ngoài trời.
+buildtoolbar_popup_mat_GardenWall				Thêm một chút sức sống và màu sắc cho ranh giới Nhà tù của bạn. Trong nhà và Ngoài trời.
+
+buildtoolbar_popup_obj_Shed				Một khu vực để lưu trữ tất cả hạt giống, dụng cụ và các vật dụng trồng trọt khác của bạn. Đi kèm với một vòi nước để cho phép tưới tiêu cơ bản.
+buildtoolbar_popup_obj_BasicAutoGatherer		Kích hoạt sau mỗi 6 giờ, để thu gom và lưu trữ tất cả nguyên liệu trong khu vực 5x5.
+buildtoolbar_popup_obj_AdvancedAutoGatherer		Kích hoạt sau mỗi 6 giờ, để thu gom và lưu trữ tất cả nguyên liệu trong khu vực 10x10.
+buildtoolbar_popup_obj_AutoHarvester			Kích hoạt sau mỗi 6 giờ, thu hoạch tất cả nông sản trong khu vực dài 10 ô ở phía trước - việc thu hoạch này sẽ bị chặn bởi tường và cửa. 
+buildtoolbar_popup_obj_AutoScythe			Một công cụ nông trại tự động kích hoạt sau mỗi 6 giờ trong trò chơi, để thu hoạch tất cả nông sản trong khu vực 5x5.
+
+
+buildtoolbar_popup_obj_CropCarrotPlant		Tự trồng Cà rốt của riêng bạn! Được mua theo gói 20 hạt giống thường cho ra 1 nguyên liệu mỗi cây khi thu hoạch, cà rốt thu hoạch được có thể bán với giá $4/củ.
+buildtoolbar_popup_obj_CropPotatoPlant		Tự trồng Khoai tây của riêng bạn! Được mua theo gói 20 hạt giống thường cho ra 3 củ khoai tây mỗi cây khi thu hoạch, khoai tây thu hoạch được có thể bán với giá $3/củ.
+buildtoolbar_popup_obj_CropTomatoPlant		Tự trồng Cà chua của riêng bạn! Được mua theo gói 10 hạt giống thường cho ra 5 quả cà chua mỗi cây khi thu hoạch, cà chua thu hoạch được có thể bán với giá $4/quả.
+buildtoolbar_popup_obj_CropCabbagePlant		Tự trồng Bắp cải của riêng bạn! Được mua theo gói 30 hạt giống thường cho ra 1 nguyên liệu mỗi cây khi thu hoạch, bắp cải thu hoạch được có thể bán với giá $4/cái.
+buildtoolbar_popup_obj_CropAppleTree		Phát triển thành một cây và liên tục cho ra Táo! Được mua theo gói 5 hạt giống. Sản lượng thông thường của mỗi cây là 10 quả táo, táo thu hoạch được có thể bán với giá $4/quả.
+buildtoolbar_popup_obj_CropBananaTree		Phát triển thành một cây và liên tục cho ra Chuối! Được mua theo gói 5 hạt giống. Sản lượng thông thường của mỗi cây là 16 quả chuối, chuối thu hoạch được có thể bán với giá $6/quả.
+buildtoolbar_popup_obj_CropPeachTree		Phát triển thành một cây và liên tục cho ra Đào! Được mua theo gói 5 hạt giống. Sản lượng thông thường của mỗi cây là 10 quả đào, đào thu hoạch được có thể bán với giá $6/quả.
+buildtoolbar_popup_obj_CropOrangeTree		Phát triển thành một cây và liên tục cho ra Cam! Được mua theo gói 5 hạt giống. Sản lượng thông thường của mỗi cây là 8 quả cam, cam thu hoạch được có thể bán với giá $3/quả.
+buildtoolbar_popup_obj_CropCornPlant		Tự trồng Ngô của riêng bạn! Được mua theo gói 10 hạt giống thường cho ra 5 bắp ngô mỗi cây khi thu hoạch, ngô thu hoạch được có thể bán với giá $5/bắp.
+buildtoolbar_popup_obj_CropWheatPlant		Tự trồng Lúa mì của riêng bạn! Được mua theo gói 20 hạt giống thường cho ra 4 bông lúa mì mỗi cây khi thu hoạch, lúa mì thu hoạch được có thể bán với giá $6/phần.
+buildtoolbar_popup_obj_CropBarleyPlant		Tự trồng Lúa mạch của riêng bạn! Được mua theo gói 20 hạt giống thường cho ra 2 bông lúa mạch mỗi cây khi thu hoạch, lúa mạch thu hoạch được có thể bán với giá $3/phần.
+
+buildtoolbar_popup_obj_TallFridge			Giờ đây, các nguyên liệu bữa ăn có thể được lưu trữ ở tầm cao ngang đầu!
+buildtoolbar_popup_obj_StorageShelf			Rất tốt để tăng không gian lưu trữ.
+buildtoolbar_popup_obj_DripPipe				Tự động hóa việc tưới tiêu nông sản cho 2 ô liền kề với ống nhỏ giọt tiện lợi này. Vật phẩm này chỉ có thể đặt trên một đường thẳng; các đường ngang và dọc không thể nối trực tiếp với nhau.
+
+buildtoolbar_popup_uts_SolarPanels			Một máy phát điện khai thác năng lượng của Mặt trời! Chúng có thể được kết nối với nhiều nguồn năng lượng xanh, nhưng dòng điện của chúng trước tiên phải đi qua Máy biến áp trước khi có thể sử dụng trong nhà tù của bạn.
+buildtoolbar_popup_uts_Transformer			Chuyển đổi điện năng được tạo ra từ các nguồn năng lượng xanh thành năng lượng phù hợp với các thiết bị, có thể kết nối nhiều nguồn năng lượng nhưng Máy biến áp có giới hạn đầu vào là 5000 đơn vị điện năng. Cáp điện phải được kết nối theo hướng được hiển thị bởi các hình mũi tên đính kèm.
+buildtoolbar_popup_uts_WindTurbine			Một máy phát điện khai thác năng lượng của gió! Chúng có thể được kết nối với nhiều nguồn năng lượng xanh, nhưng dòng điện của chúng trước tiên phải đi qua Máy biến áp trước khi có thể sử dụng trong nhà tù của bạn.
+buildtoolbar_popup_uts_SolarWindHybrid		Một máy phát điện khai thác cả năng lượng gió và Mặt trời! Chúng có thể được kết nối với nhiều nguồn năng lượng xanh, nhưng dòng điện của chúng trước tiên phải đi qua Máy biến áp trước khi có thể sử dụng trong nhà tù của bạn.
+buildtoolbar_popup_uts_Battery				Lưu trữ năng lượng dư thừa được chuyển đổi bởi Máy biến áp để dùng trong trường hợp khẩn cấp hoặc sử dụng dưới dạng hàng xuất đi, phải được đặt liền kề với Máy biến áp để hoạt động.
+buildtoolbar_popup_uts_PowerExportMeter		Một vật thể cho phép bạn gửi bất kỳ nguồn năng lượng lưu trữ nào trở lại lưới điện để thu về lợi nhuận tài chính. Phải được nối dây với một Máy biến áp có kết nối Pin tích điện để hoạt động chính xác.
+buildtoolbar_popup_obj_PracticeSolarPanel	Một tấm pin mặt trời đơn lẻ được đặt trên một chiếc bàn nhỏ, được sử dụng bởi tối đa 4 tù nhân trong Xưởng lao động, phục vụ cho Chương trình Phát triển Pin Mặt trời.
+
+buildtoolbar_popup_obj_CompostBin			Được sử dụng để tái chế thực phẩm và rác thải hữu cơ thành phân bón hữu ích.
+buildtoolbar_popup_obj_RecyclingBin			Tái chế rác thải thay vì vứt bỏ nó dưới dạng rác thông thường vừa tốt cho môi trường, vừa tốt cho túi tiền của bạn sau khi nghiên cứu "Khuyến khích tái chế"!
+buildtoolbar_popup_obj_CompostFertilizer	Khi bón cho ruộng ngũ cốc và vườn rau, chúng sẽ được tăng 25% tốc độ phát triển và thời gian chín, đồng thời có một tỷ lệ nhỏ rơi ra hạt giống.
+buildtoolbar_popup_obj_HighQualityFertilizer	Khi bón cho ruộng ngũ cốc và vườn rau, chúng sẽ được tăng 50% tốc độ phát triển và thời gian chín, đồng thời có tỷ lệ rơi ra hạt giống cao hơn.
+
+buildtoolbar_popup_obj_GardenGnome			Một món đồ trang trí sân vườn cổ điển vui nhộn.
+buildtoolbar_popup_obj_TopiaryBush			Một bụi cây cảnh uốn lượn nghệ thuật.
+buildtoolbar_popup_obj_TopiaryBushBall		Một bụi cây cảnh có hình dạng như một cây kẹo mút.
+buildtoolbar_popup_obj_TopiaryBushWarden	Một bụi cây cảnh được tạo hình theo Giám đốc trại.
+buildtoolbar_popup_obj_TopiaryBushSwan		Một bụi cây cảnh được tạo hình theo một chú thiên nga thanh lịch.
+buildtoolbar_popup_obj_TopiaryBushDeer		Một bụi cây cảnh được tạo hình theo một chú hươu đực hùng vĩ.
+buildtoolbar_popup_obj_TopiaryBushDog		Một bụi cây cảnh được tạo hình theo những người bạn bốn chân năng động của chúng ta.
+buildtoolbar_popup_obj_TopiaryBushCat		Một bụi cây cảnh được tạo hình theo những chú mèo lười biếng của chúng ta.
+buildtoolbar_popup_obj_TopiaryBushRex		Một bụi cây cảnh được tạo hình ấn tượng.
+buildtoolbar_popup_obj_SolarLight			Đèn năng lượng mặt trời tự cấp nguồn, tự động bật vào ban đêm.
+buildtoolbar_popup_obj_PinkFlamingo			Một món đồ trang trí sân vườn cổ điển vui nhộn.
+buildtoolbar_popup_obj_HayBale				Một đống rơm trang trí.
+buildtoolbar_popup_obj_FlowerPlanterWateringCan			Một vật chứa đơn giản được tái chế để trồng hoa.
+buildtoolbar_popup_obj_FlowerPlanterWellies				Một đôi ủng cao su được tái chế để trồng hoa.
+buildtoolbar_popup_obj_FlowerPlanterWheelbarrow			Một sự bổ sung đầy màu sắc cho các khu vực ngoài trời của bạn.
+buildtoolbar_popup_obj_SmallServingTable				Phục vụ đồ ăn cho các tù nhân của bạn.
+buildtoolbar_popup_obj_TrayDispenser					Được sử dụng để chứa các khay đồ ăn dự phòng, sức chứa tối đa là 200 khay.
+buildtoolbar_popup_obj_SolarWallLight					Đèn tường năng lượng mặt trời có thể đặt trên tường và tự động bật vào ban đêm.
+
+buildtoolbar_popup_obj_BowtieBandit			Một anh chàng rất bảnh bao.
+buildtoolbar_popup_obj_Shepherd				AI LÀ MỘT CÔ BÉ NGOAN NÀO!?
+
+buildtoolbar_popup_obj_DumpObject			Vứt bỏ các vật thể trong nhà tù của bạn.
+
+buildtoolbar_popup_staff_farmer				Chăm sóc sự phát triển của nông sản và quản lý tất cả các công việc liên quan đến các khu vực Vườn rau, Vườn cây ăn quả, hoặc Ruộng ngũ cốc.
+
+buildtoolbar_popup_obj_FlowerRoseBush				Một bụi cây trang trí đầy những bông hoa hồng đỏ. 
+buildtoolbar_popup_obj_FlowerSunflower				Một bông hoa màu vàng lớn. 
+buildtoolbar_popup_obj_FlowerMixedBegonias			Một nhóm những bông hoa đầy màu sắc. 
+buildtoolbar_popup_obj_FlowerHeatherBushes			Một bụi cây bụi phổ biến và đầy màu sắc.
+buildtoolbar_popup_obj_FlowerHydrangeaPlant			Một loại cây trang trí đầy những bông hoa màu xanh lam.
+buildtoolbar_popup_obj_BarnDoor						Giờ đây không còn ai thắc mắc liệu các tù nhân có được nuôi lớn trong chuồng trại hay không nữa.
+buildtoolbar_popup_obj_WhitePicketGate				Rất tốt để bảo vệ vườn hoa của bạn, nhưng không tốt lắm trong việc giữ tù nhân.
+buildtoolbar_popup_obj_DoubleDoor					Cửa đôi có thể sử dụng bởi tất cả mọi người.
+buildtoolbar_popup_obj_DoubleStaffDoor				Cửa đôi dành cho nhân viên sử dụng.
+buildtoolbar_popup_obj_DoubleVisitorDoor			Cửa đôi dành cho khách thăm sử dụng.
+buildtoolbar_popup_obj_SellUtility					Bán một Vật phẩm Tiện ích.
+buildtoolbar_popup_obj_SellObject					Phương thức thủ công để bán các mặt hàng xuất đi, cũng có thể bán bất kỳ vật thể nào chưa sử dụng hoặc đã tháo dỡ với giá bằng 85% giá gốc của chúng.
+buildtoolbar_popup_obj_SellMaterial					Bán bất kỳ chồng vật liệu xây dựng dự phòng nào, chẳng hạn như dây cáp và gạch, với giá bằng 85% giá gốc của chúng.
+buildtoolbar_popup_obj_SellFlooring					Bán các ô gạch lát sàn không còn nhu cầu sử dụng, với giá bằng 85% giá gốc của chúng.
+
+
+buildtoolbar_popup_uts_quickconnect				Nhanh chóng kết nối bất kỳ hệ thống giám sát hoặc tự động hóa nào với vật phẩm tiếp nhận gần nhất của chúng.
