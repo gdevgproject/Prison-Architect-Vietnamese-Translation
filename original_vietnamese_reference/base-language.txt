@@ -2212,3 +2212,612 @@ objective_parole_count                  *X tù nhân đến hạn xét tạm tha
 
 objective_payment_receivedfull          Thanh toán: Đã nhận *X
 objective_payment_receivedpart          Thanh toán: Đã nhận *X trên tổng số *Y
+
+objective_grant_bootstraps              Trung tâm Tạm giam Cơ bản
+objective_grant_bootstraps_description      Biến một cánh đồng trống thành một nhà tù hoạt động ổn định. Hợp đồng chính phủ này cung cấp cho bạn số vốn cần thiết để xây dựng các cơ sở vật chất tối thiểu cho nhóm Tù nhân đầu tiên.
+objective_grant_bootstraps_holdingcell      Xây một phòng tạm giam
+objective_grant_bootstraps_shower           Xây một phòng tắm
+objective_grant_bootstraps_yard             Xây một sân tù 
+objective_grant_bootstraps_kitchen          Xây một nhà bếp
+objective_grant_bootstraps_canteen          Xây một nhà ăn
+objective_grant_bootstraps_guard            Thuê ít nhất hai cai ngục
+objective_grant_bootstraps_chef             Thuê ít nhất hai đầu bếp
+
+objective_grant_administration                          Trung tâm Hành chính
+objective_grant_administration_description              Mỗi dự án nhà tù đều cần một cơ sở hành chính hoạt động tốt để đảm bảo mọi thứ diễn ra suôn sẻ và chịu trách nhiệm cho dự án. Hợp đồng này chi trả cho Giám đốc trại, Kế toán cùng văn phòng của họ, từ đó giúp chúng ta tiếp cận hệ thống Trợ cấp Liên bang toàn diện.
+objective_grant_administration_offices                  Xây hai văn phòng
+objective_grant_administration_warden                   Thuê một Giám đốc trại 
+objective_grant_administration_accountant_research     Mở khóa Tài chính thông qua Hành chính
+objective_grant_administration_accountant               Thuê một Kế toán
+
+objective_grant_firstcellblock                  Khu Giam A
+objective_grant_firstcellblock_description      Các cơ sở cơ bản đã đi vào hoạt động. Đã đến lúc xây dựng khu giam đầu tiên của bạn và chuyển các tù nhân hiện tại vào phòng giam riêng của họ.
+objective_grant_firstcellblock_cells           Nâng Sức chứa Tù nhân lên 15
+
+objective_grant_health                      Sức khỏe và Phúc lợi Tù nhân
+objective_grant_health_description          Sức khỏe thể chất và tinh thần của các tù nhân rất quan trọng đối với chúng tôi. Khoản trợ cấp này nhằm tạo điều kiện xây dựng một trạm y tế hiện đại, đồng thời thuê bác sĩ và nhà tâm lý học để chăm sóc các nhu cầu sức khỏe của tù nhân.
+objective_grant_health_ward                  Xây một trạm y tế
+objective_grant_health_doctors               Thuê ít nhất hai bác sĩ
+objective_grant_health_psychologist          Thuê một nhà tâm lý (Yêu cầu một Văn phòng)
+
+objective_grant_bailout                      Cứu trợ Chính phủ
+objective_grant_bailout_description          Chính phủ vô cùng không hài lòng với hiệu suất của bạn, nhưng đã quyết định nhà tù của bạn quá lớn để có thể sụp đổ. Tiền thuế của người dân sẽ được cấp để giải cứu nhà tù khỏi bị phá sản. Tuy nhiên, bạn phải cân đối sổ sách - giúp nhà tù đạt dòng tiền dương (thu nhập hàng ngày cao hơn chi phí), và xóa sạch các khoản nợ với ngân hàng.
+objective_grant_bailout_cashflow            Thu nhập cao hơn chi phí
+objective_grant_bailout_debt                Xóa sạch các khoản nợ của bạn
+
+
+objective_grant_maintenance                          Bảo trì Nhà tù
+objective_grant_maintenance_description              Việc chăm sóc và bảo trì tổng thể nhà tù cùng khuôn viên là điều quan trọng đối với cả an ninh và sự an toàn của nhân viên lẫn tù nhân. Hãy thuê nhân sự cần thiết để giữ cho nhà tù của bạn sạch sẽ và ngăn nắp.
+objective_grant_maintenance_research_root            Mở khóa Bảo trì thông qua Hành chính
+objective_grant_maintenance_research_cleaning        Mở khóa Vệ sinh thông qua Hành chính
+objective_grant_maintenance_research_groundskeeping Mở khóa Chăm sóc cảnh quan thông qua Hành chính
+objective_grant_maintenance_foreman                 Thuê một Đốc công (Yêu cầu một Văn phòng)
+objective_grant_maintenance_janitor                 Thuê ít nhất hai lao công
+objective_grant_maintenance_gardener                Thuê một người làm vườn 
+
+objective_grant_visitation                          Quyền Thăm nuôi
+objective_grant_visitation_description              Một số cơ sở khác trong khu vực đang phải đối mặt với hành động pháp lý vì từ chối quyền thăm nuôi của tù nhân. Các nhà đầu tư không muốn xảy ra bê bối, và họ đang cung cấp khoản trợ cấp này để đảm bảo có sẵn các cơ sở vật chất đầy đủ.
+objective_grant_visitation_room                      Xây một phòng thăm nuôi
+objective_grant_visitation_tables                    Thêm ít nhất ba bàn thăm nuôi
+objective_grant_visitation_commonroom                Xây một phòng sinh hoạt
+objective_grant_visitation_pooltable                Thêm một bàn bi-a
+objective_grant_visitation_tv                        Thêm ít nhất hai tivi
+objective_grant_visitation_phones                    Xây ít nhất năm buồng điện thoại
+
+objective_grant_basicsecurity                        Chứng nhận Quy trình An ninh
+objective_grant_basicsecurity_description            Một sai lầm phổ biến ở các nhà tù mới là sơ hở an ninh do nhân viên chưa có kinh nghiệm với cơ sở vật chất. Hãy đảm bảo không có rủi ro đáng tiếc nào xảy ra sớm làm ảnh hưởng đến thành tích tương lai bằng cách tăng cường an ninh lên mức chấp nhận được.
+objective_grant_basicsecurity_chief                  Thuê một Trưởng an ninh (Yêu cầu một Văn phòng)
+objective_grant_basicsecurity_guards                 Thuê mười cai ngục
+objective_grant_basicsecurity_patrols                Phân công ba cai ngục vào các tuyến tuần tra
+objective_grant_basicsecurity_research              Mở khóa Tuần tra thông qua Hành chính
+
+objective_grant_enhancedsecurity                     Xếp hạng An ninh của Chính phủ
+objective_grant_enhancedsecurity_description         Chính phủ có các yêu cầu nhất định về an ninh đối với các nhà tù vượt quá quy mô quy định, và sẽ phạt nặng những nơi thiếu sót. Hãy đảm bảo điều này không trở thành vấn đề rắc rối.
+objective_grant_enhancedsecurity_armoury             Xây một kho vũ khí
+objective_grant_enhancedsecurity_kennel              Xây một chuồng chó
+objective_grant_enhancedsecurity_guards              Thuê hai cai ngục vũ trang
+objective_grant_enhancedsecurity_dogs                Thuê hai người dắt chó
+objective_grant_enhancedsecurity_patroldogs          Phân công hai người dắt chó vào tuyến tuần tra chó nghiệp vụ
+objective_grant_enhancedsecurity_patrolarmed         Phân công hai cai ngục vũ trang vào tuyến tuần tra
+
+objective_grant_advancedsecurity                     Triển khai Cơ sở Hạ tầng An ninh Cao
+objective_grant_advancedsecurity_description         Duy trì an ninh cho một lượng lớn tù nhân có thể gặp nhiều khó khăn, nhưng cái giá của một vụ vi phạm lớn hơn nhiều so với chi phí triển khai các biện pháp an ninh phù hợp. Hãy lắp đặt các thiết bị cần thiết trên khắp nhà tù của bạn.
+objective_grant_advancedsecurity_guards              Tăng quy mô lực lượng an ninh của bạn
+objective_grant_advancedsecurity_researchcctv        Mở khóa Camera an ninh thông qua Hành chính
+objective_grant_advancedsecurity_researchbodyarmour Mở khóa Áo giáp thông qua Hành chính
+objective_grant_advancedsecurity_researchtazers     Mở khóa Súng điện thông qua Hành chính
+objective_grant_advancedsecurity_office              Xây một phòng an ninh
+objective_grant_advancedsecurity_cctvmonitor         Xây một màn hình CCTV
+objective_grant_advancedsecurity_cctvcameras         Đặt các camera an ninh trên khắp nhà tù của bạn
+
+objective_grant_prisonerworkforce                    Làm quen và Thu hút Tù nhân Lao động 
+objective_grant_prisonerworkforce_description        Cho tù nhân làm việc trong nhà tù là một cách tốt để giúp họ hòa nhập vào môi trường, đồng thời cắt giảm chi phí. Hoàn thành khóa đào tạo cần thiết và xây dựng các cơ sở vật chất cần thiết để đưa tù nhân của bạn vào lao động.
+objective_grant_prisonerworkforce_research          Mở khóa Lao động tù nhân thông qua Hành chính
+objective_grant_prisonerworkforce_cleaning          Xây một tủ vệ sinh
+objective_grant_prisonerworkforce_laundry           Xây một phòng giặt
+objective_grant_prisonerworkforce_kitchenclass      Yêu cầu ba tù nhân hoàn thành chương trình An toàn bếp ăn và vệ sinh
+objective_grant_prisonerworkforce_laundryassigned   Phân công ba tù nhân làm việc trong phòng giặt
+objective_grant_prisonerworkforce_kitchenassigned   Phân công ba tù nhân làm việc trong nhà bếp
+objective_grant_prisonerworkforce_cleaningassigned  Phân công ba tù nhân làm việc tại tủ vệ sinh
+
+objective_grant_educationreformprogram              Sáng kiến Cải tạo thông qua Giáo dục
+objective_grant_educationreformprogram_description  Một nhóm chiến dịch nổi tiếng đang tiến hành một thí nghiệm xã hội quy mô lớn về tác động của giáo dục đối với tỷ lệ tái phạm của tù nhân. Hãy thiết lập một số phòng học và bắt đầu giáo dục tù nhân của bạn.
+objective_grant_educationreformprogram_research     Mở khóa Giáo dục thông qua Hành chính
+objective_grant_educationreformprogram_classroom    Xây một phòng học
+objective_grant_educationreformprogram_desks        Xây hai mươi bàn học
+objective_grant_educationreformprogram_foundationed Yêu cầu mười tù nhân vượt qua Khóa học giáo dục cơ bản
+objective_grant_educationreformprogram_generaled    Yêu cầu một tù nhân vượt qua Khóa học giáo dục phổ thông
+
+objective_grant_prisonlabour                        Cơ sở Sản xuất của Nhà tù
+objective_grant_prisonlabour_description            Các nhà tài trợ muốn bạn tăng khả năng sinh lời của nhà tù, và họ sẵn sàng đầu tư vốn để giúp xây dựng các xưởng lao động nhằm biến các tù nhân của bạn thành lực lượng lao động.
+objective_grant_prisonlabour_workshop                Xây một xưởng lao động
+objective_grant_prisonlabour_saw                     Lắp đặt hai máy cưa
+objective_grant_prisonlabour_press                   Lắp đặt hai máy ép
+objective_grant_prisonlabour_reform                  Yêu cầu năm tù nhân vượt qua Chương trình an toàn xưởng
+objective_grant_prisonlabour_plates                  Sản xuất 30 biển số xe
+
+objective_grant_furnituremanufacturing              Chương trình Học nghề Mộc
+objective_grant_furnituremanufacturing_description  Cung cấp các khóa học nghề mộc cho tù nhân có thể dạy họ một kỹ năng quý giá mà họ có thể sử dụng sau khi được trả tự do, và cho phép họ sản xuất đồ nội thất cao cấp trong xưởng lao động của bạn để bán nhằm tăng thu nhập. 
+objective_grant_furnituremanufacturing_forestry     Xây một khu trồng rừng
+objective_grant_furnituremanufacturing_table        Lắp đặt hai bàn thợ mộc
+objective_grant_furnituremanufacturing_reform        Yêu cầu hai tù nhân vượt qua khóa học Nghề mộc
+objective_grant_furnituremanufacturing_bed          Sản xuất mười giường cao cấp
+
+objective_grant_reducestaffstress                    Sáng kiến Phúc lợi cho Nhân viên
+objective_grant_reducestaffstress_description        Công đoàn công nhân nhà tù đã nhận được báo cáo về việc nhân viên bị căng thẳng quá mức và làm việc quá sức, đến mức dẫn đến sai sót. Hãy đảm bảo các vấn đề tương tự không xảy ra tại cơ sở của bạn.
+objective_grant_reducestaffstress_staffroom          Xây một phòng nghỉ nhân viên
+objective_grant_reducestaffstress_freeguards        Có ít nhất năm cai ngục không có nhiệm vụ được phân công
+objective_grant_reducestaffstress_restedstaff       Đảm bảo không có nhân viên nào của bạn bị kiệt sức
+
+objective_grant_shortterminvestment                  Đầu tư Ngắn hạn
+objective_grant_shortterminvestment_description      Nộp tiền vào một quỹ đầu tư, quỹ này cuối cùng sẽ mang lại mức lợi nhuận hợp lý dựa trên số tiền ban đầu của bạn.
+objective_grant_shortterminvestment_wait            Chờ đợi nhận tiền...
+
+objective_grant_longterminvestment                   Đầu tư Dài hạn
+objective_grant_longterminvestment_description       Nộp tiền vào một quỹ đầu tư dài hạn, quỹ này cuối cùng sẽ mang lại mức lợi nhuận lớn dựa trên số tiền ban đầu của bạn.
+objective_grant_longterminvestment_wait             Chờ đợi nhận tiền...
+
+objective_grant_cellblock50                          Khu Giam B
+objective_grant_cellblock50_description              Đã đến lúc mở rộng thêm nhà tù của bạn vượt ra khỏi một cơ sở tạm giam đơn thuần. 
+objective_grant_cellblock50_cells                    Nâng sức chứa tù nhân lên 50
+
+objective_grant_cellblock100                         Khu Giam C
+objective_grant_cellblock100_description             Sử dụng đất đai một cách hợp lý bằng cách tiếp tục mở rộng nhà tù của bạn.
+objective_grant_cellblock100_cells                   Nâng sức chứa tù nhân lên 100
+
+objective_grant_cellblock200                         Khu Giam D
+objective_grant_cellblock200_description             Nhiều tù nhân hơn đồng nghĩa với việc có nhiều ngân sách chính phủ hơn. Hãy tăng sức chứa của bạn để tận dụng điều này.
+objective_grant_cellblock200_cells                   Nâng sức chứa tù nhân lên 200
+
+objective_grant_cellblock500                         Khu Giam E
+objective_grant_cellblock500_description             Chính phủ đưa ra rất nhiều ưu đãi tài chính cho các nhà tù lớn nhất. Đã đến lúc hướng tới mục tiêu đó.
+objective_grant_cellblock500_cells                   Nâng sức chứa tù nhân lên 500
+
+objective_grant_nutritionresearch                    Nghiên cứu Dinh dưỡng Tù nhân
+objective_grant_nutritionresearch_description        Một nhóm nghiên cứu độc lập đang cung cấp ngân sách để bạn tham gia vào một thử nghiệm về tác động của việc thay đổi thói quen ăn uống của tù nhân. 
+objective_grant_nutritionresearch_poor               Phục vụ một bữa ăn duy nhất với khẩu phần ít, kém đa dạng trong vòng hai ngày
+objective_grant_nutritionresearch_good               Phục vụ ba bữa ăn với khẩu phần nhiều, độ đa dạng cao trong vòng hai ngày
+
+objective_grant_drugsearch                           Trấn áp Ma túy
+objective_grant_drugsearch_description               Những lo ngại về việc sử dụng ma túy trong các nhà tù lớn hơn gần đây đang gia tăng. Hãy có lập trường chủ động và chứng tỏ rằng bạn đang giải quyết vấn đề này.
+objective_grant_drugsearch_find                     Tìm thấy mười chất ma túy bất hợp pháp
+
+objective_grant_contrabandsupply                     Thu dọn Công cụ
+objective_grant_contrabandsupply_description         Sau một số sự cố ở các nhà tù khác liên quan đến vật phẩm bị mất cắp, một nhóm đang thực hiện các nghiên cứu về việc phân phối công cụ và vũ khí trên khắp các nhà tù. Phần này của thử nghiệm bao gồm việc cố gắng loại bỏ tất cả các vật phẩm như vậy khỏi toàn bộ tù nhân của bạn.
+objective_grant_contrabandsupply_tools             Loại bỏ nguồn cung cấp công cụ bị đánh cắp
+objective_grant_contrabandsupply_weapons           Loại bỏ nguồn cung cấp vũ khí bị đánh cắp
+
+grant_category_completed                             Đã hoàn thành:
+grant_category_unlocked                              Đã mở khóa:
+grant_category_cash                                  Tiền mặt:
+grant_category_cashflow                              Dòng tiền:
+grant_category_debt                                  Nợ:
+grant_category_prisoners                            Tù nhân:
+
+grant_property_atleast                               Ít nhất *X
+grant_property_atmost                                Không quá *X
+
+
+# =============================================================================
+# Materials
+# =============================================================================
+                                              
+                                                                                                                        
+object_none                              Không có
+object_box                               Hộp
+object_stack                             Chồng
+object_bed                               Giường
+object_bunkbed                           Giường tầng
+object_crib                              Nôi
+object_toilet                            Bồn cầu
+object_table                             Bàn
+object_chair                             Ghế
+object_bench                             Ghế dài
+object_electricchair                      Ghế điện
+object_jaildoor                           Cửa giam
+object_jaildoorlarge                      Cửa giam lớn
+object_door                               Cửa
+object_solitarydoor                       Cửa biệt giam
+object_staffdoor                          Cửa nhân viên
+object_remotedoor                         Cửa từ xa
+object_roadgate                           Cổng đường
+object_jailbars                           Song sắt
+object_window                             Cửa sổ
+object_windowlarge                        Cửa sổ lớn
+object_tree                               Cây
+object_light                              Đèn
+object_cooker                             Bếp nấu
+object_fridge                             Tủ lạnh
+object_bin                                Thùng rác
+object_sink                               Bồn rửa
+object_servingtable                       Bàn phát đồ ăn
+object_showerhead                         Vòi sen
+object_brick                              Gạch
+object_concrete                           Bê tông
+object_steel                              Thép
+object_ingredients                        Nguyên liệu
+object_ingredientscooking                 Nguyên liệu (Đang nấu)
+object_ingredientscooked                  Nguyên liệu (Đã nấu)
+object_ingredientsspoiled                  Nguyên liệu (Hỏng)
+object_meal                               Bữa ăn
+object_foodtray                           Khay đồ ăn
+object_foodtraydirty                      Khay đồ ăn (Bẩn)
+object_grassturf                          Thảm cỏ
+object_prisoneruniform                    Đồng phục tù nhân
+object_dirtyprisoneruniform              Đồng phục tù nhân (Bẩn)
+object_crumpledprisoneruniform            Đồng phục tù nhân (Nhàu nát)
+object_bleach                             Thuốc tẩy
+object_sheetmetal                         Tấm kim loại
+object_licenseplateblank                  Phôi biển số xe
+object_licenseplate                       Biển số xe
+object_log                                Khúc gỗ
+object_wood                               Gỗ
+object_workman                            Thợ xây
+object_truckdriver                        Tài xế
+object_guard                              Cai ngục
+object_riotguard                          Vệ binh bạo động
+object_armedguard                         Cai ngục vũ trang
+object_prisoner                           Tù nhân
+object_doctor                             Bác sĩ
+object_paramedic                          Cấp cứu viên
+object_cook                               Đầu bếp
+object_gardener                           Người làm vườn
+object_janitor                            Lao công
+object_fireman                            Lính cứu hỏa
+object_avatar                             Nhân vật đại diện
+object_actor                              Diễn viên
+object_visitor                            Khách thăm
+object_executionwitness                   Nhân chứng hành hình
+object_doghandler                         Người dắt chó
+object_dog                                Chó nghiệp vụ 
+object_dogcrate                           Cũi chó
+object_teacher                            Giáo viên
+object_soldier                            Binh lính
+object_sniper                             Xạ thủ
+object_warden                             Giám đốc trại
+object_chief                              Trưởng an ninh
+object_foreman                            Đốc công
+object_psychologist                       Nhà tâm lý
+object_accountant                         Kế toán
+object_lawyer                             Luật sư
+object_supplytruck                        Xe tải chở hàng
+object_prisonerbus                        Xe buýt chở tù nhân
+object_fireengine                         Xe cứu hỏa
+object_riotvan                            Xe chống bạo động
+object_ambulance                          Xe cấp cứu
+object_hearse                             Xe tang
+object_trooptruck                         Xe chở quân
+object_fire                              Lửa
+object_garbage                            Rác
+object_rubble                             Đống đổ nát
+object_bookshelf                          Kệ sách
+object_officedesk                         Bàn làm việc
+object_filingcabinet                      Tủ hồ sơ
+object_medicalbed                         Giường bệnh
+object_morgueslab                         Bàn xác
+object_equipment                          Trang bị
+object_prop                              Đạo cụ
+object_dummy                              Bù nhìn
+object_powerstation                       Trạm điện
+object_capacitor                          Tụ điện
+object_electricalcable                    Dây điện
+object_powerswitch                        Công tắc điện
+object_logiccircuit                       Mạch logic
+object_logicbridge                        Cầu logic
+object_waterpumpstation                    Trạm bơm nước
+object_pipevalve                          Van ống nước
+object_pipelarge                          Ống lớn
+object_pipesmall                          Ống nhỏ
+object_drain                              Cống thoát
+object_metaldetector                      Máy dò kim loại
+object_weightsbench                       Ghế tập tạ
+object_phonebooth                         Buồng điện thoại
+object_tv                                 Tivi
+object_largetv                            Tivi lớn
+object_pooltable                          Bàn bi-a
+object_polaroid                           Ảnh Polaroid
+object_cctv                              Camera an ninh
+object_cctvmonitor                        Màn hình CCTV
+object_laundrymachine                     Máy giặt
+object_laundrybasket                      Giỏ đồ giặt
+object_ironingboard                       Bàn ủi
+object_visitortable                       Bàn thăm nuôi
+object_visitortablesecure                 Buồng thăm có kính
+object_workshopsaw                        Máy cưa
+object_workshoppress                      Máy ép
+object_carpentertable                     Bàn thợ mộc
+object_boombox                            Loa đài
+object_guardlocker                        Tủ khóa
+object_sofachairsingle                    Ghế sofa
+object_sofachairdouble                    Sofa đôi
+object_drinkmachine                       Máy bán nước
+object_arcadecabinet                      Máy game thùng
+object_radio                              Radio
+object_radiator                           Máy sưởi
+object_bookshelflarge                     Kệ sách thư viện
+object_weaponrack                         Giá vũ khí 
+object_treestump                          Gốc cây
+object_schooldesk                         Bàn học
+object_superiorbed                        Giường cao cấp
+object_doorcontrolsystem                  Hệ thống điều khiển cửa
+object_phonemonitor                       Máy nghe lén
+object_servo                              Mô-tơ cửa
+object_doortimer                          Hẹn giờ cửa
+object_pressurepad                        Tấm cảm áp
+object_statuslight                        Đèn báo hiệu
+object_wire                               Nối dây
+object_dismantleobject                    Tháo dỡ vật thể
+object_dismantleutility                   Tháo dỡ tiện ích
+object_sellobject                         Bán vật thể
+object_canceljobs                         Hủy công việc
+object_showallwires                       Hiện tất cả dây
+object_tidywires                          Thu gọn dây nối
+object_cutscenepolaroid                   Ảnh Polaroid cắt cảnh
+object_cutscenecamera                     Camera cắt cảnh
+object_cutscenecue                        Tín hiệu cắt cảnh
+object_cutscenecaption                    Phụ đề cắt cảnh
+object_foodwaste                          Thức ăn thừa
+object_altar                              Bàn thờ
+object_pews                               Ghế nhà nguyện
+object_prayermat                          Thảm cầu nguyện
+object_paroleofficer                      Cán bộ tạm tha
+object_parolelawyer                       Luật sư tạm tha
+object_spiritualleader                    Cha xứ
+object_librarybookshelf                   Kệ thư viện
+object_librarybookunsorted                Sách thư viện (Chưa phân loại)
+object_librarybooksorted                  Sách thư viện (Đã phân loại)
+object_sortingtable                       Bàn phân loại
+object_ruinedbook                         Sách hỏng
+object_foodbowl                           Bát thức ăn
+object_appealslawyer                      Luật sư kháng cáo
+object_appealsmagistrate                  Thẩm phán phúc thẩm
+object_mailsatchel                        Túi thư
+object_mailunsorted                       Thư chưa phân loại
+object_mailsorted                         Thư đã phân loại
+object_prisonermail                       Thư tín
+object_prisonermailopened                 Thư tín (Đã mở)
+object_shopfront                          Quầy hàng
+object_shopgoods                          Hàng hóa căn tin
+object_shopshelf                          Kệ hàng
+object_playmat                            Thảm chơi
+object_guardtower                         Tháp canh
+object_waterboiler                        Bình đun nước
+object_pipehotwater                       Ống nước nóng
+object_stafffood                          Đồ ăn nhân viên
+object_stafffoodboxed                     Đồ ăn nhân viên
+object_newspaper                          Báo chí
+object_strikefire                         Lửa biểu tình
+object_climbingrope                       Dây leo
+object_roadbarrier                        Rào chắn
+object_barbedwire                         Dây kẽm gai
+object_banner                             Băng rôn
+object_stand                              Giá đứng
+
+material_none                             Không có
+material_building                         Tòa nhà (Gạch)
+material_buildingconcrete                Tòa nhà (Bê tông)
+material_demolish                         San phẳng
+material_clearindoorarea                  Dọn dẹp khu vực trong nhà
+material_demolishwalls                    Phá dỡ tường
+material_removetunnels                    Lấp hầm vượt ngục
+material_canceljobs                       Hủy công việc
+material_dirt                             Đất
+material_sand                             Cát
+material_pavingstone                      Đá lát
+material_grass                            Cỏ
+material_gravel                           Sỏi
+material_road                             Đường
+material_roadmarkings                     Vạch đường
+material_roadmarkingsleft                 Vạch đường (Trái)
+material_roadmarkingsright                Vạch đường (Phải)
+material_stone                            Đá
+material_fence                            Hàng rào
+material_concretetiles                    Gạch bê tông
+material_concretefloor                    Sàn bê tông
+material_woodenfloor                      Sàn gỗ
+material_ceramicfloor                     Sàn gạch men
+material_mosaicfloor                      Sàn khảm
+material_metalfloor                       Sàn kim loại
+material_marbletiles                      Gạch cẩm thạch
+material_whitetiles                       Gạch trắng
+material_fancytiles                       Gạch cao cấp
+material_concretewall                     Tường bê tông
+material_brickwall                        Tường gạch
+material_perimeterwall                    Tường bao
+material_burntfloor                       Sàn bị cháy
+material_burntwall                        Tường bị cháy
+material_buildingframe                    Khung tòa nhà
+material_roof                             Mái nhà
+material_water							 Nước
+
+room_none                                 Không có
+room_cell                                 Phòng giam
+room_holdingcell                          Phòng tạm giam
+room_solitary                             Biệt giam
+room_superiorcell                         Phòng giam cao cấp
+room_dormitory                            Phòng giam tập thể
+room_familycell                           Phòng giam gia đình
+room_sharedcell                           Phòng giam chung
+room_canteen                              Nhà ăn
+room_canteen_staff						 Nhà ăn nhân viên
+room_kitchen                              Nhà bếp
+room_shower                               Phòng tắm
+room_yard                                 Sân tù
+room_storage                              Kho
+room_deliveries                           Khu giao hàng
+room_garbage                              Khu rác
+room_execution                            Phòng hành hình
+room_workshop                             Xưởng lao động
+room_security                             Phòng an ninh
+room_office                               Văn phòng
+room_medicalward                          Trạm y tế
+room_morgue                               Nhà xác
+room_commonroom                           Phòng sinh hoạt
+room_laundry                              Phòng giặt
+room_visitation                           Phòng thăm nuôi
+room_cleaningcupboard                     Tủ vệ sinh
+room_kennel                               Chuồng chó
+room_armoury                              Kho vũ khí
+room_staffroom                            Phòng nghỉ nhân viên
+room_library                              Thư viện
+room_forestry                             Khu trồng rừng
+room_classroom                            Phòng học
+room_exports                              Khu xuất hàng
+room_chapel                               Nhà nguyện
+room_intake                               Phòng tiếp nhận
+room_clearrooms                           Xóa phòng
+room_paroleroom                           Phòng xét tạm tha
+room_mailroom                             Phòng thư tín
+room_shop                                 Căn tin
+room_nursery                              Phòng trẻ em
+room_dock								 Bến tàu
+room_Helipad							 Bãi đáp trực thăng
+
+equipment_none                             Không có
+equipment_fists                            Nắm đấm
+equipment_baton                            Dùi cui
+equipment_club                             Chùy
+equipment_shank                            Dao tự chế
+equipment_knife                            Dao
+equipment_fork                             Nĩa
+equipment_gun                              Súng
+equipment_spoon                            Thìa
+equipment_needle                           Kim khâu
+equipment_booze                            Rượu lậu
+equipment_poison                           Chất độc
+equipment_cigs                             Thuốc lá
+equipment_saw                              Cưa
+equipment_jailkeys                         Chìa khóa giam
+equipment_mobilephone                       Điện thoại
+equipment_lighter                          Bật lửa
+equipment_screwdriver                      Tua vít
+equipment_drugs                            Ma túy
+equipment_sheers                           Kéo cắt cây
+equipment_mop                              Cây lau nhà
+equipment_rake                             Cào
+equipment_hose                             Vòi cứu hỏa
+equipment_spatula                          Xẻng nấu ăn
+equipment_woodenspoon                      Thìa gỗ
+equipment_cleaningbrush                    Chổi lau
+equipment_hammer                           Búa
+equipment_clipboard                        Bảng kẹp hồ sơ
+equipment_drill                            Máy khoan
+equipment_pianowire                        Dây đàn piano
+equipment_scissors                         Kéo
+equipment_medicine                         Thuốc
+equipment_shotgun                          Súng săn
+equipment_moneybag                         Túi tiền
+equipment_tazer                            Súng điện
+equipment_guarduniform                     Đồng phục cai ngục
+equipment_stabvest                         Áo chống đâm
+equipment_rifle                            Súng trường
+equipment_dogleash                         Dây dắt chó
+equipment_assaultrifle                     Súng tấn công
+equipment_woodenpickaxe                    Cuốc chim gỗ
+equipment_cbradio                          Bộ đàm CB
+equipment_axe                              Rìu
+equipment_spade                            Xẻng
+equipment_book                             Sách
+equipment_megaphone                        Loa cầm tay
+equipment_magazine                         Tạp chí
+equipment_batteringram                     Búa phá cửa
+equipment_iron                             Bàn ủi
+equipment_microphone                       Micro
+equipment_torch                            Đèn pin
+equipment_bookclosed                       Sách
+equipment_rope							Dây thừng
+
+research_requires_short                     Yêu cầu một *X
+
+reformprogram_workshopinduction            An toàn xưởng
+reformprogram_foundationeducation           Giáo dục cơ bản
+reformprogram_generaleducation              Giáo dục phổ thông
+reformprogram_carpentry                     Học nghề mộc
+reformprogram_kitcheninduction              An toàn bếp ăn
+reformprogram_therapy                       Trị liệu hành vi
+reformprogram_methadone                     Cai nghiện bằng thuốc
+reformprogram_alcoholicsmeeting             Trị liệu nhóm cai rượu
+reformprogram_tazertraining                 Chứng chỉ súng điện
+reformprogram_spiritualguidance             Hướng dẫn tâm linh
+reformprogram_parolehearing                 Xét tạm tha
+reformprogram_deathrowappeal                Kháng cáo tử tù
+
+reformprogram_tazertrained                  Chứng chỉ: Súng điện
+
+reformprogram_workshopinduction_text        An toàn là trên hết! Tù nhân phải vượt qua khóa học này trước khi được phép làm việc trong Xưởng lao động.
+reformprogram_foundationeducation_text      Nhiều tù nhân thậm chí còn thiếu nền tảng cơ bản về kỹ năng đọc, viết và toán học. Khóa học này sẽ nâng cao trình độ của tù nhân lên mức đó. Vượt qua khóa học cho phép tù nhân làm việc trong Thư viện.
+reformprogram_carpentry_text                Một kỹ năng nghề phức tạp đòi hỏi khả năng thực hành tốt. Những tù nhân đủ điều kiện có thể sử dụng kỹ năng này để tạo ra các vật phẩm bằng gỗ có giá trị cao trên bàn thợ mộc.
+reformprogram_kitcheninduction_text         Các tiêu chuẩn thực phẩm là rất quan trọng khi phải phục vụ cho hàng trăm người cùng một lúc. Tù nhân phải hoàn thành khóa học này trước khi được phép làm việc trong nhà bếp.
+reformprogram_therapy_text                  Tù nhân thường gặp khó khăn trong việc kiểm soát bản tính bạo lực của mình. Những buổi trị liệu một-đối-một này với nhà tâm lý học nhà tù nhằm cung cấp cho họ những công cụ cần thiết để xoa dịu mọi tình huống bất lợi trước khi nó trở nên bạo lực.
+reformprogram_methadone_text                Một liệu trình gồm 5 chất thay thế dược lý, được sử dụng để chống lại sự nghiện ngập ma túy của tù nhân. Mỗi lần điều trị giúp tù nhân giải quyết nhu cầu nghiện của họ, và hoàn thành khóa học có cơ hội loại bỏ hoàn toàn chứng nghiện.
+reformprogram_alcoholicsmeeting_text        Một buổi gặp mặt trị liệu nhóm dành cho người nghiện rượu. Giúp giảm bớt cảm giác thèm rượu bia, nhưng không bao giờ loại bỏ hoàn toàn nhu cầu này.
+reformprogram_parolehearing_text            Một buổi điều trần để xác định xem tù nhân có đủ điều kiện để được trả tự do sớm hay không. Việc tạm tha thành công khi tù nhân không tái phạm sẽ mang lại một khoản tiền thưởng hậu hĩnh. 
+reformprogram_spiritualguidance_text        Một số tù nhân có tôn giáo hoặc có nhu cầu chung về tâm linh trong cuộc sống của họ. Hãy mời một cha xứ từ cộng đồng địa phương đến để dẫn dắt họ qua các buổi cầu nguyện và truyền cảm giác bình yên cho các tù nhân của bạn.
+
+reformerror_unscheduled                     CHƯA LÊN LỊCH
+reformerror_noroom                          KHÔNG TÌM THẤY PHÒNG
+reformerror_nofreetimeslot                  TẤT CẢ PHÒNG ĐÃ KÍN
+reformerror_staffonly                       TẤT CẢ PHÒNG CHỈ DÀNH CHO NHÂN VIÊN
+reformerror_noobjects                       KHÔNG CÓ TRANG BỊ
+reformerror_noregimetime                    KHÔNG CÓ KHUNG GIỜ SINH HOẠT KHỚP
+reformerror_noteachers                      KHÔNG CÓ GIÁO VIÊN
+
+reform_interested                           *X Quan tâm 
+reform_interested_qualified                 *X Quan tâm/Đủ điều kiện 
+reform_queued                               *X Trong hàng chờ 
+reform_completion                       - *X Đã xong - *Y Đạt (*P%)
+reform_locked                           ĐÃ KHÓA
+reform_start                            BẮT ĐẦU
+reform_costpersession                   *X mỗi buổi
+reform_placespersession                 *X chỗ / *Y buổi
+reform_program_starting                 Đang bắt đầu
+reform_program_active                   ĐANG HOẠT ĐỘNG
+reform_program_paused                   Đã tạm dừng
+reform_program_stop                     DỪNG
+reform_program_ledby                    - Dẫn dắt bởi một *P trong một *Z
+reform_program_ledwith                  - Hỗ trợ bởi một *S
+reform_program_length                   - Thời lượng buổi học: *X giờ
+reform_program_requirements             - Mỗi tù nhân cần một *X
+reform_program_requirements_alt         - Mỗi tù nhân cần một *X hoặc một *Y
+reform_program_prereqs                  Tù nhân phải hoàn thành:
+reform_program_research_required        Yêu cầu: *X
+
+reform_program_intake_none                      Không có
+reform_program_intake_mandatory                 Bắt buộc
+reform_program_intake_voluntary                 Tự nguyện
+reform_program_intake_referralviolence          Chỉ định: Bạo lực
+reform_program_intake_referraldrugaddiction     Chỉ định: Nghiện ma túy
+reform_program_intake_referralalcoholism        Chỉ định: Nghiện rượu
+reform_program_intake_guards                    Chỉ dành cho Cai ngục
+reform_program_intake_parole                    Sau khi đã chấp hành 50% hoặc 75% thời hạn tù
+reform_program_intake_needrequired              Mỗi tù nhân cần có một nhu cầu cụ thể trước khi tham gia
+reform_program_intake_deathrow                  Tù nhân thuộc diện Tử tù
+
+reform_program_properties_canhireexternally     Có thể thuê ngoài
+reform_program_properties_studentssit            Học viên ngồi
+reform_program_properties_academic              Lý thuyết
+reform_program_properties_practical             Thực hành
+reform_program_properties_repeatable            Có thể học lại
+reform_program_properties_passive               Bị động
+reform_program_properties_staffonly             Chỉ dành cho nhân viên
+reform_program_properties_outsideofwork         Có thể ngoài giờ lao động
+reform_program_properties_teacherssit            Giáo viên ngồi
+reform_program_properties_canescortstudent      Học viên có thể được áp giải bởi cai ngục
+
+reform_program_waittime                         Chỉ có thể thực hiện một lần mỗi *T ngày
+
+reform_program_difficulty_easy          - Dễ
+reform_program_difficulty_intermediate  - Trung bình
+reform_program_difficulty_advanced      - Nâng cao
+reform_program_difficulty_expert        - Chuyên gia
+
+regime_nothing                          Giam phòng
+regime_sleep                            Ngủ nghỉ
+regime_eat                              Ăn
+regime_shower                           Tắm
+regime_yard                             Ra sân
+regime_work                             Lao động/Tự do
+regime_lockdown                         Phong tỏa
+regime_freetime                         Giờ tự do
+regime_currenttime                      Hiện tại
+regime_unspecified                      Chưa xác định
+regime_worklockdown                     Lao động/Giam phòng
+
+regimetooltip_nothing                    Tù nhân bị khóa trong phòng giam của họ. Họ không có việc gì làm ngoài việc tự suy ngẫm về những lựa chọn đã đưa họ đến nơi này.\n\nNhững khoảng thời gian giam phòng kéo dài có thể là một hình phạt mang tính quyết định ngay cả với những tù nhân ngoan cố nhất.
+regimetooltip_sleep                      Tù nhân bị khóa trong phòng giam của họ, và đèn sẽ được tắt. Mọi người đều đi ngủ.\n\nNgoại trừ những kẻ đang đào hầm vượt ngục...
+regimetooltip_eat                        Tù nhân di chuyển đến nhà ăn gần nhất có thể tiếp cận và ngồi ăn trưa.\n\nTù nhân được phép sử dụng bất kỳ cơ sở vật chất nào trong Nhà ăn, sau khi ăn xong họ có thể di chuyển tự do quanh nhà tù..
+regimetooltip_shower                     Tù nhân cởi quần áo và vào phòng tắm. Thời gian tắm rửa hàng ngày là điều cần thiết cho vệ sinh của tù nhân, nhưng một số tù nhân sẽ đơn giản là bỏ qua trừ khi bị bắt buộc làm vậy. Sau khi tắm xong họ có thể di chuyển tự do quanh nhà tù.
+regimetooltip_yard                       Tù nhân được thả ra khỏi cơ sở để ra sân nhằm vận động, đón ánh nắng và không khí trong lành rất cần thiết.\n\nTù nhân sẽ sử dụng bất kỳ cơ sở vật chất nào trong sân tù trong thời gian này, như ghế tập tạ để rèn luyện thể lực, điện thoại để gọi cho người thân, vòi sen, v.v. Sau khi tập thể dục xong họ có thể di chuyển tự do quanh nhà tù.
+regimetooltip_work                       Tù nhân được đưa đi lao động xung quanh nhà tù.  Bất kỳ vị trí việc làm trống nào đều sẽ được lấp đầy và tù nhân sẽ tự động trình diện tại địa điểm làm việc của họ. (Bạn có thể thiết lập các vị trí việc làm từ màn hình Bố trí.)\n\nTất cả các chương trình Cải tạo cũng diễn ra trong giờ Lao động. Tù nhân không có việc làm và hiện không được phân công vào chương trình Cải tạo có thể tự do đi lại quanh nhà tù như trong 'Giờ tự do'.
+regimetooltip_freetime                   Tù nhân được thả ra khỏi phòng giam và được phép sử dụng bất kỳ cơ sở vật chất nào xung quanh nhà tù. Tù nhân thích thời gian này nhất, họ sẽ giao lưu và tự chăm sóc các nhu cầu của mình một cách tốt nhất có thể.\n\nNhững khoảng thời gian tự do kéo dài có thể làm giảm bớt sự căng thẳng và áp lực trong nhà tù của bạn, nhưng many tin rằng điều này khó có thể coi là một hình phạt.
+regimetooltip_worklockdown               Tù nhân được đưa đi lao động xung quanh nhà tù.  Bất kỳ vị trí việc làm trống nào đều sẽ được lấp đầy và tù nhân sẽ tự động trình diện tại địa điểm làm việc của họ. (Bạn có thể thiết lập các vị trí việc làm từ màn hình Bố trí.)\n\nTất cả các chương trình Cải tạo cũng diễn ra trong giờ Lao động. Tù nhân không có việc làm và hiện không được phân công vào chương trình Cải tạo sẽ bị giới hạn trong phòng giam của họ như trong giờ 'Giam phòng'.
+
+regime_clear                            Xóa lịch sinh hoạt cho danh mục tù nhân này, và sử dụng lịch sinh hoạt An ninh Bình thường mặc định để thay thế.
+
+schedule_editor_students                Học viên: *X/*Y
+schedule_editor_error_staffonly         Phòng mục tiêu được đánh dấu là Chỉ dành cho Nhân viên
+schedule_editor_error_noregimetime     Chương trình nằm ngoài lịch sinh hoạt Lao động hợp lệ
+schedule_editor_error_noteachers        Không có giáo viên nào tồn tại cho chương trình này
+schedule_editor_error_noobjects         Các vật thể cần thiết cho chương trình này không thể tìm thấy trong một phòng hợp lệ
+schedule_editor_pin                     Ghim cố định chương trình này
+schedule_editor_unpin                   Bỏ ghim chương trình này
