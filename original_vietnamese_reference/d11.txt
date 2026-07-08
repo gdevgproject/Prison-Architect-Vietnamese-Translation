@@ -26,11 +26,11 @@ tunnelsearch_underway								ĐANG TRONG QUÁ TRÌNH TÌM KIẾM HẦM
 buildtoolbar_popup_wallsanddoors					Các loại tường và cửa khác nhau
 buildtoolbar_popup_flooring							Các kiểu sàn khác nhau
 buildtoolbar_popup_spawn							Mở Menu Tạo vật thể.
-buildtoolbar_tunnelsearch							Khám xét tìm hầm
+buildtoolbar_tunnelsearch							Tìm hầm
 
 buildtoolbar_tooltip_tunnelsearch					Nghi ngờ có âm mưu vượt ngục đang diễn ra? Hãy ra lệnh cho cai ngục khám xét phía sau tất cả bồn cầu.		
 
-buildtoolbar_GuardResponse							Điều động cai ngục	
+buildtoolbar_GuardResponse							Điều động	
 buildtoolbar_tooltip_GuardResponse					Khi kích hoạt, bạn có thể nhấp chuột trái vào bản đồ để gọi các cai ngục gần đó đến một vị trí. Nhấp càng nhiều sẽ gọi càng nhiều cai ngục. Nhấp chuột phải để dừng.
 
 
@@ -74,8 +74,8 @@ mm_updatenotes_01								Bổ sung thêm 4 loại gạch lát sàn mới và 4 l
 mm_updatenotes_02								Cải thiện hiệu năng, giúp giảm thời gian tải game.
 mm_updatenotes_03								Tăng số lượng đốc công có thể thuê, dành cho các nhà tù lớn hơn nơi đốc công cũng giảng dạy các chương trình cải tạo.
 mm_updatenotes_04								Các vật thể hiện tại đã có đầy đủ các góc xoay, bổ sung hình ảnh sprite mới cho các hướng còn thiếu.
-mm_updatenotes_05								Nút 'Điều động cai ngục' mới giúp ra lệnh cho các cai ngục hiện có gần đó đến một vị trí, thay vì người chơi phải thuê thêm cai ngục để xử lý sự cố. 
-mm_updatenotes_06								Nút 'Khám xét tìm hầm' mới ra lệnh cho cai ngục chỉ khám xét toàn bộ bồn cầu nhằm tìm kiếm hầm vượt ngục ẩn.  
+mm_updatenotes_05								Nút 'Điều động' mới giúp ra lệnh cho các cai ngục hiện có gần đó đến một vị trí, thay vì người chơi phải thuê thêm cai ngục để xử lý sự cố. 
+mm_updatenotes_06								Nút 'Tìm hầm' mới ra lệnh cho cai ngục chỉ khám xét toàn bộ bồn cầu nhằm tìm kiếm hầm vượt ngục ẩn.  
 mm_updatenotes_07								Bổ sung thêm các Phòng Xây Nhanh vào menu Xây nhanh, giúp xây dựng phòng nhanh chóng và dễ dàng hơn.
 mm_updatenotes_08								Việc đi theo tù nhân và nhân viên trở nên dễ dàng hơn nhiều bằng cách nhấp đúp vào họ.
 mm_updatenotes_09								Tính năng di chuyển và tái định vị vật thể đã xuất hiện! Hãy chọn và nhấp đúp vào một vật thể.
@@ -1200,11 +1200,11 @@ crisisSector_ProtectedOnly						Chỉ Giam bảo hộ
 crisisSector_SuperMaxOnly						Chỉ SuperMax
 crisisSector_DeathRowOnly						Chỉ Tử tù
 
-crisisToolbarTitle_WeaponsFree			CHO BẮN TỰ DO
+crisisToolbarTitle_WeaponsFree			BẮN TỰ DO
 crisisToolbarTitle_TunnelSearch			TÌM HẦM VƯỢT NGỤC
-crisisToolbarTitle_Shakedown			KHÁM XÉT ĐỘT XUẤT
+crisisToolbarTitle_Shakedown			KHÁM XÉT
 crisisToolbarTitle_Lockdown			PHONG TỎA
-crisisToolbarTitle_Bangup			DỒN VỀ PHÒNG GIAM
+crisisToolbarTitle_Bangup			VỀ PHÒNG
 crisisToolbarTitle_RollCall			ĐIỂM DANH
 crisisToolbarQuestion				 - Chọn khu vực nào?
 
@@ -2129,11 +2129,11 @@ d11_crop_stage_ripe							Chín
 d11_continuous_planting						Trồng liên tục
 
 d11_farm_search_freq_caption					Tần suất khám xét trang trại
-d11_farm_search_freq_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét đột xuất, hãy dùng tùy chọn này để quyết định xem có tiến hành khám xét thường kỳ trong các phòng này hay không.
+d11_farm_search_freq_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét, hãy dùng tùy chọn này để quyết định xem có tiến hành khám xét thường kỳ trong các phòng này hay không.
 d11_crop_types_caption						Loại cây trồng
 d11_crop_types_tooltip						Chọn cây trồng tự động mua là loại tự nhiên hay biến đổi gen (GMO). Cây trồng biến đổi gen giảm 50% thời gian phát triển nhưng giá xuất khẩu cũng giảm một nửa và mất đi hiệu ứng tăng nhu cầu khi tù nhân ăn chúng.
 d11_farm_search_target_caption					Mục tiêu khám xét trang trại
-d11_farm_search_target_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét đột xuất, hãy dùng tùy chọn này để quyết định vật thể hoặc đối tượng nào sẽ bị khám xét thông qua tùy chọn Tần suất khám xét.
+d11_farm_search_target_tooltip					Vì các phòng Nông nghiệp không nằm trong diện Khám xét, hãy dùng tùy chọn này để quyết định vật thể hoặc đối tượng nào sẽ bị khám xét thông qua tùy chọn Tần suất khám xét.
 d11_continuous_fertilizer_caption				Bón phân liên tục
 d11_continuous_fertilizer_tooltip				Chọn xem bạn có muốn tự động mua phân bón hay không, cùng với mức chất lượng của nó.
 reports_farmingpolicytitle					Chính sách nông nghiệp
@@ -2428,8 +2428,8 @@ d11_staffalert_details_CELLS01Z				Chúng ta có *A phòng giam *B còn trống.
 d11_staffalert_hint_MONEY01					Trại giam đang cạn kiệt tiền, tôi xin đề xuất chúng ta tiếp nhận thêm tù nhân để tăng thu nhập hàng ngày hoặc đáp ứng các điều kiện của một khoản trợ cấp mới nhằm có một đợt bơm tiền lớn.
 d11_staffalert_hint_PRISONERS02				Sẽ không an toàn nếu cai ngục của bạn bị áp đảo quá nhiều về số lượng so với tù nhân, mỗi cai ngục có thể quản lý an toàn khoảng 5 tù nhân.
 d11_staffalert_hint_CONTRABAND03			Hãy kiểm tra báo cáo tình báo về hàng cấm mà tôi đã nộp để xác định nguồn hàng cấm trong 7 ngày qua và ban hành các biện pháp ngăn chặn chúng.
-d11_staffalert_hint_CONTRABAND02			Tù nhân có thể dễ dàng tiếp cận ma túy, điều này rất nguy hiểm. Hãy thuê Người dắt chó và cho họ tuần tra các khu phòng giam hoặc ra lệnh Khám xét đột xuất toàn trại.
-d11_staffalert_hint_CONTRABAND01			Tù nhân có thể dễ dàng tiếp cận công cụ và vũ khí, điều này rất nguy hiểm. Hãy đặt máy dò kim loại gần các nguồn hàng cấm hoặc ra lệnh Khám xét đột xuất toàn trại.
+d11_staffalert_hint_CONTRABAND02			Tù nhân có thể dễ dàng tiếp cận ma túy, điều này rất nguy hiểm. Hãy thuê Người dắt chó và cho họ tuần tra các khu phòng giam hoặc ra lệnh Khám xét toàn trại.
+d11_staffalert_hint_CONTRABAND01			Tù nhân có thể dễ dàng tiếp cận công cụ và vũ khí, điều này rất nguy hiểm. Hãy đặt máy dò kim loại gần các nguồn hàng cấm hoặc ra lệnh Khám xét toàn trại.
 d11_staffalert_hint_NEEDS04					Tù nhân sẽ đói theo thời gian, hãy đảm bảo có đủ chỗ trong nhà ăn và đủ thời gian phân bổ cho việc ăn uống để mọi người đều được cho ăn.
 d11_staffalert_hint_NEEDS03					Tù nhân cần ngủ để giữ tâm trạng vui vẻ. Họ sẽ làm điều này trong các khoảng thời gian Ngủ được chỉ định hoặc trong Giờ tự do.
 d11_staffalert_hint_NEEDS01					Tù nhân cần được sử dụng bồn cầu, hãy cân nhắc thêm nhiều bồn cầu vào trại giam hoặc tăng thời gian phân bổ cho Giờ tự do.
@@ -2757,7 +2757,7 @@ objective_HelpNarcoticProduction_child_1 		Sản xuất rượu lậu
 objective_HelpNarcoticProduction_child_1_description	Tù nhân đáp ứng một số điều kiện nhất định có thể tự nấu rượu lậu cho mình. \n\nTrước tiên, họ sẽ lấy các nguyên liệu để nấu từ các phòng canh tác, khu vực nhà bếp hoặc bất kỳ máy bán hàng tự động nào mà họ có quyền tiếp cận. \n\nSau đó, họ sẽ chuẩn bị các nguyên liệu này vào ban đêm trong phòng giam trước khi giấu số rượu lậu đang ủ trong vài ngày để lên men.  
 
 objective_HelpNarcoticProduction_child_2		Sản xuất ma túy
-objective_HelpNarcoticProduction_child_2_description 	Mặt khác, việc sản xuất ma túy sẽ chỉ diễn ra trong một phòng duy nhất, Ruộng ngũ cốc - tù nhân sẽ tìm cách can thiệp vào các loại cây trồng hiện có để giấu các loại ma túy có thể trồng được. \n\nNhững cây bị can thiệp này sẽ có đặc tính bốc mùi và do đó có thể bị phát hiện bởi chó nghiệp vụ, nhưng những khu vực này sẽ không bao giờ được tính trong các cuộc khám xét đột xuất và vì vậy phải đưa ra lệnh khám xét thủ công - mặc dù mỗi lần khám xét sẽ có khả năng làm hư hại hoa màu. \n\nKhi những cây trồng này được thu hoạch, ma túy cũng sẽ được thu hồi, nếu đúng tù nhân đó thực hiện việc thu hoạch. \n\nCác băng đảng cũng có khả năng chiếm quyền kiểm soát các phòng Ruộng ngũ cốc để đảm bảo nắm giữ quyền kiểm soát việc sản xuất ma túy.
+objective_HelpNarcoticProduction_child_2_description 	Mặt khác, việc sản xuất ma túy sẽ chỉ diễn ra trong một phòng duy nhất, Ruộng ngũ cốc - tù nhân sẽ tìm cách can thiệp vào các loại cây trồng hiện có để giấu các loại ma túy có thể trồng được. \n\nNhững cây bị can thiệp này sẽ có đặc tính bốc mùi và do đó có thể bị phát hiện bởi chó nghiệp vụ, nhưng những khu vực này sẽ không bao giờ được tính trong các cuộc Khám xét và vì vậy phải đưa ra lệnh khám xét thủ công - mặc dù mỗi lần khám xét sẽ có khả năng làm hư hại hoa màu. \n\nKhi những cây trồng này được thu hoạch, ma túy cũng sẽ được thu hồi, nếu đúng tù nhân đó thực hiện việc thu hoạch. \n\nCác băng đảng cũng có khả năng chiếm quyền kiểm soát các phòng Ruộng ngũ cốc để đảm bảo nắm giữ quyền kiểm soát việc sản xuất ma túy.
 
 objective_GoingGreenInfo				Năng Lượng Xanh!
 objective_GoingGreenInfo_child_1			Các tính năng chính của Năng Lượng Xanh được liệt kê dưới đây, bằng cách di con trỏ qua từng tiêu đề phụ, một mô tả và giải thích cho từng tính năng sẽ được hiển thị. 
@@ -3323,10 +3323,10 @@ objective_PrisonerGrantBonus_child_2_Description			Các khoản thanh toán hàn
 		
 
 # Drug Bust / Narcotic Search
-crisisToolbarTitle_DrugBust							Khám xét ma túy
-buildtoolbar_DrugBust                                   Khám xét ma túy
+crisisToolbarTitle_DrugBust							Tìm ma túy
+buildtoolbar_DrugBust                                   Tìm ma túy
 buildtoolbar_tooltip_DrugBust                           Gửi lệnh đến tất cả những người dắt chó hiện có để khám xét nhà tù nhằm tìm kiếm bất kỳ hàng cấm ma túy nào được cất giấu.
-drug_bust_underway                                      ĐANG TIẾN HÀNH KHÁM XÉT MA TÚY
+drug_bust_underway                                      ĐANG TIẾN HÀNH TÌM MA TÚY
 
 # =============================================================================
 # Grants
@@ -3978,7 +3978,7 @@ event_lightning_storm_vis_outside_guard		Tất cả các cai ngục ngoài trờ
 # Polly Free Update
 # ==============================================================
 research_NonLethalSniper					Xạ thủ phi sát thương
-researchtooltip_NonLethalSniper				Loại đạn mới cung cấp cho Xạ thủ khả năng sử dụng hết công năng của súng mà không lo gây ra tử vong. Trừ khi lệnh Cho bắn tự do được ban hành, các phát bắn của xạ thủ sẽ chỉ có thể khiến tù nhân bất tỉnh.
+researchtooltip_NonLethalSniper				Loại đạn mới cung cấp cho Xạ thủ khả năng sử dụng hết công năng của súng mà không lo gây ra tử vong. Trừ khi lệnh Bắn tự do được ban hành, các phát bắn của xạ thủ sẽ chỉ có thể khiến tù nhân bất tỉnh.
 
 material_FieldGrass    				Cỏ đồng nội
 buildtoolbar_popup_mat_FieldGrass		Một đám cỏ mọc um tùm.

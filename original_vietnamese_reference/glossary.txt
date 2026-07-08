@@ -1,7 +1,7 @@
 # ===== CƠ CHẾ / GAMEPLAY CHUNG =====
-Bangup = Dồn về phòng giam
+Bangup = Về phòng
 Lockdown = Phong tỏa
-Shakedown = Khám xét đột xuất
+Shakedown = Khám xét
 Freefire = Cho bắn tự do
 Roll Call = Điểm danh
 Regime = Lịch sinh hoạt

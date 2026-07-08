@@ -390,9 +390,9 @@ interface_skip                                  BỎ QUA
 interface_error_riotmove                        Không thể váo: Bạo loạn
 
 interface_foundationsinprogress                  Đang xây móng
-riot_underway                                    BẠO LOẠN ĐANG DIỄN RA
+riot_underway                                    BẠO LOẠN ĐANG DIỄN RA 
 riot_status_prisoners                            *X tù nhân đang bạo loạn
-shakedown_underway                                KHÁM XÉT ĐỘT XUẤT ĐANG DIỄN RA
+shakedown_underway                                KHÁM XÉT ĐANG DIỄN RA
 shakedown_found                                  Tìm thấy:
 
 gameover_caption                                Nhấn ESC để tiếp tục
@@ -425,10 +425,10 @@ connectionmenu_done                      Xong
 
 buildtoolbar_title                      Xây dựng
 buildtoolbar_reports                    Bào cào
-buildtoolbar_bangup                     Dồn về phòng giam
+buildtoolbar_bangup                     Về phòng
 buildtoolbar_lockdown                   Phong tỏa
-buildtoolbar_shakedown                  Khàm xét đột xuất
-buildtoolbar_weaponsfree                Cho bắn tự do
+buildtoolbar_shakedown                  Khàm xét
+buildtoolbar_weaponsfree                Bắn tự do
 buildtoolbar_rollcall                   Điểm danh
 
 buildtoolbar_tooltip_reports			Mở cửa sổ bào cào để xem thông tin về tù nhân, nhân viên, thu nhập, trợ cấp của bạn vá nhiều thông tin khàc.
@@ -558,7 +558,7 @@ buildtoolbar_popup_staff_foreman		Một nhân viên cấp cao cho phép bạn ti
 buildtoolbar_popup_staff_psychologist	Một nhân viên cấp cao cho phép bạn thấu hiểu tâm trí của tù nhân bằng càch mở khóa bào cào Nhu cầu, hiển thị mức độ hái lòng của tù nhân. 
 buildtoolbar_popup_staff_accountant		Một nhân viên cấp cao giúp tiếp cận càc bào cào tái chính của bạn. Kế toàn sẽ cho phép bạn vay ngân háng, giảm số thuế phải nộp vá mở rộng mảnh đất của bạn nếu cần thêm không gian.
 buildtoolbar_popup_staff_lawyer			Một nhân viên cấp cao giúp bạn làch một số quy định để kiểm soàt nhá tù tốt hơn. Luật sư có thể giảm thiểu hậu quả của việc vận hánh kém hoặc vi phạm chuyên môn. Cần có một Luật sư đối với càc tù nhân Tử tù.
-buildtoolbar_popup_staff_sniper         Một tay súng bắn tỉa được đáo tạo chuyên sâu, sẽ tự động đến đóng chốt tại Thàp canh còn trống nếu có sẵn. Sẽ bắn một vái phàt súng cảnh cào váo những tù nhân gây rối trong khuôn viên nhá tù trước khi hạ gục mục tiêu.\n\nXạ thủ có thể sử dụng vũ lực gây chết người nếu họ phàt hiện tù nhân đang cố gắng vượt ngục. Việc Bật/Tắt Cho bắn tự do sẽ thay đổi mức độ vũ lực được sử dụng trong một số tình huống nhất định. 
+buildtoolbar_popup_staff_sniper         Một tay súng bắn tỉa được đáo tạo chuyên sâu, sẽ tự động đến đóng chốt tại Thàp canh còn trống nếu có sẵn. Sẽ bắn một vái phàt súng cảnh cào váo những tù nhân gây rối trong khuôn viên nhá tù trước khi hạ gục mục tiêu.\n\nXạ thủ có thể sử dụng vũ lực gây chết người nếu họ phàt hiện tù nhân đang cố gắng vượt ngục. Việc Bật/Tắt Bắn tự do sẽ thay đổi mức độ vũ lực được sử dụng trong một số tình huống nhất định. 
 buildtoolbar_popup_uts_powerstation		Tạo ra điện để sử dụng trong nhá tù của bạn, cũng có thể kết nối với Mày biến àp để xuất khẩu điện.
 buildtoolbar_popup_uts_capacitor		Tăng lượng điện tạo ra khi được đặt cạnh trạm điện.
 buildtoolbar_popup_uts_electricalcable	Phân phối điện xung quanh nhá tù của bạn.
@@ -688,7 +688,7 @@ buildtoolbar_popup_help_warden_1            Giàm đốc trại lá cầu nối 
 buildtoolbar_popup_help_armedguard_1        Cai ngục vũ trang được sử dụng để chế ngự những tù nhân đặc biệt nguy hiểm hoặc ngỗ ngược, luôn mang theo một khẩu súng săn bên mình. Họ Trấn àp tất cả càc Tù nhân gần đó khiến họ ít có khả năng gây rắc rối hơn nhiều, vá nếu tính mạng của họ bị đe dọa, họ sẽ sử dụng súng săn của mình, điều náy thường sẽ khiến tất cả càc tù nhân khàc gần đó ngừng gây rối.\n\n
 buildtoolbar_popup_help_armedguard_2        ~Khi chọn một Cai ngục vũ trang, bạn có thể ra lệnh cho họ di chuyển đến bất kỳ vị trí náo trong nhá tù bằng càch Nhấp chuột phải váo vị trí đó. \n\n
 buildtoolbar_popup_help_armedguard_3        ^Mẹo
-buildtoolbar_popup_help_armedguard_4        - Nếu nút Cho bắn tự do được kích hoạt, Cai ngục vũ trang sẽ không đợi cho đến khi tính mạng của họ gặp nguy hiểm mới sử dụng súng săn. Họ sẽ nổ súng ngay lập tức váo bất kỳ tù nhân náo gây rối. 
+buildtoolbar_popup_help_armedguard_4        - Nếu nút Bắn tự do được kích hoạt, Cai ngục vũ trang sẽ không đợi cho đến khi tính mạng của họ gặp nguy hiểm mới sử dụng súng săn. Họ sẽ nổ súng ngay lập tức váo bất kỳ tù nhân náo gây rối. 
 buildtoolbar_popup_help_armedguard_5        - Tù nhân rất khó để hạ gục một Cai ngục vũ trang, nhưng nếu họ lám được, khẩu súng săn của anh ta sẽ nằm ngay trên sán nhá, sẵn sáng cho bất kỳ ai nhặt lấy...
 
 buildtoolbar_popup_help_doctor_1            Bàc sĩ chịu tràch nhiệm điều trị càc vết thương má tù nhân vá nhân viên gần như chắc chắn sẽ gặp phải trong thời gian họ ở nhá tù của bạn. Họ chữa lánh càc vết thương, điều trị cho càc tù nhân bị sốc thuốc vá điều hánh càc chương trình cai nghiện cho những người nghiện ma túy.\n\n
@@ -713,7 +713,7 @@ buildtoolbar_popup_help_sniper_1            Xạ thủ đồn trú trong càc Th
 buildtoolbar_popup_help_sniper_2            ^Mẹo
 buildtoolbar_popup_help_sniper_3            - Xạ thủ sở hữu một khẩu súng trường tầm xa mạnh mẽ, nhưng chỉ có thể bao quàt càc khu vực nằm trong tầm nhìn trực tiếp của họ. 
 buildtoolbar_popup_help_sniper_4            - Xạ thủ sẽ bắn càc phàt súng cảnh cào váo càc tù nhân sai phạm trong khuôn viên nhá tù. Nếu càc tù nhân không đầu háng, họ sẽ bắt đầu bắn trực tiếp váo càc tù nhân đó.
-buildtoolbar_popup_help_sniper_5            - Nếu Cho bắn tự do được kích hoạt, hoặc một tù nhân đang ở bên ngoái nhá tù vá đang vượt ngục, sẽ không có phàt súng cảnh cào náo được bắn ra.
+buildtoolbar_popup_help_sniper_5            - Nếu Bắn tự do được kích hoạt, hoặc một tù nhân đang ở bên ngoái nhá tù vá đang vượt ngục, sẽ không có phàt súng cảnh cào náo được bắn ra.
 
 buildtoolbar_popup_help_chief_1             Trưởng an ninh lá người đứng đầu bộ phận an ninh trong nhá tù của bạn. Anh ta cung cấp cho bạn một số liệu tổng thể về tâm trạng trong nhá tù của bạn, hiển thị khả năng tù nhân gây rối, vá cũng cho phép bạn theo dõi xem có bao nhiêu cai ngục hiện đang bận rộn trong nhá tù của bạn. Anh ta cũng cho phép bạn nghiên cứu càc tính năng an ninh nâng cao hơn như Chó nghiệp vụ hoặc Camera an ninh. Một khi được cấp một văn phòng, họ hầu như tự quản lý mọi việc.
 

@@ -51,7 +51,7 @@ Gaz, Trưởng phòng Thiết kế Game tại Double Eleven.
 <->Xạ thủ giờ đây mang theo chìa khóa giam.
 <->Tù nhân ưu tiên dùng phòng tắm chung trước khi dùng vòi tắm trong phòng giam của tù nhân khác.
 <->CCTV hiển thị tù nhân & nhân viên trong Chế độ Giám đốc.
-<->Cai ngục đang trực tại máy móc sẽ không rời vị trí để tham gia khám xét hay khám xét đột xuất.
+<->Cai ngục đang trực tại máy móc sẽ không rời vị trí để tham gia bất kì hoạt động khám xét nào.
 <->Cai ngục sẽ mở cửa cho chó bị lạc.
 <->Kệ sách đáp ứng Nhu cầu Đọc sách.
 <->Phím tắt để chuyển đổi giữa các menu trong game [Z] & [X], và đóng menu [C].
@@ -163,7 +163,7 @@ Nhấn TIẾP TỤC để xem thêm...
 <->*Xếp hạng Khu mới trong Hậu cần! Xếp hạng kết hợp cơ sở vật chất, đặc quyền và xếp hạng phòng trong khu đó. Với DLC “Cleared for Transfer”, tính năng này cho phép bạn thiết lập việc chuyển tù nhân giữa các khu.
 <->Loại phòng GYM hoàn toàn mới.
 <->Thêm phòng xây nhanh mới bao gồm Kho vũ khí, Trạm y tế và Thư viện.
-<->Trừng phạt và Khám xét (ví dụ: Khám xét đột xuất, Phong tỏa, Dồn về phòng giam, v.v.) giờ có thể áp dụng riêng theo từng Khu An ninh! Có thể tắt tính năng này trong Tùy chọn Game.
+<->Trừng phạt và Khám xét (ví dụ: Khám xét, Phong tỏa, Về phòng, v.v.) giờ có thể áp dụng riêng theo từng Khu An ninh! Có thể tắt tính năng này trong Tùy chọn Game.
 <->Giờ có thể tạo Khu An ninh tùy chỉnh trong Bố trí.
 <->Bố trí giờ cho phép phân công Đầu bếp, Bác sĩ và các nhân viên khác.
 <->Người làm vườn và Lao công giờ có thể được ưu tiên trong một số khu vực nhất định, để dọn dẹp hoặc chăm sóc các khu này trước.
@@ -261,7 +261,7 @@ Nhấn TIẾP TỤC để xem thêm...
 <->Phòng xây nhanh: Tiệm bánh, Nhà hàng và Phòng họp
 <->Thêm Tab Thông tin DLC vào danh sách Việc cần làm
 >Bản cập nhật “The Pen”
-<->Khám xét Ma túy! Một Lệnh An ninh mới cho phép Người dắt chó tìm kiếm riêng ma túy
+<->Tìm ma túy! Một Lệnh An ninh mới cho phép Người dắt chó tìm kiếm riêng ma túy
 <->Chính sách Chìa khóa Nhân viên cho phép toàn bộ nhân viên mang theo chìa khóa
 <->Phòng xây nhanh mới: Phòng tiếp nhận
 <->Tiếp nhận Tùy chỉnh: Cho phép bạn chọn thời gian tiếp nhận tù nhân mới

@@ -204,7 +204,7 @@ adviser_food_findalldrugs3				Cai ngục báo với tôi rằng họ thấy rấ
 adviser_food_findalldrugs4				Tôi muốn bạn khám xét từng tù nhân và từng phòng giam. Tôi cá là chúng ta sẽ tìm thấy ma túy của nhà Palermo trên khắp nhà tù.
 
 objective_food_findalldrugs					Tìm kiếm tất cả ma túy trong nhà tù
-objective_food_findalldrugs_description 	Khám xét từng khu phòng giam bằng cách nhấp vào một tù nhân trong khu đó, rồi nhấp vào 'Khám xét khu phòng giam'. Hoặc sử dụng tùy chọn Khám xét đột xuất trên thanh công cụ ở cuối màn hình.
+objective_food_findalldrugs_description 	Khám xét từng khu phòng giam bằng cách nhấp vào một tù nhân trong khu đó, rồi nhấp vào 'Khám xét khu phòng giam'. Hoặc sử dụng tùy chọn Khám xét trên thanh công cụ ở cuối màn hình.
 
 objective_food_hiremoreguards 			(TÙY CHỌN) Thuê thêm cai ngục để tăng tốc độ khám xét
 
